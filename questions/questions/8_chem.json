@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "N atomining tartib raqami 7, massa soni 14. Neytronlar soni nechta?",
+   "ru": "Атом N: порядковый номер 7, массовое число 14. Сколько в нём нейтронов?",
+   "en": "An atom of N has atomic number 7 and mass number 14. How many neutrons does it have?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "9",
+    "5",
+    "8"
+   ],
+   "ru": [
+    "7",
+    "9",
+    "5",
+    "8"
+   ],
+   "en": [
+    "7",
+    "9",
+    "5",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri tuzdir?",
+   "ru": "Какое из этих веществ — соль?",
+   "en": "Which of these substances is a salt?"
+  },
+  "o": {
+   "uz": [
+    "BaSO4",
+    "H2SO3",
+    "CO2",
+    "Cu(OH)2"
+   ],
+   "ru": [
+    "BaSO4",
+    "H2SO3",
+    "CO2",
+    "Cu(OH)2"
+   ],
+   "en": [
+    "BaSO4",
+    "H2SO3",
+    "CO2",
+    "Cu(OH)2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri asosdir?",
+   "ru": "Какое из этих веществ — основание?",
+   "en": "Which of these substances is a base?"
+  },
+  "o": {
+   "uz": [
+    "Mg(OH)2",
+    "K2O",
+    "SiO2",
+    "KNO3"
+   ],
+   "ru": [
+    "Mg(OH)2",
+    "K2O",
+    "SiO2",
+    "KNO3"
+   ],
+   "en": [
+    "Mg(OH)2",
+    "K2O",
+    "SiO2",
+    "KNO3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "324 g N2O5 necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 324 г N2O5?",
+   "en": "How many moles are 324 g of N2O5?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "0",
+    "1",
+    "6"
+   ],
+   "ru": [
+    "3",
+    "0",
+    "1",
+    "6"
+   ],
+   "en": [
+    "3",
+    "0",
+    "1",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O atomining tartib raqami 8. O ionining zaryadi +3. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома O равен 8. Заряд иона O равен +3. Сколько в ионе электронов?",
+   "en": "The atomic number of O is 8. The ion of O has charge +3. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "0",
+    "2",
+    "10"
+   ],
+   "ru": [
+    "5",
+    "0",
+    "2",
+    "10"
+   ],
+   "en": [
+    "5",
+    "0",
+    "2",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "88 g FeS necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 88 г FeS?",
+   "en": "How many moles are 88 g of FeS?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "2",
+    "11",
+    "3"
+   ],
+   "ru": [
+    "1",
+    "2",
+    "11",
+    "3"
+   ],
+   "en": [
+    "1",
+    "2",
+    "11",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "H2O moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества H2O?",
+   "en": "What is the relative molecular mass of H2O?"
+  },
+  "o": {
+   "uz": [
+    "18",
+    "27",
+    "54",
+    "21"
+   ],
+   "ru": [
+    "18",
+    "27",
+    "54",
+    "21"
+   ],
+   "en": [
+    "18",
+    "27",
+    "54",
+    "21"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ne atomining tartib raqami 10, massa soni 20. Neytronlar soni nechta?",
+   "ru": "Атом Ne: порядковый номер 10, массовое число 20. Сколько в нём нейтронов?",
+   "en": "An atom of Ne has atomic number 10 and mass number 20. How many neutrons does it have?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "20",
+    "9",
+    "0"
+   ],
+   "ru": [
+    "10",
+    "20",
+    "9",
+    "0"
+   ],
+   "en": [
+    "10",
+    "20",
+    "9",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Al2(SO4)3 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества Al2(SO4)3?",
+   "en": "What is the relative molecular mass of Al2(SO4)3?"
+  },
+  "o": {
+   "uz": [
+    "342",
+    "684",
+    "274",
+    "1026"
+   ],
+   "ru": [
+    "342",
+    "684",
+    "274",
+    "1026"
+   ],
+   "en": [
+    "342",
+    "684",
+    "274",
+    "1026"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ca atomining tartib raqami 20, massa soni 40. Neytronlar soni nechta?",
+   "ru": "Атом Ca: порядковый номер 20, массовое число 40. Сколько в нём нейтронов?",
+   "en": "An atom of Ca has atomic number 20 and mass number 40. How many neutrons does it have?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "10",
+    "19",
+    "33"
+   ],
+   "ru": [
+    "20",
+    "10",
+    "19",
+    "33"
+   ],
+   "en": [
+    "20",
+    "10",
+    "19",
+    "33"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri kislota?",
+   "ru": "Какое из этих веществ — кислота?",
+   "en": "Which of these substances is an acid?"
+  },
+  "o": {
+   "uz": [
+    "H2CO3",
+    "CuSO4",
+    "Na2O",
+    "Fe2O3"
+   ],
+   "ru": [
+    "H2CO3",
+    "CuSO4",
+    "Na2O",
+    "Fe2O3"
+   ],
+   "en": [
+    "H2CO3",
+    "CuSO4",
+    "Na2O",
+    "Fe2O3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "MgO tarkibidagi Mg elementining massa ulushi necha foiz?",
+   "ru": "Чему равна массовая доля элемента Mg в веществе MgO (%)?",
+   "en": "What is the mass fraction of Mg in MgO (%)?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "72",
+    "120",
+    "57"
+   ],
+   "ru": [
+    "60",
+    "72",
+    "120",
+    "57"
+   ],
+   "en": [
+    "60",
+    "72",
+    "120",
+    "57"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 mol SO2 ning massasi necha gramm?",
+   "ru": "Чему равна масса 2 моль SO2 (г)?",
+   "en": "What is the mass of 2 mol of SO2 (g)?"
+  },
+  "o": {
+   "uz": [
+    "128",
+    "384",
+    "160",
+    "134"
+   ],
+   "ru": [
+    "128",
+    "384",
+    "160",
+    "134"
+   ],
+   "en": [
+    "128",
+    "384",
+    "160",
+    "134"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "SO3 tarkibidagi S elementining massa ulushi necha foiz?",
+   "ru": "Чему равна массовая доля элемента S в веществе SO3 (%)?",
+   "en": "What is the mass fraction of S in SO3 (%)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "38",
+    "42",
+    "30"
+   ],
+   "ru": [
+    "40",
+    "38",
+    "42",
+    "30"
+   ],
+   "en": [
+    "40",
+    "38",
+    "42",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri tuzdir?",
+   "ru": "Какое из этих веществ — соль?",
+   "en": "Which of these substances is a salt?"
+  },
+  "o": {
+   "uz": [
+    "CuSO4",
+    "SiO2",
+    "Al2O3",
+    "K2O"
+   ],
+   "ru": [
+    "CuSO4",
+    "SiO2",
+    "Al2O3",
+    "K2O"
+   ],
+   "en": [
+    "CuSO4",
+    "SiO2",
+    "Al2O3",
+    "K2O"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CH4 tarkibidagi C elementining massa ulushi necha foiz?",
+   "ru": "Чему равна массовая доля элемента C в веществе CH4 (%)?",
+   "en": "What is the mass fraction of C in CH4 (%)?"
+  },
+  "o": {
+   "uz": [
+    "75",
+    "37",
+    "71",
+    "225"
+   ],
+   "ru": [
+    "75",
+    "37",
+    "71",
+    "225"
+   ],
+   "en": [
+    "75",
+    "37",
+    "71",
+    "225"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "NaOH tarkibidagi O elementining massa ulushi necha foiz?",
+   "ru": "Чему равна массовая доля элемента O в веществе NaOH (%)?",
+   "en": "What is the mass fraction of O in NaOH (%)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "80",
+    "120",
+    "42"
+   ],
+   "ru": [
+    "40",
+    "80",
+    "120",
+    "42"
+   ],
+   "en": [
+    "40",
+    "80",
+    "120",
+    "42"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "234 g Na2S necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 234 г Na2S?",
+   "en": "How many moles are 234 g of Na2S?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "13",
+    "5",
+    "1"
+   ],
+   "ru": [
+    "3",
+    "13",
+    "5",
+    "1"
+   ],
+   "en": [
+    "3",
+    "13",
+    "5",
+    "1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hg atomining tartib raqami 80. Hg ionining zaryadi +3. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома Hg равен 80. Заряд иона Hg равен +3. Сколько в ионе электронов?",
+   "en": "The atomic number of Hg is 80. The ion of Hg has charge +3. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "77",
+    "154",
+    "58",
+    "39"
+   ],
+   "ru": [
+    "77",
+    "154",
+    "58",
+    "39"
+   ],
+   "en": [
+    "77",
+    "154",
+    "58",
+    "39"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "MgCO3 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества MgCO3?",
+   "en": "What is the relative molecular mass of MgCO3?"
+  },
+  "o": {
+   "uz": [
+    "84",
+    "168",
+    "101",
+    "80"
+   ],
+   "ru": [
+    "84",
+    "168",
+    "101",
+    "80"
+   ],
+   "en": [
+    "84",
+    "168",
+    "101",
+    "80"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Mg(NO3)2 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества Mg(NO3)2?",
+   "en": "What is the relative molecular mass of Mg(NO3)2?"
+  },
+  "o": {
+   "uz": [
+    "148",
+    "296",
+    "141",
+    "155"
+   ],
+   "ru": [
+    "148",
+    "296",
+    "141",
+    "155"
+   ],
+   "en": [
+    "148",
+    "296",
+    "141",
+    "155"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "NH3 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества NH3?",
+   "en": "What is the relative molecular mass of NH3?"
+  },
+  "o": {
+   "uz": [
+    "17",
+    "51",
+    "24",
+    "34"
+   ],
+   "ru": [
+    "17",
+    "51",
+    "24",
+    "34"
+   ],
+   "en": [
+    "17",
+    "51",
+    "24",
+    "34"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zn(OH)2 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества Zn(OH)2?",
+   "en": "What is the relative molecular mass of Zn(OH)2?"
+  },
+  "o": {
+   "uz": [
+    "99",
+    "297",
+    "149",
+    "74"
+   ],
+   "ru": [
+    "99",
+    "297",
+    "149",
+    "74"
+   ],
+   "en": [
+    "99",
+    "297",
+    "149",
+    "74"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Al atomining tartib raqami 13. Al ionining zaryadi +1. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома Al равен 13. Заряд иона Al равен +1. Сколько в ионе электронов?",
+   "en": "The atomic number of Al is 13. The ion of Al has charge +1. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "14",
+    "22",
+    "18"
+   ],
+   "ru": [
+    "12",
+    "14",
+    "22",
+    "18"
+   ],
+   "en": [
+    "12",
+    "14",
+    "22",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Fe atomining tartib raqami 26, massa soni 56. Neytronlar soni nechta?",
+   "ru": "Атом Fe: порядковый номер 26, массовое число 56. Сколько в нём нейтронов?",
+   "en": "An atom of Fe has atomic number 26 and mass number 56. How many neutrons does it have?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "32",
+    "35",
+    "15"
+   ],
+   "ru": [
+    "30",
+    "32",
+    "35",
+    "15"
+   ],
+   "en": [
+    "30",
+    "32",
+    "35",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 mol H2S ning massasi necha gramm?",
+   "ru": "Чему равна масса 2 моль H2S (г)?",
+   "en": "What is the mass of 2 mol of H2S (g)?"
+  },
+  "o": {
+   "uz": [
+    "68",
+    "34",
+    "65",
+    "85"
+   ],
+   "ru": [
+    "68",
+    "34",
+    "65",
+    "85"
+   ],
+   "en": [
+    "68",
+    "34",
+    "65",
+    "85"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri asosdir?",
+   "ru": "Какое из этих веществ — основание?",
+   "en": "Which of these substances is a base?"
+  },
+  "o": {
+   "uz": [
+    "Mg(OH)2",
+    "K2CO3",
+    "K2O",
+    "CuSO4"
+   ],
+   "ru": [
+    "Mg(OH)2",
+    "K2CO3",
+    "K2O",
+    "CuSO4"
+   ],
+   "en": [
+    "Mg(OH)2",
+    "K2CO3",
+    "K2O",
+    "CuSO4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "378 g HNO3 necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 378 г HNO3?",
+   "en": "How many moles are 378 g of HNO3?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "9",
+    "8",
+    "5"
+   ],
+   "ru": [
+    "6",
+    "9",
+    "8",
+    "5"
+   ],
+   "en": [
+    "6",
+    "9",
+    "8",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri oksiddir?",
+   "ru": "Какое из этих веществ — оксид?",
+   "en": "Which of these substances is an oxide?"
+  },
+  "o": {
+   "uz": [
+    "MgO",
+    "H2CO3",
+    "Mg(OH)2",
+    "K2CO3"
+   ],
+   "ru": [
+    "MgO",
+    "H2CO3",
+    "Mg(OH)2",
+    "K2CO3"
+   ],
+   "en": [
+    "MgO",
+    "H2CO3",
+    "Mg(OH)2",
+    "K2CO3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CaCO3 tarkibidagi Ca elementining massa ulushi necha foiz?",
+   "ru": "Чему равна массовая доля элемента Ca в веществе CaCO3 (%)?",
+   "en": "What is the mass fraction of Ca in CaCO3 (%)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "32",
+    "48",
+    "60"
+   ],
+   "ru": [
+    "40",
+    "32",
+    "48",
+    "60"
+   ],
+   "en": [
+    "40",
+    "32",
+    "48",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 mol H2SiO3 ning massasi necha gramm?",
+   "ru": "Чему равна масса 2 моль H2SiO3 (г)?",
+   "en": "What is the mass of 2 mol of H2SiO3 (g)?"
+  },
+  "o": {
+   "uz": [
+    "156",
+    "468",
+    "164",
+    "195"
+   ],
+   "ru": [
+    "156",
+    "468",
+    "164",
+    "195"
+   ],
+   "en": [
+    "156",
+    "468",
+    "164",
+    "195"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri asosdir?",
+   "ru": "Какое из этих веществ — основание?",
+   "en": "Which of these substances is a base?"
+  },
+  "o": {
+   "uz": [
+    "Ca(OH)2",
+    "CaCO3",
+    "SiO2",
+    "Na3PO4"
+   ],
+   "ru": [
+    "Ca(OH)2",
+    "CaCO3",
+    "SiO2",
+    "Na3PO4"
+   ],
+   "en": [
+    "Ca(OH)2",
+    "CaCO3",
+    "SiO2",
+    "Na3PO4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "400 g MgO necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 400 г MgO?",
+   "en": "How many moles are 400 g of MgO?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "11",
+    "7",
+    "30"
+   ],
+   "ru": [
+    "10",
+    "11",
+    "7",
+    "30"
+   ],
+   "en": [
+    "10",
+    "11",
+    "7",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri asosdir?",
+   "ru": "Какое из этих веществ — основание?",
+   "en": "Which of these substances is a base?"
+  },
+  "o": {
+   "uz": [
+    "Al(OH)3",
+    "H2SO3",
+    "Na2SO4",
+    "Na3PO4"
+   ],
+   "ru": [
+    "Al(OH)3",
+    "H2SO3",
+    "Na2SO4",
+    "Na3PO4"
+   ],
+   "en": [
+    "Al(OH)3",
+    "H2SO3",
+    "Na2SO4",
+    "Na3PO4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ca(NO3)2 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества Ca(NO3)2?",
+   "en": "What is the relative molecular mass of Ca(NO3)2?"
+  },
+  "o": {
+   "uz": [
+    "164",
+    "328",
+    "246",
+    "131"
+   ],
+   "ru": [
+    "164",
+    "328",
+    "246",
+    "131"
+   ],
+   "en": [
+    "164",
+    "328",
+    "246",
+    "131"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1860 g Ca3(PO4)2 necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 1860 г Ca3(PO4)2?",
+   "en": "How many moles are 1860 g of Ca3(PO4)2?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "13",
+    "8",
+    "7"
+   ],
+   "ru": [
+    "6",
+    "13",
+    "8",
+    "7"
+   ],
+   "en": [
+    "6",
+    "13",
+    "8",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CuO tarkibidagi Cu elementining massa ulushi necha foiz?",
+   "ru": "Чему равна массовая доля элемента Cu в веществе CuO (%)?",
+   "en": "What is the mass fraction of Cu in CuO (%)?"
+  },
+  "o": {
+   "uz": [
+    "80",
+    "96",
+    "84",
+    "120"
+   ],
+   "ru": [
+    "80",
+    "96",
+    "84",
+    "120"
+   ],
+   "en": [
+    "80",
+    "96",
+    "84",
+    "120"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Cu atomining tartib raqami 29, massa soni 64. Neytronlar soni nechta?",
+   "ru": "Атом Cu: порядковый номер 29, массовое число 64. Сколько в нём нейтронов?",
+   "en": "An atom of Cu has atomic number 29 and mass number 64. How many neutrons does it have?"
+  },
+  "o": {
+   "uz": [
+    "35",
+    "105",
+    "37",
+    "31"
+   ],
+   "ru": [
+    "35",
+    "105",
+    "37",
+    "31"
+   ],
+   "en": [
+    "35",
+    "105",
+    "37",
+    "31"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CuSO4 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества CuSO4?",
+   "en": "What is the relative molecular mass of CuSO4?"
+  },
+  "o": {
+   "uz": [
+    "160",
+    "128",
+    "80",
+    "168"
+   ],
+   "ru": [
+    "160",
+    "128",
+    "80",
+    "168"
+   ],
+   "en": [
+    "160",
+    "128",
+    "80",
+    "168"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "126 g HNO3 necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 126 г HNO3?",
+   "en": "How many moles are 126 g of HNO3?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "5",
+    "12",
+    "9"
+   ],
+   "ru": [
+    "2",
+    "5",
+    "12",
+    "9"
+   ],
+   "en": [
+    "2",
+    "5",
+    "12",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri oksiddir?",
+   "ru": "Какое из этих веществ — оксид?",
+   "en": "Which of these substances is an oxide?"
+  },
+  "o": {
+   "uz": [
+    "Al2O3",
+    "H2SO4",
+    "H2SO3",
+    "MgCl2"
+   ],
+   "ru": [
+    "Al2O3",
+    "H2SO4",
+    "H2SO3",
+    "MgCl2"
+   ],
+   "en": [
+    "Al2O3",
+    "H2SO4",
+    "H2SO3",
+    "MgCl2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri asosdir?",
+   "ru": "Какое из этих веществ — основание?",
+   "en": "Which of these substances is a base?"
+  },
+  "o": {
+   "uz": [
+    "Fe(OH)3",
+    "CO2",
+    "BaSO4",
+    "CaCO3"
+   ],
+   "ru": [
+    "Fe(OH)3",
+    "CO2",
+    "BaSO4",
+    "CaCO3"
+   ],
+   "en": [
+    "Fe(OH)3",
+    "CO2",
+    "BaSO4",
+    "CaCO3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri asosdir?",
+   "ru": "Какое из этих веществ — основание?",
+   "en": "Which of these substances is a base?"
+  },
+  "o": {
+   "uz": [
+    "Ca(OH)2",
+    "MgCl2",
+    "AgNO3",
+    "Na2O"
+   ],
+   "ru": [
+    "Ca(OH)2",
+    "MgCl2",
+    "AgNO3",
+    "Na2O"
+   ],
+   "en": [
+    "Ca(OH)2",
+    "MgCl2",
+    "AgNO3",
+    "Na2O"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CaO moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества CaO?",
+   "en": "What is the relative molecular mass of CaO?"
+  },
+  "o": {
+   "uz": [
+    "56",
+    "70",
+    "53",
+    "28"
+   ],
+   "ru": [
+    "56",
+    "70",
+    "53",
+    "28"
+   ],
+   "en": [
+    "56",
+    "70",
+    "53",
+    "28"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Na2O moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества Na2O?",
+   "en": "What is the relative molecular mass of Na2O?"
+  },
+  "o": {
+   "uz": [
+    "62",
+    "78",
+    "124",
+    "31"
+   ],
+   "ru": [
+    "62",
+    "78",
+    "124",
+    "31"
+   ],
+   "en": [
+    "62",
+    "78",
+    "124",
+    "31"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CaCO3 tarkibidagi C elementining massa ulushi necha foiz?",
+   "ru": "Чему равна массовая доля элемента C в веществе CaCO3 (%)?",
+   "en": "What is the mass fraction of C in CaCO3 (%)?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "7",
+    "10",
+    "14"
+   ],
+   "ru": [
+    "12",
+    "7",
+    "10",
+    "14"
+   ],
+   "en": [
+    "12",
+    "7",
+    "10",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 mol CO ning massasi necha gramm?",
+   "ru": "Чему равна масса 2 моль CO (г)?",
+   "en": "What is the mass of 2 mol of CO (g)?"
+  },
+  "o": {
+   "uz": [
+    "56",
+    "42",
+    "28",
+    "50"
+   ],
+   "ru": [
+    "56",
+    "42",
+    "28",
+    "50"
+   ],
+   "en": [
+    "56",
+    "42",
+    "28",
+    "50"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri asosdir?",
+   "ru": "Какое из этих веществ — основание?",
+   "en": "Which of these substances is a base?"
+  },
+  "o": {
+   "uz": [
+    "Fe(OH)3",
+    "HNO3",
+    "CaO",
+    "Al2O3"
+   ],
+   "ru": [
+    "Fe(OH)3",
+    "HNO3",
+    "CaO",
+    "Al2O3"
+   ],
+   "en": [
+    "Fe(OH)3",
+    "HNO3",
+    "CaO",
+    "Al2O3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CaSO4 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества CaSO4?",
+   "en": "What is the relative molecular mass of CaSO4?"
+  },
+  "o": {
+   "uz": [
+    "136",
+    "163",
+    "122",
+    "204"
+   ],
+   "ru": [
+    "136",
+    "163",
+    "122",
+    "204"
+   ],
+   "en": [
+    "136",
+    "163",
+    "122",
+    "204"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Mg atomining tartib raqami 12, massa soni 24. Neytronlar soni nechta?",
+   "ru": "Атом Mg: порядковый номер 12, массовое число 24. Сколько в нём нейтронов?",
+   "en": "An atom of Mg has atomic number 12 and mass number 24. How many neutrons does it have?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "6",
+    "10",
+    "17"
+   ],
+   "ru": [
+    "12",
+    "6",
+    "10",
+    "17"
+   ],
+   "en": [
+    "12",
+    "6",
+    "10",
+    "17"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ag atomining tartib raqami 47. Ag ionining zaryadi +3. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома Ag равен 47. Заряд иона Ag равен +3. Сколько в ионе электронов?",
+   "en": "The atomic number of Ag is 47. The ion of Ag has charge +3. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "44",
+    "22",
+    "55",
+    "35"
+   ],
+   "ru": [
+    "44",
+    "22",
+    "55",
+    "35"
+   ],
+   "en": [
+    "44",
+    "22",
+    "55",
+    "35"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "B atomining tartib raqami 5. B ionining zaryadi -2. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома B равен 5. Заряд иона B равен -2. Сколько в ионе электронов?",
+   "en": "The atomic number of B is 5. The ion of B has charge -2. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "2",
+    "17",
+    "6"
+   ],
+   "ru": [
+    "7",
+    "2",
+    "17",
+    "6"
+   ],
+   "en": [
+    "7",
+    "2",
+    "17",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 mol KNO3 ning massasi necha gramm?",
+   "ru": "Чему равна масса 2 моль KNO3 (г)?",
+   "en": "What is the mass of 2 mol of KNO3 (g)?"
+  },
+  "o": {
+   "uz": [
+    "202",
+    "606",
+    "212",
+    "182"
+   ],
+   "ru": [
+    "202",
+    "606",
+    "212",
+    "182"
+   ],
+   "en": [
+    "202",
+    "606",
+    "212",
+    "182"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri kislota?",
+   "ru": "Какое из этих веществ — кислота?",
+   "en": "Which of these substances is an acid?"
+  },
+  "o": {
+   "uz": [
+    "H2SO3",
+    "CaO",
+    "ZnO",
+    "NaOH"
+   ],
+   "ru": [
+    "H2SO3",
+    "CaO",
+    "ZnO",
+    "NaOH"
+   ],
+   "en": [
+    "H2SO3",
+    "CaO",
+    "ZnO",
+    "NaOH"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "H atomining tartib raqami 1. H ionining zaryadi +3. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома H равен 1. Заряд иона H равен +3. Сколько в ионе электронов?",
+   "en": "The atomic number of H is 1. The ion of H has charge +3. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "-2",
+    "3",
+    "1",
+    "8"
+   ],
+   "ru": [
+    "-2",
+    "3",
+    "1",
+    "8"
+   ],
+   "en": [
+    "-2",
+    "3",
+    "1",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Au atomining tartib raqami 79. Au ionining zaryadi +2. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома Au равен 79. Заряд иона Au равен +2. Сколько в ионе электронов?",
+   "en": "The atomic number of Au is 79. The ion of Au has charge +2. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "77",
+    "39",
+    "62",
+    "96"
+   ],
+   "ru": [
+    "77",
+    "39",
+    "62",
+    "96"
+   ],
+   "en": [
+    "77",
+    "39",
+    "62",
+    "96"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri tuzdir?",
+   "ru": "Какое из этих веществ — соль?",
+   "en": "Which of these substances is a salt?"
+  },
+  "o": {
+   "uz": [
+    "NaCl",
+    "P2O5",
+    "NaOH",
+    "CuO"
+   ],
+   "ru": [
+    "NaCl",
+    "P2O5",
+    "NaOH",
+    "CuO"
+   ],
+   "en": [
+    "NaCl",
+    "P2O5",
+    "NaOH",
+    "CuO"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "10 mol K2SO4 ning massasi necha gramm?",
+   "ru": "Чему равна масса 10 моль K2SO4 (г)?",
+   "en": "What is the mass of 10 mol of K2SO4 (g)?"
+  },
+  "o": {
+   "uz": [
+    "1740",
+    "870",
+    "2610",
+    "1827"
+   ],
+   "ru": [
+    "1740",
+    "870",
+    "2610",
+    "1827"
+   ],
+   "en": [
+    "1740",
+    "870",
+    "2610",
+    "1827"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri kislota?",
+   "ru": "Какое из этих веществ — кислота?",
+   "en": "Which of these substances is an acid?"
+  },
+  "o": {
+   "uz": [
+    "HBr",
+    "Fe(OH)3",
+    "Cu(OH)2",
+    "CaO"
+   ],
+   "ru": [
+    "HBr",
+    "Fe(OH)3",
+    "Cu(OH)2",
+    "CaO"
+   ],
+   "en": [
+    "HBr",
+    "Fe(OH)3",
+    "Cu(OH)2",
+    "CaO"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "K2CO3 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества K2CO3?",
+   "en": "What is the relative molecular mass of K2CO3?"
+  },
+  "o": {
+   "uz": [
+    "138",
+    "104",
+    "131",
+    "124"
+   ],
+   "ru": [
+    "138",
+    "104",
+    "131",
+    "124"
+   ],
+   "en": [
+    "138",
+    "104",
+    "131",
+    "124"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 mol CaSO4 ning massasi necha gramm?",
+   "ru": "Чему равна масса 3 моль CaSO4 (г)?",
+   "en": "What is the mass of 3 mol of CaSO4 (g)?"
+  },
+  "o": {
+   "uz": [
+    "408",
+    "1224",
+    "367",
+    "388"
+   ],
+   "ru": [
+    "408",
+    "1224",
+    "367",
+    "388"
+   ],
+   "en": [
+    "408",
+    "1224",
+    "367",
+    "388"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "K2O moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества K2O?",
+   "en": "What is the relative molecular mass of K2O?"
+  },
+  "o": {
+   "uz": [
+    "94",
+    "85",
+    "99",
+    "188"
+   ],
+   "ru": [
+    "94",
+    "85",
+    "99",
+    "188"
+   ],
+   "en": [
+    "94",
+    "85",
+    "99",
+    "188"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CuSO4 tarkibidagi O elementining massa ulushi necha foiz?",
+   "ru": "Чему равна массовая доля элемента O в веществе CuSO4 (%)?",
+   "en": "What is the mass fraction of O in CuSO4 (%)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "50",
+    "44",
+    "48"
+   ],
+   "ru": [
+    "40",
+    "50",
+    "44",
+    "48"
+   ],
+   "en": [
+    "40",
+    "50",
+    "44",
+    "48"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "808 g KNO3 necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 808 г KNO3?",
+   "en": "How many moles are 808 g of KNO3?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "7",
+    "15",
+    "24"
+   ],
+   "ru": [
+    "8",
+    "7",
+    "15",
+    "24"
+   ],
+   "en": [
+    "8",
+    "7",
+    "15",
+    "24"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Fe(OH)3 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества Fe(OH)3?",
+   "en": "What is the relative molecular mass of Fe(OH)3?"
+  },
+  "o": {
+   "uz": [
+    "107",
+    "128",
+    "96",
+    "134"
+   ],
+   "ru": [
+    "107",
+    "128",
+    "96",
+    "134"
+   ],
+   "en": [
+    "107",
+    "128",
+    "96",
+    "134"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "310 g Ca3(PO4)2 necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 310 г Ca3(PO4)2?",
+   "en": "How many moles are 310 g of Ca3(PO4)2?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "3",
+    "14",
+    "2"
+   ],
+   "ru": [
+    "1",
+    "3",
+    "14",
+    "2"
+   ],
+   "en": [
+    "1",
+    "3",
+    "14",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CuSO4 tarkibidagi Cu elementining massa ulushi necha foiz?",
+   "ru": "Чему равна массовая доля элемента Cu в веществе CuSO4 (%)?",
+   "en": "What is the mass fraction of Cu in CuSO4 (%)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "36",
+    "32",
+    "80"
+   ],
+   "ru": [
+    "40",
+    "36",
+    "32",
+    "80"
+   ],
+   "en": [
+    "40",
+    "36",
+    "32",
+    "80"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "10 mol ZnO ning massasi necha gramm?",
+   "ru": "Чему равна масса 10 моль ZnO (г)?",
+   "en": "What is the mass of 10 mol of ZnO (g)?"
+  },
+  "o": {
+   "uz": [
+    "810",
+    "405",
+    "850",
+    "1620"
+   ],
+   "ru": [
+    "810",
+    "405",
+    "850",
+    "1620"
+   ],
+   "en": [
+    "810",
+    "405",
+    "850",
+    "1620"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri asosdir?",
+   "ru": "Какое из этих веществ — основание?",
+   "en": "Which of these substances is a base?"
+  },
+  "o": {
+   "uz": [
+    "Mg(OH)2",
+    "NaCl",
+    "CuSO4",
+    "KNO3"
+   ],
+   "ru": [
+    "Mg(OH)2",
+    "NaCl",
+    "CuSO4",
+    "KNO3"
+   ],
+   "en": [
+    "Mg(OH)2",
+    "NaCl",
+    "CuSO4",
+    "KNO3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Fe2O3 tarkibidagi O elementining massa ulushi necha foiz?",
+   "ru": "Чему равна массовая доля элемента O в веществе Fe2O3 (%)?",
+   "en": "What is the mass fraction of O in Fe2O3 (%)?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "43",
+    "60",
+    "40"
+   ],
+   "ru": [
+    "30",
+    "43",
+    "60",
+    "40"
+   ],
+   "en": [
+    "30",
+    "43",
+    "60",
+    "40"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "196 g Cu(OH)2 necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 196 г Cu(OH)2?",
+   "en": "How many moles are 196 g of Cu(OH)2?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "5",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "5",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "5",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "F atomining tartib raqami 9. F ionining zaryadi +3. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома F равен 9. Заряд иона F равен +3. Сколько в ионе электронов?",
+   "en": "The atomic number of F is 9. The ion of F has charge +3. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "11",
+    "1",
+    "16"
+   ],
+   "ru": [
+    "6",
+    "11",
+    "1",
+    "16"
+   ],
+   "en": [
+    "6",
+    "11",
+    "1",
+    "16"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "5 mol Cu(OH)2 ning massasi necha gramm?",
+   "ru": "Чему равна масса 5 моль Cu(OH)2 (г)?",
+   "en": "What is the mass of 5 mol of Cu(OH)2 (g)?"
+  },
+  "o": {
+   "uz": [
+    "490",
+    "612",
+    "588",
+    "368"
+   ],
+   "ru": [
+    "490",
+    "612",
+    "588",
+    "368"
+   ],
+   "en": [
+    "490",
+    "612",
+    "588",
+    "368"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Pb atomining tartib raqami 82, massa soni 207. Neytronlar soni nechta?",
+   "ru": "Атом Pb: порядковый номер 82, массовое число 207. Сколько в нём нейтронов?",
+   "en": "An atom of Pb has atomic number 82 and mass number 207. How many neutrons does it have?"
+  },
+  "o": {
+   "uz": [
+    "125",
+    "113",
+    "100",
+    "119"
+   ],
+   "ru": [
+    "125",
+    "113",
+    "100",
+    "119"
+   ],
+   "en": [
+    "125",
+    "113",
+    "100",
+    "119"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "MgSO4 tarkibidagi Mg elementining massa ulushi necha foiz?",
+   "ru": "Чему равна массовая доля элемента Mg в веществе MgSO4 (%)?",
+   "en": "What is the mass fraction of Mg in MgSO4 (%)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "19",
+    "33",
+    "40"
+   ],
+   "ru": [
+    "20",
+    "19",
+    "33",
+    "40"
+   ],
+   "en": [
+    "20",
+    "19",
+    "33",
+    "40"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri kislota?",
+   "ru": "Какое из этих веществ — кислота?",
+   "en": "Which of these substances is an acid?"
+  },
+  "o": {
+   "uz": [
+    "HBr",
+    "KNO3",
+    "P2O5",
+    "ZnO"
+   ],
+   "ru": [
+    "HBr",
+    "KNO3",
+    "P2O5",
+    "ZnO"
+   ],
+   "en": [
+    "HBr",
+    "KNO3",
+    "P2O5",
+    "ZnO"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "P atomining tartib raqami 15. P ionining zaryadi +3. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома P равен 15. Заряд иона P равен +3. Сколько в ионе электронов?",
+   "en": "The atomic number of P is 15. The ion of P has charge +3. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "17",
+    "6",
+    "36"
+   ],
+   "ru": [
+    "12",
+    "17",
+    "6",
+    "36"
+   ],
+   "en": [
+    "12",
+    "17",
+    "6",
+    "36"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "291 g ZnS necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 291 г ZnS?",
+   "en": "How many moles are 291 g of ZnS?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "0",
+    "10",
+    "2"
+   ],
+   "ru": [
+    "3",
+    "0",
+    "10",
+    "2"
+   ],
+   "en": [
+    "3",
+    "0",
+    "10",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C atomining tartib raqami 6. C ionining zaryadi +3. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома C равен 6. Заряд иона C равен +3. Сколько в ионе электронов?",
+   "en": "The atomic number of C is 6. The ion of C has charge +3. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "9",
+    "0",
+    "6"
+   ],
+   "ru": [
+    "3",
+    "9",
+    "0",
+    "6"
+   ],
+   "en": [
+    "3",
+    "9",
+    "0",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C atomining tartib raqami 6, massa soni 12. Neytronlar soni nechta?",
+   "ru": "Атом C: порядковый номер 6, массовое число 12. Сколько в нём нейтронов?",
+   "en": "An atom of C has atomic number 6 and mass number 12. How many neutrons does it have?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "4",
+    "8",
+    "1"
+   ],
+   "ru": [
+    "6",
+    "4",
+    "8",
+    "1"
+   ],
+   "en": [
+    "6",
+    "4",
+    "8",
+    "1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "10 mol H2S ning massasi necha gramm?",
+   "ru": "Чему равна масса 10 моль H2S (г)?",
+   "en": "What is the mass of 10 mol of H2S (g)?"
+  },
+  "o": {
+   "uz": [
+    "340",
+    "357",
+    "680",
+    "1020"
+   ],
+   "ru": [
+    "340",
+    "357",
+    "680",
+    "1020"
+   ],
+   "en": [
+    "340",
+    "357",
+    "680",
+    "1020"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 mol Ca3(PO4)2 ning massasi necha gramm?",
+   "ru": "Чему равна масса 3 моль Ca3(PO4)2 (г)?",
+   "en": "What is the mass of 3 mol of Ca3(PO4)2 (g)?"
+  },
+  "o": {
+   "uz": [
+    "930",
+    "1116",
+    "744",
+    "1395"
+   ],
+   "ru": [
+    "930",
+    "1116",
+    "744",
+    "1395"
+   ],
+   "en": [
+    "930",
+    "1116",
+    "744",
+    "1395"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Fe atomining tartib raqami 26. Fe ionining zaryadi +3. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома Fe равен 26. Заряд иона Fe равен +3. Сколько в ионе электронов?",
+   "en": "The atomic number of Fe is 26. The ion of Fe has charge +3. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "23",
+    "46",
+    "13",
+    "30"
+   ],
+   "ru": [
+    "23",
+    "46",
+    "13",
+    "30"
+   ],
+   "en": [
+    "23",
+    "46",
+    "13",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Cl atomining tartib raqami 17. Cl ionining zaryadi +3. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома Cl равен 17. Заряд иона Cl равен +3. Сколько в ионе электронов?",
+   "en": "The atomic number of Cl is 17. The ion of Cl has charge +3. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "14",
+    "27",
+    "4",
+    "12"
+   ],
+   "ru": [
+    "14",
+    "27",
+    "4",
+    "12"
+   ],
+   "en": [
+    "14",
+    "27",
+    "4",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri asosdir?",
+   "ru": "Какое из этих веществ — основание?",
+   "en": "Which of these substances is a base?"
+  },
+  "o": {
+   "uz": [
+    "Al(OH)3",
+    "H2SO4",
+    "MgCl2",
+    "HCl"
+   ],
+   "ru": [
+    "Al(OH)3",
+    "H2SO4",
+    "MgCl2",
+    "HCl"
+   ],
+   "en": [
+    "Al(OH)3",
+    "H2SO4",
+    "MgCl2",
+    "HCl"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CH4 tarkibidagi H elementining massa ulushi necha foiz?",
+   "ru": "Чему равна массовая доля элемента H в веществе CH4 (%)?",
+   "en": "What is the mass fraction of H in CH4 (%)?"
+  },
+  "o": {
+   "uz": [
+    "25",
+    "30",
+    "23",
+    "32"
+   ],
+   "ru": [
+    "25",
+    "30",
+    "23",
+    "32"
+   ],
+   "en": [
+    "25",
+    "30",
+    "23",
+    "32"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1368 g Al2(SO4)3 necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 1368 г Al2(SO4)3?",
+   "en": "How many moles are 1368 g of Al2(SO4)3?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "6",
+    "8",
+    "12"
+   ],
+   "ru": [
+    "4",
+    "6",
+    "8",
+    "12"
+   ],
+   "en": [
+    "4",
+    "6",
+    "8",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "NaOH moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества NaOH?",
+   "en": "What is the relative molecular mass of NaOH?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "32",
+    "80",
+    "20"
+   ],
+   "ru": [
+    "40",
+    "32",
+    "80",
+    "20"
+   ],
+   "en": [
+    "40",
+    "32",
+    "80",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri kislota?",
+   "ru": "Какое из этих веществ — кислота?",
+   "en": "Which of these substances is an acid?"
+  },
+  "o": {
+   "uz": [
+    "HCl",
+    "Mg(OH)2",
+    "BaSO4",
+    "AgNO3"
+   ],
+   "ru": [
+    "HCl",
+    "Mg(OH)2",
+    "BaSO4",
+    "AgNO3"
+   ],
+   "en": [
+    "HCl",
+    "Mg(OH)2",
+    "BaSO4",
+    "AgNO3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi moddalardan qaysi biri tuzdir?",
+   "ru": "Какое из этих веществ — соль?",
+   "en": "Which of these substances is a salt?"
+  },
+  "o": {
+   "uz": [
+    "Na2SO4",
+    "SO2",
+    "MgO",
+    "HNO3"
+   ],
+   "ru": [
+    "Na2SO4",
+    "SO2",
+    "MgO",
+    "HNO3"
+   ],
+   "en": [
+    "Na2SO4",
+    "SO2",
+    "MgO",
+    "HNO3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "44 g CO2 necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 44 г CO2?",
+   "en": "How many moles are 44 g of CO2?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "8",
+    "11",
+    "4"
+   ],
+   "ru": [
+    "1",
+    "8",
+    "11",
+    "4"
+   ],
+   "en": [
+    "1",
+    "8",
+    "11",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zn atomining tartib raqami 30. Zn ionining zaryadi -1. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома Zn равен 30. Заряд иона Zn равен -1. Сколько в ионе электронов?",
+   "en": "The atomic number of Zn is 30. The ion of Zn has charge -1. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "31",
+    "34",
+    "23",
+    "15"
+   ],
+   "ru": [
+    "31",
+    "34",
+    "23",
+    "15"
+   ],
+   "en": [
+    "31",
+    "34",
+    "23",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 mol FeS ning massasi necha gramm?",
+   "ru": "Чему равна масса 2 моль FeS (г)?",
+   "en": "What is the mass of 2 mol of FeS (g)?"
+  },
+  "o": {
+   "uz": [
+    "176",
+    "528",
+    "194",
+    "167"
+   ],
+   "ru": [
+    "176",
+    "528",
+    "194",
+    "167"
+   ],
+   "en": [
+    "176",
+    "528",
+    "194",
+    "167"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "SO3 tarkibidagi O elementining massa ulushi necha foiz?",
+   "ru": "Чему равна массовая доля элемента O в веществе SO3 (%)?",
+   "en": "What is the mass fraction of O in SO3 (%)?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "30",
+    "72",
+    "75"
+   ],
+   "ru": [
+    "60",
+    "30",
+    "72",
+    "75"
+   ],
+   "en": [
+    "60",
+    "30",
+    "72",
+    "75"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Al atomining tartib raqami 13, massa soni 27. Neytronlar soni nechta?",
+   "ru": "Атом Al: порядковый номер 13, массовое число 27. Сколько в нём нейтронов?",
+   "en": "An atom of Al has atomic number 13 and mass number 27. How many neutrons does it have?"
+  },
+  "o": {
+   "uz": [
+    "14",
+    "11",
+    "42",
+    "19"
+   ],
+   "ru": [
+    "14",
+    "11",
+    "42",
+    "19"
+   ],
+   "en": [
+    "14",
+    "11",
+    "42",
+    "19"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "ZnO moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества ZnO?",
+   "en": "What is the relative molecular mass of ZnO?"
+  },
+  "o": {
+   "uz": [
+    "81",
+    "101",
+    "243",
+    "121"
+   ],
+   "ru": [
+    "81",
+    "101",
+    "243",
+    "121"
+   ],
+   "en": [
+    "81",
+    "101",
+    "243",
+    "121"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "N atomining tartib raqami 7. N ionining zaryadi +1. Ionda nechta elektron bor?",
+   "ru": "Порядковый номер атома N равен 7. Заряд иона N равен +1. Сколько в ионе электронов?",
+   "en": "The atomic number of N is 7. The ion of N has charge +1. How many electrons does the ion have?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "18",
+    "4",
+    "3"
+   ],
+   "ru": [
+    "6",
+    "18",
+    "4",
+    "3"
+   ],
+   "en": [
+    "6",
+    "18",
+    "4",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Si atomining tartib raqami 14, massa soni 28. Neytronlar soni nechta?",
+   "ru": "Атом Si: порядковый номер 14, массовое число 28. Сколько в нём нейтронов?",
+   "en": "An atom of Si has atomic number 14 and mass number 28. How many neutrons does it have?"
+  },
+  "o": {
+   "uz": [
+    "14",
+    "11",
+    "13",
+    "7"
+   ],
+   "ru": [
+    "14",
+    "11",
+    "13",
+    "7"
+   ],
+   "en": [
+    "14",
+    "11",
+    "13",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "776 g ZnS necha mol moddaga to'g'ri keladi?",
+   "ru": "Сколько моль вещества составляют 776 г ZnS?",
+   "en": "How many moles are 776 g of ZnS?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "18",
+    "12",
+    "11"
+   ],
+   "ru": [
+    "8",
+    "18",
+    "12",
+    "11"
+   ],
+   "en": [
+    "8",
+    "18",
+    "12",
+    "11"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Au atomining tartib raqami 79, massa soni 197. Neytronlar soni nechta?",
+   "ru": "Атом Au: порядковый номер 79, массовое число 197. Сколько в нём нейтронов?",
+   "en": "An atom of Au has atomic number 79 and mass number 197. How many neutrons does it have?"
+  },
+  "o": {
+   "uz": [
+    "118",
+    "94",
+    "88",
+    "354"
+   ],
+   "ru": [
+    "118",
+    "94",
+    "88",
+    "354"
+   ],
+   "en": [
+    "118",
+    "94",
+    "88",
+    "354"
+   ]
+  },
+  "a": 0
+ }
+]

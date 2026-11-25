@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 21 sm, haqiqiy tasvirgacha 42 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 21 см, до действительного изображения 42 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 21 cm from the object and 42 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "14",
+    "17",
+    "7",
+    "4"
+   ],
+   "ru": [
+    "14",
+    "17",
+    "7",
+    "4"
+   ],
+   "en": [
+    "14",
+    "17",
+    "7",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Transformatorning birlamchi chulg'amida 200 ta, ikkilamchisida 100 ta o'ram bor. Birlamchi kuchlanish 110 V bo'lsa, ikkilamchi kuchlanish necha V?",
+   "ru": "В первичной обмотке трансформатора 200 витков, во вторичной 100. Первичное напряжение 110 В. Чему равно вторичное напряжение (В)?",
+   "en": "A transformer has 200 turns in the primary and 100 in the secondary coil. The primary voltage is 110 V. What is the secondary voltage (V)?"
+  },
+  "o": {
+   "uz": [
+    "55",
+    "69",
+    "61",
+    "44"
+   ],
+   "ru": [
+    "55",
+    "69",
+    "61",
+    "44"
+   ],
+   "en": [
+    "55",
+    "69",
+    "61",
+    "44"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 160 ta yemirilmagan yadro bor. t = 3T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 160 нераспавшихся ядер. Сколько ядер останется через время t = 3T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 160 undecayed nuclei. How many remain after t = 3T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "17",
+    "60",
+    "21"
+   ],
+   "ru": [
+    "20",
+    "17",
+    "60",
+    "21"
+   ],
+   "en": [
+    "20",
+    "17",
+    "60",
+    "21"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 4 µC va 5 µC bir-biridan 6 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 4 мкКл и 5 мкКл находятся на расстоянии 6 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 4 µC and 5 µC are 6 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "62",
+    "55",
+    "52"
+   ],
+   "ru": [
+    "50",
+    "62",
+    "55",
+    "52"
+   ],
+   "en": [
+    "50",
+    "62",
+    "55",
+    "52"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 240 ta yemirilmagan yadro bor. t = 4T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 240 нераспавшихся ядер. Сколько ядер останется через время t = 4T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 240 undecayed nuclei. How many remain after t = 4T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "15",
+    "22",
+    "8",
+    "13"
+   ],
+   "ru": [
+    "15",
+    "22",
+    "8",
+    "13"
+   ],
+   "en": [
+    "15",
+    "22",
+    "8",
+    "13"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 16 V, ichki qarshiligi 2 Ω, tashqi qarshilik 6 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 16 В, внутреннее сопротивление 2 Ом, внешнее 6 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 16 V, internal resistance 2 Ω and external resistance 6 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "7",
+    "12",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "7",
+    "12",
+    "4"
+   ],
+   "en": [
+    "2",
+    "7",
+    "12",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Transformatorning birlamchi chulg'amida 100 ta, ikkilamchisida 1000 ta o'ram bor. Birlamchi kuchlanish 110 V bo'lsa, ikkilamchi kuchlanish necha V?",
+   "ru": "В первичной обмотке трансформатора 100 витков, во вторичной 1000. Первичное напряжение 110 В. Чему равно вторичное напряжение (В)?",
+   "en": "A transformer has 100 turns in the primary and 1000 in the secondary coil. The primary voltage is 110 V. What is the secondary voltage (V)?"
+  },
+  "o": {
+   "uz": [
+    "1100",
+    "1375",
+    "550",
+    "1155"
+   ],
+   "ru": [
+    "1100",
+    "1375",
+    "550",
+    "1155"
+   ],
+   "en": [
+    "1100",
+    "1375",
+    "550",
+    "1155"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Transformatorning birlamchi chulg'amida 200 ta, ikkilamchisida 100 ta o'ram bor. Birlamchi kuchlanish 380 V bo'lsa, ikkilamchi kuchlanish necha V?",
+   "ru": "В первичной обмотке трансформатора 200 витков, во вторичной 100. Первичное напряжение 380 В. Чему равно вторичное напряжение (В)?",
+   "en": "A transformer has 200 turns in the primary and 100 in the secondary coil. The primary voltage is 380 V. What is the secondary voltage (V)?"
+  },
+  "o": {
+   "uz": [
+    "190",
+    "238",
+    "209",
+    "570"
+   ],
+   "ru": [
+    "190",
+    "238",
+    "209",
+    "570"
+   ],
+   "en": [
+    "190",
+    "238",
+    "209",
+    "570"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radiotulqin chastotasi 20 MHz. To'lqin uzunligi necha metr? (c = 3·10⁸ m/s)",
+   "ru": "Частота радиоволны 20 МГц. Чему равна длина волны (м)? (c = 3·10⁸ м/с)",
+   "en": "A radio wave has frequency 20 MHz. What is its wavelength (m)? (c = 3·10⁸ m/s)"
+  },
+  "o": {
+   "uz": [
+    "15",
+    "20",
+    "22",
+    "25"
+   ],
+   "ru": [
+    "15",
+    "20",
+    "22",
+    "25"
+   ],
+   "en": [
+    "15",
+    "20",
+    "22",
+    "25"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 8 µC va 2 µC bir-biridan 3 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 8 мкКл и 2 мкКл находятся на расстоянии 3 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 8 µC and 2 µC are 3 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "160",
+    "192",
+    "168",
+    "480"
+   ],
+   "ru": [
+    "160",
+    "192",
+    "168",
+    "480"
+   ],
+   "en": [
+    "160",
+    "192",
+    "168",
+    "480"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 36 V, ichki qarshiligi 2 Ω, tashqi qarshilik 10 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 36 В, внутреннее сопротивление 2 Ом, внешнее 10 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 36 V, internal resistance 2 Ω and external resistance 10 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "16",
+    "1",
+    "5"
+   ],
+   "ru": [
+    "3",
+    "16",
+    "1",
+    "5"
+   ],
+   "en": [
+    "3",
+    "16",
+    "1",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radiotulqin chastotasi 50 MHz. To'lqin uzunligi necha metr? (c = 3·10⁸ m/s)",
+   "ru": "Частота радиоволны 50 МГц. Чему равна длина волны (м)? (c = 3·10⁸ м/с)",
+   "en": "A radio wave has frequency 50 MHz. What is its wavelength (m)? (c = 3·10⁸ m/s)"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "3",
+    "4",
+    "12"
+   ],
+   "ru": [
+    "6",
+    "3",
+    "4",
+    "12"
+   ],
+   "en": [
+    "6",
+    "3",
+    "4",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 80 ta yemirilmagan yadro bor. t = 1T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 80 нераспавшихся ядер. Сколько ядер останется через время t = 1T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 80 undecayed nuclei. How many remain after t = 1T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "80",
+    "36",
+    "20"
+   ],
+   "ru": [
+    "40",
+    "80",
+    "36",
+    "20"
+   ],
+   "en": [
+    "40",
+    "80",
+    "36",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 16 sm, haqiqiy tasvirgacha 16 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 16 см, до действительного изображения 16 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 16 cm from the object and 16 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "9",
+    "4",
+    "12"
+   ],
+   "ru": [
+    "8",
+    "9",
+    "4",
+    "12"
+   ],
+   "en": [
+    "8",
+    "9",
+    "4",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 68 V, ichki qarshiligi 2 Ω, tashqi qarshilik 15 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 68 В, внутреннее сопротивление 2 Ом, внешнее 15 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 68 V, internal resistance 2 Ω and external resistance 15 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "1",
+    "12",
+    "6"
+   ],
+   "ru": [
+    "4",
+    "1",
+    "12",
+    "6"
+   ],
+   "en": [
+    "4",
+    "1",
+    "12",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Transformatorning birlamchi chulg'amida 200 ta, ikkilamchisida 100 ta o'ram bor. Birlamchi kuchlanish 120 V bo'lsa, ikkilamchi kuchlanish necha V?",
+   "ru": "В первичной обмотке трансформатора 200 витков, во вторичной 100. Первичное напряжение 120 В. Чему равно вторичное напряжение (В)?",
+   "en": "A transformer has 200 turns in the primary and 100 in the secondary coil. The primary voltage is 120 V. What is the secondary voltage (V)?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "45",
+    "75",
+    "66"
+   ],
+   "ru": [
+    "60",
+    "45",
+    "75",
+    "66"
+   ],
+   "en": [
+    "60",
+    "45",
+    "75",
+    "66"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Transformatorning birlamchi chulg'amida 300 ta, ikkilamchisida 100 ta o'ram bor. Birlamchi kuchlanish 120 V bo'lsa, ikkilamchi kuchlanish necha V?",
+   "ru": "В первичной обмотке трансформатора 300 витков, во вторичной 100. Первичное напряжение 120 В. Чему равно вторичное напряжение (В)?",
+   "en": "A transformer has 300 turns in the primary and 100 in the secondary coil. The primary voltage is 120 V. What is the secondary voltage (V)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "50",
+    "32",
+    "60"
+   ],
+   "ru": [
+    "40",
+    "50",
+    "32",
+    "60"
+   ],
+   "en": [
+    "40",
+    "50",
+    "32",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sig'imi 5 µF bo'lgan kondensator 20 V gacha zaryadlandi. Zaryadi necha µC?",
+   "ru": "Конденсатор ёмкостью 5 мкФ зарядили до 20 В. Чему равен заряд (мкКл)?",
+   "en": "A 5 µF capacitor is charged to 20 V. What is its charge (µC)?"
+  },
+  "o": {
+   "uz": [
+    "100",
+    "125",
+    "300",
+    "120"
+   ],
+   "ru": [
+    "100",
+    "125",
+    "300",
+    "120"
+   ],
+   "en": [
+    "100",
+    "125",
+    "300",
+    "120"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 3 µC va 2 µC bir-biridan 2 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 3 мкКл и 2 мкКл находятся на расстоянии 2 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 3 µC and 2 µC are 2 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "135",
+    "108",
+    "162",
+    "101"
+   ],
+   "ru": [
+    "135",
+    "108",
+    "162",
+    "101"
+   ],
+   "en": [
+    "135",
+    "108",
+    "162",
+    "101"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 54 sm, haqiqiy tasvirgacha 54 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 54 см, до действительного изображения 54 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 54 cm from the object and 54 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "27",
+    "17",
+    "32",
+    "40"
+   ],
+   "ru": [
+    "27",
+    "17",
+    "32",
+    "40"
+   ],
+   "en": [
+    "27",
+    "17",
+    "32",
+    "40"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 480 ta yemirilmagan yadro bor. t = 3T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 480 нераспавшихся ядер. Сколько ядер останется через время t = 3T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 480 undecayed nuclei. How many remain after t = 3T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "48",
+    "54",
+    "72"
+   ],
+   "ru": [
+    "60",
+    "48",
+    "54",
+    "72"
+   ],
+   "en": [
+    "60",
+    "48",
+    "54",
+    "72"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 12 sm, haqiqiy tasvirgacha 24 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 12 см, до действительного изображения 24 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 12 cm from the object and 24 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "6",
+    "15",
+    "24"
+   ],
+   "ru": [
+    "8",
+    "6",
+    "15",
+    "24"
+   ],
+   "en": [
+    "8",
+    "6",
+    "15",
+    "24"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Transformatorning birlamchi chulg'amida 100 ta, ikkilamchisida 200 ta o'ram bor. Birlamchi kuchlanish 110 V bo'lsa, ikkilamchi kuchlanish necha V?",
+   "ru": "В первичной обмотке трансформатора 100 витков, во вторичной 200. Первичное напряжение 110 В. Чему равно вторичное напряжение (В)?",
+   "en": "A transformer has 100 turns in the primary and 200 in the secondary coil. The primary voltage is 110 V. What is the secondary voltage (V)?"
+  },
+  "o": {
+   "uz": [
+    "220",
+    "209",
+    "176",
+    "242"
+   ],
+   "ru": [
+    "220",
+    "209",
+    "176",
+    "242"
+   ],
+   "en": [
+    "220",
+    "209",
+    "176",
+    "242"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 240 ta yemirilmagan yadro bor. t = 2T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 240 нераспавшихся ядер. Сколько ядер останется через время t = 2T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 240 undecayed nuclei. How many remain after t = 2T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "63",
+    "75",
+    "54"
+   ],
+   "ru": [
+    "60",
+    "63",
+    "75",
+    "54"
+   ],
+   "en": [
+    "60",
+    "63",
+    "75",
+    "54"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radiotulqin chastotasi 10 MHz. To'lqin uzunligi necha metr? (c = 3·10⁸ m/s)",
+   "ru": "Частота радиоволны 10 МГц. Чему равна длина волны (м)? (c = 3·10⁸ м/с)",
+   "en": "A radio wave has frequency 10 MHz. What is its wavelength (m)? (c = 3·10⁸ m/s)"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "27",
+    "43",
+    "20"
+   ],
+   "ru": [
+    "30",
+    "27",
+    "43",
+    "20"
+   ],
+   "en": [
+    "30",
+    "27",
+    "43",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sig'imi 7 µF bo'lgan kondensator 50 V gacha zaryadlandi. Zaryadi necha µC?",
+   "ru": "Конденсатор ёмкостью 7 мкФ зарядили до 50 В. Чему равен заряд (мкКл)?",
+   "en": "A 7 µF capacitor is charged to 50 V. What is its charge (µC)?"
+  },
+  "o": {
+   "uz": [
+    "350",
+    "332",
+    "175",
+    "700"
+   ],
+   "ru": [
+    "350",
+    "332",
+    "175",
+    "700"
+   ],
+   "en": [
+    "350",
+    "332",
+    "175",
+    "700"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 24 V, ichki qarshiligi 1 Ω, tashqi qarshilik 5 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 24 В, внутреннее сопротивление 1 Ом, внешнее 5 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 24 V, internal resistance 1 Ω and external resistance 5 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "2",
+    "9",
+    "11"
+   ],
+   "ru": [
+    "4",
+    "2",
+    "9",
+    "11"
+   ],
+   "en": [
+    "4",
+    "2",
+    "9",
+    "11"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 3 µC va 3 µC bir-biridan 3 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 3 мкКл и 3 мкКл находятся на расстоянии 3 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 3 µC and 3 µC are 3 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "90",
+    "45",
+    "180",
+    "68"
+   ],
+   "ru": [
+    "90",
+    "45",
+    "180",
+    "68"
+   ],
+   "en": [
+    "90",
+    "45",
+    "180",
+    "68"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 18 V, ichki qarshiligi 3 Ω, tashqi qarshilik 15 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 18 В, внутреннее сопротивление 3 Ом, внешнее 15 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 18 V, internal resistance 3 Ω and external resistance 15 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "3",
+    "2",
+    "0"
+   ],
+   "ru": [
+    "1",
+    "3",
+    "2",
+    "0"
+   ],
+   "en": [
+    "1",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sig'imi 4 µF bo'lgan kondensator 20 V gacha zaryadlandi. Zaryadi necha µC?",
+   "ru": "Конденсатор ёмкостью 4 мкФ зарядили до 20 В. Чему равен заряд (мкКл)?",
+   "en": "A 4 µF capacitor is charged to 20 V. What is its charge (µC)?"
+  },
+  "o": {
+   "uz": [
+    "80",
+    "84",
+    "120",
+    "96"
+   ],
+   "ru": [
+    "80",
+    "84",
+    "120",
+    "96"
+   ],
+   "en": [
+    "80",
+    "84",
+    "120",
+    "96"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 9 µC va 8 µC bir-biridan 6 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 9 мкКл и 8 мкКл находятся на расстоянии 6 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 9 µC and 8 µC are 6 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "180",
+    "225",
+    "270",
+    "171"
+   ],
+   "ru": [
+    "180",
+    "225",
+    "270",
+    "171"
+   ],
+   "en": [
+    "180",
+    "225",
+    "270",
+    "171"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radiotulqin chastotasi 6 MHz. To'lqin uzunligi necha metr? (c = 3·10⁸ m/s)",
+   "ru": "Частота радиоволны 6 МГц. Чему равна длина волны (м)? (c = 3·10⁸ м/с)",
+   "en": "A radio wave has frequency 6 MHz. What is its wavelength (m)? (c = 3·10⁸ m/s)"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "62",
+    "38",
+    "25"
+   ],
+   "ru": [
+    "50",
+    "62",
+    "38",
+    "25"
+   ],
+   "en": [
+    "50",
+    "62",
+    "38",
+    "25"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Transformatorning birlamchi chulg'amida 1000 ta, ikkilamchisida 100 ta o'ram bor. Birlamchi kuchlanish 380 V bo'lsa, ikkilamchi kuchlanish necha V?",
+   "ru": "В первичной обмотке трансформатора 1000 витков, во вторичной 100. Первичное напряжение 380 В. Чему равно вторичное напряжение (В)?",
+   "en": "A transformer has 1000 turns in the primary and 100 in the secondary coil. The primary voltage is 380 V. What is the secondary voltage (V)?"
+  },
+  "o": {
+   "uz": [
+    "38",
+    "28",
+    "30",
+    "19"
+   ],
+   "ru": [
+    "38",
+    "28",
+    "30",
+    "19"
+   ],
+   "en": [
+    "38",
+    "28",
+    "30",
+    "19"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 320 ta yemirilmagan yadro bor. t = 3T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 320 нераспавшихся ядер. Сколько ядер останется через время t = 3T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 320 undecayed nuclei. How many remain after t = 3T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "60",
+    "30",
+    "50"
+   ],
+   "ru": [
+    "40",
+    "60",
+    "30",
+    "50"
+   ],
+   "en": [
+    "40",
+    "60",
+    "30",
+    "50"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 160 ta yemirilmagan yadro bor. t = 4T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 160 нераспавшихся ядер. Сколько ядер останется через время t = 4T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 160 undecayed nuclei. How many remain after t = 4T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "13",
+    "7",
+    "12"
+   ],
+   "ru": [
+    "10",
+    "13",
+    "7",
+    "12"
+   ],
+   "en": [
+    "10",
+    "13",
+    "7",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Transformatorning birlamchi chulg'amida 200 ta, ikkilamchisida 100 ta o'ram bor. Birlamchi kuchlanish 220 V bo'lsa, ikkilamchi kuchlanish necha V?",
+   "ru": "В первичной обмотке трансформатора 200 витков, во вторичной 100. Первичное напряжение 220 В. Чему равно вторичное напряжение (В)?",
+   "en": "A transformer has 200 turns in the primary and 100 in the secondary coil. The primary voltage is 220 V. What is the secondary voltage (V)?"
+  },
+  "o": {
+   "uz": [
+    "110",
+    "88",
+    "116",
+    "121"
+   ],
+   "ru": [
+    "110",
+    "88",
+    "116",
+    "121"
+   ],
+   "en": [
+    "110",
+    "88",
+    "116",
+    "121"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sig'imi 5 µF bo'lgan kondensator 10 V gacha zaryadlandi. Zaryadi necha µC?",
+   "ru": "Конденсатор ёмкостью 5 мкФ зарядили до 10 В. Чему равен заряд (мкКл)?",
+   "en": "A 5 µF capacitor is charged to 10 V. What is its charge (µC)?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "45",
+    "52",
+    "60"
+   ],
+   "ru": [
+    "50",
+    "45",
+    "52",
+    "60"
+   ],
+   "en": [
+    "50",
+    "45",
+    "52",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 52 sm, haqiqiy tasvirgacha 52 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 52 см, до действительного изображения 52 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 52 cm from the object and 52 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "26",
+    "13",
+    "29",
+    "23"
+   ],
+   "ru": [
+    "26",
+    "13",
+    "29",
+    "23"
+   ],
+   "en": [
+    "26",
+    "13",
+    "29",
+    "23"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 160 ta yemirilmagan yadro bor. t = 1T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 160 нераспавшихся ядер. Сколько ядер останется через время t = 1T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 160 undecayed nuclei. How many remain after t = 1T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "80",
+    "40",
+    "64",
+    "96"
+   ],
+   "ru": [
+    "80",
+    "40",
+    "64",
+    "96"
+   ],
+   "en": [
+    "80",
+    "40",
+    "64",
+    "96"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 60 sm, haqiqiy tasvirgacha 60 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 60 см, до действительного изображения 60 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 60 cm from the object and 60 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "37",
+    "27",
+    "28"
+   ],
+   "ru": [
+    "30",
+    "37",
+    "27",
+    "28"
+   ],
+   "en": [
+    "30",
+    "37",
+    "27",
+    "28"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sig'imi 9 µF bo'lgan kondensator 220 V gacha zaryadlandi. Zaryadi necha µC?",
+   "ru": "Конденсатор ёмкостью 9 мкФ зарядили до 220 В. Чему равен заряд (мкКл)?",
+   "en": "A 9 µF capacitor is charged to 220 V. What is its charge (µC)?"
+  },
+  "o": {
+   "uz": [
+    "1980",
+    "1881",
+    "5940",
+    "2178"
+   ],
+   "ru": [
+    "1980",
+    "1881",
+    "5940",
+    "2178"
+   ],
+   "en": [
+    "1980",
+    "1881",
+    "5940",
+    "2178"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 63 V, ichki qarshiligi 1 Ω, tashqi qarshilik 20 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 63 В, внутреннее сопротивление 1 Ом, внешнее 20 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 63 V, internal resistance 1 Ω and external resistance 20 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "4",
+    "16",
+    "10"
+   ],
+   "ru": [
+    "3",
+    "4",
+    "16",
+    "10"
+   ],
+   "en": [
+    "3",
+    "4",
+    "16",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 9 V, ichki qarshiligi 2 Ω, tashqi qarshilik 7 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 9 В, внутреннее сопротивление 2 Ом, внешнее 7 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 9 V, internal resistance 2 Ω and external resistance 7 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "3",
+    "11",
+    "2"
+   ],
+   "ru": [
+    "1",
+    "3",
+    "11",
+    "2"
+   ],
+   "en": [
+    "1",
+    "3",
+    "11",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 28 sm, haqiqiy tasvirgacha 28 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 28 см, до действительного изображения 28 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 28 cm from the object and 28 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "14",
+    "24",
+    "42",
+    "12"
+   ],
+   "ru": [
+    "14",
+    "24",
+    "42",
+    "12"
+   ],
+   "en": [
+    "14",
+    "24",
+    "42",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 10 sm, haqiqiy tasvirgacha 10 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 10 см, до действительного изображения 10 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 10 cm from the object and 10 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "2",
+    "15",
+    "4"
+   ],
+   "ru": [
+    "5",
+    "2",
+    "15",
+    "4"
+   ],
+   "en": [
+    "5",
+    "2",
+    "15",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 640 ta yemirilmagan yadro bor. t = 4T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 640 нераспавшихся ядер. Сколько ядер останется через время t = 4T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 640 undecayed nuclei. How many remain after t = 4T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "120",
+    "20",
+    "44"
+   ],
+   "ru": [
+    "40",
+    "120",
+    "20",
+    "44"
+   ],
+   "en": [
+    "40",
+    "120",
+    "20",
+    "44"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 21 V, ichki qarshiligi 3 Ω, tashqi qarshilik 18 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 21 В, внутреннее сопротивление 3 Ом, внешнее 18 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 21 V, internal resistance 3 Ω and external resistance 18 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "3",
+    "6",
+    "4"
+   ],
+   "ru": [
+    "1",
+    "3",
+    "6",
+    "4"
+   ],
+   "en": [
+    "1",
+    "3",
+    "6",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Transformatorning birlamchi chulg'amida 500 ta, ikkilamchisida 100 ta o'ram bor. Birlamchi kuchlanish 220 V bo'lsa, ikkilamchi kuchlanish necha V?",
+   "ru": "В первичной обмотке трансформатора 500 витков, во вторичной 100. Первичное напряжение 220 В. Чему равно вторичное напряжение (В)?",
+   "en": "A transformer has 500 turns in the primary and 100 in the secondary coil. The primary voltage is 220 V. What is the secondary voltage (V)?"
+  },
+  "o": {
+   "uz": [
+    "44",
+    "22",
+    "88",
+    "66"
+   ],
+   "ru": [
+    "44",
+    "22",
+    "88",
+    "66"
+   ],
+   "en": [
+    "44",
+    "22",
+    "88",
+    "66"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 6 µC va 5 µC bir-biridan 6 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 6 мкКл и 5 мкКл находятся на расстоянии 6 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 6 µC and 5 µC are 6 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "75",
+    "71",
+    "60",
+    "83"
+   ],
+   "ru": [
+    "75",
+    "71",
+    "60",
+    "83"
+   ],
+   "en": [
+    "75",
+    "71",
+    "60",
+    "83"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Transformatorning birlamchi chulg'amida 500 ta, ikkilamchisida 100 ta o'ram bor. Birlamchi kuchlanish 110 V bo'lsa, ikkilamchi kuchlanish necha V?",
+   "ru": "В первичной обмотке трансформатора 500 витков, во вторичной 100. Первичное напряжение 110 В. Чему равно вторичное напряжение (В)?",
+   "en": "A transformer has 500 turns in the primary and 100 in the secondary coil. The primary voltage is 110 V. What is the secondary voltage (V)?"
+  },
+  "o": {
+   "uz": [
+    "22",
+    "44",
+    "24",
+    "32"
+   ],
+   "ru": [
+    "22",
+    "44",
+    "24",
+    "32"
+   ],
+   "en": [
+    "22",
+    "44",
+    "24",
+    "32"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 5 µC va 4 µC bir-biridan 3 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 5 мкКл и 4 мкКл находятся на расстоянии 3 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 5 µC and 4 µC are 3 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "200",
+    "100",
+    "600",
+    "180"
+   ],
+   "ru": [
+    "200",
+    "100",
+    "600",
+    "180"
+   ],
+   "en": [
+    "200",
+    "100",
+    "600",
+    "180"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 51 V, ichki qarshiligi 2 Ω, tashqi qarshilik 15 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 51 В, внутреннее сопротивление 2 Ом, внешнее 15 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 51 V, internal resistance 2 Ω and external resistance 15 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "6",
+    "9",
+    "2"
+   ],
+   "ru": [
+    "3",
+    "6",
+    "9",
+    "2"
+   ],
+   "en": [
+    "3",
+    "6",
+    "9",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Transformatorning birlamchi chulg'amida 400 ta, ikkilamchisida 100 ta o'ram bor. Birlamchi kuchlanish 120 V bo'lsa, ikkilamchi kuchlanish necha V?",
+   "ru": "В первичной обмотке трансформатора 400 витков, во вторичной 100. Первичное напряжение 120 В. Чему равно вторичное напряжение (В)?",
+   "en": "A transformer has 400 turns in the primary and 100 in the secondary coil. The primary voltage is 120 V. What is the secondary voltage (V)?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "25",
+    "33",
+    "28"
+   ],
+   "ru": [
+    "30",
+    "25",
+    "33",
+    "28"
+   ],
+   "en": [
+    "30",
+    "25",
+    "33",
+    "28"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sig'imi 8 µF bo'lgan kondensator 220 V gacha zaryadlandi. Zaryadi necha µC?",
+   "ru": "Конденсатор ёмкостью 8 мкФ зарядили до 220 В. Чему равен заряд (мкКл)?",
+   "en": "A 8 µF capacitor is charged to 220 V. What is its charge (µC)?"
+  },
+  "o": {
+   "uz": [
+    "1760",
+    "1848",
+    "2200",
+    "5280"
+   ],
+   "ru": [
+    "1760",
+    "1848",
+    "2200",
+    "5280"
+   ],
+   "en": [
+    "1760",
+    "1848",
+    "2200",
+    "5280"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radiotulqin chastotasi 100 MHz. To'lqin uzunligi necha metr? (c = 3·10⁸ m/s)",
+   "ru": "Частота радиоволны 100 МГц. Чему равна длина волны (м)? (c = 3·10⁸ м/с)",
+   "en": "A radio wave has frequency 100 MHz. What is its wavelength (m)? (c = 3·10⁸ m/s)"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "2",
+    "1",
+    "16"
+   ],
+   "ru": [
+    "3",
+    "2",
+    "1",
+    "16"
+   ],
+   "en": [
+    "3",
+    "2",
+    "1",
+    "16"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radiotulqin chastotasi 30 MHz. To'lqin uzunligi necha metr? (c = 3·10⁸ m/s)",
+   "ru": "Частота радиоволны 30 МГц. Чему равна длина волны (м)? (c = 3·10⁸ м/с)",
+   "en": "A radio wave has frequency 30 MHz. What is its wavelength (m)? (c = 3·10⁸ m/s)"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "12",
+    "23",
+    "20"
+   ],
+   "ru": [
+    "10",
+    "12",
+    "23",
+    "20"
+   ],
+   "en": [
+    "10",
+    "12",
+    "23",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radiotulqin chastotasi 12 MHz. To'lqin uzunligi necha metr? (c = 3·10⁸ m/s)",
+   "ru": "Частота радиоволны 12 МГц. Чему равна длина волны (м)? (c = 3·10⁸ м/с)",
+   "en": "A radio wave has frequency 12 MHz. What is its wavelength (m)? (c = 3·10⁸ m/s)"
+  },
+  "o": {
+   "uz": [
+    "25",
+    "24",
+    "50",
+    "30"
+   ],
+   "ru": [
+    "25",
+    "24",
+    "50",
+    "30"
+   ],
+   "en": [
+    "25",
+    "24",
+    "50",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sig'imi 6 µF bo'lgan kondensator 110 V gacha zaryadlandi. Zaryadi necha µC?",
+   "ru": "Конденсатор ёмкостью 6 мкФ зарядили до 110 В. Чему равен заряд (мкКл)?",
+   "en": "A 6 µF capacitor is charged to 110 V. What is its charge (µC)?"
+  },
+  "o": {
+   "uz": [
+    "660",
+    "792",
+    "330",
+    "693"
+   ],
+   "ru": [
+    "660",
+    "792",
+    "330",
+    "693"
+   ],
+   "en": [
+    "660",
+    "792",
+    "330",
+    "693"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 16 V, ichki qarshiligi 1 Ω, tashqi qarshilik 3 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 16 В, внутреннее сопротивление 1 Ом, внешнее 3 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 16 V, internal resistance 1 Ω and external resistance 3 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "6",
+    "5",
+    "17"
+   ],
+   "ru": [
+    "4",
+    "6",
+    "5",
+    "17"
+   ],
+   "en": [
+    "4",
+    "6",
+    "5",
+    "17"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sig'imi 5 µF bo'lgan kondensator 220 V gacha zaryadlandi. Zaryadi necha µC?",
+   "ru": "Конденсатор ёмкостью 5 мкФ зарядили до 220 В. Чему равен заряд (мкКл)?",
+   "en": "A 5 µF capacitor is charged to 220 V. What is its charge (µC)?"
+  },
+  "o": {
+   "uz": [
+    "1100",
+    "1320",
+    "825",
+    "2200"
+   ],
+   "ru": [
+    "1100",
+    "1320",
+    "825",
+    "2200"
+   ],
+   "en": [
+    "1100",
+    "1320",
+    "825",
+    "2200"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 20 V, ichki qarshiligi 3 Ω, tashqi qarshilik 7 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 20 В, внутреннее сопротивление 3 Ом, внешнее 7 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 20 V, internal resistance 3 Ω and external resistance 7 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "15",
+    "6"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "15",
+    "6"
+   ],
+   "en": [
+    "2",
+    "3",
+    "15",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 7 µC va 1 µC bir-biridan 1 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 7 мкКл и 1 мкКл находятся на расстоянии 1 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 7 µC and 1 µC are 1 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "630",
+    "567",
+    "598",
+    "693"
+   ],
+   "ru": [
+    "630",
+    "567",
+    "598",
+    "693"
+   ],
+   "en": [
+    "630",
+    "567",
+    "598",
+    "693"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 40 sm, haqiqiy tasvirgacha 40 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 40 см, до действительного изображения 40 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 40 cm from the object and 40 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "19",
+    "21",
+    "17"
+   ],
+   "ru": [
+    "20",
+    "19",
+    "21",
+    "17"
+   ],
+   "en": [
+    "20",
+    "19",
+    "21",
+    "17"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sig'imi 3 µF bo'lgan kondensator 20 V gacha zaryadlandi. Zaryadi necha µC?",
+   "ru": "Конденсатор ёмкостью 3 мкФ зарядили до 20 В. Чему равен заряд (мкКл)?",
+   "en": "A 3 µF capacitor is charged to 20 V. What is its charge (µC)?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "45",
+    "48",
+    "30"
+   ],
+   "ru": [
+    "60",
+    "45",
+    "48",
+    "30"
+   ],
+   "en": [
+    "60",
+    "45",
+    "48",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sig'imi 3 µF bo'lgan kondensator 50 V gacha zaryadlandi. Zaryadi necha µC?",
+   "ru": "Конденсатор ёмкостью 3 мкФ зарядили до 50 В. Чему равен заряд (мкКл)?",
+   "en": "A 3 µF capacitor is charged to 50 V. What is its charge (µC)?"
+  },
+  "o": {
+   "uz": [
+    "150",
+    "300",
+    "225",
+    "180"
+   ],
+   "ru": [
+    "150",
+    "300",
+    "225",
+    "180"
+   ],
+   "en": [
+    "150",
+    "300",
+    "225",
+    "180"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 105 V, ichki qarshiligi 3 Ω, tashqi qarshilik 18 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 105 В, внутреннее сопротивление 3 Ом, внешнее 18 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 105 V, internal resistance 3 Ω and external resistance 18 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "3",
+    "4",
+    "2"
+   ],
+   "ru": [
+    "5",
+    "3",
+    "4",
+    "2"
+   ],
+   "en": [
+    "5",
+    "3",
+    "4",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 240 ta yemirilmagan yadro bor. t = 3T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 240 нераспавшихся ядер. Сколько ядер останется через время t = 3T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 240 undecayed nuclei. How many remain after t = 3T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "43",
+    "15",
+    "27"
+   ],
+   "ru": [
+    "30",
+    "43",
+    "15",
+    "27"
+   ],
+   "en": [
+    "30",
+    "43",
+    "15",
+    "27"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sig'imi 10 µF bo'lgan kondensator 110 V gacha zaryadlandi. Zaryadi necha µC?",
+   "ru": "Конденсатор ёмкостью 10 мкФ зарядили до 110 В. Чему равен заряд (мкКл)?",
+   "en": "A 10 µF capacitor is charged to 110 V. What is its charge (µC)?"
+  },
+  "o": {
+   "uz": [
+    "1100",
+    "825",
+    "990",
+    "3300"
+   ],
+   "ru": [
+    "1100",
+    "825",
+    "990",
+    "3300"
+   ],
+   "en": [
+    "1100",
+    "825",
+    "990",
+    "3300"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 12 V, ichki qarshiligi 1 Ω, tashqi qarshilik 2 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 12 В, внутреннее сопротивление 1 Ом, внешнее 2 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 12 V, internal resistance 1 Ω and external resistance 2 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "8",
+    "11",
+    "12"
+   ],
+   "ru": [
+    "4",
+    "8",
+    "11",
+    "12"
+   ],
+   "en": [
+    "4",
+    "8",
+    "11",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 480 ta yemirilmagan yadro bor. t = 4T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 480 нераспавшихся ядер. Сколько ядер останется через время t = 4T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 480 undecayed nuclei. How many remain after t = 4T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "33",
+    "37",
+    "40"
+   ],
+   "ru": [
+    "30",
+    "33",
+    "37",
+    "40"
+   ],
+   "en": [
+    "30",
+    "33",
+    "37",
+    "40"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 8 µC va 9 µC bir-biridan 6 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 8 мкКл и 9 мкКл находятся на расстоянии 6 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 8 µC and 9 µC are 6 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "180",
+    "540",
+    "135",
+    "216"
+   ],
+   "ru": [
+    "180",
+    "540",
+    "135",
+    "216"
+   ],
+   "en": [
+    "180",
+    "540",
+    "135",
+    "216"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 160 ta yemirilmagan yadro bor. t = 2T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 160 нераспавшихся ядер. Сколько ядер останется через время t = 2T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 160 undecayed nuclei. How many remain after t = 2T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "60",
+    "50",
+    "42"
+   ],
+   "ru": [
+    "40",
+    "60",
+    "50",
+    "42"
+   ],
+   "en": [
+    "40",
+    "60",
+    "50",
+    "42"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radiotulqin chastotasi 75 MHz. To'lqin uzunligi necha metr? (c = 3·10⁸ m/s)",
+   "ru": "Частота радиоволны 75 МГц. Чему равна длина волны (м)? (c = 3·10⁸ м/с)",
+   "en": "A radio wave has frequency 75 MHz. What is its wavelength (m)? (c = 3·10⁸ m/s)"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "2",
+    "9",
+    "14"
+   ],
+   "ru": [
+    "4",
+    "2",
+    "9",
+    "14"
+   ],
+   "en": [
+    "4",
+    "2",
+    "9",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 42 V, ichki qarshiligi 1 Ω, tashqi qarshilik 20 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 42 В, внутреннее сопротивление 1 Ом, внешнее 20 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 42 V, internal resistance 1 Ω and external resistance 20 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "9",
+    "7",
+    "12"
+   ],
+   "ru": [
+    "2",
+    "9",
+    "7",
+    "12"
+   ],
+   "en": [
+    "2",
+    "9",
+    "7",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 960 ta yemirilmagan yadro bor. t = 4T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 960 нераспавшихся ядер. Сколько ядер останется через время t = 4T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 960 undecayed nuclei. How many remain after t = 4T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "48",
+    "90",
+    "30"
+   ],
+   "ru": [
+    "60",
+    "48",
+    "90",
+    "30"
+   ],
+   "en": [
+    "60",
+    "48",
+    "90",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 8 sm, haqiqiy tasvirgacha 56 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 8 см, до действительного изображения 56 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 8 cm from the object and 56 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "21",
+    "17",
+    "4"
+   ],
+   "ru": [
+    "7",
+    "21",
+    "17",
+    "4"
+   ],
+   "en": [
+    "7",
+    "21",
+    "17",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 6 sm, haqiqiy tasvirgacha 30 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 6 см, до действительного изображения 30 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 6 cm from the object and 30 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "6",
+    "4",
+    "15"
+   ],
+   "ru": [
+    "5",
+    "6",
+    "4",
+    "15"
+   ],
+   "en": [
+    "5",
+    "6",
+    "4",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 7 sm, haqiqiy tasvirgacha 42 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 7 см, до действительного изображения 42 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 7 cm from the object and 42 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "7",
+    "16",
+    "9"
+   ],
+   "ru": [
+    "6",
+    "7",
+    "16",
+    "9"
+   ],
+   "en": [
+    "6",
+    "7",
+    "16",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 12 sm, haqiqiy tasvirgacha 60 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 12 см, до действительного изображения 60 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 12 cm from the object and 60 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "8",
+    "23",
+    "7"
+   ],
+   "ru": [
+    "10",
+    "8",
+    "23",
+    "7"
+   ],
+   "en": [
+    "10",
+    "8",
+    "23",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 6 sm, haqiqiy tasvirgacha 6 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 6 см, до действительного изображения 6 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 6 cm from the object and 6 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "6",
+    "5",
+    "1"
+   ],
+   "ru": [
+    "3",
+    "6",
+    "5",
+    "1"
+   ],
+   "en": [
+    "3",
+    "6",
+    "5",
+    "1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 240 ta yemirilmagan yadro bor. t = 1T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 240 нераспавшихся ядер. Сколько ядер останется через время t = 1T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 240 undecayed nuclei. How many remain after t = 1T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "120",
+    "90",
+    "180",
+    "60"
+   ],
+   "ru": [
+    "120",
+    "90",
+    "180",
+    "60"
+   ],
+   "en": [
+    "120",
+    "90",
+    "180",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 2 µC va 5 µC bir-biridan 5 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 2 мкКл и 5 мкКл находятся на расстоянии 5 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 2 µC and 5 µC are 5 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "36",
+    "27",
+    "54",
+    "18"
+   ],
+   "ru": [
+    "36",
+    "27",
+    "54",
+    "18"
+   ],
+   "en": [
+    "36",
+    "27",
+    "54",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 15 sm, haqiqiy tasvirgacha 30 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 15 см, до действительного изображения 30 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 15 cm from the object and 30 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "9",
+    "17",
+    "15"
+   ],
+   "ru": [
+    "10",
+    "9",
+    "17",
+    "15"
+   ],
+   "en": [
+    "10",
+    "9",
+    "17",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radiotulqin chastotasi 3 MHz. To'lqin uzunligi necha metr? (c = 3·10⁸ m/s)",
+   "ru": "Частота радиоволны 3 МГц. Чему равна длина волны (м)? (c = 3·10⁸ м/с)",
+   "en": "A radio wave has frequency 3 MHz. What is its wavelength (m)? (c = 3·10⁸ m/s)"
+  },
+  "o": {
+   "uz": [
+    "100",
+    "300",
+    "110",
+    "75"
+   ],
+   "ru": [
+    "100",
+    "300",
+    "110",
+    "75"
+   ],
+   "en": [
+    "100",
+    "300",
+    "110",
+    "75"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 14 sm, haqiqiy tasvirgacha 35 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 14 см, до действительного изображения 35 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 14 cm from the object and 35 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "8",
+    "11",
+    "13"
+   ],
+   "ru": [
+    "10",
+    "8",
+    "11",
+    "13"
+   ],
+   "en": [
+    "10",
+    "8",
+    "11",
+    "13"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 5 µC va 8 µC bir-biridan 3 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 5 мкКл и 8 мкКл находятся на расстоянии 3 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 5 µC and 8 µC are 3 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "400",
+    "200",
+    "300",
+    "800"
+   ],
+   "ru": [
+    "400",
+    "200",
+    "300",
+    "800"
+   ],
+   "en": [
+    "400",
+    "200",
+    "300",
+    "800"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 9 µC va 3 µC bir-biridan 3 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 9 мкКл и 3 мкКл находятся на расстоянии 3 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 9 µC and 3 µC are 3 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "270",
+    "135",
+    "284",
+    "256"
+   ],
+   "ru": [
+    "270",
+    "135",
+    "284",
+    "256"
+   ],
+   "en": [
+    "270",
+    "135",
+    "284",
+    "256"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 48 sm, haqiqiy tasvirgacha 48 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 48 см, до действительного изображения 48 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 48 cm from the object and 48 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "24",
+    "37",
+    "34",
+    "48"
+   ],
+   "ru": [
+    "24",
+    "37",
+    "34",
+    "48"
+   ],
+   "en": [
+    "24",
+    "37",
+    "34",
+    "48"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 110 V, ichki qarshiligi 2 Ω, tashqi qarshilik 20 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 110 В, внутреннее сопротивление 2 Ом, внешнее 20 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 110 V, internal resistance 2 Ω and external resistance 20 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "7",
+    "18",
+    "6"
+   ],
+   "ru": [
+    "5",
+    "7",
+    "18",
+    "6"
+   ],
+   "en": [
+    "5",
+    "7",
+    "18",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 6 µC va 6 µC bir-biridan 6 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 6 мкКл и 6 мкКл находятся на расстоянии 6 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 6 µC and 6 µC are 6 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "90",
+    "94",
+    "112",
+    "45"
+   ],
+   "ru": [
+    "90",
+    "94",
+    "112",
+    "45"
+   ],
+   "en": [
+    "90",
+    "94",
+    "112",
+    "45"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radiotulqin chastotasi 150 MHz. To'lqin uzunligi necha metr? (c = 3·10⁸ m/s)",
+   "ru": "Частота радиоволны 150 МГц. Чему равна длина волны (м)? (c = 3·10⁸ м/с)",
+   "en": "A radio wave has frequency 150 MHz. What is its wavelength (m)? (c = 3·10⁸ m/s)"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "1",
+    "3",
+    "6"
+   ],
+   "ru": [
+    "2",
+    "1",
+    "3",
+    "6"
+   ],
+   "en": [
+    "2",
+    "1",
+    "3",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 320 ta yemirilmagan yadro bor. t = 2T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 320 нераспавшихся ядер. Сколько ядер останется через время t = 2T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 320 undecayed nuclei. How many remain after t = 2T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "80",
+    "84",
+    "240",
+    "96"
+   ],
+   "ru": [
+    "80",
+    "84",
+    "240",
+    "96"
+   ],
+   "en": [
+    "80",
+    "84",
+    "240",
+    "96"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 85 V, ichki qarshiligi 3 Ω, tashqi qarshilik 14 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 85 В, внутреннее сопротивление 3 Ом, внешнее 14 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 85 V, internal resistance 3 Ω and external resistance 14 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "10",
+    "7",
+    "4"
+   ],
+   "ru": [
+    "5",
+    "10",
+    "7",
+    "4"
+   ],
+   "en": [
+    "5",
+    "10",
+    "7",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Radioaktiv namunada dastlab 80 ta yemirilmagan yadro bor. t = 3T vaqt (T — yarim yemirilish davri) o'tgach, nechta yemirilmagan yadro qoladi?",
+   "ru": "В радиоактивном образце сначала 80 нераспавшихся ядер. Сколько ядер останется через время t = 3T (T — период полураспада)?",
+   "en": "A radioactive sample initially has 80 undecayed nuclei. How many remain after t = 3T (T is the half-life)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "12",
+    "7",
+    "30"
+   ],
+   "ru": [
+    "10",
+    "12",
+    "7",
+    "30"
+   ],
+   "en": [
+    "10",
+    "12",
+    "7",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 5 µC va 8 µC bir-biridan 5 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 5 мкКл и 8 мкКл находятся на расстоянии 5 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 5 µC and 8 µC are 5 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "144",
+    "151",
+    "108",
+    "216"
+   ],
+   "ru": [
+    "144",
+    "151",
+    "108",
+    "216"
+   ],
+   "en": [
+    "144",
+    "151",
+    "108",
+    "216"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sig'imi 6 µF bo'lgan kondensator 220 V gacha zaryadlandi. Zaryadi necha µC?",
+   "ru": "Конденсатор ёмкостью 6 мкФ зарядили до 220 В. Чему равен заряд (мкКл)?",
+   "en": "A 6 µF capacitor is charged to 220 V. What is its charge (µC)?"
+  },
+  "o": {
+   "uz": [
+    "1320",
+    "990",
+    "660",
+    "1650"
+   ],
+   "ru": [
+    "1320",
+    "990",
+    "660",
+    "1650"
+   ],
+   "en": [
+    "1320",
+    "990",
+    "660",
+    "1650"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Linzadan predmetgacha masofa 27 sm, haqiqiy tasvirgacha 54 sm. Linzaning fokus masofasi necha sm?",
+   "ru": "Расстояние от линзы до предмета 27 см, до действительного изображения 54 см. Чему равно фокусное расстояние линзы (см)?",
+   "en": "A lens is 27 cm from the object and 54 cm from the real image. What is its focal length (cm)?"
+  },
+  "o": {
+   "uz": [
+    "18",
+    "25",
+    "20",
+    "31"
+   ],
+   "ru": [
+    "18",
+    "25",
+    "20",
+    "31"
+   ],
+   "en": [
+    "18",
+    "25",
+    "20",
+    "31"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikki nuqtaviy zaryad 3 µC va 7 µC bir-biridan 1 sm masofada joylashgan. O'zaro ta'sir kuchi necha N? (k = 9·10⁹ N·m²/C²)",
+   "ru": "Два точечных заряда 3 мкКл и 7 мкКл находятся на расстоянии 1 см. Чему равна сила взаимодействия (Н)? (k = 9·10⁹ Н·м²/Кл²)",
+   "en": "Two point charges of 3 µC and 7 µC are 1 cm apart. What is the force between them (N)? (k = 9·10⁹ N·m²/C²)"
+  },
+  "o": {
+   "uz": [
+    "1890",
+    "1418",
+    "1984",
+    "2362"
+   ],
+   "ru": [
+    "1890",
+    "1418",
+    "1984",
+    "2362"
+   ],
+   "en": [
+    "1890",
+    "1418",
+    "1984",
+    "2362"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sig'imi 4 µF bo'lgan kondensator 100 V gacha zaryadlandi. Zaryadi necha µC?",
+   "ru": "Конденсатор ёмкостью 4 мкФ зарядили до 100 В. Чему равен заряд (мкКл)?",
+   "en": "A 4 µF capacitor is charged to 100 V. What is its charge (µC)?"
+  },
+  "o": {
+   "uz": [
+    "400",
+    "600",
+    "480",
+    "360"
+   ],
+   "ru": [
+    "400",
+    "600",
+    "480",
+    "360"
+   ],
+   "en": [
+    "400",
+    "600",
+    "480",
+    "360"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Manbaning EYuK 100 V, ichki qarshiligi 2 Ω, tashqi qarshilik 18 Ω. Zanjirdagi tok kuchi necha A?",
+   "ru": "ЭДС источника 100 В, внутреннее сопротивление 2 Ом, внешнее 18 Ом. Чему равна сила тока в цепи (А)?",
+   "en": "A source has EMF 100 V, internal resistance 2 Ω and external resistance 18 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "6",
+    "7",
+    "4"
+   ],
+   "ru": [
+    "5",
+    "6",
+    "7",
+    "4"
+   ],
+   "en": [
+    "5",
+    "6",
+    "7",
+    "4"
+   ]
+  },
+  "a": 0
+ }
+]

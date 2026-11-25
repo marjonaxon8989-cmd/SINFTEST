@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Massasi 24 kg jism 27 m balandlikda turibdi. Potensial energiyasi necha J? (g = 10 m/s²)",
+   "ru": "Тело массой 24 кг находится на высоте 27 м. Чему равна потенциальная энергия (Дж)? (g = 10 м/с²)",
+   "en": "A 24 kg body is at a height of 27 m. What is its potential energy (J)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "6480",
+    "6804",
+    "7128",
+    "6156"
+   ],
+   "ru": [
+    "6480",
+    "6804",
+    "7128",
+    "6156"
+   ],
+   "en": [
+    "6480",
+    "6804",
+    "7128",
+    "6156"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 20 kg, tezligi 10 m/s bo'lgan jismning kinetik energiyasi necha J?",
+   "ru": "Чему равна кинетическая энергия тела массой 20 кг при скорости 10 м/с (Дж)?",
+   "en": "What is the kinetic energy of a 20 kg body moving at 10 m/s (J)?"
+  },
+  "o": {
+   "uz": [
+    "1000",
+    "1100",
+    "900",
+    "1200"
+   ],
+   "ru": [
+    "1000",
+    "1100",
+    "900",
+    "1200"
+   ],
+   "en": [
+    "1000",
+    "1100",
+    "900",
+    "1200"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 5 s davomida erkin tushdi. U necha metr balandlikdan tushgan? (g = 10 m/s²)",
+   "ru": "Тело свободно падало 5 с. С какой высоты (м) оно упало? (g = 10 м/с²)",
+   "en": "A body fell freely for 5 s. From what height (m) did it fall? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "125",
+    "156",
+    "250",
+    "131"
+   ],
+   "ru": [
+    "125",
+    "156",
+    "250",
+    "131"
+   ],
+   "en": [
+    "125",
+    "156",
+    "250",
+    "131"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 4 m/s, tezlanishi 6 m/s² bo'lgan jism 6 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 4 м/с и ускорением 6 м/с² за 6 с проходит сколько метров?",
+   "en": "A body with initial speed 4 m/s and acceleration 6 m/s² travels how many metres in 6 s?"
+  },
+  "o": {
+   "uz": [
+    "132",
+    "145",
+    "66",
+    "264"
+   ],
+   "ru": [
+    "132",
+    "145",
+    "66",
+    "264"
+   ],
+   "en": [
+    "132",
+    "145",
+    "66",
+    "264"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 46 kg, tezligi 28 m/s bo'lgan jismning impulsi necha kg·m/s?",
+   "ru": "Чему равен импульс тела массой 46 кг, движущегося со скоростью 28 м/с (кг·м/с)?",
+   "en": "What is the momentum of a 46 kg body moving at 28 m/s (kg·m/s)?"
+  },
+  "o": {
+   "uz": [
+    "1288",
+    "1932",
+    "1352",
+    "644"
+   ],
+   "ru": [
+    "1288",
+    "1932",
+    "1352",
+    "644"
+   ],
+   "en": [
+    "1288",
+    "1932",
+    "1352",
+    "644"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 2 kg, tezligi 25 m/s bo'lgan jismning impulsi necha kg·m/s?",
+   "ru": "Чему равен импульс тела массой 2 кг, движущегося со скоростью 25 м/с (кг·м/с)?",
+   "en": "What is the momentum of a 2 kg body moving at 25 m/s (kg·m/s)?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "25",
+    "52",
+    "150"
+   ],
+   "ru": [
+    "50",
+    "25",
+    "52",
+    "150"
+   ],
+   "en": [
+    "50",
+    "25",
+    "52",
+    "150"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 180 m balandlikdan erkin tushdi. Tushish vaqti necha s? (g = 10 m/s²)",
+   "ru": "Тело свободно падало с высоты 180 м. Сколько секунд длилось падение? (g = 10 м/с²)",
+   "en": "A body fell freely from a height of 180 m. How long did the fall take (s)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "19",
+    "12",
+    "9"
+   ],
+   "ru": [
+    "6",
+    "19",
+    "12",
+    "9"
+   ],
+   "en": [
+    "6",
+    "19",
+    "12",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 41 kg bo'lgan jismga 2 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 41 кг ускорение 2 м/с² (Н)?",
+   "en": "What force gives a body of mass 41 kg an acceleration of 2 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "82",
+    "90",
+    "74",
+    "246"
+   ],
+   "ru": [
+    "82",
+    "90",
+    "74",
+    "246"
+   ],
+   "en": [
+    "82",
+    "90",
+    "74",
+    "246"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 5 m balandlikdan erkin tushdi. Tushish vaqti necha s? (g = 10 m/s²)",
+   "ru": "Тело свободно падало с высоты 5 м. Сколько секунд длилось падение? (g = 10 м/с²)",
+   "en": "A body fell freely from a height of 5 m. How long did the fall take (s)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "3",
+    "2",
+    "11"
+   ],
+   "ru": [
+    "1",
+    "3",
+    "2",
+    "11"
+   ],
+   "en": [
+    "1",
+    "3",
+    "2",
+    "11"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 42 kg bo'lgan jismga 3 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 42 кг ускорение 3 м/с² (Н)?",
+   "en": "What force gives a body of mass 42 kg an acceleration of 3 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "126",
+    "63",
+    "378",
+    "189"
+   ],
+   "ru": [
+    "126",
+    "63",
+    "378",
+    "189"
+   ],
+   "en": [
+    "126",
+    "63",
+    "378",
+    "189"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 6 kg bo'lgan jismga 9 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 6 кг ускорение 9 м/с² (Н)?",
+   "en": "What force gives a body of mass 6 kg an acceleration of 9 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "54",
+    "57",
+    "40",
+    "59"
+   ],
+   "ru": [
+    "54",
+    "57",
+    "40",
+    "59"
+   ],
+   "en": [
+    "54",
+    "57",
+    "40",
+    "59"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 8 kg jism 22 m balandlikda turibdi. Potensial energiyasi necha J? (g = 10 m/s²)",
+   "ru": "Тело массой 8 кг находится на высоте 22 м. Чему равна потенциальная энергия (Дж)? (g = 10 м/с²)",
+   "en": "A 8 kg body is at a height of 22 m. What is its potential energy (J)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "1760",
+    "2200",
+    "1320",
+    "3520"
+   ],
+   "ru": [
+    "1760",
+    "2200",
+    "1320",
+    "3520"
+   ],
+   "en": [
+    "1760",
+    "2200",
+    "1320",
+    "3520"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 23 kg bo'lgan jismga 1 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 23 кг ускорение 1 м/с² (Н)?",
+   "en": "What force gives a body of mass 23 kg an acceleration of 1 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "23",
+    "34",
+    "25",
+    "30"
+   ],
+   "ru": [
+    "23",
+    "34",
+    "25",
+    "30"
+   ],
+   "en": [
+    "23",
+    "34",
+    "25",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 19 kg, tezligi 2 m/s bo'lgan jismning kinetik energiyasi necha J?",
+   "ru": "Чему равна кинетическая энергия тела массой 19 кг при скорости 2 м/с (Дж)?",
+   "en": "What is the kinetic energy of a 19 kg body moving at 2 m/s (J)?"
+  },
+  "o": {
+   "uz": [
+    "38",
+    "28",
+    "34",
+    "19"
+   ],
+   "ru": [
+    "38",
+    "28",
+    "34",
+    "19"
+   ],
+   "en": [
+    "38",
+    "28",
+    "34",
+    "19"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 15 kg, tezligi 10 m/s bo'lgan jismning kinetik energiyasi necha J?",
+   "ru": "Чему равна кинетическая энергия тела массой 15 кг при скорости 10 м/с (Дж)?",
+   "en": "What is the kinetic energy of a 15 kg body moving at 10 m/s (J)?"
+  },
+  "o": {
+   "uz": [
+    "750",
+    "938",
+    "900",
+    "600"
+   ],
+   "ru": [
+    "750",
+    "938",
+    "900",
+    "600"
+   ],
+   "en": [
+    "750",
+    "938",
+    "900",
+    "600"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 3 m/s, tezlanishi 5 m/s² bo'lgan jism 10 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 3 м/с и ускорением 5 м/с² за 10 с проходит сколько метров?",
+   "en": "A body with initial speed 3 m/s and acceleration 5 m/s² travels how many metres in 10 s?"
+  },
+  "o": {
+   "uz": [
+    "280",
+    "252",
+    "308",
+    "840"
+   ],
+   "ru": [
+    "280",
+    "252",
+    "308",
+    "840"
+   ],
+   "en": [
+    "280",
+    "252",
+    "308",
+    "840"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 1 kg bo'lgan jismga 8 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 1 кг ускорение 8 м/с² (Н)?",
+   "en": "What force gives a body of mass 1 kg an acceleration of 8 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "18",
+    "6",
+    "5"
+   ],
+   "ru": [
+    "8",
+    "18",
+    "6",
+    "5"
+   ],
+   "en": [
+    "8",
+    "18",
+    "6",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 33 kg jism 14 m balandlikda turibdi. Potensial energiyasi necha J? (g = 10 m/s²)",
+   "ru": "Тело массой 33 кг находится на высоте 14 м. Чему равна потенциальная энергия (Дж)? (g = 10 м/с²)",
+   "en": "A 33 kg body is at a height of 14 m. What is its potential energy (J)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "4620",
+    "13860",
+    "9240",
+    "2310"
+   ],
+   "ru": [
+    "4620",
+    "13860",
+    "9240",
+    "2310"
+   ],
+   "en": [
+    "4620",
+    "13860",
+    "9240",
+    "2310"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 7 m/s, tezlanishi 2 m/s² bo'lgan jism 4 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 7 м/с и ускорением 2 м/с² за 4 с проходит сколько метров?",
+   "en": "A body with initial speed 7 m/s and acceleration 2 m/s² travels how many metres in 4 s?"
+  },
+  "o": {
+   "uz": [
+    "44",
+    "42",
+    "132",
+    "22"
+   ],
+   "ru": [
+    "44",
+    "42",
+    "132",
+    "22"
+   ],
+   "en": [
+    "44",
+    "42",
+    "132",
+    "22"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 19 kg bo'lgan jismga 1 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 19 кг ускорение 1 м/с² (Н)?",
+   "en": "What force gives a body of mass 19 kg an acceleration of 1 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "19",
+    "22",
+    "28",
+    "24"
+   ],
+   "ru": [
+    "19",
+    "22",
+    "28",
+    "24"
+   ],
+   "en": [
+    "19",
+    "22",
+    "28",
+    "24"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 8 kg bo'lgan jismga 2 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 8 кг ускорение 2 м/с² (Н)?",
+   "en": "What force gives a body of mass 8 kg an acceleration of 2 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "13",
+    "14",
+    "32"
+   ],
+   "ru": [
+    "16",
+    "13",
+    "14",
+    "32"
+   ],
+   "en": [
+    "16",
+    "13",
+    "14",
+    "32"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 10 m/s, tezlanishi 4 m/s² bo'lgan jism 8 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 10 м/с и ускорением 4 м/с² за 8 с проходит сколько метров?",
+   "en": "A body with initial speed 10 m/s and acceleration 4 m/s² travels how many metres in 8 s?"
+  },
+  "o": {
+   "uz": [
+    "208",
+    "166",
+    "416",
+    "218"
+   ],
+   "ru": [
+    "208",
+    "166",
+    "416",
+    "218"
+   ],
+   "en": [
+    "208",
+    "166",
+    "416",
+    "218"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 8 s davomida erkin tushdi. U necha metr balandlikdan tushgan? (g = 10 m/s²)",
+   "ru": "Тело свободно падало 8 с. С какой высоты (м) оно упало? (g = 10 м/с²)",
+   "en": "A body fell freely for 8 s. From what height (m) did it fall? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "320",
+    "336",
+    "256",
+    "288"
+   ],
+   "ru": [
+    "320",
+    "336",
+    "256",
+    "288"
+   ],
+   "en": [
+    "320",
+    "336",
+    "256",
+    "288"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 10 m/s, tezlanishi 2 m/s² bo'lgan jism 10 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 10 м/с и ускорением 2 м/с² за 10 с проходит сколько метров?",
+   "en": "A body with initial speed 10 m/s and acceleration 2 m/s² travels how many metres in 10 s?"
+  },
+  "o": {
+   "uz": [
+    "200",
+    "600",
+    "150",
+    "300"
+   ],
+   "ru": [
+    "200",
+    "600",
+    "150",
+    "300"
+   ],
+   "en": [
+    "200",
+    "600",
+    "150",
+    "300"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 14 kg, tezligi 19 m/s bo'lgan jismning impulsi necha kg·m/s?",
+   "ru": "Чему равен импульс тела массой 14 кг, движущегося со скоростью 19 м/с (кг·м/с)?",
+   "en": "What is the momentum of a 14 kg body moving at 19 m/s (kg·m/s)?"
+  },
+  "o": {
+   "uz": [
+    "266",
+    "213",
+    "532",
+    "293"
+   ],
+   "ru": [
+    "266",
+    "213",
+    "532",
+    "293"
+   ],
+   "en": [
+    "266",
+    "213",
+    "532",
+    "293"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jismning boshlang'ich tezligi 0 m/s, tezlanishi 1 m/s². 9 s dan keyin tezligi necha m/s bo'ladi?",
+   "ru": "Начальная скорость тела 0 м/с, ускорение 1 м/с². Какой будет скорость через 9 с (м/с)?",
+   "en": "A body has initial speed 0 m/s and acceleration 1 m/s². What is its speed after 9 s (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "9",
+    "12",
+    "6",
+    "13"
+   ],
+   "ru": [
+    "9",
+    "12",
+    "6",
+    "13"
+   ],
+   "en": [
+    "9",
+    "12",
+    "6",
+    "13"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 6 kg, tezligi 7 m/s bo'lgan jismning kinetik energiyasi necha J?",
+   "ru": "Чему равна кинетическая энергия тела массой 6 кг при скорости 7 м/с (Дж)?",
+   "en": "What is the kinetic energy of a 6 kg body moving at 7 m/s (J)?"
+  },
+  "o": {
+   "uz": [
+    "147",
+    "162",
+    "176",
+    "184"
+   ],
+   "ru": [
+    "147",
+    "162",
+    "176",
+    "184"
+   ],
+   "en": [
+    "147",
+    "162",
+    "176",
+    "184"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 6 kg, tezligi 14 m/s bo'lgan jismning kinetik energiyasi necha J?",
+   "ru": "Чему равна кинетическая энергия тела массой 6 кг при скорости 14 м/с (Дж)?",
+   "en": "What is the kinetic energy of a 6 kg body moving at 14 m/s (J)?"
+  },
+  "o": {
+   "uz": [
+    "588",
+    "706",
+    "882",
+    "294"
+   ],
+   "ru": [
+    "588",
+    "706",
+    "882",
+    "294"
+   ],
+   "en": [
+    "588",
+    "706",
+    "882",
+    "294"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "14 N kuch ta'sirida jism kuch yo'nalishida 15 m ko'chdi. Bajarilgan ish necha J?",
+   "ru": "Под действием силы 14 Н тело переместилось на 15 м по направлению силы. Какая работа совершена (Дж)?",
+   "en": "Under a force of 14 N a body moved 15 m along the force. How much work was done (J)?"
+  },
+  "o": {
+   "uz": [
+    "210",
+    "158",
+    "231",
+    "630"
+   ],
+   "ru": [
+    "210",
+    "158",
+    "231",
+    "630"
+   ],
+   "en": [
+    "210",
+    "158",
+    "231",
+    "630"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 3 kg jism 14 m balandlikda turibdi. Potensial energiyasi necha J? (g = 10 m/s²)",
+   "ru": "Тело массой 3 кг находится на высоте 14 м. Чему равна потенциальная энергия (Дж)? (g = 10 м/с²)",
+   "en": "A 3 kg body is at a height of 14 m. What is its potential energy (J)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "420",
+    "210",
+    "336",
+    "525"
+   ],
+   "ru": [
+    "420",
+    "210",
+    "336",
+    "525"
+   ],
+   "en": [
+    "420",
+    "210",
+    "336",
+    "525"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 500 m balandlikdan erkin tushdi. Tushish vaqti necha s? (g = 10 m/s²)",
+   "ru": "Тело свободно падало с высоты 500 м. Сколько секунд длилось падение? (g = 10 м/с²)",
+   "en": "A body fell freely from a height of 500 m. How long did the fall take (s)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "20",
+    "0",
+    "8"
+   ],
+   "ru": [
+    "10",
+    "20",
+    "0",
+    "8"
+   ],
+   "en": [
+    "10",
+    "20",
+    "0",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 6 kg, tezligi 6 m/s bo'lgan jismning impulsi necha kg·m/s?",
+   "ru": "Чему равен импульс тела массой 6 кг, движущегося со скоростью 6 м/с (кг·м/с)?",
+   "en": "What is the momentum of a 6 kg body moving at 6 m/s (kg·m/s)?"
+  },
+  "o": {
+   "uz": [
+    "36",
+    "45",
+    "18",
+    "108"
+   ],
+   "ru": [
+    "36",
+    "45",
+    "18",
+    "108"
+   ],
+   "en": [
+    "36",
+    "45",
+    "18",
+    "108"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jismning boshlang'ich tezligi 2 m/s, tezlanishi 5 m/s². 4 s dan keyin tezligi necha m/s bo'ladi?",
+   "ru": "Начальная скорость тела 2 м/с, ускорение 5 м/с². Какой будет скорость через 4 с (м/с)?",
+   "en": "A body has initial speed 2 m/s and acceleration 5 m/s². What is its speed after 4 s (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "22",
+    "20",
+    "27",
+    "32"
+   ],
+   "ru": [
+    "22",
+    "20",
+    "27",
+    "32"
+   ],
+   "en": [
+    "22",
+    "20",
+    "27",
+    "32"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 8 m/s, tezlanishi 5 m/s² bo'lgan jism 6 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 8 м/с и ускорением 5 м/с² за 6 с проходит сколько метров?",
+   "en": "A body with initial speed 8 m/s and acceleration 5 m/s² travels how many metres in 6 s?"
+  },
+  "o": {
+   "uz": [
+    "138",
+    "110",
+    "131",
+    "104"
+   ],
+   "ru": [
+    "138",
+    "110",
+    "131",
+    "104"
+   ],
+   "en": [
+    "138",
+    "110",
+    "131",
+    "104"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jismning boshlang'ich tezligi 8 m/s, tezlanishi 1 m/s². 7 s dan keyin tezligi necha m/s bo'ladi?",
+   "ru": "Начальная скорость тела 8 м/с, ускорение 1 м/с². Какой будет скорость через 7 с (м/с)?",
+   "en": "A body has initial speed 8 m/s and acceleration 1 m/s². What is its speed after 7 s (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "15",
+    "22",
+    "45",
+    "16"
+   ],
+   "ru": [
+    "15",
+    "22",
+    "45",
+    "16"
+   ],
+   "en": [
+    "15",
+    "22",
+    "45",
+    "16"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 44 kg bo'lgan jismga 8 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 44 кг ускорение 8 м/с² (Н)?",
+   "en": "What force gives a body of mass 44 kg an acceleration of 8 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "352",
+    "282",
+    "1056",
+    "704"
+   ],
+   "ru": [
+    "352",
+    "282",
+    "1056",
+    "704"
+   ],
+   "en": [
+    "352",
+    "282",
+    "1056",
+    "704"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 0 m/s, tezlanishi 2 m/s² bo'lgan jism 2 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 0 м/с и ускорением 2 м/с² за 2 с проходит сколько метров?",
+   "en": "A body with initial speed 0 m/s and acceleration 2 m/s² travels how many metres in 2 s?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "2",
+    "5",
+    "6"
+   ],
+   "ru": [
+    "4",
+    "2",
+    "5",
+    "6"
+   ],
+   "en": [
+    "4",
+    "2",
+    "5",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 29 kg jism 7 m balandlikda turibdi. Potensial energiyasi necha J? (g = 10 m/s²)",
+   "ru": "Тело массой 29 кг находится на высоте 7 м. Чему равна потенциальная энергия (Дж)? (g = 10 м/с²)",
+   "en": "A 29 kg body is at a height of 7 m. What is its potential energy (J)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "2030",
+    "2436",
+    "2233",
+    "2538"
+   ],
+   "ru": [
+    "2030",
+    "2436",
+    "2233",
+    "2538"
+   ],
+   "en": [
+    "2030",
+    "2436",
+    "2233",
+    "2538"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 405 m balandlikdan erkin tushdi. Tushish vaqti necha s? (g = 10 m/s²)",
+   "ru": "Тело свободно падало с высоты 405 м. Сколько секунд длилось падение? (g = 10 м/с²)",
+   "en": "A body fell freely from a height of 405 m. How long did the fall take (s)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "9",
+    "4",
+    "5",
+    "11"
+   ],
+   "ru": [
+    "9",
+    "4",
+    "5",
+    "11"
+   ],
+   "en": [
+    "9",
+    "4",
+    "5",
+    "11"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 8 kg, tezligi 3 m/s bo'lgan jismning kinetik energiyasi necha J?",
+   "ru": "Чему равна кинетическая энергия тела массой 8 кг при скорости 3 м/с (Дж)?",
+   "en": "What is the kinetic energy of a 8 kg body moving at 3 m/s (J)?"
+  },
+  "o": {
+   "uz": [
+    "36",
+    "34",
+    "38",
+    "40"
+   ],
+   "ru": [
+    "36",
+    "34",
+    "38",
+    "40"
+   ],
+   "en": [
+    "36",
+    "34",
+    "38",
+    "40"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 39 kg jism 23 m balandlikda turibdi. Potensial energiyasi necha J? (g = 10 m/s²)",
+   "ru": "Тело массой 39 кг находится на высоте 23 м. Чему равна потенциальная энергия (Дж)? (g = 10 м/с²)",
+   "en": "A 39 kg body is at a height of 23 m. What is its potential energy (J)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "8970",
+    "4485",
+    "10764",
+    "13455"
+   ],
+   "ru": [
+    "8970",
+    "4485",
+    "10764",
+    "13455"
+   ],
+   "en": [
+    "8970",
+    "4485",
+    "10764",
+    "13455"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 28 kg jism 27 m balandlikda turibdi. Potensial energiyasi necha J? (g = 10 m/s²)",
+   "ru": "Тело массой 28 кг находится на высоте 27 м. Чему равна потенциальная энергия (Дж)? (g = 10 м/с²)",
+   "en": "A 28 kg body is at a height of 27 m. What is its potential energy (J)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "7560",
+    "5670",
+    "6804",
+    "11340"
+   ],
+   "ru": [
+    "7560",
+    "5670",
+    "6804",
+    "11340"
+   ],
+   "en": [
+    "7560",
+    "5670",
+    "6804",
+    "11340"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "14 N kuch ta'sirida jism kuch yo'nalishida 12 m ko'chdi. Bajarilgan ish necha J?",
+   "ru": "Под действием силы 14 Н тело переместилось на 12 м по направлению силы. Какая работа совершена (Дж)?",
+   "en": "Under a force of 14 N a body moved 12 m along the force. How much work was done (J)?"
+  },
+  "o": {
+   "uz": [
+    "168",
+    "336",
+    "160",
+    "126"
+   ],
+   "ru": [
+    "168",
+    "336",
+    "160",
+    "126"
+   ],
+   "en": [
+    "168",
+    "336",
+    "160",
+    "126"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 40 kg, tezligi 24 m/s bo'lgan jismning impulsi necha kg·m/s?",
+   "ru": "Чему равен импульс тела массой 40 кг, движущегося со скоростью 24 м/с (кг·м/с)?",
+   "en": "What is the momentum of a 40 kg body moving at 24 m/s (kg·m/s)?"
+  },
+  "o": {
+   "uz": [
+    "960",
+    "1440",
+    "1200",
+    "480"
+   ],
+   "ru": [
+    "960",
+    "1440",
+    "1200",
+    "480"
+   ],
+   "en": [
+    "960",
+    "1440",
+    "1200",
+    "480"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 34 kg, tezligi 29 m/s bo'lgan jismning impulsi necha kg·m/s?",
+   "ru": "Чему равен импульс тела массой 34 кг, движущегося со скоростью 29 м/с (кг·м/с)?",
+   "en": "What is the momentum of a 34 kg body moving at 29 m/s (kg·m/s)?"
+  },
+  "o": {
+   "uz": [
+    "986",
+    "740",
+    "1183",
+    "1232"
+   ],
+   "ru": [
+    "986",
+    "740",
+    "1183",
+    "1232"
+   ],
+   "en": [
+    "986",
+    "740",
+    "1183",
+    "1232"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 24 kg jism 30 m balandlikda turibdi. Potensial energiyasi necha J? (g = 10 m/s²)",
+   "ru": "Тело массой 24 кг находится на высоте 30 м. Чему равна потенциальная энергия (Дж)? (g = 10 м/с²)",
+   "en": "A 24 kg body is at a height of 30 m. What is its potential energy (J)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "7200",
+    "10800",
+    "8640",
+    "7920"
+   ],
+   "ru": [
+    "7200",
+    "10800",
+    "8640",
+    "7920"
+   ],
+   "en": [
+    "7200",
+    "10800",
+    "8640",
+    "7920"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 11 kg bo'lgan jismga 8 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 11 кг ускорение 8 м/с² (Н)?",
+   "en": "What force gives a body of mass 11 kg an acceleration of 8 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "88",
+    "92",
+    "79",
+    "176"
+   ],
+   "ru": [
+    "88",
+    "92",
+    "79",
+    "176"
+   ],
+   "en": [
+    "88",
+    "92",
+    "79",
+    "176"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "32 N kuch ta'sirida jism kuch yo'nalishida 7 m ko'chdi. Bajarilgan ish necha J?",
+   "ru": "Под действием силы 32 Н тело переместилось на 7 м по направлению силы. Какая работа совершена (Дж)?",
+   "en": "Under a force of 32 N a body moved 7 m along the force. How much work was done (J)?"
+  },
+  "o": {
+   "uz": [
+    "224",
+    "448",
+    "112",
+    "179"
+   ],
+   "ru": [
+    "224",
+    "448",
+    "112",
+    "179"
+   ],
+   "en": [
+    "224",
+    "448",
+    "112",
+    "179"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 25 kg jism 3 m balandlikda turibdi. Potensial energiyasi necha J? (g = 10 m/s²)",
+   "ru": "Тело массой 25 кг находится на высоте 3 м. Чему равна потенциальная энергия (Дж)? (g = 10 м/с²)",
+   "en": "A 25 kg body is at a height of 3 m. What is its potential energy (J)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "750",
+    "900",
+    "825",
+    "1500"
+   ],
+   "ru": [
+    "750",
+    "900",
+    "825",
+    "1500"
+   ],
+   "en": [
+    "750",
+    "900",
+    "825",
+    "1500"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 45 m balandlikdan erkin tushdi. Tushish vaqti necha s? (g = 10 m/s²)",
+   "ru": "Тело свободно падало с высоты 45 м. Сколько секунд длилось падение? (g = 10 м/с²)",
+   "en": "A body fell freely from a height of 45 m. How long did the fall take (s)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "5",
+    "9",
+    "16"
+   ],
+   "ru": [
+    "3",
+    "5",
+    "9",
+    "16"
+   ],
+   "en": [
+    "3",
+    "5",
+    "9",
+    "16"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 23 kg jism 4 m balandlikda turibdi. Potensial energiyasi necha J? (g = 10 m/s²)",
+   "ru": "Тело массой 23 кг находится на высоте 4 м. Чему равна потенциальная энергия (Дж)? (g = 10 м/с²)",
+   "en": "A 23 kg body is at a height of 4 m. What is its potential energy (J)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "920",
+    "2760",
+    "828",
+    "690"
+   ],
+   "ru": [
+    "920",
+    "2760",
+    "828",
+    "690"
+   ],
+   "en": [
+    "920",
+    "2760",
+    "828",
+    "690"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 6 kg jism 1 m balandlikda turibdi. Potensial energiyasi necha J? (g = 10 m/s²)",
+   "ru": "Тело массой 6 кг находится на высоте 1 м. Чему равна потенциальная энергия (Дж)? (g = 10 м/с²)",
+   "en": "A 6 kg body is at a height of 1 m. What is its potential energy (J)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "57",
+    "54",
+    "120"
+   ],
+   "ru": [
+    "60",
+    "57",
+    "54",
+    "120"
+   ],
+   "en": [
+    "60",
+    "57",
+    "54",
+    "120"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 6 kg, tezligi 17 m/s bo'lgan jismning kinetik energiyasi necha J?",
+   "ru": "Чему равна кинетическая энергия тела массой 6 кг при скорости 17 м/с (Дж)?",
+   "en": "What is the kinetic energy of a 6 kg body moving at 17 m/s (J)?"
+  },
+  "o": {
+   "uz": [
+    "867",
+    "1084",
+    "1040",
+    "954"
+   ],
+   "ru": [
+    "867",
+    "1084",
+    "1040",
+    "954"
+   ],
+   "en": [
+    "867",
+    "1084",
+    "1040",
+    "954"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 1 m/s, tezlanishi 2 m/s² bo'lgan jism 3 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 1 м/с и ускорением 2 м/с² за 3 с проходит сколько метров?",
+   "en": "A body with initial speed 1 m/s and acceleration 2 m/s² travels how many metres in 3 s?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "19",
+    "6",
+    "11"
+   ],
+   "ru": [
+    "12",
+    "19",
+    "6",
+    "11"
+   ],
+   "en": [
+    "12",
+    "19",
+    "6",
+    "11"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 9 kg, tezligi 4 m/s bo'lgan jismning kinetik energiyasi necha J?",
+   "ru": "Чему равна кинетическая энергия тела массой 9 кг при скорости 4 м/с (Дж)?",
+   "en": "What is the kinetic energy of a 9 kg body moving at 4 m/s (J)?"
+  },
+  "o": {
+   "uz": [
+    "72",
+    "144",
+    "86",
+    "76"
+   ],
+   "ru": [
+    "72",
+    "144",
+    "86",
+    "76"
+   ],
+   "en": [
+    "72",
+    "144",
+    "86",
+    "76"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 2 m/s, tezlanishi 6 m/s² bo'lgan jism 10 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 2 м/с и ускорением 6 м/с² за 10 с проходит сколько метров?",
+   "en": "A body with initial speed 2 m/s and acceleration 6 m/s² travels how many metres in 10 s?"
+  },
+  "o": {
+   "uz": [
+    "320",
+    "160",
+    "480",
+    "384"
+   ],
+   "ru": [
+    "320",
+    "160",
+    "480",
+    "384"
+   ],
+   "en": [
+    "320",
+    "160",
+    "480",
+    "384"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 0 m/s, tezlanishi 6 m/s² bo'lgan jism 6 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 0 м/с и ускорением 6 м/с² за 6 с проходит сколько метров?",
+   "en": "A body with initial speed 0 m/s and acceleration 6 m/s² travels how many metres in 6 s?"
+  },
+  "o": {
+   "uz": [
+    "108",
+    "97",
+    "54",
+    "86"
+   ],
+   "ru": [
+    "108",
+    "97",
+    "54",
+    "86"
+   ],
+   "en": [
+    "108",
+    "97",
+    "54",
+    "86"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 5 m/s, tezlanishi 2 m/s² bo'lgan jism 5 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 5 м/с и ускорением 2 м/с² за 5 с проходит сколько метров?",
+   "en": "A body with initial speed 5 m/s and acceleration 2 m/s² travels how many metres in 5 s?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "52",
+    "60",
+    "38"
+   ],
+   "ru": [
+    "50",
+    "52",
+    "60",
+    "38"
+   ],
+   "en": [
+    "50",
+    "52",
+    "60",
+    "38"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 1 m/s, tezlanishi 6 m/s² bo'lgan jism 9 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 1 м/с и ускорением 6 м/с² за 9 с проходит сколько метров?",
+   "en": "A body with initial speed 1 m/s and acceleration 6 m/s² travels how many metres in 9 s?"
+  },
+  "o": {
+   "uz": [
+    "252",
+    "265",
+    "189",
+    "277"
+   ],
+   "ru": [
+    "252",
+    "265",
+    "189",
+    "277"
+   ],
+   "en": [
+    "252",
+    "265",
+    "189",
+    "277"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 18 kg bo'lgan jismga 7 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 18 кг ускорение 7 м/с² (Н)?",
+   "en": "What force gives a body of mass 18 kg an acceleration of 7 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "126",
+    "94",
+    "63",
+    "101"
+   ],
+   "ru": [
+    "126",
+    "94",
+    "63",
+    "101"
+   ],
+   "en": [
+    "126",
+    "94",
+    "63",
+    "101"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 33 kg bo'lgan jismga 6 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 33 кг ускорение 6 м/с² (Н)?",
+   "en": "What force gives a body of mass 33 kg an acceleration of 6 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "198",
+    "396",
+    "297",
+    "238"
+   ],
+   "ru": [
+    "198",
+    "396",
+    "297",
+    "238"
+   ],
+   "en": [
+    "198",
+    "396",
+    "297",
+    "238"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "29 N kuch ta'sirida jism kuch yo'nalishida 4 m ko'chdi. Bajarilgan ish necha J?",
+   "ru": "Под действием силы 29 Н тело переместилось на 4 м по направлению силы. Какая работа совершена (Дж)?",
+   "en": "Under a force of 29 N a body moved 4 m along the force. How much work was done (J)?"
+  },
+  "o": {
+   "uz": [
+    "116",
+    "104",
+    "174",
+    "58"
+   ],
+   "ru": [
+    "116",
+    "104",
+    "174",
+    "58"
+   ],
+   "en": [
+    "116",
+    "104",
+    "174",
+    "58"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 0 m/s, tezlanishi 5 m/s² bo'lgan jism 4 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 0 м/с и ускорением 5 м/с² за 4 с проходит сколько метров?",
+   "en": "A body with initial speed 0 m/s and acceleration 5 m/s² travels how many metres in 4 s?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "32",
+    "36",
+    "50"
+   ],
+   "ru": [
+    "40",
+    "32",
+    "36",
+    "50"
+   ],
+   "en": [
+    "40",
+    "32",
+    "36",
+    "50"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jismning boshlang'ich tezligi 10 m/s, tezlanishi 1 m/s². 5 s dan keyin tezligi necha m/s bo'ladi?",
+   "ru": "Начальная скорость тела 10 м/с, ускорение 1 м/с². Какой будет скорость через 5 с (м/с)?",
+   "en": "A body has initial speed 10 m/s and acceleration 1 m/s². What is its speed after 5 s (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "15",
+    "30",
+    "25",
+    "5"
+   ],
+   "ru": [
+    "15",
+    "30",
+    "25",
+    "5"
+   ],
+   "en": [
+    "15",
+    "30",
+    "25",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 25 kg bo'lgan jismga 6 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 25 кг ускорение 6 м/с² (Н)?",
+   "en": "What force gives a body of mass 25 kg an acceleration of 6 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "150",
+    "300",
+    "158",
+    "75"
+   ],
+   "ru": [
+    "150",
+    "300",
+    "158",
+    "75"
+   ],
+   "en": [
+    "150",
+    "300",
+    "158",
+    "75"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 45 kg, tezligi 25 m/s bo'lgan jismning impulsi necha kg·m/s?",
+   "ru": "Чему равен импульс тела массой 45 кг, движущегося со скоростью 25 м/с (кг·м/с)?",
+   "en": "What is the momentum of a 45 kg body moving at 25 m/s (kg·m/s)?"
+  },
+  "o": {
+   "uz": [
+    "1125",
+    "1687",
+    "1406",
+    "1013"
+   ],
+   "ru": [
+    "1125",
+    "1687",
+    "1406",
+    "1013"
+   ],
+   "en": [
+    "1125",
+    "1687",
+    "1406",
+    "1013"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 20 kg, tezligi 19 m/s bo'lgan jismning kinetik energiyasi necha J?",
+   "ru": "Чему равна кинетическая энергия тела массой 20 кг при скорости 19 м/с (Дж)?",
+   "en": "What is the kinetic energy of a 20 kg body moving at 19 m/s (J)?"
+  },
+  "o": {
+   "uz": [
+    "3610",
+    "4332",
+    "4512",
+    "5415"
+   ],
+   "ru": [
+    "3610",
+    "4332",
+    "4512",
+    "5415"
+   ],
+   "en": [
+    "3610",
+    "4332",
+    "4512",
+    "5415"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 15 kg, tezligi 6 m/s bo'lgan jismning impulsi necha kg·m/s?",
+   "ru": "Чему равен импульс тела массой 15 кг, движущегося со скоростью 6 м/с (кг·м/с)?",
+   "en": "What is the momentum of a 15 kg body moving at 6 m/s (kg·m/s)?"
+  },
+  "o": {
+   "uz": [
+    "90",
+    "270",
+    "94",
+    "99"
+   ],
+   "ru": [
+    "90",
+    "270",
+    "94",
+    "99"
+   ],
+   "en": [
+    "90",
+    "270",
+    "94",
+    "99"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 N kuch ta'sirida jism kuch yo'nalishida 21 m ko'chdi. Bajarilgan ish necha J?",
+   "ru": "Под действием силы 2 Н тело переместилось на 21 м по направлению силы. Какая работа совершена (Дж)?",
+   "en": "Under a force of 2 N a body moved 21 m along the force. How much work was done (J)?"
+  },
+  "o": {
+   "uz": [
+    "42",
+    "63",
+    "126",
+    "44"
+   ],
+   "ru": [
+    "42",
+    "63",
+    "126",
+    "44"
+   ],
+   "en": [
+    "42",
+    "63",
+    "126",
+    "44"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 5 kg, tezligi 2 m/s bo'lgan jismning impulsi necha kg·m/s?",
+   "ru": "Чему равен импульс тела массой 5 кг, движущегося со скоростью 2 м/с (кг·м/с)?",
+   "en": "What is the momentum of a 5 kg body moving at 2 m/s (kg·m/s)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "9",
+    "17",
+    "20"
+   ],
+   "ru": [
+    "10",
+    "9",
+    "17",
+    "20"
+   ],
+   "en": [
+    "10",
+    "9",
+    "17",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jismning boshlang'ich tezligi 7 m/s, tezlanishi 4 m/s². 2 s dan keyin tezligi necha m/s bo'ladi?",
+   "ru": "Начальная скорость тела 7 м/с, ускорение 4 м/с². Какой будет скорость через 2 с (м/с)?",
+   "en": "A body has initial speed 7 m/s and acceleration 4 m/s². What is its speed after 2 s (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "15",
+    "22",
+    "28",
+    "13"
+   ],
+   "ru": [
+    "15",
+    "22",
+    "28",
+    "13"
+   ],
+   "en": [
+    "15",
+    "22",
+    "28",
+    "13"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "11 N kuch ta'sirida jism kuch yo'nalishida 5 m ko'chdi. Bajarilgan ish necha J?",
+   "ru": "Под действием силы 11 Н тело переместилось на 5 м по направлению силы. Какая работа совершена (Дж)?",
+   "en": "Under a force of 11 N a body moved 5 m along the force. How much work was done (J)?"
+  },
+  "o": {
+   "uz": [
+    "55",
+    "58",
+    "41",
+    "49"
+   ],
+   "ru": [
+    "55",
+    "58",
+    "41",
+    "49"
+   ],
+   "en": [
+    "55",
+    "58",
+    "41",
+    "49"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 15 kg, tezligi 2 m/s bo'lgan jismning kinetik energiyasi necha J?",
+   "ru": "Чему равна кинетическая энергия тела массой 15 кг при скорости 2 м/с (Дж)?",
+   "en": "What is the kinetic energy of a 15 kg body moving at 2 m/s (J)?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "43",
+    "31",
+    "45"
+   ],
+   "ru": [
+    "30",
+    "43",
+    "31",
+    "45"
+   ],
+   "en": [
+    "30",
+    "43",
+    "31",
+    "45"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 7 s davomida erkin tushdi. U necha metr balandlikdan tushgan? (g = 10 m/s²)",
+   "ru": "Тело свободно падало 7 с. С какой высоты (м) оно упало? (g = 10 м/с²)",
+   "en": "A body fell freely for 7 s. From what height (m) did it fall? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "245",
+    "294",
+    "490",
+    "735"
+   ],
+   "ru": [
+    "245",
+    "294",
+    "490",
+    "735"
+   ],
+   "en": [
+    "245",
+    "294",
+    "490",
+    "735"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 6 s davomida erkin tushdi. U necha metr balandlikdan tushgan? (g = 10 m/s²)",
+   "ru": "Тело свободно падало 6 с. С какой высоты (м) оно упало? (g = 10 м/с²)",
+   "en": "A body fell freely for 6 s. From what height (m) did it fall? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "180",
+    "90",
+    "198",
+    "171"
+   ],
+   "ru": [
+    "180",
+    "90",
+    "198",
+    "171"
+   ],
+   "en": [
+    "180",
+    "90",
+    "198",
+    "171"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 6 kg, tezligi 20 m/s bo'lgan jismning impulsi necha kg·m/s?",
+   "ru": "Чему равен импульс тела массой 6 кг, движущегося со скоростью 20 м/с (кг·м/с)?",
+   "en": "What is the momentum of a 6 kg body moving at 20 m/s (kg·m/s)?"
+  },
+  "o": {
+   "uz": [
+    "120",
+    "60",
+    "360",
+    "90"
+   ],
+   "ru": [
+    "120",
+    "60",
+    "360",
+    "90"
+   ],
+   "en": [
+    "120",
+    "60",
+    "360",
+    "90"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 20 kg bo'lgan jismga 5 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 20 кг ускорение 5 м/с² (Н)?",
+   "en": "What force gives a body of mass 20 kg an acceleration of 5 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "100",
+    "90",
+    "120",
+    "105"
+   ],
+   "ru": [
+    "100",
+    "90",
+    "120",
+    "105"
+   ],
+   "en": [
+    "100",
+    "90",
+    "120",
+    "105"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 9 s davomida erkin tushdi. U necha metr balandlikdan tushgan? (g = 10 m/s²)",
+   "ru": "Тело свободно падало 9 с. С какой высоты (м) оно упало? (g = 10 м/с²)",
+   "en": "A body fell freely for 9 s. From what height (m) did it fall? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "405",
+    "385",
+    "365",
+    "304"
+   ],
+   "ru": [
+    "405",
+    "385",
+    "365",
+    "304"
+   ],
+   "en": [
+    "405",
+    "385",
+    "365",
+    "304"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 20 kg, tezligi 17 m/s bo'lgan jismning kinetik energiyasi necha J?",
+   "ru": "Чему равна кинетическая энергия тела массой 20 кг при скорости 17 м/с (Дж)?",
+   "en": "What is the kinetic energy of a 20 kg body moving at 17 m/s (J)?"
+  },
+  "o": {
+   "uz": [
+    "2890",
+    "5780",
+    "2746",
+    "2601"
+   ],
+   "ru": [
+    "2890",
+    "5780",
+    "2746",
+    "2601"
+   ],
+   "en": [
+    "2890",
+    "5780",
+    "2746",
+    "2601"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 3 m/s, tezlanishi 6 m/s² bo'lgan jism 4 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 3 м/с и ускорением 6 м/с² за 4 с проходит сколько метров?",
+   "en": "A body with initial speed 3 m/s and acceleration 6 m/s² travels how many metres in 4 s?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "75",
+    "45",
+    "72"
+   ],
+   "ru": [
+    "60",
+    "75",
+    "45",
+    "72"
+   ],
+   "en": [
+    "60",
+    "75",
+    "45",
+    "72"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jismning boshlang'ich tezligi 2 m/s, tezlanishi 3 m/s². 6 s dan keyin tezligi necha m/s bo'ladi?",
+   "ru": "Начальная скорость тела 2 м/с, ускорение 3 м/с². Какой будет скорость через 6 с (м/с)?",
+   "en": "A body has initial speed 2 m/s and acceleration 3 m/s². What is its speed after 6 s (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "19",
+    "21",
+    "40"
+   ],
+   "ru": [
+    "20",
+    "19",
+    "21",
+    "40"
+   ],
+   "en": [
+    "20",
+    "19",
+    "21",
+    "40"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jismning boshlang'ich tezligi 9 m/s, tezlanishi 4 m/s². 7 s dan keyin tezligi necha m/s bo'ladi?",
+   "ru": "Начальная скорость тела 9 м/с, ускорение 4 м/с². Какой будет скорость через 7 с (м/с)?",
+   "en": "A body has initial speed 9 m/s and acceleration 4 m/s². What is its speed after 7 s (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "37",
+    "19",
+    "55",
+    "28"
+   ],
+   "ru": [
+    "37",
+    "19",
+    "55",
+    "28"
+   ],
+   "en": [
+    "37",
+    "19",
+    "55",
+    "28"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 17 kg, tezligi 8 m/s bo'lgan jismning impulsi necha kg·m/s?",
+   "ru": "Чему равен импульс тела массой 17 кг, движущегося со скоростью 8 м/с (кг·м/с)?",
+   "en": "What is the momentum of a 17 kg body moving at 8 m/s (kg·m/s)?"
+  },
+  "o": {
+   "uz": [
+    "136",
+    "109",
+    "170",
+    "163"
+   ],
+   "ru": [
+    "136",
+    "109",
+    "170",
+    "163"
+   ],
+   "en": [
+    "136",
+    "109",
+    "170",
+    "163"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jismning boshlang'ich tezligi 5 m/s, tezlanishi 3 m/s². 8 s dan keyin tezligi necha m/s bo'ladi?",
+   "ru": "Начальная скорость тела 5 м/с, ускорение 3 м/с². Какой будет скорость через 8 с (м/с)?",
+   "en": "A body has initial speed 5 m/s and acceleration 3 m/s². What is its speed after 8 s (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "29",
+    "42",
+    "87",
+    "30"
+   ],
+   "ru": [
+    "29",
+    "42",
+    "87",
+    "30"
+   ],
+   "en": [
+    "29",
+    "42",
+    "87",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 7 kg bo'lgan jismga 8 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 7 кг ускорение 8 м/с² (Н)?",
+   "en": "What force gives a body of mass 7 kg an acceleration of 8 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "56",
+    "45",
+    "67",
+    "50"
+   ],
+   "ru": [
+    "56",
+    "45",
+    "67",
+    "50"
+   ],
+   "en": [
+    "56",
+    "45",
+    "67",
+    "50"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "15 N kuch ta'sirida jism kuch yo'nalishida 39 m ko'chdi. Bajarilgan ish necha J?",
+   "ru": "Под действием силы 15 Н тело переместилось на 39 м по направлению силы. Какая работа совершена (Дж)?",
+   "en": "Under a force of 15 N a body moved 39 m along the force. How much work was done (J)?"
+  },
+  "o": {
+   "uz": [
+    "585",
+    "293",
+    "1755",
+    "877"
+   ],
+   "ru": [
+    "585",
+    "293",
+    "1755",
+    "877"
+   ],
+   "en": [
+    "585",
+    "293",
+    "1755",
+    "877"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 7 kg bo'lgan jismga 6 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 7 кг ускорение 6 м/с² (Н)?",
+   "en": "What force gives a body of mass 7 kg an acceleration of 6 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "42",
+    "44",
+    "21",
+    "38"
+   ],
+   "ru": [
+    "42",
+    "44",
+    "21",
+    "38"
+   ],
+   "en": [
+    "42",
+    "44",
+    "21",
+    "38"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 14 kg, tezligi 11 m/s bo'lgan jismning kinetik energiyasi necha J?",
+   "ru": "Чему равна кинетическая энергия тела массой 14 кг при скорости 11 м/с (Дж)?",
+   "en": "What is the kinetic energy of a 14 kg body moving at 11 m/s (J)?"
+  },
+  "o": {
+   "uz": [
+    "847",
+    "423",
+    "1016",
+    "678"
+   ],
+   "ru": [
+    "847",
+    "423",
+    "1016",
+    "678"
+   ],
+   "en": [
+    "847",
+    "423",
+    "1016",
+    "678"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 16 kg, tezligi 14 m/s bo'lgan jismning kinetik energiyasi necha J?",
+   "ru": "Чему равна кинетическая энергия тела массой 16 кг при скорости 14 м/с (Дж)?",
+   "en": "What is the kinetic energy of a 16 kg body moving at 14 m/s (J)?"
+  },
+  "o": {
+   "uz": [
+    "1568",
+    "2352",
+    "1882",
+    "3136"
+   ],
+   "ru": [
+    "1568",
+    "2352",
+    "1882",
+    "3136"
+   ],
+   "en": [
+    "1568",
+    "2352",
+    "1882",
+    "3136"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jismning boshlang'ich tezligi 8 m/s, tezlanishi 4 m/s². 2 s dan keyin tezligi necha m/s bo'ladi?",
+   "ru": "Начальная скорость тела 8 м/с, ускорение 4 м/с². Какой будет скорость через 2 с (м/с)?",
+   "en": "A body has initial speed 8 m/s and acceleration 4 m/s². What is its speed after 2 s (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "24",
+    "8",
+    "18"
+   ],
+   "ru": [
+    "16",
+    "24",
+    "8",
+    "18"
+   ],
+   "en": [
+    "16",
+    "24",
+    "8",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 17 kg jism 17 m balandlikda turibdi. Potensial energiyasi necha J? (g = 10 m/s²)",
+   "ru": "Тело массой 17 кг находится на высоте 17 м. Чему равна потенциальная энергия (Дж)? (g = 10 м/с²)",
+   "en": "A 17 kg body is at a height of 17 m. What is its potential energy (J)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "2890",
+    "2746",
+    "3179",
+    "1445"
+   ],
+   "ru": [
+    "2890",
+    "2746",
+    "3179",
+    "1445"
+   ],
+   "en": [
+    "2890",
+    "2746",
+    "3179",
+    "1445"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 35 kg bo'lgan jismga 10 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 35 кг ускорение 10 м/с² (Н)?",
+   "en": "What force gives a body of mass 35 kg an acceleration of 10 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "350",
+    "262",
+    "332",
+    "438"
+   ],
+   "ru": [
+    "350",
+    "262",
+    "332",
+    "438"
+   ],
+   "en": [
+    "350",
+    "262",
+    "332",
+    "438"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 45 kg, tezligi 17 m/s bo'lgan jismning impulsi necha kg·m/s?",
+   "ru": "Чему равен импульс тела массой 45 кг, движущегося со скоростью 17 м/с (кг·м/с)?",
+   "en": "What is the momentum of a 45 kg body moving at 17 m/s (kg·m/s)?"
+  },
+  "o": {
+   "uz": [
+    "765",
+    "689",
+    "612",
+    "1530"
+   ],
+   "ru": [
+    "765",
+    "689",
+    "612",
+    "1530"
+   ],
+   "en": [
+    "765",
+    "689",
+    "612",
+    "1530"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 44 kg bo'lgan jismga 4 m/s² tezlanish beruvchi kuch necha N?",
+   "ru": "Какая сила сообщает телу массой 44 кг ускорение 4 м/с² (Н)?",
+   "en": "What force gives a body of mass 44 kg an acceleration of 4 m/s² (N)?"
+  },
+  "o": {
+   "uz": [
+    "176",
+    "352",
+    "88",
+    "194"
+   ],
+   "ru": [
+    "176",
+    "352",
+    "88",
+    "194"
+   ],
+   "en": [
+    "176",
+    "352",
+    "88",
+    "194"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 29 kg jism 4 m balandlikda turibdi. Potensial energiyasi necha J? (g = 10 m/s²)",
+   "ru": "Тело массой 29 кг находится на высоте 4 м. Чему равна потенциальная энергия (Дж)? (g = 10 м/с²)",
+   "en": "A 29 kg body is at a height of 4 m. What is its potential energy (J)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "1160",
+    "3480",
+    "1740",
+    "1044"
+   ],
+   "ru": [
+    "1160",
+    "3480",
+    "1740",
+    "1044"
+   ],
+   "en": [
+    "1160",
+    "3480",
+    "1740",
+    "1044"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jismning boshlang'ich tezligi 5 m/s, tezlanishi 4 m/s². 6 s dan keyin tezligi necha m/s bo'ladi?",
+   "ru": "Начальная скорость тела 5 м/с, ускорение 4 м/с². Какой будет скорость через 6 с (м/с)?",
+   "en": "A body has initial speed 5 m/s and acceleration 4 m/s². What is its speed after 6 s (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "29",
+    "36",
+    "39",
+    "28"
+   ],
+   "ru": [
+    "29",
+    "36",
+    "39",
+    "28"
+   ],
+   "en": [
+    "29",
+    "36",
+    "39",
+    "28"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 2 s davomida erkin tushdi. U necha metr balandlikdan tushgan? (g = 10 m/s²)",
+   "ru": "Тело свободно падало 2 с. С какой высоты (м) оно упало? (g = 10 м/с²)",
+   "en": "A body fell freely for 2 s. From what height (m) did it fall? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "40",
+    "21",
+    "23"
+   ],
+   "ru": [
+    "20",
+    "40",
+    "21",
+    "23"
+   ],
+   "en": [
+    "20",
+    "40",
+    "21",
+    "23"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 0 m/s, tezlanishi 6 m/s² bo'lgan jism 9 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 0 м/с и ускорением 6 м/с² за 9 с проходит сколько метров?",
+   "en": "A body with initial speed 0 m/s and acceleration 6 m/s² travels how many metres in 9 s?"
+  },
+  "o": {
+   "uz": [
+    "243",
+    "255",
+    "219",
+    "121"
+   ],
+   "ru": [
+    "243",
+    "255",
+    "219",
+    "121"
+   ],
+   "en": [
+    "243",
+    "255",
+    "219",
+    "121"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jismning boshlang'ich tezligi 6 m/s, tezlanishi 1 m/s². 10 s dan keyin tezligi necha m/s bo'ladi?",
+   "ru": "Начальная скорость тела 6 м/с, ускорение 1 м/с². Какой будет скорость через 10 с (м/с)?",
+   "en": "A body has initial speed 6 m/s and acceleration 1 m/s². What is its speed after 10 s (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "21",
+    "14",
+    "8"
+   ],
+   "ru": [
+    "16",
+    "21",
+    "14",
+    "8"
+   ],
+   "en": [
+    "16",
+    "21",
+    "14",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boshlang'ich tezligi 7 m/s, tezlanishi 2 m/s² bo'lgan jism 5 s da necha metr yo'l bosadi?",
+   "ru": "Тело с начальной скоростью 7 м/с и ускорением 2 м/с² за 5 с проходит сколько метров?",
+   "en": "A body with initial speed 7 m/s and acceleration 2 m/s² travels how many metres in 5 s?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "63",
+    "30",
+    "120"
+   ],
+   "ru": [
+    "60",
+    "63",
+    "30",
+    "120"
+   ],
+   "en": [
+    "60",
+    "63",
+    "30",
+    "120"
+   ]
+  },
+  "a": 0
+ }
+]

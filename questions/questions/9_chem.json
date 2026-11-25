@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Normal sharoitda 5 mol CO2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 5 моль CO2 при н. у.?",
+   "en": "What volume (L) do 5 mol of CO2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "112",
+    "33.6",
+    "56",
+    "89.6"
+   ],
+   "ru": [
+    "112",
+    "33.6",
+    "56",
+    "89.6"
+   ],
+   "en": [
+    "112",
+    "33.6",
+    "56",
+    "89.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 33.6 l SO2 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 33.6 л SO2 при н. у.?",
+   "en": "How many moles are 33.6 L of SO2 at STP?"
+  },
+  "o": {
+   "uz": [
+    "1.5",
+    "1",
+    "0.5",
+    "3"
+   ],
+   "ru": [
+    "1.5",
+    "1",
+    "0.5",
+    "3"
+   ],
+   "en": [
+    "1.5",
+    "1",
+    "0.5",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 4 mol SO2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 4 моль SO2 при н. у.?",
+   "en": "What volume (L) do 4 mol of SO2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "89.6",
+    "56",
+    "11.2",
+    "33.6"
+   ],
+   "ru": [
+    "89.6",
+    "56",
+    "11.2",
+    "33.6"
+   ],
+   "en": [
+    "89.6",
+    "56",
+    "11.2",
+    "33.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Reaksiya tenglamasini tenglashtiring va koeffitsiyentlar yig'indisini toping:\nCH4 + O2 → CO2 + H2O",
+   "ru": "Уравняйте реакцию и найдите сумму коэффициентов:\nCH4 + O2 → CO2 + H2O",
+   "en": "Balance the equation and find the sum of the coefficients:\nCH4 + O2 → CO2 + H2O"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "13",
+    "3",
+    "18"
+   ],
+   "ru": [
+    "6",
+    "13",
+    "3",
+    "18"
+   ],
+   "en": [
+    "6",
+    "13",
+    "3",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 22.4 l CO necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 22.4 л CO при н. у.?",
+   "en": "How many moles are 22.4 L of CO at STP?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "4",
+    "2.5",
+    "2"
+   ],
+   "ru": [
+    "1",
+    "4",
+    "2.5",
+    "2"
+   ],
+   "en": [
+    "1",
+    "4",
+    "2.5",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Na2CO3 birikmasida C ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента C в соединении Na2CO3?",
+   "en": "What is the oxidation state of C in Na2CO3?"
+  },
+  "o": {
+   "uz": [
+    "+4",
+    "+7",
+    "-3",
+    "-1"
+   ],
+   "ru": [
+    "+4",
+    "+7",
+    "-3",
+    "-1"
+   ],
+   "en": [
+    "+4",
+    "+7",
+    "-3",
+    "-1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "500 g 50% li tuz eritmasida necha gramm tuz bor?",
+   "ru": "Сколько граммов соли содержится в 500 г 50%-ного раствора?",
+   "en": "How many grams of salt are in 500 g of a 50% salt solution?"
+  },
+  "o": {
+   "uz": [
+    "250",
+    "312",
+    "750",
+    "200"
+   ],
+   "ru": [
+    "250",
+    "312",
+    "750",
+    "200"
+   ],
+   "en": [
+    "250",
+    "312",
+    "750",
+    "200"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Reaksiya tenglamasini tenglashtiring va koeffitsiyentlar yig'indisini toping:\nZn + HCl → ZnCl2 + H2",
+   "ru": "Уравняйте реакцию и найдите сумму коэффициентов:\nZn + HCl → ZnCl2 + H2",
+   "en": "Balance the equation and find the sum of the coefficients:\nZn + HCl → ZnCl2 + H2"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "10",
+    "12",
+    "0"
+   ],
+   "ru": [
+    "5",
+    "10",
+    "12",
+    "0"
+   ],
+   "en": [
+    "5",
+    "10",
+    "12",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 3 mol N2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 3 моль N2 при н. у.?",
+   "en": "What volume (L) do 3 mol of N2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "67.2",
+    "112",
+    "22.4",
+    "56"
+   ],
+   "ru": [
+    "67.2",
+    "112",
+    "22.4",
+    "56"
+   ],
+   "en": [
+    "67.2",
+    "112",
+    "22.4",
+    "56"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 0.5 mol O2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 0.5 моль O2 при н. у.?",
+   "en": "What volume (L) do 0.5 mol of O2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "11.2",
+    "67.2",
+    "89.6",
+    "33.6"
+   ],
+   "ru": [
+    "11.2",
+    "67.2",
+    "89.6",
+    "33.6"
+   ],
+   "en": [
+    "11.2",
+    "67.2",
+    "89.6",
+    "33.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "200 g 50% li tuz eritmasida necha gramm tuz bor?",
+   "ru": "Сколько граммов соли содержится в 200 г 50%-ного раствора?",
+   "en": "How many grams of salt are in 200 g of a 50% salt solution?"
+  },
+  "o": {
+   "uz": [
+    "100",
+    "200",
+    "120",
+    "300"
+   ],
+   "ru": [
+    "100",
+    "200",
+    "120",
+    "300"
+   ],
+   "en": [
+    "100",
+    "200",
+    "120",
+    "300"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 4 mol CH4 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 4 моль CH4 при н. у.?",
+   "en": "What volume (L) do 4 mol of CH4 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "89.6",
+    "112",
+    "11.2",
+    "22.4"
+   ],
+   "ru": [
+    "89.6",
+    "112",
+    "11.2",
+    "22.4"
+   ],
+   "en": [
+    "89.6",
+    "112",
+    "11.2",
+    "22.4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 g eritmada 40 g tuz erigan. Tuzning massa ulushi necha foiz?",
+   "ru": "В 100 г раствора растворено 40 г соли. Чему равна массовая доля соли (%)?",
+   "en": "40 g of salt is dissolved in 100 g of solution. What is the mass fraction of the salt (%)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "38",
+    "36",
+    "20"
+   ],
+   "ru": [
+    "40",
+    "38",
+    "36",
+    "20"
+   ],
+   "en": [
+    "40",
+    "38",
+    "36",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "N2O birikmasida N ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента N в соединении N2O?",
+   "en": "What is the oxidation state of N in N2O?"
+  },
+  "o": {
+   "uz": [
+    "+1",
+    "+5",
+    "+6",
+    "-1"
+   ],
+   "ru": [
+    "+1",
+    "+5",
+    "+6",
+    "-1"
+   ],
+   "en": [
+    "+1",
+    "+5",
+    "+6",
+    "-1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Reaksiya tenglamasini tenglashtiring va koeffitsiyentlar yig'indisini toping:\nP + O2 → P2O5",
+   "ru": "Уравняйте реакцию и найдите сумму коэффициентов:\nP + O2 → P2O5",
+   "en": "Balance the equation and find the sum of the coefficients:\nP + O2 → P2O5"
+  },
+  "o": {
+   "uz": [
+    "11",
+    "8",
+    "13",
+    "18"
+   ],
+   "ru": [
+    "11",
+    "8",
+    "13",
+    "18"
+   ],
+   "en": [
+    "11",
+    "8",
+    "13",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 5 mol CH4 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 5 моль CH4 при н. у.?",
+   "en": "What volume (L) do 5 mol of CH4 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "112",
+    "67.2",
+    "44.8",
+    "11.2"
+   ],
+   "ru": [
+    "112",
+    "67.2",
+    "44.8",
+    "11.2"
+   ],
+   "en": [
+    "112",
+    "67.2",
+    "44.8",
+    "11.2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 g eritmada 30 g tuz erigan. Tuzning massa ulushi necha foiz?",
+   "ru": "В 100 г раствора растворено 30 г соли. Чему равна массовая доля соли (%)?",
+   "en": "30 g of salt is dissolved in 100 g of solution. What is the mass fraction of the salt (%)?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "45",
+    "15",
+    "20"
+   ],
+   "ru": [
+    "30",
+    "45",
+    "15",
+    "20"
+   ],
+   "en": [
+    "30",
+    "45",
+    "15",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Reaksiya tenglamasini tenglashtiring va koeffitsiyentlar yig'indisini toping:\nAl + O2 → Al2O3",
+   "ru": "Уравняйте реакцию и найдите сумму коэффициентов:\nAl + O2 → Al2O3",
+   "en": "Balance the equation and find the sum of the coefficients:\nAl + O2 → Al2O3"
+  },
+  "o": {
+   "uz": [
+    "9",
+    "6",
+    "14",
+    "22"
+   ],
+   "ru": [
+    "9",
+    "6",
+    "14",
+    "22"
+   ],
+   "en": [
+    "9",
+    "6",
+    "14",
+    "22"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 1 mol CH4 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 1 моль CH4 при н. у.?",
+   "en": "What volume (L) do 1 mol of CH4 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "22.4",
+    "11.2",
+    "56",
+    "112"
+   ],
+   "ru": [
+    "22.4",
+    "11.2",
+    "56",
+    "112"
+   ],
+   "en": [
+    "22.4",
+    "11.2",
+    "56",
+    "112"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 22.4 l SO2 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 22.4 л SO2 при н. у.?",
+   "en": "How many moles are 22.4 L of SO2 at STP?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "3",
+    "5",
+    "10"
+   ],
+   "ru": [
+    "1",
+    "3",
+    "5",
+    "10"
+   ],
+   "en": [
+    "1",
+    "3",
+    "5",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CaCO3 → CaO + CO2 reaksiyasida 400 g CaCO3 dan necha gramm CO2 hosil bo'ladi?",
+   "ru": "Сколько граммов CO2 образуется из 400 г CaCO3 по реакции CaCO3 → CaO + CO2?",
+   "en": "How many grams of CO2 form from 400 g of CaCO3 in the reaction CaCO3 → CaO + CO2?"
+  },
+  "o": {
+   "uz": [
+    "176",
+    "132",
+    "528",
+    "158"
+   ],
+   "ru": [
+    "176",
+    "132",
+    "528",
+    "158"
+   ],
+   "en": [
+    "176",
+    "132",
+    "528",
+    "158"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "HNO3 birikmasida N ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента N в соединении HNO3?",
+   "en": "What is the oxidation state of N in HNO3?"
+  },
+  "o": {
+   "uz": [
+    "+5",
+    "+6",
+    "+1",
+    "0"
+   ],
+   "ru": [
+    "+5",
+    "+6",
+    "+1",
+    "0"
+   ],
+   "en": [
+    "+5",
+    "+6",
+    "+1",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2Mg + O2 → 2MgO reaksiyasida 192 g Mg dan necha gramm MgO hosil bo'ladi?",
+   "ru": "Сколько граммов MgO образуется из 192 г Mg по реакции 2Mg + O2 → 2MgO?",
+   "en": "How many grams of MgO form from 192 g of Mg in the reaction 2Mg + O2 → 2MgO?"
+  },
+  "o": {
+   "uz": [
+    "320",
+    "240",
+    "336",
+    "160"
+   ],
+   "ru": [
+    "320",
+    "240",
+    "336",
+    "160"
+   ],
+   "en": [
+    "320",
+    "240",
+    "336",
+    "160"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 5 mol N2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 5 моль N2 при н. у.?",
+   "en": "What volume (L) do 5 mol of N2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "112",
+    "22.4",
+    "33.6",
+    "224"
+   ],
+   "ru": [
+    "112",
+    "22.4",
+    "33.6",
+    "224"
+   ],
+   "en": [
+    "112",
+    "22.4",
+    "33.6",
+    "224"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 4 mol H2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 4 моль H2 при н. у.?",
+   "en": "What volume (L) do 4 mol of H2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "89.6",
+    "56",
+    "224",
+    "11.2"
+   ],
+   "ru": [
+    "89.6",
+    "56",
+    "224",
+    "11.2"
+   ],
+   "en": [
+    "89.6",
+    "56",
+    "224",
+    "11.2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Al2O3 birikmasida Al ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента Al в соединении Al2O3?",
+   "en": "What is the oxidation state of Al in Al2O3?"
+  },
+  "o": {
+   "uz": [
+    "+3",
+    "+2",
+    "+5",
+    "-1"
+   ],
+   "ru": [
+    "+3",
+    "+2",
+    "+5",
+    "-1"
+   ],
+   "en": [
+    "+3",
+    "+2",
+    "+5",
+    "-1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CH4 birikmasida C ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента C в соединении CH4?",
+   "en": "What is the oxidation state of C in CH4?"
+  },
+  "o": {
+   "uz": [
+    "-4",
+    "-3",
+    "+7",
+    "+1"
+   ],
+   "ru": [
+    "-4",
+    "-3",
+    "+7",
+    "+1"
+   ],
+   "en": [
+    "-4",
+    "-3",
+    "+7",
+    "+1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2H2O → 2H2 + O2 reaksiyasida 144 g H2O dan necha gramm H2 hosil bo'ladi?",
+   "ru": "Сколько граммов H2 образуется из 144 г H2O по реакции 2H2O → 2H2 + O2?",
+   "en": "How many grams of H2 form from 144 g of H2O in the reaction 2H2O → 2H2 + O2?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "21",
+    "19",
+    "48"
+   ],
+   "ru": [
+    "16",
+    "21",
+    "19",
+    "48"
+   ],
+   "en": [
+    "16",
+    "21",
+    "19",
+    "48"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "250 g eritmada 100 g tuz erigan. Tuzning massa ulushi necha foiz?",
+   "ru": "В 250 г раствора растворено 100 г соли. Чему равна массовая доля соли (%)?",
+   "en": "100 g of salt is dissolved in 250 g of solution. What is the mass fraction of the salt (%)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "42",
+    "30",
+    "36"
+   ],
+   "ru": [
+    "40",
+    "42",
+    "30",
+    "36"
+   ],
+   "en": [
+    "40",
+    "42",
+    "30",
+    "36"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 2.5 mol N2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 2.5 моль N2 при н. у.?",
+   "en": "What volume (L) do 2.5 mol of N2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "56",
+    "44.8",
+    "67.2",
+    "89.6"
+   ],
+   "ru": [
+    "56",
+    "44.8",
+    "67.2",
+    "89.6"
+   ],
+   "en": [
+    "56",
+    "44.8",
+    "67.2",
+    "89.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 112 l CO2 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 112 л CO2 при н. у.?",
+   "en": "How many moles are 112 L of CO2 at STP?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "2.5",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "5",
+    "2.5",
+    "1",
+    "4"
+   ],
+   "en": [
+    "5",
+    "2.5",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CaCO3 → CaO + CO2 reaksiyasida 400 g CaCO3 dan necha gramm CaO hosil bo'ladi?",
+   "ru": "Сколько граммов CaO образуется из 400 г CaCO3 по реакции CaCO3 → CaO + CO2?",
+   "en": "How many grams of CaO form from 400 g of CaCO3 in the reaction CaCO3 → CaO + CO2?"
+  },
+  "o": {
+   "uz": [
+    "224",
+    "336",
+    "202",
+    "213"
+   ],
+   "ru": [
+    "224",
+    "336",
+    "202",
+    "213"
+   ],
+   "en": [
+    "224",
+    "336",
+    "202",
+    "213"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2Cu + O2 → 2CuO reaksiyasida 384 g Cu dan necha gramm CuO hosil bo'ladi?",
+   "ru": "Сколько граммов CuO образуется из 384 г Cu по реакции 2Cu + O2 → 2CuO?",
+   "en": "How many grams of CuO form from 384 g of Cu in the reaction 2Cu + O2 → 2CuO?"
+  },
+  "o": {
+   "uz": [
+    "480",
+    "504",
+    "432",
+    "960"
+   ],
+   "ru": [
+    "480",
+    "504",
+    "432",
+    "960"
+   ],
+   "en": [
+    "480",
+    "504",
+    "432",
+    "960"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "NH3 birikmasida N ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента N в соединении NH3?",
+   "en": "What is the oxidation state of N in NH3?"
+  },
+  "o": {
+   "uz": [
+    "-3",
+    "+4",
+    "-2",
+    "+2"
+   ],
+   "ru": [
+    "-3",
+    "+4",
+    "-2",
+    "+2"
+   ],
+   "en": [
+    "-3",
+    "+4",
+    "-2",
+    "+2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2H2O → 2H2 + O2 reaksiyasida 72 g H2O dan necha gramm H2 hosil bo'ladi?",
+   "ru": "Сколько граммов H2 образуется из 72 г H2O по реакции 2H2O → 2H2 + O2?",
+   "en": "How many grams of H2 form from 72 g of H2O in the reaction 2H2O → 2H2 + O2?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "11",
+    "6",
+    "10"
+   ],
+   "ru": [
+    "8",
+    "11",
+    "6",
+    "10"
+   ],
+   "en": [
+    "8",
+    "11",
+    "6",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 22.4 l CH4 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 22.4 л CH4 при н. у.?",
+   "en": "How many moles are 22.4 L of CH4 at STP?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "2",
+    "1.5",
+    "10"
+   ],
+   "ru": [
+    "1",
+    "2",
+    "1.5",
+    "10"
+   ],
+   "en": [
+    "1",
+    "2",
+    "1.5",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 112 l H2 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 112 л H2 при н. у.?",
+   "en": "How many moles are 112 L of H2 at STP?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "3",
+    "2.5",
+    "1"
+   ],
+   "ru": [
+    "5",
+    "3",
+    "2.5",
+    "1"
+   ],
+   "en": [
+    "5",
+    "3",
+    "2.5",
+    "1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2Cu + O2 → 2CuO reaksiyasida 512 g Cu dan necha gramm CuO hosil bo'ladi?",
+   "ru": "Сколько граммов CuO образуется из 512 г Cu по реакции 2Cu + O2 → 2CuO?",
+   "en": "How many grams of CuO form from 512 g of Cu in the reaction 2Cu + O2 → 2CuO?"
+  },
+  "o": {
+   "uz": [
+    "640",
+    "320",
+    "608",
+    "960"
+   ],
+   "ru": [
+    "640",
+    "320",
+    "608",
+    "960"
+   ],
+   "en": [
+    "640",
+    "320",
+    "608",
+    "960"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2Ca + O2 → 2CaO reaksiyasida 160 g Ca dan necha gramm CaO hosil bo'ladi?",
+   "ru": "Сколько граммов CaO образуется из 160 г Ca по реакции 2Ca + O2 → 2CaO?",
+   "en": "How many grams of CaO form from 160 g of Ca in the reaction 2Ca + O2 → 2CaO?"
+  },
+  "o": {
+   "uz": [
+    "224",
+    "112",
+    "672",
+    "269"
+   ],
+   "ru": [
+    "224",
+    "112",
+    "672",
+    "269"
+   ],
+   "en": [
+    "224",
+    "112",
+    "672",
+    "269"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CaCO3 → CaO + CO2 reaksiyasida 500 g CaCO3 dan necha gramm CO2 hosil bo'ladi?",
+   "ru": "Сколько граммов CO2 образуется из 500 г CaCO3 по реакции CaCO3 → CaO + CO2?",
+   "en": "How many grams of CO2 form from 500 g of CaCO3 in the reaction CaCO3 → CaO + CO2?"
+  },
+  "o": {
+   "uz": [
+    "220",
+    "110",
+    "176",
+    "275"
+   ],
+   "ru": [
+    "220",
+    "110",
+    "176",
+    "275"
+   ],
+   "en": [
+    "220",
+    "110",
+    "176",
+    "275"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 89.6 l N2 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 89.6 л N2 при н. у.?",
+   "en": "How many moles are 89.6 L of N2 at STP?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "5",
+    "0.5",
+    "3"
+   ],
+   "ru": [
+    "4",
+    "5",
+    "0.5",
+    "3"
+   ],
+   "en": [
+    "4",
+    "5",
+    "0.5",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 11.2 l H2 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 11.2 л H2 при н. у.?",
+   "en": "How many moles are 11.2 L of H2 at STP?"
+  },
+  "o": {
+   "uz": [
+    "0.5",
+    "2",
+    "3",
+    "10"
+   ],
+   "ru": [
+    "0.5",
+    "2",
+    "3",
+    "10"
+   ],
+   "en": [
+    "0.5",
+    "2",
+    "3",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2H2 + O2 → 2H2O reaksiyasida 8 g H2 dan necha gramm H2O hosil bo'ladi?",
+   "ru": "Сколько граммов H2O образуется из 8 г H2 по реакции 2H2 + O2 → 2H2O?",
+   "en": "How many grams of H2O form from 8 g of H2 in the reaction 2H2 + O2 → 2H2O?"
+  },
+  "o": {
+   "uz": [
+    "72",
+    "144",
+    "54",
+    "90"
+   ],
+   "ru": [
+    "72",
+    "144",
+    "54",
+    "90"
+   ],
+   "en": [
+    "72",
+    "144",
+    "54",
+    "90"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4Al + 3O2 → 2Al2O3 reaksiyasida 540 g Al dan necha gramm Al2O3 hosil bo'ladi?",
+   "ru": "Сколько граммов Al2O3 образуется из 540 г Al по реакции 4Al + 3O2 → 2Al2O3?",
+   "en": "How many grams of Al2O3 form from 540 g of Al in the reaction 4Al + 3O2 → 2Al2O3?"
+  },
+  "o": {
+   "uz": [
+    "1020",
+    "1530",
+    "918",
+    "969"
+   ],
+   "ru": [
+    "1020",
+    "1530",
+    "918",
+    "969"
+   ],
+   "en": [
+    "1020",
+    "1530",
+    "918",
+    "969"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 33.6 l NH3 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 33.6 л NH3 при н. у.?",
+   "en": "How many moles are 33.6 L of NH3 at STP?"
+  },
+  "o": {
+   "uz": [
+    "1.5",
+    "10",
+    "4",
+    "2"
+   ],
+   "ru": [
+    "1.5",
+    "10",
+    "4",
+    "2"
+   ],
+   "en": [
+    "1.5",
+    "10",
+    "4",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "200 g 15% li tuz eritmasida necha gramm tuz bor?",
+   "ru": "Сколько граммов соли содержится в 200 г 15%-ного раствора?",
+   "en": "How many grams of salt are in 200 g of a 15% salt solution?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "15",
+    "25",
+    "31"
+   ],
+   "ru": [
+    "30",
+    "15",
+    "25",
+    "31"
+   ],
+   "en": [
+    "30",
+    "15",
+    "25",
+    "31"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CO2 birikmasida C ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента C в соединении CO2?",
+   "en": "What is the oxidation state of C in CO2?"
+  },
+  "o": {
+   "uz": [
+    "+4",
+    "-1",
+    "+7",
+    "+6"
+   ],
+   "ru": [
+    "+4",
+    "-1",
+    "+7",
+    "+6"
+   ],
+   "en": [
+    "+4",
+    "-1",
+    "+7",
+    "+6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 2 mol CO qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 2 моль CO при н. у.?",
+   "en": "What volume (L) do 2 mol of CO occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "44.8",
+    "33.6",
+    "224",
+    "11.2"
+   ],
+   "ru": [
+    "44.8",
+    "33.6",
+    "224",
+    "11.2"
+   ],
+   "en": [
+    "44.8",
+    "33.6",
+    "224",
+    "11.2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1000 g 50% li tuz eritmasida necha gramm tuz bor?",
+   "ru": "Сколько граммов соли содержится в 1000 г 50%-ного раствора?",
+   "en": "How many grams of salt are in 1000 g of a 50% salt solution?"
+  },
+  "o": {
+   "uz": [
+    "500",
+    "625",
+    "525",
+    "250"
+   ],
+   "ru": [
+    "500",
+    "625",
+    "525",
+    "250"
+   ],
+   "en": [
+    "500",
+    "625",
+    "525",
+    "250"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "400 g eritmada 80 g tuz erigan. Tuzning massa ulushi necha foiz?",
+   "ru": "В 400 г раствора растворено 80 г соли. Чему равна массовая доля соли (%)?",
+   "en": "80 g of salt is dissolved in 400 g of solution. What is the mass fraction of the salt (%)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "60",
+    "10",
+    "25"
+   ],
+   "ru": [
+    "20",
+    "60",
+    "10",
+    "25"
+   ],
+   "en": [
+    "20",
+    "60",
+    "10",
+    "25"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 2 mol SO2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 2 моль SO2 при н. у.?",
+   "en": "What volume (L) do 2 mol of SO2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "44.8",
+    "224",
+    "56",
+    "89.6"
+   ],
+   "ru": [
+    "44.8",
+    "224",
+    "56",
+    "89.6"
+   ],
+   "en": [
+    "44.8",
+    "224",
+    "56",
+    "89.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 g 5% li tuz eritmasida necha gramm tuz bor?",
+   "ru": "Сколько граммов соли содержится в 100 г 5%-ного раствора?",
+   "en": "How many grams of salt are in 100 g of a 5% salt solution?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "4",
+    "3",
+    "15"
+   ],
+   "ru": [
+    "5",
+    "4",
+    "3",
+    "15"
+   ],
+   "en": [
+    "5",
+    "4",
+    "3",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 112 l CO necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 112 л CO при н. у.?",
+   "en": "How many moles are 112 L of CO at STP?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "0.5",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "5",
+    "0.5",
+    "1",
+    "4"
+   ],
+   "en": [
+    "5",
+    "0.5",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2H2 + O2 → 2H2O reaksiyasida 12 g H2 dan necha gramm H2O hosil bo'ladi?",
+   "ru": "Сколько граммов H2O образуется из 12 г H2 по реакции 2H2 + O2 → 2H2O?",
+   "en": "How many grams of H2O form from 12 g of H2 in the reaction 2H2 + O2 → 2H2O?"
+  },
+  "o": {
+   "uz": [
+    "108",
+    "119",
+    "216",
+    "113"
+   ],
+   "ru": [
+    "108",
+    "119",
+    "216",
+    "113"
+   ],
+   "en": [
+    "108",
+    "119",
+    "216",
+    "113"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "P2O5 birikmasida P ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента P в соединении P2O5?",
+   "en": "What is the oxidation state of P in P2O5?"
+  },
+  "o": {
+   "uz": [
+    "+5",
+    "-2",
+    "+3",
+    "0"
+   ],
+   "ru": [
+    "+5",
+    "-2",
+    "+3",
+    "0"
+   ],
+   "en": [
+    "+5",
+    "-2",
+    "+3",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CaCO3 → CaO + CO2 reaksiyasida 300 g CaCO3 dan necha gramm CO2 hosil bo'ladi?",
+   "ru": "Сколько граммов CO2 образуется из 300 г CaCO3 по реакции CaCO3 → CaO + CO2?",
+   "en": "How many grams of CO2 form from 300 g of CaCO3 in the reaction CaCO3 → CaO + CO2?"
+  },
+  "o": {
+   "uz": [
+    "132",
+    "119",
+    "158",
+    "264"
+   ],
+   "ru": [
+    "132",
+    "119",
+    "158",
+    "264"
+   ],
+   "en": [
+    "132",
+    "119",
+    "158",
+    "264"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1000 g eritmada 500 g tuz erigan. Tuzning massa ulushi necha foiz?",
+   "ru": "В 1000 г раствора растворено 500 г соли. Чему равна массовая доля соли (%)?",
+   "en": "500 g of salt is dissolved in 1000 g of solution. What is the mass fraction of the salt (%)?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "60",
+    "150",
+    "48"
+   ],
+   "ru": [
+    "50",
+    "60",
+    "150",
+    "48"
+   ],
+   "en": [
+    "50",
+    "60",
+    "150",
+    "48"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "400 g 40% li tuz eritmasida necha gramm tuz bor?",
+   "ru": "Сколько граммов соли содержится в 400 г 40%-ного раствора?",
+   "en": "How many grams of salt are in 400 g of a 40% salt solution?"
+  },
+  "o": {
+   "uz": [
+    "160",
+    "200",
+    "80",
+    "168"
+   ],
+   "ru": [
+    "160",
+    "200",
+    "80",
+    "168"
+   ],
+   "en": [
+    "160",
+    "200",
+    "80",
+    "168"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "KClO3 birikmasida Cl ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента Cl в соединении KClO3?",
+   "en": "What is the oxidation state of Cl in KClO3?"
+  },
+  "o": {
+   "uz": [
+    "+5",
+    "+6",
+    "0",
+    "-3"
+   ],
+   "ru": [
+    "+5",
+    "+6",
+    "0",
+    "-3"
+   ],
+   "en": [
+    "+5",
+    "+6",
+    "0",
+    "-3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2Mg + O2 → 2MgO reaksiyasida 96 g Mg dan necha gramm MgO hosil bo'ladi?",
+   "ru": "Сколько граммов MgO образуется из 96 г Mg по реакции 2Mg + O2 → 2MgO?",
+   "en": "How many grams of MgO form from 96 g of Mg in the reaction 2Mg + O2 → 2MgO?"
+  },
+  "o": {
+   "uz": [
+    "160",
+    "168",
+    "152",
+    "200"
+   ],
+   "ru": [
+    "160",
+    "168",
+    "152",
+    "200"
+   ],
+   "en": [
+    "160",
+    "168",
+    "152",
+    "200"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "200 g eritmada 80 g tuz erigan. Tuzning massa ulushi necha foiz?",
+   "ru": "В 200 г раствора растворено 80 г соли. Чему равна массовая доля соли (%)?",
+   "en": "80 g of salt is dissolved in 200 g of solution. What is the mass fraction of the salt (%)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "36",
+    "48",
+    "32"
+   ],
+   "ru": [
+    "40",
+    "36",
+    "48",
+    "32"
+   ],
+   "en": [
+    "40",
+    "36",
+    "48",
+    "32"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 224 l H2 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 224 л H2 при н. у.?",
+   "en": "How many moles are 224 L of H2 at STP?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "2.5",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "10",
+    "2.5",
+    "1",
+    "4"
+   ],
+   "en": [
+    "10",
+    "2.5",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 33.6 l CO2 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 33.6 л CO2 при н. у.?",
+   "en": "How many moles are 33.6 L of CO2 at STP?"
+  },
+  "o": {
+   "uz": [
+    "1.5",
+    "10",
+    "3",
+    "0.5"
+   ],
+   "ru": [
+    "1.5",
+    "10",
+    "3",
+    "0.5"
+   ],
+   "en": [
+    "1.5",
+    "10",
+    "3",
+    "0.5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Reaksiya tenglamasini tenglashtiring va koeffitsiyentlar yig'indisini toping:\nAl(OH)3 → Al2O3 + H2O",
+   "ru": "Уравняйте реакцию и найдите сумму коэффициентов:\nAl(OH)3 → Al2O3 + H2O",
+   "en": "Balance the equation and find the sum of the coefficients:\nAl(OH)3 → Al2O3 + H2O"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "3",
+    "16",
+    "12"
+   ],
+   "ru": [
+    "6",
+    "3",
+    "16",
+    "12"
+   ],
+   "en": [
+    "6",
+    "3",
+    "16",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "PH3 birikmasida P ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента P в соединении PH3?",
+   "en": "What is the oxidation state of P in PH3?"
+  },
+  "o": {
+   "uz": [
+    "-3",
+    "0",
+    "+5",
+    "-4"
+   ],
+   "ru": [
+    "-3",
+    "0",
+    "+5",
+    "-4"
+   ],
+   "en": [
+    "-3",
+    "0",
+    "+5",
+    "-4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 g 30% li tuz eritmasida necha gramm tuz bor?",
+   "ru": "Сколько граммов соли содержится в 100 г 30%-ного раствора?",
+   "en": "How many grams of salt are in 100 g of a 30% salt solution?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "45",
+    "35",
+    "43"
+   ],
+   "ru": [
+    "30",
+    "45",
+    "35",
+    "43"
+   ],
+   "en": [
+    "30",
+    "45",
+    "35",
+    "43"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 89.6 l CH4 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 89.6 л CH4 при н. у.?",
+   "en": "How many moles are 89.6 L of CH4 at STP?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "3",
+    "2.5",
+    "1.5"
+   ],
+   "ru": [
+    "4",
+    "3",
+    "2.5",
+    "1.5"
+   ],
+   "en": [
+    "4",
+    "3",
+    "2.5",
+    "1.5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4Al + 3O2 → 2Al2O3 reaksiyasida 432 g Al dan necha gramm Al2O3 hosil bo'ladi?",
+   "ru": "Сколько граммов Al2O3 образуется из 432 г Al по реакции 4Al + 3O2 → 2Al2O3?",
+   "en": "How many grams of Al2O3 form from 432 g of Al in the reaction 4Al + 3O2 → 2Al2O3?"
+  },
+  "o": {
+   "uz": [
+    "816",
+    "1020",
+    "653",
+    "898"
+   ],
+   "ru": [
+    "816",
+    "1020",
+    "653",
+    "898"
+   ],
+   "en": [
+    "816",
+    "1020",
+    "653",
+    "898"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 89.6 l CO2 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 89.6 л CO2 при н. у.?",
+   "en": "How many moles are 89.6 L of CO2 at STP?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "3",
+    "10",
+    "1"
+   ],
+   "ru": [
+    "4",
+    "3",
+    "10",
+    "1"
+   ],
+   "en": [
+    "4",
+    "3",
+    "10",
+    "1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 1.5 mol CO2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 1.5 моль CO2 при н. у.?",
+   "en": "What volume (L) do 1.5 mol of CO2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "33.6",
+    "67.2",
+    "56",
+    "89.6"
+   ],
+   "ru": [
+    "33.6",
+    "67.2",
+    "56",
+    "89.6"
+   ],
+   "en": [
+    "33.6",
+    "67.2",
+    "56",
+    "89.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 2.5 mol CO2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 2.5 моль CO2 при н. у.?",
+   "en": "What volume (L) do 2.5 mol of CO2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "56",
+    "33.6",
+    "44.8",
+    "89.6"
+   ],
+   "ru": [
+    "56",
+    "33.6",
+    "44.8",
+    "89.6"
+   ],
+   "en": [
+    "56",
+    "33.6",
+    "44.8",
+    "89.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "200 g 30% li tuz eritmasida necha gramm tuz bor?",
+   "ru": "Сколько граммов соли содержится в 200 г 30%-ного раствора?",
+   "en": "How many grams of salt are in 200 g of a 30% salt solution?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "48",
+    "30",
+    "120"
+   ],
+   "ru": [
+    "60",
+    "48",
+    "30",
+    "120"
+   ],
+   "en": [
+    "60",
+    "48",
+    "30",
+    "120"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 3 mol H2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 3 моль H2 при н. у.?",
+   "en": "What volume (L) do 3 mol of H2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "67.2",
+    "89.6",
+    "112",
+    "224"
+   ],
+   "ru": [
+    "67.2",
+    "89.6",
+    "112",
+    "224"
+   ],
+   "en": [
+    "67.2",
+    "89.6",
+    "112",
+    "224"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 1 mol N2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 1 моль N2 при н. у.?",
+   "en": "What volume (L) do 1 mol of N2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "22.4",
+    "33.6",
+    "67.2",
+    "112"
+   ],
+   "ru": [
+    "22.4",
+    "33.6",
+    "67.2",
+    "112"
+   ],
+   "en": [
+    "22.4",
+    "33.6",
+    "67.2",
+    "112"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 4 mol N2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 4 моль N2 при н. у.?",
+   "en": "What volume (L) do 4 mol of N2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "89.6",
+    "224",
+    "11.2",
+    "33.6"
+   ],
+   "ru": [
+    "89.6",
+    "224",
+    "11.2",
+    "33.6"
+   ],
+   "en": [
+    "89.6",
+    "224",
+    "11.2",
+    "33.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 89.6 l NH3 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 89.6 л NH3 при н. у.?",
+   "en": "How many moles are 89.6 L of NH3 at STP?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "5",
+    "10",
+    "0.5"
+   ],
+   "ru": [
+    "4",
+    "5",
+    "10",
+    "0.5"
+   ],
+   "en": [
+    "4",
+    "5",
+    "10",
+    "0.5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CaCO3 → CaO + CO2 reaksiyasida 100 g CaCO3 dan necha gramm CO2 hosil bo'ladi?",
+   "ru": "Сколько граммов CO2 образуется из 100 г CaCO3 по реакции CaCO3 → CaO + CO2?",
+   "en": "How many grams of CO2 form from 100 g of CaCO3 in the reaction CaCO3 → CaO + CO2?"
+  },
+  "o": {
+   "uz": [
+    "44",
+    "35",
+    "40",
+    "132"
+   ],
+   "ru": [
+    "44",
+    "35",
+    "40",
+    "132"
+   ],
+   "en": [
+    "44",
+    "35",
+    "40",
+    "132"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2H2 + O2 → 2H2O reaksiyasida 20 g H2 dan necha gramm H2O hosil bo'ladi?",
+   "ru": "Сколько граммов H2O образуется из 20 г H2 по реакции 2H2 + O2 → 2H2O?",
+   "en": "How many grams of H2O form from 20 g of H2 in the reaction 2H2 + O2 → 2H2O?"
+  },
+  "o": {
+   "uz": [
+    "180",
+    "198",
+    "90",
+    "225"
+   ],
+   "ru": [
+    "180",
+    "198",
+    "90",
+    "225"
+   ],
+   "en": [
+    "180",
+    "198",
+    "90",
+    "225"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "SO2 birikmasida S ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента S в соединении SO2?",
+   "en": "What is the oxidation state of S in SO2?"
+  },
+  "o": {
+   "uz": [
+    "+4",
+    "+6",
+    "0",
+    "-2"
+   ],
+   "ru": [
+    "+4",
+    "+6",
+    "0",
+    "-2"
+   ],
+   "en": [
+    "+4",
+    "+6",
+    "0",
+    "-2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1000 g eritmada 300 g tuz erigan. Tuzning massa ulushi necha foiz?",
+   "ru": "В 1000 г раствора растворено 300 г соли. Чему равна массовая доля соли (%)?",
+   "en": "300 g of salt is dissolved in 1000 g of solution. What is the mass fraction of the salt (%)?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "45",
+    "15",
+    "60"
+   ],
+   "ru": [
+    "30",
+    "45",
+    "15",
+    "60"
+   ],
+   "en": [
+    "30",
+    "45",
+    "15",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 22.4 l H2 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 22.4 л H2 при н. у.?",
+   "en": "How many moles are 22.4 L of H2 at STP?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "3",
+    "0.5",
+    "2.5"
+   ],
+   "ru": [
+    "1",
+    "3",
+    "0.5",
+    "2.5"
+   ],
+   "en": [
+    "1",
+    "3",
+    "0.5",
+    "2.5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Reaksiya tenglamasini tenglashtiring va koeffitsiyentlar yig'indisini toping:\nCu + O2 → CuO",
+   "ru": "Уравняйте реакцию и найдите сумму коэффициентов:\nCu + O2 → CuO",
+   "en": "Balance the equation and find the sum of the coefficients:\nCu + O2 → CuO"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "0",
+    "18",
+    "10"
+   ],
+   "ru": [
+    "5",
+    "0",
+    "18",
+    "10"
+   ],
+   "en": [
+    "5",
+    "0",
+    "18",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "HCl birikmasida Cl ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента Cl в соединении HCl?",
+   "en": "What is the oxidation state of Cl in HCl?"
+  },
+  "o": {
+   "uz": [
+    "-1",
+    "+2",
+    "+5",
+    "-2"
+   ],
+   "ru": [
+    "-1",
+    "+2",
+    "+5",
+    "-2"
+   ],
+   "en": [
+    "-1",
+    "+2",
+    "+5",
+    "-2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 g 10% li tuz eritmasida necha gramm tuz bor?",
+   "ru": "Сколько граммов соли содержится в 100 г 10%-ного раствора?",
+   "en": "How many grams of salt are in 100 g of a 10% salt solution?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "11",
+    "20",
+    "23"
+   ],
+   "ru": [
+    "10",
+    "11",
+    "20",
+    "23"
+   ],
+   "en": [
+    "10",
+    "11",
+    "20",
+    "23"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "N2O5 birikmasida N ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента N в соединении N2O5?",
+   "en": "What is the oxidation state of N in N2O5?"
+  },
+  "o": {
+   "uz": [
+    "+5",
+    "-3",
+    "+4",
+    "+6"
+   ],
+   "ru": [
+    "+5",
+    "-3",
+    "+4",
+    "+6"
+   ],
+   "en": [
+    "+5",
+    "-3",
+    "+4",
+    "+6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 44.8 l NH3 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 44.8 л NH3 при н. у.?",
+   "en": "How many moles are 44.8 L of NH3 at STP?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "0.5",
+    "1.5",
+    "3"
+   ],
+   "ru": [
+    "2",
+    "0.5",
+    "1.5",
+    "3"
+   ],
+   "en": [
+    "2",
+    "0.5",
+    "1.5",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 112 l NH3 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 112 л NH3 при н. у.?",
+   "en": "How many moles are 112 L of NH3 at STP?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "0.5",
+    "1",
+    "3"
+   ],
+   "ru": [
+    "5",
+    "0.5",
+    "1",
+    "3"
+   ],
+   "en": [
+    "5",
+    "0.5",
+    "1",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1000 g eritmada 200 g tuz erigan. Tuzning massa ulushi necha foiz?",
+   "ru": "В 1000 г раствора растворено 200 г соли. Чему равна массовая доля соли (%)?",
+   "en": "200 g of salt is dissolved in 1000 g of solution. What is the mass fraction of the salt (%)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "60",
+    "21",
+    "30"
+   ],
+   "ru": [
+    "20",
+    "60",
+    "21",
+    "30"
+   ],
+   "en": [
+    "20",
+    "60",
+    "21",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2Mg + O2 → 2MgO reaksiyasida 144 g Mg dan necha gramm MgO hosil bo'ladi?",
+   "ru": "Сколько граммов MgO образуется из 144 г Mg по реакции 2Mg + O2 → 2MgO?",
+   "en": "How many grams of MgO form from 144 g of Mg in the reaction 2Mg + O2 → 2MgO?"
+  },
+  "o": {
+   "uz": [
+    "240",
+    "360",
+    "252",
+    "180"
+   ],
+   "ru": [
+    "240",
+    "360",
+    "252",
+    "180"
+   ],
+   "en": [
+    "240",
+    "360",
+    "252",
+    "180"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 22.4 l O2 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 22.4 л O2 при н. у.?",
+   "en": "How many moles are 22.4 L of O2 at STP?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "4",
+    "2.5",
+    "0.5"
+   ],
+   "ru": [
+    "1",
+    "4",
+    "2.5",
+    "0.5"
+   ],
+   "en": [
+    "1",
+    "4",
+    "2.5",
+    "0.5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 1.5 mol NH3 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 1.5 моль NH3 при н. у.?",
+   "en": "What volume (L) do 1.5 mol of NH3 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "33.6",
+    "112",
+    "224",
+    "67.2"
+   ],
+   "ru": [
+    "33.6",
+    "112",
+    "224",
+    "67.2"
+   ],
+   "en": [
+    "33.6",
+    "112",
+    "224",
+    "67.2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 67.2 l O2 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 67.2 л O2 при н. у.?",
+   "en": "How many moles are 67.2 L of O2 at STP?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "10",
+    "1",
+    "5"
+   ],
+   "ru": [
+    "3",
+    "10",
+    "1",
+    "5"
+   ],
+   "en": [
+    "3",
+    "10",
+    "1",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CaCO3 → CaO + CO2 reaksiyasida 200 g CaCO3 dan necha gramm CaO hosil bo'ladi?",
+   "ru": "Сколько граммов CaO образуется из 200 г CaCO3 по реакции CaCO3 → CaO + CO2?",
+   "en": "How many grams of CaO form from 200 g of CaCO3 in the reaction CaCO3 → CaO + CO2?"
+  },
+  "o": {
+   "uz": [
+    "112",
+    "134",
+    "90",
+    "106"
+   ],
+   "ru": [
+    "112",
+    "134",
+    "90",
+    "106"
+   ],
+   "en": [
+    "112",
+    "134",
+    "90",
+    "106"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 10 mol O2 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 10 моль O2 при н. у.?",
+   "en": "What volume (L) do 10 mol of O2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "224",
+    "22.4",
+    "44.8",
+    "89.6"
+   ],
+   "ru": [
+    "224",
+    "22.4",
+    "44.8",
+    "89.6"
+   ],
+   "en": [
+    "224",
+    "22.4",
+    "44.8",
+    "89.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Reaksiya tenglamasini tenglashtiring va koeffitsiyentlar yig'indisini toping:\nCa(OH)2 + HCl → CaCl2 + H2O",
+   "ru": "Уравняйте реакцию и найдите сумму коэффициентов:\nCa(OH)2 + HCl → CaCl2 + H2O",
+   "en": "Balance the equation and find the sum of the coefficients:\nCa(OH)2 + HCl → CaCl2 + H2O"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "8",
+    "18",
+    "4"
+   ],
+   "ru": [
+    "6",
+    "8",
+    "18",
+    "4"
+   ],
+   "en": [
+    "6",
+    "8",
+    "18",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 5 mol NH3 qancha hajm (l) egallaydi?",
+   "ru": "Какой объём (л) занимают 5 моль NH3 при н. у.?",
+   "en": "What volume (L) do 5 mol of NH3 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "112",
+    "11.2",
+    "22.4",
+    "67.2"
+   ],
+   "ru": [
+    "112",
+    "11.2",
+    "22.4",
+    "67.2"
+   ],
+   "en": [
+    "112",
+    "11.2",
+    "22.4",
+    "67.2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "400 g 20% li tuz eritmasida necha gramm tuz bor?",
+   "ru": "Сколько граммов соли содержится в 400 г 20%-ного раствора?",
+   "en": "How many grams of salt are in 400 g of a 20% salt solution?"
+  },
+  "o": {
+   "uz": [
+    "80",
+    "240",
+    "40",
+    "76"
+   ],
+   "ru": [
+    "80",
+    "240",
+    "40",
+    "76"
+   ],
+   "en": [
+    "80",
+    "240",
+    "40",
+    "76"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "H2S birikmasida S ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента S в соединении H2S?",
+   "en": "What is the oxidation state of S in H2S?"
+  },
+  "o": {
+   "uz": [
+    "-2",
+    "-3",
+    "0",
+    "+7"
+   ],
+   "ru": [
+    "-2",
+    "-3",
+    "0",
+    "+7"
+   ],
+   "en": [
+    "-2",
+    "-3",
+    "0",
+    "+7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Normal sharoitda 11.2 l CH4 necha mol bo'ladi?",
+   "ru": "Сколько моль составляют 11.2 л CH4 при н. у.?",
+   "en": "How many moles are 11.2 L of CH4 at STP?"
+  },
+  "o": {
+   "uz": [
+    "0.5",
+    "2",
+    "2.5",
+    "4"
+   ],
+   "ru": [
+    "0.5",
+    "2",
+    "2.5",
+    "4"
+   ],
+   "en": [
+    "0.5",
+    "2",
+    "2.5",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "250 g 20% li tuz eritmasida necha gramm tuz bor?",
+   "ru": "Сколько граммов соли содержится в 250 г 20%-ного раствора?",
+   "en": "How many grams of salt are in 250 g of a 20% salt solution?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "75",
+    "38",
+    "48"
+   ],
+   "ru": [
+    "50",
+    "75",
+    "38",
+    "48"
+   ],
+   "en": [
+    "50",
+    "75",
+    "38",
+    "48"
+   ]
+  },
+  "a": 0
+ }
+]

@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "IP-tarmoq /20 prefiksiga ega. Unda nechta qurilmaga manzil berish mumkin? (tarmoq va keng tarqatish manzillari hisobga olinmaydi)",
+   "ru": "IP-сеть имеет префикс /20. Сколько устройств можно адресовать? (адреса сети и широковещания не считаются)",
+   "en": "An IP network has prefix /20. How many hosts can be addressed? (network and broadcast addresses excluded)"
+  },
+  "o": {
+   "uz": [
+    "4094",
+    "4096",
+    "2046",
+    "8190"
+   ],
+   "ru": [
+    "4094",
+    "4096",
+    "2046",
+    "8190"
+   ],
+   "en": [
+    "4094",
+    "4096",
+    "2046",
+    "8190"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "10110₂ + 10010₂ = ?₂",
+   "ru": "10110₂ + 10010₂ = ?₂",
+   "en": "10110₂ + 10010₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "101000",
+    "101100",
+    "101001",
+    "111000"
+   ],
+   "ru": [
+    "101000",
+    "101100",
+    "101001",
+    "111000"
+   ],
+   "en": [
+    "101000",
+    "101100",
+    "101001",
+    "111000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 bitli ikkilik son qabul qila oladigan eng katta o'nlik qiymat nechaga teng? (manfiy sonlarsiz)",
+   "ru": "Чему равно наибольшее десятичное значение 2-битного двоичного числа? (без знака)",
+   "en": "What is the largest decimal value of an unsigned 2-bit binary number?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "ru": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "en": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dastur bajarilgach s ning qiymati nechaga teng?\ns = 0\nfor i in range(2, 60, 4):\n    s += 1",
+   "ru": "Чему будет равно значение s после выполнения программы?\ns = 0\nfor i in range(2, 60, 4):\n    s += 1",
+   "en": "What will be the value of s after the program runs?\ns = 0\nfor i in range(2, 60, 4):\n    s += 1"
+  },
+  "o": {
+   "uz": [
+    "15",
+    "25",
+    "12",
+    "18"
+   ],
+   "ru": [
+    "15",
+    "25",
+    "12",
+    "18"
+   ],
+   "en": [
+    "15",
+    "25",
+    "12",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "6 xonali ikkilik sonlar (birinchi raqami 1) nechta?",
+   "ru": "Сколько существует 6-значных двоичных чисел (первая цифра 1)?",
+   "en": "How many 6-digit binary numbers (starting with 1) are there?"
+  },
+  "o": {
+   "uz": [
+    "32",
+    "64",
+    "16",
+    "63"
+   ],
+   "ru": [
+    "32",
+    "64",
+    "16",
+    "63"
+   ],
+   "en": [
+    "32",
+    "64",
+    "16",
+    "63"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 49, 18, 45, 47, 22 sonlari yozilgan. =SUM(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 49, 18, 45, 47, 22. Каков результат формулы =SUM(A1:A5)?",
+   "en": "Cells A1:A5 contain 49, 18, 45, 47, 22. What is the result of =SUM(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "181",
+    "49",
+    "18",
+    "45"
+   ],
+   "ru": [
+    "181",
+    "49",
+    "18",
+    "45"
+   ],
+   "en": [
+    "181",
+    "49",
+    "18",
+    "45"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 104 MB bo'lgan fayl 8 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 104 МБ передаётся со скоростью 8 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 104 MB file is transferred at 8 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "13",
+    "11",
+    "18",
+    "7"
+   ],
+   "ru": [
+    "13",
+    "11",
+    "18",
+    "7"
+   ],
+   "en": [
+    "13",
+    "11",
+    "18",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "11110₂ + 1010₂ = ?₂",
+   "ru": "11110₂ + 1010₂ = ?₂",
+   "en": "11110₂ + 1010₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "101000",
+    "101010",
+    "100111",
+    "111000"
+   ],
+   "ru": [
+    "101000",
+    "101010",
+    "100111",
+    "111000"
+   ],
+   "en": [
+    "101000",
+    "101010",
+    "100111",
+    "111000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "64×32 piksel o'lchamli, har bir piksel 8 bit bilan kodlangan rasm hajmi necha KB? (1 KB = 1024 bayt)",
+   "ru": "Изображение 64×32 пикселей, каждый пиксель кодируется 8 бит. Каков объём изображения (КБ)? (1 КБ = 1024 байт)",
+   "en": "An image is 64×32 pixels with 8 bits per pixel. What is its size in KB? (1 KB = 1024 bytes)"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "4",
+    "0",
+    "6"
+   ],
+   "ru": [
+    "2",
+    "4",
+    "0",
+    "6"
+   ],
+   "en": [
+    "2",
+    "4",
+    "0",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 464 MB bo'lgan fayl 16 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 464 МБ передаётся со скоростью 16 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 464 MB file is transferred at 16 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "29",
+    "87",
+    "24",
+    "26"
+   ],
+   "ru": [
+    "29",
+    "87",
+    "24",
+    "26"
+   ],
+   "en": [
+    "29",
+    "87",
+    "24",
+    "26"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dastur bajarilgach s ning qiymati nechaga teng?\ns = 0\nfor i in range(6, 49, 4):\n    s += 1",
+   "ru": "Чему будет равно значение s после выполнения программы?\ns = 0\nfor i in range(6, 49, 4):\n    s += 1",
+   "en": "What will be the value of s after the program runs?\ns = 0\nfor i in range(6, 49, 4):\n    s += 1"
+  },
+  "o": {
+   "uz": [
+    "11",
+    "18",
+    "8",
+    "14"
+   ],
+   "ru": [
+    "11",
+    "18",
+    "8",
+    "14"
+   ],
+   "en": [
+    "11",
+    "18",
+    "8",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 120 MB bo'lgan fayl 20 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 120 МБ передаётся со скоростью 20 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 120 MB file is transferred at 20 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "12",
+    "3",
+    "11"
+   ],
+   "ru": [
+    "6",
+    "12",
+    "3",
+    "11"
+   ],
+   "en": [
+    "6",
+    "12",
+    "3",
+    "11"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "101₂ + 100₂ = ?₂",
+   "ru": "101₂ + 100₂ = ?₂",
+   "en": "101₂ + 100₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "1001",
+    "1000",
+    "1101",
+    "1011"
+   ],
+   "ru": [
+    "1001",
+    "1000",
+    "1101",
+    "1011"
+   ],
+   "en": [
+    "1001",
+    "1000",
+    "1101",
+    "1011"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dastur bajarilgach p ning qiymati nechaga teng?\np = 1\nfor i in range(1, 9):\n    p *= i",
+   "ru": "Чему будет равно значение p после выполнения программы?\np = 1\nfor i in range(1, 9):\n    p *= i",
+   "en": "What will be the value of p after the program runs?\np = 1\nfor i in range(1, 9):\n    p *= i"
+  },
+  "o": {
+   "uz": [
+    "40320",
+    "120960",
+    "60480",
+    "44352"
+   ],
+   "ru": [
+    "40320",
+    "120960",
+    "60480",
+    "44352"
+   ],
+   "en": [
+    "40320",
+    "120960",
+    "60480",
+    "44352"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dastur bajarilgach s ning qiymati nechaga teng?\ns = 0\nfor i in range(9, 76, 4):\n    s += 1",
+   "ru": "Чему будет равно значение s после выполнения программы?\ns = 0\nfor i in range(9, 76, 4):\n    s += 1",
+   "en": "What will be the value of s after the program runs?\ns = 0\nfor i in range(9, 76, 4):\n    s += 1"
+  },
+  "o": {
+   "uz": [
+    "17",
+    "12",
+    "27",
+    "14"
+   ],
+   "ru": [
+    "17",
+    "12",
+    "27",
+    "14"
+   ],
+   "en": [
+    "17",
+    "12",
+    "27",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 39, 15, 7, 43, 27 sonlari yozilgan. =MIN(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 39, 15, 7, 43, 27. Каков результат формулы =MIN(A1:A5)?",
+   "en": "Cells A1:A5 contain 39, 15, 7, 43, 27. What is the result of =MIN(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "39",
+    "15",
+    "43"
+   ],
+   "ru": [
+    "7",
+    "39",
+    "15",
+    "43"
+   ],
+   "en": [
+    "7",
+    "39",
+    "15",
+    "43"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "16 bitli ikkilik son qabul qila oladigan eng katta o'nlik qiymat nechaga teng? (manfiy sonlarsiz)",
+   "ru": "Чему равно наибольшее десятичное значение 16-битного двоичного числа? (без знака)",
+   "en": "What is the largest decimal value of an unsigned 16-bit binary number?"
+  },
+  "o": {
+   "uz": [
+    "65535",
+    "65536",
+    "32768",
+    "65534"
+   ],
+   "ru": [
+    "65535",
+    "65536",
+    "32768",
+    "65534"
+   ],
+   "en": [
+    "65535",
+    "65536",
+    "32768",
+    "65534"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "IP-tarmoq /29 prefiksiga ega. Tarmoqda jami nechta IP-manzil bor?",
+   "ru": "IP-сеть имеет префикс /29. Сколько всего IP-адресов в этой сети?",
+   "en": "An IP network has prefix /29. How many IP addresses are there in total?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "4",
+    "16",
+    "6"
+   ],
+   "ru": [
+    "8",
+    "4",
+    "16",
+    "6"
+   ],
+   "en": [
+    "8",
+    "4",
+    "16",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 39, 20, 40, 10, 12 sonlari yozilgan. =MAX(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 39, 20, 40, 10, 12. Каков результат формулы =MAX(A1:A5)?",
+   "en": "Cells A1:A5 contain 39, 20, 40, 10, 12. What is the result of =MAX(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "39",
+    "20",
+    "10"
+   ],
+   "ru": [
+    "40",
+    "39",
+    "20",
+    "10"
+   ],
+   "en": [
+    "40",
+    "39",
+    "20",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 320 MB bo'lgan fayl 20 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 320 МБ передаётся со скоростью 20 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 320 MB file is transferred at 20 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "26",
+    "29",
+    "23"
+   ],
+   "ru": [
+    "16",
+    "26",
+    "29",
+    "23"
+   ],
+   "en": [
+    "16",
+    "26",
+    "29",
+    "23"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 21, 8, 19, 49, 40 sonlari yozilgan. =MAX(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 21, 8, 19, 49, 40. Каков результат формулы =MAX(A1:A5)?",
+   "en": "Cells A1:A5 contain 21, 8, 19, 49, 40. What is the result of =MAX(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "49",
+    "21",
+    "8",
+    "19"
+   ],
+   "ru": [
+    "49",
+    "21",
+    "8",
+    "19"
+   ],
+   "en": [
+    "49",
+    "21",
+    "8",
+    "19"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "11011₂ + 1010₂ = ?₂",
+   "ru": "11011₂ + 1010₂ = ?₂",
+   "en": "11011₂ + 1010₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "100101",
+    "101001",
+    "100100",
+    "100111"
+   ],
+   "ru": [
+    "100101",
+    "101001",
+    "100100",
+    "100111"
+   ],
+   "en": [
+    "100101",
+    "101001",
+    "100100",
+    "100111"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "IP-tarmoq /29 prefiksiga ega. Unda nechta qurilmaga manzil berish mumkin? (tarmoq va keng tarqatish manzillari hisobga olinmaydi)",
+   "ru": "IP-сеть имеет префикс /29. Сколько устройств можно адресовать? (адреса сети и широковещания не считаются)",
+   "en": "An IP network has prefix /29. How many hosts can be addressed? (network and broadcast addresses excluded)"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "8",
+    "2",
+    "14"
+   ],
+   "ru": [
+    "6",
+    "8",
+    "2",
+    "14"
+   ],
+   "en": [
+    "6",
+    "8",
+    "2",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 80 MB bo'lgan fayl 20 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 80 МБ передаётся со скоростью 20 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 80 MB file is transferred at 20 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "17",
+    "2",
+    "14"
+   ],
+   "ru": [
+    "4",
+    "17",
+    "2",
+    "14"
+   ],
+   "en": [
+    "4",
+    "17",
+    "2",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 8 MB bo'lgan fayl 4 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 8 МБ передаётся со скоростью 4 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 8 MB file is transferred at 4 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "15",
+    "0",
+    "12"
+   ],
+   "ru": [
+    "2",
+    "15",
+    "0",
+    "12"
+   ],
+   "en": [
+    "2",
+    "15",
+    "0",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "7 bitli ikkilik son qabul qila oladigan eng katta o'nlik qiymat nechaga teng? (manfiy sonlarsiz)",
+   "ru": "Чему равно наибольшее десятичное значение 7-битного двоичного числа? (без знака)",
+   "en": "What is the largest decimal value of an unsigned 7-bit binary number?"
+  },
+  "o": {
+   "uz": [
+    "127",
+    "128",
+    "64",
+    "126"
+   ],
+   "ru": [
+    "127",
+    "128",
+    "64",
+    "126"
+   ],
+   "en": [
+    "127",
+    "128",
+    "64",
+    "126"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 28, 35, 2, 24, 9 sonlari yozilgan. =SUM(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 28, 35, 2, 24, 9. Каков результат формулы =SUM(A1:A5)?",
+   "en": "Cells A1:A5 contain 28, 35, 2, 24, 9. What is the result of =SUM(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "98",
+    "28",
+    "35",
+    "2"
+   ],
+   "ru": [
+    "98",
+    "28",
+    "35",
+    "2"
+   ],
+   "en": [
+    "98",
+    "28",
+    "35",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 336 MB bo'lgan fayl 16 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 336 МБ передаётся со скоростью 16 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 336 MB file is transferred at 16 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "21",
+    "34",
+    "24",
+    "42"
+   ],
+   "ru": [
+    "21",
+    "34",
+    "24",
+    "42"
+   ],
+   "en": [
+    "21",
+    "34",
+    "24",
+    "42"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dastur bajarilgach s ning qiymati nechaga teng?\ns = 0\nfor i in range(1, 10):\n    s += i",
+   "ru": "Чему будет равно значение s после выполнения программы?\ns = 0\nfor i in range(1, 10):\n    s += i",
+   "en": "What will be the value of s after the program runs?\ns = 0\nfor i in range(1, 10):\n    s += i"
+  },
+  "o": {
+   "uz": [
+    "45",
+    "41",
+    "54",
+    "135"
+   ],
+   "ru": [
+    "45",
+    "41",
+    "54",
+    "135"
+   ],
+   "en": [
+    "45",
+    "41",
+    "54",
+    "135"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 27, 17, 11, 2, 41 sonlari yozilgan. =SUM(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 27, 17, 11, 2, 41. Каков результат формулы =SUM(A1:A5)?",
+   "en": "Cells A1:A5 contain 27, 17, 11, 2, 41. What is the result of =SUM(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "98",
+    "27",
+    "17",
+    "11"
+   ],
+   "ru": [
+    "98",
+    "27",
+    "17",
+    "11"
+   ],
+   "en": [
+    "98",
+    "27",
+    "17",
+    "11"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 160 MB bo'lgan fayl 20 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 160 МБ передаётся со скоростью 20 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 160 MB file is transferred at 20 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "5",
+    "4",
+    "12"
+   ],
+   "ru": [
+    "8",
+    "5",
+    "4",
+    "12"
+   ],
+   "en": [
+    "8",
+    "5",
+    "4",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dastur bajarilgach s ning qiymati nechaga teng?\ns = 0\nfor i in range(5, 48, 3):\n    s += 1",
+   "ru": "Чему будет равно значение s после выполнения программы?\ns = 0\nfor i in range(5, 48, 3):\n    s += 1",
+   "en": "What will be the value of s after the program runs?\ns = 0\nfor i in range(5, 48, 3):\n    s += 1"
+  },
+  "o": {
+   "uz": [
+    "15",
+    "25",
+    "16",
+    "14"
+   ],
+   "ru": [
+    "15",
+    "25",
+    "16",
+    "14"
+   ],
+   "en": [
+    "15",
+    "25",
+    "16",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 300 MB bo'lgan fayl 25 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 300 МБ передаётся со скоростью 25 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 300 MB file is transferred at 25 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "6",
+    "7",
+    "10"
+   ],
+   "ru": [
+    "12",
+    "6",
+    "7",
+    "10"
+   ],
+   "en": [
+    "12",
+    "6",
+    "7",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1000₂ + 11111₂ = ?₂",
+   "ru": "1000₂ + 11111₂ = ?₂",
+   "en": "1000₂ + 11111₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "100111",
+    "110111",
+    "100101",
+    "100110"
+   ],
+   "ru": [
+    "100111",
+    "110111",
+    "100101",
+    "100110"
+   ],
+   "en": [
+    "100111",
+    "110111",
+    "100101",
+    "100110"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 140 MB bo'lgan fayl 20 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 140 МБ передаётся со скоростью 20 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 140 MB file is transferred at 20 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "4",
+    "12",
+    "14"
+   ],
+   "ru": [
+    "7",
+    "4",
+    "12",
+    "14"
+   ],
+   "en": [
+    "7",
+    "4",
+    "12",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "128×128 piksel o'lchamli, har bir piksel 2 bit bilan kodlangan rasm hajmi necha KB? (1 KB = 1024 bayt)",
+   "ru": "Изображение 128×128 пикселей, каждый пиксель кодируется 2 бит. Каков объём изображения (КБ)? (1 КБ = 1024 байт)",
+   "en": "An image is 128×128 pixels with 2 bits per pixel. What is its size in KB? (1 KB = 1024 bytes)"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "9",
+    "8",
+    "6"
+   ],
+   "ru": [
+    "4",
+    "9",
+    "8",
+    "6"
+   ],
+   "en": [
+    "4",
+    "9",
+    "8",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1011₂ + 11010₂ = ?₂",
+   "ru": "1011₂ + 11010₂ = ?₂",
+   "en": "1011₂ + 11010₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "100101",
+    "101001",
+    "100100",
+    "100111"
+   ],
+   "ru": [
+    "100101",
+    "101001",
+    "100100",
+    "100111"
+   ],
+   "en": [
+    "100101",
+    "101001",
+    "100100",
+    "100111"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "8 xonali ikkilik sonlar (birinchi raqami 1) nechta?",
+   "ru": "Сколько существует 8-значных двоичных чисел (первая цифра 1)?",
+   "en": "How many 8-digit binary numbers (starting with 1) are there?"
+  },
+  "o": {
+   "uz": [
+    "128",
+    "256",
+    "64",
+    "255"
+   ],
+   "ru": [
+    "128",
+    "256",
+    "64",
+    "255"
+   ],
+   "en": [
+    "128",
+    "256",
+    "64",
+    "255"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 120 MB bo'lgan fayl 5 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 120 МБ передаётся со скоростью 5 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 120 MB file is transferred at 5 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "24",
+    "48",
+    "34",
+    "37"
+   ],
+   "ru": [
+    "24",
+    "48",
+    "34",
+    "37"
+   ],
+   "en": [
+    "24",
+    "48",
+    "34",
+    "37"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 100 MB bo'lgan fayl 20 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 100 МБ передаётся со скоростью 20 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 100 MB file is transferred at 20 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "15",
+    "7",
+    "12"
+   ],
+   "ru": [
+    "5",
+    "15",
+    "7",
+    "12"
+   ],
+   "en": [
+    "5",
+    "15",
+    "7",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 20 MB bo'lgan fayl 4 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 20 МБ передаётся со скоростью 4 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 20 MB file is transferred at 4 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "2",
+    "15",
+    "18"
+   ],
+   "ru": [
+    "5",
+    "2",
+    "15",
+    "18"
+   ],
+   "en": [
+    "5",
+    "2",
+    "15",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 47, 21, 20, 7, 27 sonlari yozilgan. =SUM(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 47, 21, 20, 7, 27. Каков результат формулы =SUM(A1:A5)?",
+   "en": "Cells A1:A5 contain 47, 21, 20, 7, 27. What is the result of =SUM(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "122",
+    "47",
+    "21",
+    "20"
+   ],
+   "ru": [
+    "122",
+    "47",
+    "21",
+    "20"
+   ],
+   "en": [
+    "122",
+    "47",
+    "21",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "IP-tarmoq /25 prefiksiga ega. Unda nechta qurilmaga manzil berish mumkin? (tarmoq va keng tarqatish manzillari hisobga olinmaydi)",
+   "ru": "IP-сеть имеет префикс /25. Сколько устройств можно адресовать? (адреса сети и широковещания не считаются)",
+   "en": "An IP network has prefix /25. How many hosts can be addressed? (network and broadcast addresses excluded)"
+  },
+  "o": {
+   "uz": [
+    "126",
+    "128",
+    "62",
+    "254"
+   ],
+   "ru": [
+    "126",
+    "128",
+    "62",
+    "254"
+   ],
+   "en": [
+    "126",
+    "128",
+    "62",
+    "254"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dastur bajarilgach x ning qiymati nechaga teng?\nx = 8\nfor _ in range(8):\n    x *= 2",
+   "ru": "Чему будет равно значение x после выполнения программы?\nx = 8\nfor _ in range(8):\n    x *= 2",
+   "en": "What will be the value of x after the program runs?\nx = 8\nfor _ in range(8):\n    x *= 2"
+  },
+  "o": {
+   "uz": [
+    "2048",
+    "6144",
+    "1536",
+    "2458"
+   ],
+   "ru": [
+    "2048",
+    "6144",
+    "1536",
+    "2458"
+   ],
+   "en": [
+    "2048",
+    "6144",
+    "1536",
+    "2458"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "IP-tarmoq /23 prefiksiga ega. Unda nechta qurilmaga manzil berish mumkin? (tarmoq va keng tarqatish manzillari hisobga olinmaydi)",
+   "ru": "IP-сеть имеет префикс /23. Сколько устройств можно адресовать? (адреса сети и широковещания не считаются)",
+   "en": "An IP network has prefix /23. How many hosts can be addressed? (network and broadcast addresses excluded)"
+  },
+  "o": {
+   "uz": [
+    "510",
+    "512",
+    "254",
+    "1022"
+   ],
+   "ru": [
+    "510",
+    "512",
+    "254",
+    "1022"
+   ],
+   "en": [
+    "510",
+    "512",
+    "254",
+    "1022"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 224 MB bo'lgan fayl 16 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 224 МБ передаётся со скоростью 16 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 224 MB file is transferred at 16 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "14",
+    "42",
+    "7",
+    "4"
+   ],
+   "ru": [
+    "14",
+    "42",
+    "7",
+    "4"
+   ],
+   "en": [
+    "14",
+    "42",
+    "7",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "15 xonali ikkilik sonlar (birinchi raqami 1) nechta?",
+   "ru": "Сколько существует 15-значных двоичных чисел (первая цифра 1)?",
+   "en": "How many 15-digit binary numbers (starting with 1) are there?"
+  },
+  "o": {
+   "uz": [
+    "16384",
+    "32768",
+    "8192",
+    "32767"
+   ],
+   "ru": [
+    "16384",
+    "32768",
+    "8192",
+    "32767"
+   ],
+   "en": [
+    "16384",
+    "32768",
+    "8192",
+    "32767"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 24, 34, 18, 29, 6 sonlari yozilgan. =MAX(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 24, 34, 18, 29, 6. Каков результат формулы =MAX(A1:A5)?",
+   "en": "Cells A1:A5 contain 24, 34, 18, 29, 6. What is the result of =MAX(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "34",
+    "24",
+    "18",
+    "29"
+   ],
+   "ru": [
+    "34",
+    "24",
+    "18",
+    "29"
+   ],
+   "en": [
+    "34",
+    "24",
+    "18",
+    "29"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 500 MB bo'lgan fayl 25 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 500 МБ передаётся со скоростью 25 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 500 MB file is transferred at 25 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "17",
+    "22",
+    "30"
+   ],
+   "ru": [
+    "20",
+    "17",
+    "22",
+    "30"
+   ],
+   "en": [
+    "20",
+    "17",
+    "22",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "11110₂ + 1001₂ = ?₂",
+   "ru": "11110₂ + 1001₂ = ?₂",
+   "en": "11110₂ + 1001₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "100111",
+    "100110",
+    "110111",
+    "100101"
+   ],
+   "ru": [
+    "100111",
+    "100110",
+    "110111",
+    "100101"
+   ],
+   "en": [
+    "100111",
+    "100110",
+    "110111",
+    "100101"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dastur bajarilgach x ning qiymati nechaga teng?\nx = 1\nfor _ in range(8):\n    x *= 2",
+   "ru": "Чему будет равно значение x после выполнения программы?\nx = 1\nfor _ in range(8):\n    x *= 2",
+   "en": "What will be the value of x after the program runs?\nx = 1\nfor _ in range(8):\n    x *= 2"
+  },
+  "o": {
+   "uz": [
+    "256",
+    "230",
+    "269",
+    "307"
+   ],
+   "ru": [
+    "256",
+    "230",
+    "269",
+    "307"
+   ],
+   "en": [
+    "256",
+    "230",
+    "269",
+    "307"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1110₂ + 111₂ = ?₂",
+   "ru": "1110₂ + 111₂ = ?₂",
+   "en": "1110₂ + 111₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "10101",
+    "10100",
+    "10111",
+    "11001"
+   ],
+   "ru": [
+    "10101",
+    "10100",
+    "10111",
+    "11001"
+   ],
+   "en": [
+    "10101",
+    "10100",
+    "10111",
+    "11001"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 18, 45, 33, 37, 36 sonlari yozilgan. =MIN(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 18, 45, 33, 37, 36. Каков результат формулы =MIN(A1:A5)?",
+   "en": "Cells A1:A5 contain 18, 45, 33, 37, 36. What is the result of =MIN(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "18",
+    "45",
+    "33",
+    "37"
+   ],
+   "ru": [
+    "18",
+    "45",
+    "33",
+    "37"
+   ],
+   "en": [
+    "18",
+    "45",
+    "33",
+    "37"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 24, 24, 32, 31, 20 sonlari yozilgan. =MAX(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 24, 24, 32, 31, 20. Каков результат формулы =MAX(A1:A5)?",
+   "en": "Cells A1:A5 contain 24, 24, 32, 31, 20. What is the result of =MAX(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "32",
+    "24",
+    "31",
+    "20"
+   ],
+   "ru": [
+    "32",
+    "24",
+    "31",
+    "20"
+   ],
+   "en": [
+    "32",
+    "24",
+    "31",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "32×64 piksel o'lchamli, har bir piksel 16 bit bilan kodlangan rasm hajmi necha KB? (1 KB = 1024 bayt)",
+   "ru": "Изображение 32×64 пикселей, каждый пиксель кодируется 16 бит. Каков объём изображения (КБ)? (1 КБ = 1024 байт)",
+   "en": "An image is 32×64 pixels with 16 bits per pixel. What is its size in KB? (1 KB = 1024 bytes)"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "14",
+    "17",
+    "9"
+   ],
+   "ru": [
+    "4",
+    "14",
+    "17",
+    "9"
+   ],
+   "en": [
+    "4",
+    "14",
+    "17",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 38 MB bo'lgan fayl 2 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 38 МБ передаётся со скоростью 2 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 38 MB file is transferred at 2 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "19",
+    "22",
+    "10",
+    "16"
+   ],
+   "ru": [
+    "19",
+    "22",
+    "10",
+    "16"
+   ],
+   "en": [
+    "19",
+    "22",
+    "10",
+    "16"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "IP-tarmoq /24 prefiksiga ega. Tarmoqda jami nechta IP-manzil bor?",
+   "ru": "IP-сеть имеет префикс /24. Сколько всего IP-адресов в этой сети?",
+   "en": "An IP network has prefix /24. How many IP addresses are there in total?"
+  },
+  "o": {
+   "uz": [
+    "256",
+    "128",
+    "512",
+    "254"
+   ],
+   "ru": [
+    "256",
+    "128",
+    "512",
+    "254"
+   ],
+   "en": [
+    "256",
+    "128",
+    "512",
+    "254"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "IP-tarmoq /27 prefiksiga ega. Tarmoqda jami nechta IP-manzil bor?",
+   "ru": "IP-сеть имеет префикс /27. Сколько всего IP-адресов в этой сети?",
+   "en": "An IP network has prefix /27. How many IP addresses are there in total?"
+  },
+  "o": {
+   "uz": [
+    "32",
+    "16",
+    "64",
+    "30"
+   ],
+   "ru": [
+    "32",
+    "16",
+    "64",
+    "30"
+   ],
+   "en": [
+    "32",
+    "16",
+    "64",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 32 MB bo'lgan fayl 8 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 32 МБ передаётся со скоростью 8 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 32 MB file is transferred at 8 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "7",
+    "9",
+    "12"
+   ],
+   "ru": [
+    "4",
+    "7",
+    "9",
+    "12"
+   ],
+   "en": [
+    "4",
+    "7",
+    "9",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "IP-tarmoq /30 prefiksiga ega. Unda nechta qurilmaga manzil berish mumkin? (tarmoq va keng tarqatish manzillari hisobga olinmaydi)",
+   "ru": "IP-сеть имеет префикс /30. Сколько устройств можно адресовать? (адреса сети и широковещания не считаются)",
+   "en": "An IP network has prefix /30. How many hosts can be addressed? (network and broadcast addresses excluded)"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "4",
+    "0",
+    "6"
+   ],
+   "ru": [
+    "2",
+    "4",
+    "0",
+    "6"
+   ],
+   "en": [
+    "2",
+    "4",
+    "0",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "8 bitli ikkilik son qabul qila oladigan eng katta o'nlik qiymat nechaga teng? (manfiy sonlarsiz)",
+   "ru": "Чему равно наибольшее десятичное значение 8-битного двоичного числа? (без знака)",
+   "en": "What is the largest decimal value of an unsigned 8-bit binary number?"
+  },
+  "o": {
+   "uz": [
+    "255",
+    "256",
+    "128",
+    "254"
+   ],
+   "ru": [
+    "255",
+    "256",
+    "128",
+    "254"
+   ],
+   "en": [
+    "255",
+    "256",
+    "128",
+    "254"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "256×512 piksel o'lchamli, har bir piksel 24 bit bilan kodlangan rasm hajmi necha KB? (1 KB = 1024 bayt)",
+   "ru": "Изображение 256×512 пикселей, каждый пиксель кодируется 24 бит. Каков объём изображения (КБ)? (1 КБ = 1024 байт)",
+   "en": "An image is 256×512 pixels with 24 bits per pixel. What is its size in KB? (1 KB = 1024 bytes)"
+  },
+  "o": {
+   "uz": [
+    "384",
+    "768",
+    "461",
+    "576"
+   ],
+   "ru": [
+    "384",
+    "768",
+    "461",
+    "576"
+   ],
+   "en": [
+    "384",
+    "768",
+    "461",
+    "576"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "64×256 piksel o'lchamli, har bir piksel 1 bit bilan kodlangan rasm hajmi necha KB? (1 KB = 1024 bayt)",
+   "ru": "Изображение 64×256 пикселей, каждый пиксель кодируется 1 бит. Каков объём изображения (КБ)? (1 КБ = 1024 байт)",
+   "en": "An image is 64×256 pixels with 1 bits per pixel. What is its size in KB? (1 KB = 1024 bytes)"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "5",
+    "12",
+    "15"
+   ],
+   "ru": [
+    "2",
+    "5",
+    "12",
+    "15"
+   ],
+   "en": [
+    "2",
+    "5",
+    "12",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 14, 25, 50, 22, 6 sonlari yozilgan. =MIN(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 14, 25, 50, 22, 6. Каков результат формулы =MIN(A1:A5)?",
+   "en": "Cells A1:A5 contain 14, 25, 50, 22, 6. What is the result of =MIN(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "14",
+    "25",
+    "50"
+   ],
+   "ru": [
+    "6",
+    "14",
+    "25",
+    "50"
+   ],
+   "en": [
+    "6",
+    "14",
+    "25",
+    "50"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 256 MB bo'lgan fayl 16 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 256 МБ передаётся со скоростью 16 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 256 MB file is transferred at 16 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "21",
+    "15",
+    "14"
+   ],
+   "ru": [
+    "16",
+    "21",
+    "15",
+    "14"
+   ],
+   "en": [
+    "16",
+    "21",
+    "15",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 80 MB bo'lgan fayl 4 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 80 МБ передаётся со скоростью 4 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 80 MB file is transferred at 4 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "33",
+    "19",
+    "15"
+   ],
+   "ru": [
+    "20",
+    "33",
+    "19",
+    "15"
+   ],
+   "en": [
+    "20",
+    "33",
+    "19",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1110₂ + 11₂ = ?₂",
+   "ru": "1110₂ + 11₂ = ?₂",
+   "en": "1110₂ + 11₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "10001",
+    "10000",
+    "10011",
+    "10010"
+   ],
+   "ru": [
+    "10001",
+    "10000",
+    "10011",
+    "10010"
+   ],
+   "en": [
+    "10001",
+    "10000",
+    "10011",
+    "10010"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "11101₂ + 1100₂ = ?₂",
+   "ru": "11101₂ + 1100₂ = ?₂",
+   "en": "11101₂ + 1100₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "101001",
+    "101101",
+    "101000",
+    "111001"
+   ],
+   "ru": [
+    "101001",
+    "101101",
+    "101000",
+    "111001"
+   ],
+   "en": [
+    "101001",
+    "101101",
+    "101000",
+    "111001"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dastur bajarilgach p ning qiymati nechaga teng?\np = 1\nfor i in range(1, 6):\n    p *= i",
+   "ru": "Чему будет равно значение p после выполнения программы?\np = 1\nfor i in range(1, 6):\n    p *= i",
+   "en": "What will be the value of p after the program runs?\np = 1\nfor i in range(1, 6):\n    p *= i"
+  },
+  "o": {
+   "uz": [
+    "120",
+    "96",
+    "60",
+    "132"
+   ],
+   "ru": [
+    "120",
+    "96",
+    "60",
+    "132"
+   ],
+   "en": [
+    "120",
+    "96",
+    "60",
+    "132"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1010₂ + 11000₂ = ?₂",
+   "ru": "1010₂ + 11000₂ = ?₂",
+   "en": "1010₂ + 11000₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "100010",
+    "101010",
+    "100011",
+    "100110"
+   ],
+   "ru": [
+    "100010",
+    "101010",
+    "100011",
+    "100110"
+   ],
+   "en": [
+    "100010",
+    "101010",
+    "100011",
+    "100110"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 112 MB bo'lgan fayl 8 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 112 МБ передаётся со скоростью 8 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 112 MB file is transferred at 8 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "14",
+    "9",
+    "17",
+    "24"
+   ],
+   "ru": [
+    "14",
+    "9",
+    "17",
+    "24"
+   ],
+   "en": [
+    "14",
+    "9",
+    "17",
+    "24"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 3, 48, 42, 12, 43 sonlari yozilgan. =SUM(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 3, 48, 42, 12, 43. Каков результат формулы =SUM(A1:A5)?",
+   "en": "Cells A1:A5 contain 3, 48, 42, 12, 43. What is the result of =SUM(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "148",
+    "3",
+    "48",
+    "42"
+   ],
+   "ru": [
+    "148",
+    "3",
+    "48",
+    "42"
+   ],
+   "en": [
+    "148",
+    "3",
+    "48",
+    "42"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "256×256 piksel o'lchamli, har bir piksel 16 bit bilan kodlangan rasm hajmi necha KB? (1 KB = 1024 bayt)",
+   "ru": "Изображение 256×256 пикселей, каждый пиксель кодируется 16 бит. Каков объём изображения (КБ)? (1 КБ = 1024 байт)",
+   "en": "An image is 256×256 pixels with 16 bits per pixel. What is its size in KB? (1 KB = 1024 bytes)"
+  },
+  "o": {
+   "uz": [
+    "128",
+    "256",
+    "154",
+    "141"
+   ],
+   "ru": [
+    "128",
+    "256",
+    "154",
+    "141"
+   ],
+   "en": [
+    "128",
+    "256",
+    "154",
+    "141"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dastur bajarilgach x ning qiymati nechaga teng?\nx = 1\nfor _ in range(4):\n    x *= 2",
+   "ru": "Чему будет равно значение x после выполнения программы?\nx = 1\nfor _ in range(4):\n    x *= 2",
+   "en": "What will be the value of x after the program runs?\nx = 1\nfor _ in range(4):\n    x *= 2"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "19",
+    "17",
+    "29"
+   ],
+   "ru": [
+    "16",
+    "19",
+    "17",
+    "29"
+   ],
+   "en": [
+    "16",
+    "19",
+    "17",
+    "29"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "128×256 piksel o'lchamli, har bir piksel 2 bit bilan kodlangan rasm hajmi necha KB? (1 KB = 1024 bayt)",
+   "ru": "Изображение 128×256 пикселей, каждый пиксель кодируется 2 бит. Каков объём изображения (КБ)? (1 КБ = 1024 байт)",
+   "en": "An image is 128×256 pixels with 2 bits per pixel. What is its size in KB? (1 KB = 1024 bytes)"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "13",
+    "15",
+    "18"
+   ],
+   "ru": [
+    "8",
+    "13",
+    "15",
+    "18"
+   ],
+   "en": [
+    "8",
+    "13",
+    "15",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 5, 3, 7, 17, 33 sonlari yozilgan. =SUM(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 5, 3, 7, 17, 33. Каков результат формулы =SUM(A1:A5)?",
+   "en": "Cells A1:A5 contain 5, 3, 7, 17, 33. What is the result of =SUM(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "65",
+    "5",
+    "3",
+    "7"
+   ],
+   "ru": [
+    "65",
+    "5",
+    "3",
+    "7"
+   ],
+   "en": [
+    "65",
+    "5",
+    "3",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "11110₂ + 10000₂ = ?₂",
+   "ru": "11110₂ + 10000₂ = ?₂",
+   "en": "11110₂ + 10000₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "101110",
+    "100110",
+    "101111",
+    "110000"
+   ],
+   "ru": [
+    "101110",
+    "100110",
+    "101111",
+    "110000"
+   ],
+   "en": [
+    "101110",
+    "100110",
+    "101111",
+    "110000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 168 MB bo'lgan fayl 8 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 168 МБ передаётся со скоростью 8 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 168 MB file is transferred at 8 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "21",
+    "26",
+    "42",
+    "18"
+   ],
+   "ru": [
+    "21",
+    "26",
+    "42",
+    "18"
+   ],
+   "en": [
+    "21",
+    "26",
+    "42",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 40 MB bo'lgan fayl 20 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 40 МБ передаётся со скоростью 20 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 40 MB file is transferred at 20 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "5",
+    "15",
+    "0"
+   ],
+   "ru": [
+    "2",
+    "5",
+    "15",
+    "0"
+   ],
+   "en": [
+    "2",
+    "5",
+    "15",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 45, 40, 1, 37, 45 sonlari yozilgan. =MIN(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 45, 40, 1, 37, 45. Каков результат формулы =MIN(A1:A5)?",
+   "en": "Cells A1:A5 contain 45, 40, 1, 37, 45. What is the result of =MIN(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "45",
+    "40",
+    "37"
+   ],
+   "ru": [
+    "1",
+    "45",
+    "40",
+    "37"
+   ],
+   "en": [
+    "1",
+    "45",
+    "40",
+    "37"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 xonali ikkilik sonlar (birinchi raqami 1) nechta?",
+   "ru": "Сколько существует 4-значных двоичных чисел (первая цифра 1)?",
+   "en": "How many 4-digit binary numbers (starting with 1) are there?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "16",
+    "4",
+    "15"
+   ],
+   "ru": [
+    "8",
+    "16",
+    "4",
+    "15"
+   ],
+   "en": [
+    "8",
+    "16",
+    "4",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "64×512 piksel o'lchamli, har bir piksel 2 bit bilan kodlangan rasm hajmi necha KB? (1 KB = 1024 bayt)",
+   "ru": "Изображение 64×512 пикселей, каждый пиксель кодируется 2 бит. Каков объём изображения (КБ)? (1 КБ = 1024 байт)",
+   "en": "An image is 64×512 pixels with 2 bits per pixel. What is its size in KB? (1 KB = 1024 bytes)"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "3",
+    "6",
+    "5"
+   ],
+   "ru": [
+    "8",
+    "3",
+    "6",
+    "5"
+   ],
+   "en": [
+    "8",
+    "3",
+    "6",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 580 MB bo'lgan fayl 20 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 580 МБ передаётся со скоростью 20 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 580 MB file is transferred at 20 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "29",
+    "15",
+    "24",
+    "39"
+   ],
+   "ru": [
+    "29",
+    "15",
+    "24",
+    "39"
+   ],
+   "en": [
+    "29",
+    "15",
+    "24",
+    "39"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "11111₂ + 1011₂ = ?₂",
+   "ru": "11111₂ + 1011₂ = ?₂",
+   "en": "11111₂ + 1011₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "101010",
+    "101011",
+    "100010",
+    "111010"
+   ],
+   "ru": [
+    "101010",
+    "101011",
+    "100010",
+    "111010"
+   ],
+   "en": [
+    "101010",
+    "101011",
+    "100010",
+    "111010"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 192 MB bo'lgan fayl 16 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 192 МБ передаётся со скоростью 16 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 192 MB file is transferred at 16 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "13",
+    "6",
+    "18"
+   ],
+   "ru": [
+    "12",
+    "13",
+    "6",
+    "18"
+   ],
+   "en": [
+    "12",
+    "13",
+    "6",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 425 MB bo'lgan fayl 25 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 425 МБ передаётся со скоростью 25 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 425 MB file is transferred at 25 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "17",
+    "19",
+    "15",
+    "34"
+   ],
+   "ru": [
+    "17",
+    "19",
+    "15",
+    "34"
+   ],
+   "en": [
+    "17",
+    "19",
+    "15",
+    "34"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "IP-tarmoq /22 prefiksiga ega. Unda nechta qurilmaga manzil berish mumkin? (tarmoq va keng tarqatish manzillari hisobga olinmaydi)",
+   "ru": "IP-сеть имеет префикс /22. Сколько устройств можно адресовать? (адреса сети и широковещания не считаются)",
+   "en": "An IP network has prefix /22. How many hosts can be addressed? (network and broadcast addresses excluded)"
+  },
+  "o": {
+   "uz": [
+    "1022",
+    "1024",
+    "510",
+    "2046"
+   ],
+   "ru": [
+    "1022",
+    "1024",
+    "510",
+    "2046"
+   ],
+   "en": [
+    "1022",
+    "1024",
+    "510",
+    "2046"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 75 MB bo'lgan fayl 25 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 75 МБ передаётся со скоростью 25 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 75 MB file is transferred at 25 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "16",
+    "1",
+    "5"
+   ],
+   "ru": [
+    "3",
+    "16",
+    "1",
+    "5"
+   ],
+   "en": [
+    "3",
+    "16",
+    "1",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 46, 32, 25, 40, 35 sonlari yozilgan. =MIN(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 46, 32, 25, 40, 35. Каков результат формулы =MIN(A1:A5)?",
+   "en": "Cells A1:A5 contain 46, 32, 25, 40, 35. What is the result of =MIN(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "25",
+    "46",
+    "32",
+    "40"
+   ],
+   "ru": [
+    "25",
+    "46",
+    "32",
+    "40"
+   ],
+   "en": [
+    "25",
+    "46",
+    "32",
+    "40"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 160 MB bo'lgan fayl 8 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 160 МБ передаётся со скоростью 8 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 160 MB file is transferred at 8 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "60",
+    "22",
+    "19"
+   ],
+   "ru": [
+    "20",
+    "60",
+    "22",
+    "19"
+   ],
+   "en": [
+    "20",
+    "60",
+    "22",
+    "19"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1000₂ + 1010₂ = ?₂",
+   "ru": "1000₂ + 1010₂ = ?₂",
+   "en": "1000₂ + 1010₂ = ?₂"
+  },
+  "o": {
+   "uz": [
+    "10010",
+    "10110",
+    "11010",
+    "10001"
+   ],
+   "ru": [
+    "10010",
+    "10110",
+    "11010",
+    "10001"
+   ],
+   "en": [
+    "10010",
+    "10110",
+    "11010",
+    "10001"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "7 xonali ikkilik sonlar (birinchi raqami 1) nechta?",
+   "ru": "Сколько существует 7-значных двоичных чисел (первая цифра 1)?",
+   "en": "How many 7-digit binary numbers (starting with 1) are there?"
+  },
+  "o": {
+   "uz": [
+    "64",
+    "128",
+    "32",
+    "127"
+   ],
+   "ru": [
+    "64",
+    "128",
+    "32",
+    "127"
+   ],
+   "en": [
+    "64",
+    "128",
+    "32",
+    "127"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dastur bajarilgach s ning qiymati nechaga teng?\ns = 0\nfor i in range(1, 14):\n    s += i",
+   "ru": "Чему будет равно значение s после выполнения программы?\ns = 0\nfor i in range(1, 14):\n    s += i",
+   "en": "What will be the value of s after the program runs?\ns = 0\nfor i in range(1, 14):\n    s += i"
+  },
+  "o": {
+   "uz": [
+    "91",
+    "273",
+    "86",
+    "100"
+   ],
+   "ru": [
+    "91",
+    "273",
+    "86",
+    "100"
+   ],
+   "en": [
+    "91",
+    "273",
+    "86",
+    "100"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 13, 34, 35, 29, 34 sonlari yozilgan. =SUM(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 13, 34, 35, 29, 34. Каков результат формулы =SUM(A1:A5)?",
+   "en": "Cells A1:A5 contain 13, 34, 35, 29, 34. What is the result of =SUM(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "145",
+    "13",
+    "34",
+    "35"
+   ],
+   "ru": [
+    "145",
+    "13",
+    "34",
+    "35"
+   ],
+   "en": [
+    "145",
+    "13",
+    "34",
+    "35"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dastur bajarilgach p ning qiymati nechaga teng?\np = 1\nfor i in range(1, 3):\n    p *= i",
+   "ru": "Чему будет равно значение p после выполнения программы?\np = 1\nfor i in range(1, 3):\n    p *= i",
+   "en": "What will be the value of p after the program runs?\np = 1\nfor i in range(1, 3):\n    p *= i"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "4",
+    "15",
+    "3"
+   ],
+   "ru": [
+    "2",
+    "4",
+    "15",
+    "3"
+   ],
+   "en": [
+    "2",
+    "4",
+    "15",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "64×32 piksel o'lchamli, har bir piksel 4 bit bilan kodlangan rasm hajmi necha KB? (1 KB = 1024 bayt)",
+   "ru": "Изображение 64×32 пикселей, каждый пиксель кодируется 4 бит. Каков объём изображения (КБ)? (1 КБ = 1024 байт)",
+   "en": "An image is 64×32 pixels with 4 bits per pixel. What is its size in KB? (1 KB = 1024 bytes)"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "8",
+    "0",
+    "3"
+   ],
+   "ru": [
+    "1",
+    "8",
+    "0",
+    "3"
+   ],
+   "en": [
+    "1",
+    "8",
+    "0",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 115 MB bo'lgan fayl 5 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 115 МБ передаётся со скоростью 5 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 115 MB file is transferred at 5 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "23",
+    "13",
+    "25",
+    "18"
+   ],
+   "ru": [
+    "23",
+    "13",
+    "25",
+    "18"
+   ],
+   "en": [
+    "23",
+    "13",
+    "25",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 30, 37, 33, 49, 11 sonlari yozilgan. =SUM(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 30, 37, 33, 49, 11. Каков результат формулы =SUM(A1:A5)?",
+   "en": "Cells A1:A5 contain 30, 37, 33, 49, 11. What is the result of =SUM(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "160",
+    "30",
+    "37",
+    "33"
+   ],
+   "ru": [
+    "160",
+    "30",
+    "37",
+    "33"
+   ],
+   "en": [
+    "160",
+    "30",
+    "37",
+    "33"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A1:A5 katakchalarda 36, 13, 37, 41, 3 sonlari yozilgan. =MIN(A1:A5) formulasi natijasi qanday?",
+   "ru": "В ячейках A1:A5 записаны числа 36, 13, 37, 41, 3. Каков результат формулы =MIN(A1:A5)?",
+   "en": "Cells A1:A5 contain 36, 13, 37, 41, 3. What is the result of =MIN(A1:A5)?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "36",
+    "13",
+    "37"
+   ],
+   "ru": [
+    "3",
+    "36",
+    "13",
+    "37"
+   ],
+   "en": [
+    "3",
+    "36",
+    "13",
+    "37"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 150 MB bo'lgan fayl 5 MB/s tezlikda uzatilmoqda. U necha soniyada uzatiladi?",
+   "ru": "Файл объёмом 150 МБ передаётся со скоростью 5 МБ/с. За сколько секунд он будет передан?",
+   "en": "A 150 MB file is transferred at 5 MB/s. How many seconds does the transfer take?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "32",
+    "29",
+    "28"
+   ],
+   "ru": [
+    "30",
+    "32",
+    "29",
+    "28"
+   ],
+   "en": [
+    "30",
+    "32",
+    "29",
+    "28"
+   ]
+  },
+  "a": 0
+ }
+]

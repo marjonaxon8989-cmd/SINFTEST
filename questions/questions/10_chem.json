@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkanga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкан»?",
+   "en": "Which formula corresponds to an alkane?"
+  },
+  "o": {
+   "uz": [
+    "C3H8",
+    "C3H4",
+    "C7H8",
+    "C9H18"
+   ],
+   "ru": [
+    "C3H8",
+    "C3H4",
+    "C7H8",
+    "C9H18"
+   ],
+   "en": [
+    "C3H8",
+    "C3H4",
+    "C7H8",
+    "C9H18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "5 g H2 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 5 г газа H2?",
+   "en": "What volume (L) do 5 g of H2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "56",
+    "22.4",
+    "33.6",
+    "89.6"
+   ],
+   "ru": [
+    "56",
+    "22.4",
+    "33.6",
+    "89.6"
+   ],
+   "en": [
+    "56",
+    "22.4",
+    "33.6",
+    "89.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3·10²³ ta molekula necha mol moddaga to'g'ri keladi? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько моль вещества составляют 3·10²³ молекул? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many moles are 3·10²³ molecules? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "0.5",
+    "2.5",
+    "1.5",
+    "4"
+   ],
+   "ru": [
+    "0.5",
+    "2.5",
+    "1.5",
+    "4"
+   ],
+   "en": [
+    "0.5",
+    "2.5",
+    "1.5",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«nonan» moddasining molekulyar formulasi qaysi?",
+   "ru": "Какова молекулярная формула вещества «нонан»?",
+   "en": "What is the molecular formula of nonane?"
+  },
+  "o": {
+   "uz": [
+    "C9H20",
+    "C9H18",
+    "C9H22",
+    "C9H19"
+   ],
+   "ru": [
+    "C9H20",
+    "C9H18",
+    "C9H22",
+    "C9H19"
+   ],
+   "en": [
+    "C9H20",
+    "C9H18",
+    "C9H22",
+    "C9H19"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 mol moddada nechta molekula bor? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько молекул содержится в 4 моль вещества? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many molecules are in 4 mol of a substance? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "24·10²³",
+    "15·10²³",
+    "12·10²³",
+    "18·10²³"
+   ],
+   "ru": [
+    "24·10²³",
+    "15·10²³",
+    "12·10²³",
+    "18·10²³"
+   ],
+   "en": [
+    "24·10²³",
+    "15·10²³",
+    "12·10²³",
+    "18·10²³"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C12H26 alkanning molyar massasi necha g/mol?",
+   "ru": "Чему равна молярная масса алкана C12H26 (г/моль)?",
+   "en": "What is the molar mass of the alkane C12H26 (g/mol)?"
+  },
+  "o": {
+   "uz": [
+    "170",
+    "212",
+    "340",
+    "178"
+   ],
+   "ru": [
+    "170",
+    "212",
+    "340",
+    "178"
+   ],
+   "en": [
+    "170",
+    "212",
+    "340",
+    "178"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "30 g C2H6 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 30 г газа C2H6?",
+   "en": "What volume (L) do 30 g of C2H6 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "22.4",
+    "112",
+    "224",
+    "67.2"
+   ],
+   "ru": [
+    "22.4",
+    "112",
+    "224",
+    "67.2"
+   ],
+   "en": [
+    "22.4",
+    "112",
+    "224",
+    "67.2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "22 g CO2 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 22 г газа CO2?",
+   "en": "What volume (L) do 22 g of CO2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "11.2",
+    "33.6",
+    "89.6",
+    "22.4"
+   ],
+   "ru": [
+    "11.2",
+    "33.6",
+    "89.6",
+    "22.4"
+   ],
+   "en": [
+    "11.2",
+    "33.6",
+    "89.6",
+    "22.4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "32 g SO2 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 32 г газа SO2?",
+   "en": "What volume (L) do 32 g of SO2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "11.2",
+    "89.6",
+    "44.8",
+    "33.6"
+   ],
+   "ru": [
+    "11.2",
+    "89.6",
+    "44.8",
+    "33.6"
+   ],
+   "en": [
+    "11.2",
+    "89.6",
+    "44.8",
+    "33.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "66 g C3H8 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 66 г газа C3H8?",
+   "en": "What volume (L) do 66 g of C3H8 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "33.6",
+    "56",
+    "67.2",
+    "89.6"
+   ],
+   "ru": [
+    "33.6",
+    "56",
+    "67.2",
+    "89.6"
+   ],
+   "en": [
+    "33.6",
+    "56",
+    "67.2",
+    "89.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 g H2 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 3 г газа H2?",
+   "en": "What volume (L) do 3 g of H2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "33.6",
+    "11.2",
+    "56",
+    "224"
+   ],
+   "ru": [
+    "33.6",
+    "11.2",
+    "56",
+    "224"
+   ],
+   "en": [
+    "33.6",
+    "11.2",
+    "56",
+    "224"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Na2CO3 birikmasida C ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента C в соединении Na2CO3?",
+   "en": "What is the oxidation state of C in Na2CO3?"
+  },
+  "o": {
+   "uz": [
+    "+4",
+    "+3",
+    "-4",
+    "+7"
+   ],
+   "ru": [
+    "+4",
+    "+3",
+    "-4",
+    "+7"
+   ],
+   "en": [
+    "+4",
+    "+3",
+    "-4",
+    "+7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C11H24 alkanning molyar massasi necha g/mol?",
+   "ru": "Чему равна молярная масса алкана C11H24 (г/моль)?",
+   "en": "What is the molar mass of the alkane C11H24 (g/mol)?"
+  },
+  "o": {
+   "uz": [
+    "156",
+    "187",
+    "234",
+    "195"
+   ],
+   "ru": [
+    "156",
+    "187",
+    "234",
+    "195"
+   ],
+   "en": [
+    "156",
+    "187",
+    "234",
+    "195"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкен»?",
+   "en": "Which formula corresponds to an alkene?"
+  },
+  "o": {
+   "uz": [
+    "C6H12",
+    "C6H14",
+    "C6H6",
+    "C6H10"
+   ],
+   "ru": [
+    "C6H12",
+    "C6H14",
+    "C6H6",
+    "C6H10"
+   ],
+   "en": [
+    "C6H12",
+    "C6H14",
+    "C6H6",
+    "C6H10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkanga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкан»?",
+   "en": "Which formula corresponds to an alkane?"
+  },
+  "o": {
+   "uz": [
+    "C2H6",
+    "C5H8",
+    "C5H10",
+    "C6H6"
+   ],
+   "ru": [
+    "C2H6",
+    "C5H8",
+    "C5H10",
+    "C6H6"
+   ],
+   "en": [
+    "C2H6",
+    "C5H8",
+    "C5H10",
+    "C6H6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkinga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкин»?",
+   "en": "Which formula corresponds to an alkyne?"
+  },
+  "o": {
+   "uz": [
+    "C7H12",
+    "C8H10",
+    "C8H16",
+    "C8H18"
+   ],
+   "ru": [
+    "C7H12",
+    "C8H10",
+    "C8H16",
+    "C8H18"
+   ],
+   "en": [
+    "C7H12",
+    "C8H10",
+    "C8H16",
+    "C8H18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "NO2 birikmasida N ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента N в соединении NO2?",
+   "en": "What is the oxidation state of N in NO2?"
+  },
+  "o": {
+   "uz": [
+    "+4",
+    "+2",
+    "+5",
+    "-4"
+   ],
+   "ru": [
+    "+4",
+    "+2",
+    "+5",
+    "-4"
+   ],
+   "en": [
+    "+4",
+    "+2",
+    "+5",
+    "-4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«oktan» moddasining molekulyar formulasi qaysi?",
+   "ru": "Какова молекулярная формула вещества «октан»?",
+   "en": "What is the molecular formula of octane?"
+  },
+  "o": {
+   "uz": [
+    "C8H18",
+    "C8H16",
+    "C8H20",
+    "C8H17"
+   ],
+   "ru": [
+    "C8H18",
+    "C8H16",
+    "C8H20",
+    "C8H17"
+   ],
+   "en": [
+    "C8H18",
+    "C8H16",
+    "C8H20",
+    "C8H17"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1 mol moddada nechta molekula bor? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько молекул содержится в 1 моль вещества? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many molecules are in 1 mol of a substance? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "6·10²³",
+    "60·10²³",
+    "9·10²³",
+    "3·10²³"
+   ],
+   "ru": [
+    "6·10²³",
+    "60·10²³",
+    "9·10²³",
+    "3·10²³"
+   ],
+   "en": [
+    "6·10²³",
+    "60·10²³",
+    "9·10²³",
+    "3·10²³"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "0.5 mol moddada nechta molekula bor? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько молекул содержится в 0.5 моль вещества? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many molecules are in 0.5 mol of a substance? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "3·10²³",
+    "60·10²³",
+    "30·10²³",
+    "18·10²³"
+   ],
+   "ru": [
+    "3·10²³",
+    "60·10²³",
+    "30·10²³",
+    "18·10²³"
+   ],
+   "en": [
+    "3·10²³",
+    "60·10²³",
+    "30·10²³",
+    "18·10²³"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "SO2 birikmasida S ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента S в соединении SO2?",
+   "en": "What is the oxidation state of S in SO2?"
+  },
+  "o": {
+   "uz": [
+    "+4",
+    "+7",
+    "+2",
+    "+3"
+   ],
+   "ru": [
+    "+4",
+    "+7",
+    "+2",
+    "+3"
+   ],
+   "en": [
+    "+4",
+    "+7",
+    "+2",
+    "+3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C6H14 alkanning molyar massasi necha g/mol?",
+   "ru": "Чему равна молярная масса алкана C6H14 (г/моль)?",
+   "en": "What is the molar mass of the alkane C6H14 (g/mol)?"
+  },
+  "o": {
+   "uz": [
+    "86",
+    "172",
+    "82",
+    "103"
+   ],
+   "ru": [
+    "86",
+    "172",
+    "82",
+    "103"
+   ],
+   "en": [
+    "86",
+    "172",
+    "82",
+    "103"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкен»?",
+   "en": "Which formula corresponds to an alkene?"
+  },
+  "o": {
+   "uz": [
+    "C6H12",
+    "C3H8",
+    "C10H14",
+    "C3H4"
+   ],
+   "ru": [
+    "C6H12",
+    "C3H8",
+    "C10H14",
+    "C3H4"
+   ],
+   "en": [
+    "C6H12",
+    "C3H8",
+    "C10H14",
+    "C3H4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«butan» moddasining molekulyar formulasi qaysi?",
+   "ru": "Какова молекулярная формула вещества «бутан»?",
+   "en": "What is the molecular formula of butane?"
+  },
+  "o": {
+   "uz": [
+    "C4H10",
+    "C4H8",
+    "C4H12",
+    "C4H9"
+   ],
+   "ru": [
+    "C4H10",
+    "C4H8",
+    "C4H12",
+    "C4H9"
+   ],
+   "en": [
+    "C4H10",
+    "C4H8",
+    "C4H12",
+    "C4H9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri arenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «арен»?",
+   "en": "Which formula corresponds to an arene?"
+  },
+  "o": {
+   "uz": [
+    "C8H10",
+    "C8H16",
+    "C9H16",
+    "C5H12"
+   ],
+   "ru": [
+    "C8H10",
+    "C8H16",
+    "C9H16",
+    "C5H12"
+   ],
+   "en": [
+    "C8H10",
+    "C8H16",
+    "C9H16",
+    "C5H12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«pentan» moddasining molekulyar formulasi qaysi?",
+   "ru": "Какова молекулярная формула вещества «пентан»?",
+   "en": "What is the molecular formula of pentane?"
+  },
+  "o": {
+   "uz": [
+    "C5H12",
+    "C5H10",
+    "C5H14",
+    "C5H11"
+   ],
+   "ru": [
+    "C5H12",
+    "C5H10",
+    "C5H14",
+    "C5H11"
+   ],
+   "en": [
+    "C5H12",
+    "C5H10",
+    "C5H14",
+    "C5H11"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkanga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкан»?",
+   "en": "Which formula corresponds to an alkane?"
+  },
+  "o": {
+   "uz": [
+    "C5H12",
+    "C2H2",
+    "C10H20",
+    "C9H12"
+   ],
+   "ru": [
+    "C5H12",
+    "C2H2",
+    "C10H20",
+    "C9H12"
+   ],
+   "en": [
+    "C5H12",
+    "C2H2",
+    "C10H20",
+    "C9H12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«dekan» moddasining molekulyar formulasi qaysi?",
+   "ru": "Какова молекулярная формула вещества «декан»?",
+   "en": "What is the molecular formula of decane?"
+  },
+  "o": {
+   "uz": [
+    "C10H22",
+    "C10H20",
+    "C10H24",
+    "C10H21"
+   ],
+   "ru": [
+    "C10H22",
+    "C10H20",
+    "C10H24",
+    "C10H21"
+   ],
+   "en": [
+    "C10H22",
+    "C10H20",
+    "C10H24",
+    "C10H21"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri arenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «арен»?",
+   "en": "Which formula corresponds to an arene?"
+  },
+  "o": {
+   "uz": [
+    "C6H6",
+    "C2H2",
+    "C9H20",
+    "C9H18"
+   ],
+   "ru": [
+    "C6H6",
+    "C2H2",
+    "C9H20",
+    "C9H18"
+   ],
+   "en": [
+    "C6H6",
+    "C2H2",
+    "C9H20",
+    "C9H18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "HClO4 birikmasida Cl ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента Cl в соединении HClO4?",
+   "en": "What is the oxidation state of Cl in HClO4?"
+  },
+  "o": {
+   "uz": [
+    "+7",
+    "+4",
+    "+3",
+    "-2"
+   ],
+   "ru": [
+    "+7",
+    "+4",
+    "+3",
+    "-2"
+   ],
+   "en": [
+    "+7",
+    "+4",
+    "+3",
+    "-2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "70 g N2 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 70 г газа N2?",
+   "en": "What volume (L) do 70 g of N2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "56",
+    "22.4",
+    "44.8",
+    "67.2"
+   ],
+   "ru": [
+    "56",
+    "22.4",
+    "44.8",
+    "67.2"
+   ],
+   "en": [
+    "56",
+    "22.4",
+    "44.8",
+    "67.2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkinga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкин»?",
+   "en": "Which formula corresponds to an alkyne?"
+  },
+  "o": {
+   "uz": [
+    "C5H8",
+    "C4H8",
+    "C8H18",
+    "C6H6"
+   ],
+   "ru": [
+    "C5H8",
+    "C4H8",
+    "C8H18",
+    "C6H6"
+   ],
+   "en": [
+    "C5H8",
+    "C4H8",
+    "C8H18",
+    "C6H6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C5H12 alkanning molyar massasi necha g/mol?",
+   "ru": "Чему равна молярная масса алкана C5H12 (г/моль)?",
+   "en": "What is the molar mass of the alkane C5H12 (g/mol)?"
+  },
+  "o": {
+   "uz": [
+    "72",
+    "216",
+    "36",
+    "68"
+   ],
+   "ru": [
+    "72",
+    "216",
+    "36",
+    "68"
+   ],
+   "en": [
+    "72",
+    "216",
+    "36",
+    "68"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri arenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «арен»?",
+   "en": "Which formula corresponds to an arene?"
+  },
+  "o": {
+   "uz": [
+    "C7H8",
+    "C4H6",
+    "C3H8",
+    "C4H8"
+   ],
+   "ru": [
+    "C7H8",
+    "C4H6",
+    "C3H8",
+    "C4H8"
+   ],
+   "en": [
+    "C7H8",
+    "C4H6",
+    "C3H8",
+    "C4H8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C8H18 alkanning molyar massasi necha g/mol?",
+   "ru": "Чему равна молярная масса алкана C8H18 (г/моль)?",
+   "en": "What is the molar mass of the alkane C8H18 (g/mol)?"
+  },
+  "o": {
+   "uz": [
+    "114",
+    "342",
+    "171",
+    "103"
+   ],
+   "ru": [
+    "114",
+    "342",
+    "171",
+    "103"
+   ],
+   "en": [
+    "114",
+    "342",
+    "171",
+    "103"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "160 g O2 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 160 г газа O2?",
+   "en": "What volume (L) do 160 g of O2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "112",
+    "89.6",
+    "224",
+    "67.2"
+   ],
+   "ru": [
+    "112",
+    "89.6",
+    "224",
+    "67.2"
+   ],
+   "en": [
+    "112",
+    "89.6",
+    "224",
+    "67.2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "28 g N2 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 28 г газа N2?",
+   "en": "What volume (L) do 28 g of N2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "22.4",
+    "33.6",
+    "224",
+    "11.2"
+   ],
+   "ru": [
+    "22.4",
+    "33.6",
+    "224",
+    "11.2"
+   ],
+   "en": [
+    "22.4",
+    "33.6",
+    "224",
+    "11.2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C7H16 alkanning molyar massasi necha g/mol?",
+   "ru": "Чему равна молярная масса алкана C7H16 (г/моль)?",
+   "en": "What is the molar mass of the alkane C7H16 (g/mol)?"
+  },
+  "o": {
+   "uz": [
+    "100",
+    "90",
+    "150",
+    "110"
+   ],
+   "ru": [
+    "100",
+    "90",
+    "150",
+    "110"
+   ],
+   "en": [
+    "100",
+    "90",
+    "150",
+    "110"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 mol N2O5 da jami nechta atom bor? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько всего атомов в 2 моль N2O5? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many atoms are there in 2 mol of N2O5? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "84·10²³",
+    "126·10²³",
+    "168·10²³",
+    "42·10²³"
+   ],
+   "ru": [
+    "84·10²³",
+    "126·10²³",
+    "168·10²³",
+    "42·10²³"
+   ],
+   "en": [
+    "84·10²³",
+    "126·10²³",
+    "168·10²³",
+    "42·10²³"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkinga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкин»?",
+   "en": "Which formula corresponds to an alkyne?"
+  },
+  "o": {
+   "uz": [
+    "C4H6",
+    "C6H6",
+    "C4H10",
+    "C6H12"
+   ],
+   "ru": [
+    "C4H6",
+    "C6H6",
+    "C4H10",
+    "C6H12"
+   ],
+   "en": [
+    "C4H6",
+    "C6H6",
+    "C4H10",
+    "C6H12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "KMnO4 birikmasida Mn ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента Mn в соединении KMnO4?",
+   "en": "What is the oxidation state of Mn in KMnO4?"
+  },
+  "o": {
+   "uz": [
+    "+7",
+    "+4",
+    "+6",
+    "+2"
+   ],
+   "ru": [
+    "+7",
+    "+4",
+    "+6",
+    "+2"
+   ],
+   "en": [
+    "+7",
+    "+4",
+    "+6",
+    "+2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkanga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкан»?",
+   "en": "Which formula corresponds to an alkane?"
+  },
+  "o": {
+   "uz": [
+    "C7H16",
+    "C4H6",
+    "C8H10",
+    "C10H20"
+   ],
+   "ru": [
+    "C7H16",
+    "C4H6",
+    "C8H10",
+    "C10H20"
+   ],
+   "en": [
+    "C7H16",
+    "C4H6",
+    "C8H10",
+    "C10H20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«geptan» moddasining molekulyar formulasi qaysi?",
+   "ru": "Какова молекулярная формула вещества «гептан»?",
+   "en": "What is the molecular formula of heptane?"
+  },
+  "o": {
+   "uz": [
+    "C7H16",
+    "C7H14",
+    "C7H18",
+    "C7H15"
+   ],
+   "ru": [
+    "C7H16",
+    "C7H14",
+    "C7H18",
+    "C7H15"
+   ],
+   "en": [
+    "C7H16",
+    "C7H14",
+    "C7H18",
+    "C7H15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C4H10 alkanning molyar massasi necha g/mol?",
+   "ru": "Чему равна молярная масса алкана C4H10 (г/моль)?",
+   "en": "What is the molar mass of the alkane C4H10 (g/mol)?"
+  },
+  "o": {
+   "uz": [
+    "58",
+    "70",
+    "29",
+    "64"
+   ],
+   "ru": [
+    "58",
+    "70",
+    "29",
+    "64"
+   ],
+   "en": [
+    "58",
+    "70",
+    "29",
+    "64"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 mol ZnO da jami nechta atom bor? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько всего атомов в 3 моль ZnO? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many atoms are there in 3 mol of ZnO? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "36·10²³",
+    "48·10²³",
+    "60·10²³",
+    "24·10²³"
+   ],
+   "ru": [
+    "36·10²³",
+    "48·10²³",
+    "60·10²³",
+    "24·10²³"
+   ],
+   "en": [
+    "36·10²³",
+    "48·10²³",
+    "60·10²³",
+    "24·10²³"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri arenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «арен»?",
+   "en": "Which formula corresponds to an arene?"
+  },
+  "o": {
+   "uz": [
+    "C8H10",
+    "C9H18",
+    "C3H4",
+    "C4H10"
+   ],
+   "ru": [
+    "C8H10",
+    "C9H18",
+    "C3H4",
+    "C4H10"
+   ],
+   "en": [
+    "C8H10",
+    "C9H18",
+    "C3H4",
+    "C4H10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "PH3 birikmasida P ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента P в соединении PH3?",
+   "en": "What is the oxidation state of P in PH3?"
+  },
+  "o": {
+   "uz": [
+    "-3",
+    "+7",
+    "+2",
+    "0"
+   ],
+   "ru": [
+    "-3",
+    "+7",
+    "+2",
+    "0"
+   ],
+   "en": [
+    "-3",
+    "+7",
+    "+2",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "44 g C3H8 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 44 г газа C3H8?",
+   "en": "What volume (L) do 44 g of C3H8 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "22.4",
+    "112",
+    "224",
+    "33.6"
+   ],
+   "ru": [
+    "22.4",
+    "112",
+    "224",
+    "33.6"
+   ],
+   "en": [
+    "22.4",
+    "112",
+    "224",
+    "33.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 mol Na2O da jami nechta atom bor? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько всего атомов в 4 моль Na2O? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many atoms are there in 4 mol of Na2O? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "72·10²³",
+    "90·10²³",
+    "108·10²³",
+    "54·10²³"
+   ],
+   "ru": [
+    "72·10²³",
+    "90·10²³",
+    "108·10²³",
+    "54·10²³"
+   ],
+   "en": [
+    "72·10²³",
+    "90·10²³",
+    "108·10²³",
+    "54·10²³"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkanga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкан»?",
+   "en": "Which formula corresponds to an alkane?"
+  },
+  "o": {
+   "uz": [
+    "C3H8",
+    "C6H6",
+    "C10H18",
+    "C4H8"
+   ],
+   "ru": [
+    "C3H8",
+    "C6H6",
+    "C10H18",
+    "C4H8"
+   ],
+   "en": [
+    "C3H8",
+    "C6H6",
+    "C10H18",
+    "C4H8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri arenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «арен»?",
+   "en": "Which formula corresponds to an arene?"
+  },
+  "o": {
+   "uz": [
+    "C10H14",
+    "C9H16",
+    "C8H18",
+    "C10H20"
+   ],
+   "ru": [
+    "C10H14",
+    "C9H16",
+    "C8H18",
+    "C10H20"
+   ],
+   "en": [
+    "C10H14",
+    "C9H16",
+    "C8H18",
+    "C10H20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "12·10²³ ta molekula necha mol moddaga to'g'ri keladi? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько моль вещества составляют 12·10²³ молекул? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many moles are 12·10²³ molecules? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "1.5",
+    "5",
+    "10"
+   ],
+   "ru": [
+    "2",
+    "1.5",
+    "5",
+    "10"
+   ],
+   "en": [
+    "2",
+    "1.5",
+    "5",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 mol moddada nechta molekula bor? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько молекул содержится в 3 моль вещества? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many molecules are in 3 mol of a substance? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "18·10²³",
+    "15·10²³",
+    "12·10²³",
+    "30·10²³"
+   ],
+   "ru": [
+    "18·10²³",
+    "15·10²³",
+    "12·10²³",
+    "30·10²³"
+   ],
+   "en": [
+    "18·10²³",
+    "15·10²³",
+    "12·10²³",
+    "30·10²³"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "FeO birikmasida Fe ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента Fe в соединении FeO?",
+   "en": "What is the oxidation state of Fe in FeO?"
+  },
+  "o": {
+   "uz": [
+    "+2",
+    "+3",
+    "+7",
+    "-3"
+   ],
+   "ru": [
+    "+2",
+    "+3",
+    "+7",
+    "-3"
+   ],
+   "en": [
+    "+2",
+    "+3",
+    "+7",
+    "-3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri arenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «арен»?",
+   "en": "Which formula corresponds to an arene?"
+  },
+  "o": {
+   "uz": [
+    "C10H14",
+    "C5H10",
+    "C8H14",
+    "C10H22"
+   ],
+   "ru": [
+    "C10H14",
+    "C5H10",
+    "C8H14",
+    "C10H22"
+   ],
+   "en": [
+    "C10H14",
+    "C5H10",
+    "C8H14",
+    "C10H22"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "60·10²³ ta molekula necha mol moddaga to'g'ri keladi? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько моль вещества составляют 60·10²³ молекул? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many moles are 60·10²³ molecules? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "2",
+    "2.5",
+    "0.5"
+   ],
+   "ru": [
+    "10",
+    "2",
+    "2.5",
+    "0.5"
+   ],
+   "en": [
+    "10",
+    "2",
+    "2.5",
+    "0.5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкен»?",
+   "en": "Which formula corresponds to an alkene?"
+  },
+  "o": {
+   "uz": [
+    "C2H4",
+    "C8H10",
+    "C3H4",
+    "C5H12"
+   ],
+   "ru": [
+    "C2H4",
+    "C8H10",
+    "C3H4",
+    "C5H12"
+   ],
+   "en": [
+    "C2H4",
+    "C8H10",
+    "C3H4",
+    "C5H12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "140 g N2 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 140 г газа N2?",
+   "en": "What volume (L) do 140 g of N2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "112",
+    "11.2",
+    "67.2",
+    "89.6"
+   ],
+   "ru": [
+    "112",
+    "11.2",
+    "67.2",
+    "89.6"
+   ],
+   "en": [
+    "112",
+    "11.2",
+    "67.2",
+    "89.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкен»?",
+   "en": "Which formula corresponds to an alkene?"
+  },
+  "o": {
+   "uz": [
+    "C6H12",
+    "C5H12",
+    "C8H10",
+    "C2H2"
+   ],
+   "ru": [
+    "C6H12",
+    "C5H12",
+    "C8H10",
+    "C2H2"
+   ],
+   "en": [
+    "C6H12",
+    "C5H12",
+    "C8H10",
+    "C2H2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "70 g CO normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 70 г газа CO?",
+   "en": "What volume (L) do 70 g of CO occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "56",
+    "44.8",
+    "112",
+    "224"
+   ],
+   "ru": [
+    "56",
+    "44.8",
+    "112",
+    "224"
+   ],
+   "en": [
+    "56",
+    "44.8",
+    "112",
+    "224"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«etan» moddasining molekulyar formulasi qaysi?",
+   "ru": "Какова молекулярная формула вещества «этан»?",
+   "en": "What is the molecular formula of ethane?"
+  },
+  "o": {
+   "uz": [
+    "C2H6",
+    "C2H4",
+    "C2H8",
+    "C2H5"
+   ],
+   "ru": [
+    "C2H6",
+    "C2H4",
+    "C2H8",
+    "C2H5"
+   ],
+   "en": [
+    "C2H6",
+    "C2H4",
+    "C2H8",
+    "C2H5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "14 g CO normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 14 г газа CO?",
+   "en": "What volume (L) do 14 g of CO occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "11.2",
+    "224",
+    "112",
+    "89.6"
+   ],
+   "ru": [
+    "11.2",
+    "224",
+    "112",
+    "89.6"
+   ],
+   "en": [
+    "11.2",
+    "224",
+    "112",
+    "89.6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 mol HNO3 da jami nechta atom bor? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько всего атомов в 4 моль HNO3? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many atoms are there in 4 mol of HNO3? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "120·10²³",
+    "150·10²³",
+    "180·10²³",
+    "90·10²³"
+   ],
+   "ru": [
+    "120·10²³",
+    "150·10²³",
+    "180·10²³",
+    "90·10²³"
+   ],
+   "en": [
+    "120·10²³",
+    "150·10²³",
+    "180·10²³",
+    "90·10²³"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "44 g CO2 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 44 г газа CO2?",
+   "en": "What volume (L) do 44 g of CO2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "22.4",
+    "89.6",
+    "56",
+    "67.2"
+   ],
+   "ru": [
+    "22.4",
+    "89.6",
+    "56",
+    "67.2"
+   ],
+   "en": [
+    "22.4",
+    "89.6",
+    "56",
+    "67.2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкен»?",
+   "en": "Which formula corresponds to an alkene?"
+  },
+  "o": {
+   "uz": [
+    "C8H16",
+    "C10H14",
+    "C3H4",
+    "C10H22"
+   ],
+   "ru": [
+    "C8H16",
+    "C10H14",
+    "C3H4",
+    "C10H22"
+   ],
+   "en": [
+    "C8H16",
+    "C10H14",
+    "C3H4",
+    "C10H22"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Cr2O3 birikmasida Cr ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента Cr в соединении Cr2O3?",
+   "en": "What is the oxidation state of Cr in Cr2O3?"
+  },
+  "o": {
+   "uz": [
+    "+3",
+    "-3",
+    "-2",
+    "+6"
+   ],
+   "ru": [
+    "+3",
+    "-3",
+    "-2",
+    "+6"
+   ],
+   "en": [
+    "+3",
+    "-3",
+    "-2",
+    "+6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "NH3 birikmasida N ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента N в соединении NH3?",
+   "en": "What is the oxidation state of N in NH3?"
+  },
+  "o": {
+   "uz": [
+    "-3",
+    "-2",
+    "0",
+    "+3"
+   ],
+   "ru": [
+    "-3",
+    "-2",
+    "0",
+    "+3"
+   ],
+   "en": [
+    "-3",
+    "-2",
+    "0",
+    "+3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CH4 alkanning molyar massasi necha g/mol?",
+   "ru": "Чему равна молярная масса алкана CH4 (г/моль)?",
+   "en": "What is the molar mass of the alkane CH4 (g/mol)?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "48",
+    "15",
+    "26"
+   ],
+   "ru": [
+    "16",
+    "48",
+    "15",
+    "26"
+   ],
+   "en": [
+    "16",
+    "48",
+    "15",
+    "26"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C3H8 alkanning molyar massasi necha g/mol?",
+   "ru": "Чему равна молярная масса алкана C3H8 (г/моль)?",
+   "en": "What is the molar mass of the alkane C3H8 (g/mol)?"
+  },
+  "o": {
+   "uz": [
+    "44",
+    "132",
+    "88",
+    "66"
+   ],
+   "ru": [
+    "44",
+    "132",
+    "88",
+    "66"
+   ],
+   "en": [
+    "44",
+    "132",
+    "88",
+    "66"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "H2O2 birikmasida O ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента O в соединении H2O2?",
+   "en": "What is the oxidation state of O in H2O2?"
+  },
+  "o": {
+   "uz": [
+    "-1",
+    "+6",
+    "0",
+    "+1"
+   ],
+   "ru": [
+    "-1",
+    "+6",
+    "0",
+    "+1"
+   ],
+   "en": [
+    "-1",
+    "+6",
+    "0",
+    "+1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«propan» moddasining molekulyar formulasi qaysi?",
+   "ru": "Какова молекулярная формула вещества «пропан»?",
+   "en": "What is the molecular formula of propane?"
+  },
+  "o": {
+   "uz": [
+    "C3H8",
+    "C3H6",
+    "C3H10",
+    "C3H7"
+   ],
+   "ru": [
+    "C3H8",
+    "C3H6",
+    "C3H10",
+    "C3H7"
+   ],
+   "en": [
+    "C3H8",
+    "C3H6",
+    "C3H10",
+    "C3H7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri arenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «арен»?",
+   "en": "Which formula corresponds to an arene?"
+  },
+  "o": {
+   "uz": [
+    "C8H10",
+    "C9H20",
+    "C3H4",
+    "C9H18"
+   ],
+   "ru": [
+    "C8H10",
+    "C9H20",
+    "C3H4",
+    "C9H18"
+   ],
+   "en": [
+    "C8H10",
+    "C9H20",
+    "C3H4",
+    "C9H18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "51 g NH3 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 51 г газа NH3?",
+   "en": "What volume (L) do 51 g of NH3 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "67.2",
+    "56",
+    "89.6",
+    "44.8"
+   ],
+   "ru": [
+    "67.2",
+    "56",
+    "89.6",
+    "44.8"
+   ],
+   "en": [
+    "67.2",
+    "56",
+    "89.6",
+    "44.8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "30·10²³ ta molekula necha mol moddaga to'g'ri keladi? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько моль вещества составляют 30·10²³ молекул? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many moles are 30·10²³ molecules? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "10",
+    "2",
+    "2.5"
+   ],
+   "ru": [
+    "5",
+    "10",
+    "2",
+    "2.5"
+   ],
+   "en": [
+    "5",
+    "10",
+    "2",
+    "2.5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkanga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкан»?",
+   "en": "Which formula corresponds to an alkane?"
+  },
+  "o": {
+   "uz": [
+    "C5H12",
+    "C6H10",
+    "C6H6",
+    "C2H4"
+   ],
+   "ru": [
+    "C5H12",
+    "C6H10",
+    "C6H6",
+    "C2H4"
+   ],
+   "en": [
+    "C5H12",
+    "C6H10",
+    "C6H6",
+    "C2H4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "15·10²³ ta molekula necha mol moddaga to'g'ri keladi? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько моль вещества составляют 15·10²³ молекул? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many moles are 15·10²³ molecules? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "2.5",
+    "3",
+    "1",
+    "10"
+   ],
+   "ru": [
+    "2.5",
+    "3",
+    "1",
+    "10"
+   ],
+   "en": [
+    "2.5",
+    "3",
+    "1",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "H2SO4 birikmasida S ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента S в соединении H2SO4?",
+   "en": "What is the oxidation state of S in H2SO4?"
+  },
+  "o": {
+   "uz": [
+    "+6",
+    "-2",
+    "+3",
+    "0"
+   ],
+   "ru": [
+    "+6",
+    "-2",
+    "+3",
+    "0"
+   ],
+   "en": [
+    "+6",
+    "-2",
+    "+3",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«metan» moddasining molekulyar formulasi qaysi?",
+   "ru": "Какова молекулярная формула вещества «метан»?",
+   "en": "What is the molecular formula of methane?"
+  },
+  "o": {
+   "uz": [
+    "CH4",
+    "CH2",
+    "CH6",
+    "CH3"
+   ],
+   "ru": [
+    "CH4",
+    "CH2",
+    "CH6",
+    "CH3"
+   ],
+   "en": [
+    "CH4",
+    "CH2",
+    "CH6",
+    "CH3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkinga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкин»?",
+   "en": "Which formula corresponds to an alkyne?"
+  },
+  "o": {
+   "uz": [
+    "C5H8",
+    "C6H6",
+    "C8H18",
+    "C10H20"
+   ],
+   "ru": [
+    "C5H8",
+    "C6H6",
+    "C8H18",
+    "C10H20"
+   ],
+   "en": [
+    "C5H8",
+    "C6H6",
+    "C8H18",
+    "C10H20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "SO3 birikmasida S ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента S в соединении SO3?",
+   "en": "What is the oxidation state of S in SO3?"
+  },
+  "o": {
+   "uz": [
+    "+6",
+    "-4",
+    "+4",
+    "-2"
+   ],
+   "ru": [
+    "+6",
+    "-4",
+    "+4",
+    "-2"
+   ],
+   "en": [
+    "+6",
+    "-4",
+    "+4",
+    "-2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkanga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкан»?",
+   "en": "Which formula corresponds to an alkane?"
+  },
+  "o": {
+   "uz": [
+    "C3H8",
+    "C8H14",
+    "C6H6",
+    "C3H6"
+   ],
+   "ru": [
+    "C3H8",
+    "C8H14",
+    "C6H6",
+    "C3H6"
+   ],
+   "en": [
+    "C3H8",
+    "C8H14",
+    "C6H6",
+    "C3H6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 mol moddada nechta molekula bor? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько молекул содержится в 2 моль вещества? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many molecules are in 2 mol of a substance? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "12·10²³",
+    "15·10²³",
+    "3·10²³",
+    "30·10²³"
+   ],
+   "ru": [
+    "12·10²³",
+    "15·10²³",
+    "3·10²³",
+    "30·10²³"
+   ],
+   "en": [
+    "12·10²³",
+    "15·10²³",
+    "3·10²³",
+    "30·10²³"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CH4 birikmasida C ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента C в соединении CH4?",
+   "en": "What is the oxidation state of C in CH4?"
+  },
+  "o": {
+   "uz": [
+    "-4",
+    "-3",
+    "+6",
+    "-1"
+   ],
+   "ru": [
+    "-4",
+    "-3",
+    "+6",
+    "-1"
+   ],
+   "en": [
+    "-4",
+    "-3",
+    "+6",
+    "-1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "110 g CO2 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 110 г газа CO2?",
+   "en": "What volume (L) do 110 g of CO2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "56",
+    "11.2",
+    "22.4",
+    "112"
+   ],
+   "ru": [
+    "56",
+    "11.2",
+    "22.4",
+    "112"
+   ],
+   "en": [
+    "56",
+    "11.2",
+    "22.4",
+    "112"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C2H6 alkanning molyar massasi necha g/mol?",
+   "ru": "Чему равна молярная масса алкана C2H6 (г/моль)?",
+   "en": "What is the molar mass of the alkane C2H6 (g/mol)?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "32",
+    "31",
+    "60"
+   ],
+   "ru": [
+    "30",
+    "32",
+    "31",
+    "60"
+   ],
+   "en": [
+    "30",
+    "32",
+    "31",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«geksan» moddasining molekulyar formulasi qaysi?",
+   "ru": "Какова молекулярная формула вещества «гексан»?",
+   "en": "What is the molecular formula of hexane?"
+  },
+  "o": {
+   "uz": [
+    "C6H14",
+    "C6H12",
+    "C6H16",
+    "C6H13"
+   ],
+   "ru": [
+    "C6H14",
+    "C6H12",
+    "C6H16",
+    "C6H13"
+   ],
+   "en": [
+    "C6H14",
+    "C6H12",
+    "C6H16",
+    "C6H13"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "MnO2 birikmasida Mn ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента Mn в соединении MnO2?",
+   "en": "What is the oxidation state of Mn in MnO2?"
+  },
+  "o": {
+   "uz": [
+    "+4",
+    "+3",
+    "-1",
+    "+2"
+   ],
+   "ru": [
+    "+4",
+    "+3",
+    "-1",
+    "+2"
+   ],
+   "en": [
+    "+4",
+    "+3",
+    "-1",
+    "+2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкен»?",
+   "en": "Which formula corresponds to an alkene?"
+  },
+  "o": {
+   "uz": [
+    "C3H6",
+    "C7H16",
+    "C3H4",
+    "C8H10"
+   ],
+   "ru": [
+    "C3H6",
+    "C7H16",
+    "C3H4",
+    "C8H10"
+   ],
+   "en": [
+    "C3H6",
+    "C7H16",
+    "C3H4",
+    "C8H10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkinga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкин»?",
+   "en": "Which formula corresponds to an alkyne?"
+  },
+  "o": {
+   "uz": [
+    "C7H12",
+    "C9H12",
+    "C2H4",
+    "C8H18"
+   ],
+   "ru": [
+    "C7H12",
+    "C9H12",
+    "C2H4",
+    "C8H18"
+   ],
+   "en": [
+    "C7H12",
+    "C9H12",
+    "C2H4",
+    "C8H18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 mol MgO da jami nechta atom bor? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько всего атомов в 3 моль MgO? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many atoms are there in 3 mol of MgO? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "36·10²³",
+    "48·10²³",
+    "60·10²³",
+    "24·10²³"
+   ],
+   "ru": [
+    "36·10²³",
+    "48·10²³",
+    "60·10²³",
+    "24·10²³"
+   ],
+   "en": [
+    "36·10²³",
+    "48·10²³",
+    "60·10²³",
+    "24·10²³"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1 mol Na2O da jami nechta atom bor? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько всего атомов в 1 моль Na2O? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many atoms are there in 1 mol of Na2O? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "18·10²³",
+    "36·10²³",
+    "54·10²³",
+    "72·10²³"
+   ],
+   "ru": [
+    "18·10²³",
+    "36·10²³",
+    "54·10²³",
+    "72·10²³"
+   ],
+   "en": [
+    "18·10²³",
+    "36·10²³",
+    "54·10²³",
+    "72·10²³"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri alkanga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «алкан»?",
+   "en": "Which formula corresponds to an alkane?"
+  },
+  "o": {
+   "uz": [
+    "C4H10",
+    "C5H10",
+    "C9H16",
+    "C8H10"
+   ],
+   "ru": [
+    "C4H10",
+    "C5H10",
+    "C9H16",
+    "C8H10"
+   ],
+   "en": [
+    "C4H10",
+    "C5H10",
+    "C9H16",
+    "C8H10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "HCl birikmasida Cl ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента Cl в соединении HCl?",
+   "en": "What is the oxidation state of Cl in HCl?"
+  },
+  "o": {
+   "uz": [
+    "-1",
+    "+2",
+    "-2",
+    "+5"
+   ],
+   "ru": [
+    "-1",
+    "+2",
+    "-2",
+    "+5"
+   ],
+   "en": [
+    "-1",
+    "+2",
+    "-2",
+    "+5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 mol CO da jami nechta atom bor? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько всего атомов в 4 моль CO? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many atoms are there in 4 mol of CO? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "48·10²³",
+    "60·10²³",
+    "72·10²³",
+    "36·10²³"
+   ],
+   "ru": [
+    "48·10²³",
+    "60·10²³",
+    "72·10²³",
+    "36·10²³"
+   ],
+   "en": [
+    "48·10²³",
+    "60·10²³",
+    "72·10²³",
+    "36·10²³"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "14 g N2 normal sharoitda necha litr hajm egallaydi?",
+   "ru": "Какой объём (л) при н. у. занимают 14 г газа N2?",
+   "en": "What volume (L) do 14 g of N2 occupy at STP?"
+  },
+  "o": {
+   "uz": [
+    "11.2",
+    "89.6",
+    "112",
+    "56"
+   ],
+   "ru": [
+    "11.2",
+    "89.6",
+    "112",
+    "56"
+   ],
+   "en": [
+    "11.2",
+    "89.6",
+    "112",
+    "56"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "N2O birikmasida N ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента N в соединении N2O?",
+   "en": "What is the oxidation state of N in N2O?"
+  },
+  "o": {
+   "uz": [
+    "+1",
+    "+5",
+    "-1",
+    "+7"
+   ],
+   "ru": [
+    "+1",
+    "+5",
+    "-1",
+    "+7"
+   ],
+   "en": [
+    "+1",
+    "+5",
+    "-1",
+    "+7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "9·10²³ ta molekula necha mol moddaga to'g'ri keladi? (N_A = 6·10²³ mol⁻¹)",
+   "ru": "Сколько моль вещества составляют 9·10²³ молекул? (N_A = 6·10²³ моль⁻¹)",
+   "en": "How many moles are 9·10²³ molecules? (N_A = 6·10²³ mol⁻¹)"
+  },
+  "o": {
+   "uz": [
+    "1.5",
+    "5",
+    "0.5",
+    "4"
+   ],
+   "ru": [
+    "1.5",
+    "5",
+    "0.5",
+    "4"
+   ],
+   "en": [
+    "1.5",
+    "5",
+    "0.5",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "H3PO4 birikmasida P ning oksidlanish darajasi qanday?",
+   "ru": "Какова степень окисления элемента P в соединении H3PO4?",
+   "en": "What is the oxidation state of P in H3PO4?"
+  },
+  "o": {
+   "uz": [
+    "+5",
+    "-1",
+    "-4",
+    "-3"
+   ],
+   "ru": [
+    "+5",
+    "-1",
+    "-4",
+    "-3"
+   ],
+   "en": [
+    "+5",
+    "-1",
+    "-4",
+    "-3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C14H30 alkanning molyar massasi necha g/mol?",
+   "ru": "Чему равна молярная масса алкана C14H30 (г/моль)?",
+   "en": "What is the molar mass of the alkane C14H30 (g/mol)?"
+  },
+  "o": {
+   "uz": [
+    "198",
+    "297",
+    "178",
+    "218"
+   ],
+   "ru": [
+    "198",
+    "297",
+    "178",
+    "218"
+   ],
+   "en": [
+    "198",
+    "297",
+    "178",
+    "218"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi formulalardan qaysi biri arenga mos keladi?",
+   "ru": "Какая из формул принадлежит классу «арен»?",
+   "en": "Which formula corresponds to an arene?"
+  },
+  "o": {
+   "uz": [
+    "C7H8",
+    "C9H18",
+    "C4H6",
+    "C6H14"
+   ],
+   "ru": [
+    "C7H8",
+    "C9H18",
+    "C4H6",
+    "C6H14"
+   ],
+   "en": [
+    "C7H8",
+    "C9H18",
+    "C4H6",
+    "C6H14"
+   ]
+  },
+  "a": 0
+ }
+]

@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Parallel ulangan 56 Ω va 56 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 56 Ом и 56 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 56 Ω and 56 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "28",
+    "42",
+    "29",
+    "84"
+   ],
+   "ru": [
+    "28",
+    "42",
+    "29",
+    "84"
+   ],
+   "en": [
+    "28",
+    "42",
+    "29",
+    "84"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 4 A bo'lgan o'tkazgichdan 6 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 4 А за 6 с?",
+   "en": "What charge (C) passes through a conductor carrying 4 A in 6 s?"
+  },
+  "o": {
+   "uz": [
+    "24",
+    "22",
+    "21",
+    "37"
+   ],
+   "ru": [
+    "24",
+    "22",
+    "21",
+    "37"
+   ],
+   "en": [
+    "24",
+    "22",
+    "21",
+    "37"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 36 V, qarshiligi 4 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 36 В, сопротивление 4 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 36 V and resistance 4 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "9",
+    "27",
+    "13",
+    "11"
+   ],
+   "ru": [
+    "9",
+    "27",
+    "13",
+    "11"
+   ],
+   "en": [
+    "9",
+    "27",
+    "13",
+    "11"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 10 Ω va 40 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 10 Ом и 40 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 10 Ω and 40 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "4",
+    "10",
+    "21"
+   ],
+   "ru": [
+    "8",
+    "4",
+    "10",
+    "21"
+   ],
+   "en": [
+    "8",
+    "4",
+    "10",
+    "21"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 250 V, qarshiligi 50 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 250 В, сопротивление 50 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 250 V and resistance 50 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "10",
+    "12",
+    "15"
+   ],
+   "ru": [
+    "5",
+    "10",
+    "12",
+    "15"
+   ],
+   "en": [
+    "5",
+    "10",
+    "12",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ketma-ket ulangan 23 Ω, 3 Ω va 19 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 23 Ом, 3 Ом и 19 Ом соединены последовательно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 23 Ω, 3 Ω and 19 Ω are connected in series. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "45",
+    "36",
+    "41",
+    "23"
+   ],
+   "ru": [
+    "45",
+    "36",
+    "41",
+    "23"
+   ],
+   "en": [
+    "45",
+    "36",
+    "41",
+    "23"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 36 V, tok kuchi 9 A. O'tkazgich qarshiligi necha Ω?",
+   "ru": "Напряжение 36 В, сила тока 9 А. Чему равно сопротивление проводника (Ом)?",
+   "en": "The voltage is 36 V and the current is 9 A. What is the resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "17",
+    "2",
+    "1"
+   ],
+   "ru": [
+    "4",
+    "17",
+    "2",
+    "1"
+   ],
+   "en": [
+    "4",
+    "17",
+    "2",
+    "1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 12 V, tok kuchi 6 A. Iste'molchi quvvati necha W?",
+   "ru": "Напряжение 12 В, сила тока 6 А. Чему равна мощность потребителя (Вт)?",
+   "en": "The voltage is 12 V and the current is 6 A. What is the power (W)?"
+  },
+  "o": {
+   "uz": [
+    "72",
+    "54",
+    "36",
+    "65"
+   ],
+   "ru": [
+    "72",
+    "54",
+    "36",
+    "65"
+   ],
+   "en": [
+    "72",
+    "54",
+    "36",
+    "65"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 36 V, tok kuchi 6 A. Iste'molchi quvvati necha W?",
+   "ru": "Напряжение 36 В, сила тока 6 А. Чему равна мощность потребителя (Вт)?",
+   "en": "The voltage is 36 V and the current is 6 A. What is the power (W)?"
+  },
+  "o": {
+   "uz": [
+    "216",
+    "205",
+    "108",
+    "259"
+   ],
+   "ru": [
+    "216",
+    "205",
+    "108",
+    "259"
+   ],
+   "en": [
+    "216",
+    "205",
+    "108",
+    "259"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 4 A bo'lgan o'tkazgichdan 10 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 4 А за 10 с?",
+   "en": "What charge (C) passes through a conductor carrying 4 A in 10 s?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "20",
+    "42",
+    "50"
+   ],
+   "ru": [
+    "40",
+    "20",
+    "42",
+    "50"
+   ],
+   "en": [
+    "40",
+    "20",
+    "42",
+    "50"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 46 Ω va 46 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 46 Ом и 46 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 46 Ω and 46 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "23",
+    "26",
+    "18",
+    "25"
+   ],
+   "ru": [
+    "23",
+    "26",
+    "18",
+    "25"
+   ],
+   "en": [
+    "23",
+    "26",
+    "18",
+    "25"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 10 Ω va 15 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 10 Ом и 15 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 10 Ω and 15 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "4",
+    "11",
+    "5"
+   ],
+   "ru": [
+    "6",
+    "4",
+    "11",
+    "5"
+   ],
+   "en": [
+    "6",
+    "4",
+    "11",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 90 V, tok kuchi 9 A. O'tkazgich qarshiligi necha Ω?",
+   "ru": "Напряжение 90 В, сила тока 9 А. Чему равно сопротивление проводника (Ом)?",
+   "en": "The voltage is 90 V and the current is 9 A. What is the resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "20",
+    "15",
+    "5"
+   ],
+   "ru": [
+    "10",
+    "20",
+    "15",
+    "5"
+   ],
+   "en": [
+    "10",
+    "20",
+    "15",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 220 V, tok kuchi 3 A. Iste'molchi quvvati necha W?",
+   "ru": "Напряжение 220 В, сила тока 3 А. Чему равна мощность потребителя (Вт)?",
+   "en": "The voltage is 220 V and the current is 3 A. What is the power (W)?"
+  },
+  "o": {
+   "uz": [
+    "660",
+    "528",
+    "1320",
+    "792"
+   ],
+   "ru": [
+    "660",
+    "528",
+    "1320",
+    "792"
+   ],
+   "en": [
+    "660",
+    "528",
+    "1320",
+    "792"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 20 V, tok kuchi 10 A. O'tkazgich qarshiligi necha Ω?",
+   "ru": "Напряжение 20 В, сила тока 10 А. Чему равно сопротивление проводника (Ом)?",
+   "en": "The voltage is 20 V and the current is 10 A. What is the resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "4",
+    "12",
+    "5"
+   ],
+   "ru": [
+    "2",
+    "4",
+    "12",
+    "5"
+   ],
+   "en": [
+    "2",
+    "4",
+    "12",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 8 V, qarshiligi 4 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 8 В, сопротивление 4 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 8 V and resistance 4 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "6",
+    "5",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "6",
+    "5",
+    "4"
+   ],
+   "en": [
+    "2",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 160 V, qarshiligi 20 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 160 В, сопротивление 20 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 160 V and resistance 20 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "18",
+    "4",
+    "9"
+   ],
+   "ru": [
+    "8",
+    "18",
+    "4",
+    "9"
+   ],
+   "en": [
+    "8",
+    "18",
+    "4",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 36 Ω va 36 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 36 Ом и 36 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 36 Ω and 36 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "18",
+    "31",
+    "8",
+    "19"
+   ],
+   "ru": [
+    "18",
+    "31",
+    "8",
+    "19"
+   ],
+   "en": [
+    "18",
+    "31",
+    "8",
+    "19"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ketma-ket ulangan 11 Ω, 25 Ω va 4 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 11 Ом, 25 Ом и 4 Ом соединены последовательно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 11 Ω, 25 Ω and 4 Ω are connected in series. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "120",
+    "80",
+    "48"
+   ],
+   "ru": [
+    "40",
+    "120",
+    "80",
+    "48"
+   ],
+   "en": [
+    "40",
+    "120",
+    "80",
+    "48"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 3 A bo'lgan o'tkazgichdan 18 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 3 А за 18 с?",
+   "en": "What charge (C) passes through a conductor carrying 3 A in 18 s?"
+  },
+  "o": {
+   "uz": [
+    "54",
+    "108",
+    "43",
+    "59"
+   ],
+   "ru": [
+    "54",
+    "108",
+    "43",
+    "59"
+   ],
+   "en": [
+    "54",
+    "108",
+    "43",
+    "59"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 5 A bo'lgan o'tkazgichdan 3 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 5 А за 3 с?",
+   "en": "What charge (C) passes through a conductor carrying 5 A in 3 s?"
+  },
+  "o": {
+   "uz": [
+    "15",
+    "18",
+    "8",
+    "28"
+   ],
+   "ru": [
+    "15",
+    "18",
+    "8",
+    "28"
+   ],
+   "en": [
+    "15",
+    "18",
+    "8",
+    "28"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 6 A bo'lgan o'tkazgichdan 3 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 6 А за 3 с?",
+   "en": "What charge (C) passes through a conductor carrying 6 A in 3 s?"
+  },
+  "o": {
+   "uz": [
+    "18",
+    "9",
+    "21",
+    "17"
+   ],
+   "ru": [
+    "18",
+    "9",
+    "21",
+    "17"
+   ],
+   "en": [
+    "18",
+    "9",
+    "21",
+    "17"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 12 V, tok kuchi 3 A. Iste'molchi quvvati necha W?",
+   "ru": "Напряжение 12 В, сила тока 3 А. Чему равна мощность потребителя (Вт)?",
+   "en": "The voltage is 12 V and the current is 3 A. What is the power (W)?"
+  },
+  "o": {
+   "uz": [
+    "36",
+    "18",
+    "40",
+    "108"
+   ],
+   "ru": [
+    "36",
+    "18",
+    "40",
+    "108"
+   ],
+   "en": [
+    "36",
+    "18",
+    "40",
+    "108"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 42 Ω va 42 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 42 Ом и 42 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 42 Ω and 42 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "21",
+    "42",
+    "31",
+    "63"
+   ],
+   "ru": [
+    "21",
+    "42",
+    "31",
+    "63"
+   ],
+   "en": [
+    "21",
+    "42",
+    "31",
+    "63"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 3 A bo'lgan o'tkazgichdan 20 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 3 А за 20 с?",
+   "en": "What charge (C) passes through a conductor carrying 3 A in 20 s?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "75",
+    "45",
+    "180"
+   ],
+   "ru": [
+    "60",
+    "75",
+    "45",
+    "180"
+   ],
+   "en": [
+    "60",
+    "75",
+    "45",
+    "180"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 4 V, tok kuchi 1 A. O'tkazgich qarshiligi necha Ω?",
+   "ru": "Напряжение 4 В, сила тока 1 А. Чему равно сопротивление проводника (Ом)?",
+   "en": "The voltage is 4 V and the current is 1 A. What is the resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "9",
+    "2",
+    "5"
+   ],
+   "ru": [
+    "4",
+    "9",
+    "2",
+    "5"
+   ],
+   "en": [
+    "4",
+    "9",
+    "2",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 400 V, qarshiligi 50 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 400 В, сопротивление 50 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 400 V and resistance 50 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "16",
+    "18",
+    "4"
+   ],
+   "ru": [
+    "8",
+    "16",
+    "18",
+    "4"
+   ],
+   "en": [
+    "8",
+    "16",
+    "18",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 350 V, tok kuchi 7 A. O'tkazgich qarshiligi necha Ω?",
+   "ru": "Напряжение 350 В, сила тока 7 А. Чему равно сопротивление проводника (Ом)?",
+   "en": "The voltage is 350 V and the current is 7 A. What is the resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "150",
+    "25",
+    "100"
+   ],
+   "ru": [
+    "50",
+    "150",
+    "25",
+    "100"
+   ],
+   "en": [
+    "50",
+    "150",
+    "25",
+    "100"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ketma-ket ulangan 16 Ω, 8 Ω va 5 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 16 Ом, 8 Ом и 5 Ом соединены последовательно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 16 Ω, 8 Ω and 5 Ω are connected in series. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "29",
+    "19",
+    "39",
+    "31"
+   ],
+   "ru": [
+    "29",
+    "19",
+    "39",
+    "31"
+   ],
+   "en": [
+    "29",
+    "19",
+    "39",
+    "31"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 110 V, tok kuchi 10 A. Iste'molchi quvvati necha W?",
+   "ru": "Напряжение 110 В, сила тока 10 А. Чему равна мощность потребителя (Вт)?",
+   "en": "The voltage is 110 V and the current is 10 A. What is the power (W)?"
+  },
+  "o": {
+   "uz": [
+    "1100",
+    "880",
+    "825",
+    "1320"
+   ],
+   "ru": [
+    "1100",
+    "880",
+    "825",
+    "1320"
+   ],
+   "en": [
+    "1100",
+    "880",
+    "825",
+    "1320"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 15 Ω va 30 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 15 Ом и 30 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 15 Ω and 30 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "7",
+    "15",
+    "5"
+   ],
+   "ru": [
+    "10",
+    "7",
+    "15",
+    "5"
+   ],
+   "en": [
+    "10",
+    "7",
+    "15",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1 kg po'latni 40 °C ga isitish uchun qancha issiqlik (J) kerak? (c = 500 J/(kg·°C))",
+   "ru": "Сколько теплоты (Дж) нужно, чтобы нагреть 1 кг вещества «сталь» на 40 °C? (c = 500 Дж/(кг·°C))",
+   "en": "How much heat (J) is needed to heat 1 kg of steel by 40 °C? (c = 500 J/(kg·°C))"
+  },
+  "o": {
+   "uz": [
+    "20000",
+    "30000",
+    "18000",
+    "10000"
+   ],
+   "ru": [
+    "20000",
+    "30000",
+    "18000",
+    "10000"
+   ],
+   "en": [
+    "20000",
+    "30000",
+    "18000",
+    "10000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 kg suvni 30 °C ga isitish uchun qancha issiqlik (J) kerak? (c = 4200 J/(kg·°C))",
+   "ru": "Сколько теплоты (Дж) нужно, чтобы нагреть 4 кг вещества «вода» на 30 °C? (c = 4200 Дж/(кг·°C))",
+   "en": "How much heat (J) is needed to heat 4 kg of water by 30 °C? (c = 4200 J/(kg·°C))"
+  },
+  "o": {
+   "uz": [
+    "504000",
+    "1008000",
+    "554400",
+    "630000"
+   ],
+   "ru": [
+    "504000",
+    "1008000",
+    "554400",
+    "630000"
+   ],
+   "en": [
+    "504000",
+    "1008000",
+    "554400",
+    "630000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 40 V, tok kuchi 4 A. O'tkazgich qarshiligi necha Ω?",
+   "ru": "Напряжение 40 В, сила тока 4 А. Чему равно сопротивление проводника (Ом)?",
+   "en": "The voltage is 40 V and the current is 4 A. What is the resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "23",
+    "15",
+    "7"
+   ],
+   "ru": [
+    "10",
+    "23",
+    "15",
+    "7"
+   ],
+   "en": [
+    "10",
+    "23",
+    "15",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ketma-ket ulangan 8 Ω, 4 Ω va 13 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 8 Ом, 4 Ом и 13 Ом соединены последовательно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 8 Ω, 4 Ω and 13 Ω are connected in series. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "25",
+    "23",
+    "22",
+    "38"
+   ],
+   "ru": [
+    "25",
+    "23",
+    "22",
+    "38"
+   ],
+   "en": [
+    "25",
+    "23",
+    "22",
+    "38"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 12 V, tok kuchi 10 A. Iste'molchi quvvati necha W?",
+   "ru": "Напряжение 12 В, сила тока 10 А. Чему равна мощность потребителя (Вт)?",
+   "en": "The voltage is 12 V and the current is 10 A. What is the power (W)?"
+  },
+  "o": {
+   "uz": [
+    "120",
+    "240",
+    "108",
+    "60"
+   ],
+   "ru": [
+    "120",
+    "240",
+    "108",
+    "60"
+   ],
+   "en": [
+    "120",
+    "240",
+    "108",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 21 Ω va 28 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 21 Ом и 28 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 21 Ω and 28 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "24",
+    "6",
+    "7"
+   ],
+   "ru": [
+    "12",
+    "24",
+    "6",
+    "7"
+   ],
+   "en": [
+    "12",
+    "24",
+    "6",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 50 Ω va 50 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 50 Ом и 50 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 50 Ω and 50 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "25",
+    "28",
+    "50",
+    "32"
+   ],
+   "ru": [
+    "25",
+    "28",
+    "50",
+    "32"
+   ],
+   "en": [
+    "25",
+    "28",
+    "50",
+    "32"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "5 kg misni 10 °C ga isitish uchun qancha issiqlik (J) kerak? (c = 400 J/(kg·°C))",
+   "ru": "Сколько теплоты (Дж) нужно, чтобы нагреть 5 кг вещества «медь» на 10 °C? (c = 400 Дж/(кг·°C))",
+   "en": "How much heat (J) is needed to heat 5 kg of copper by 10 °C? (c = 400 J/(kg·°C))"
+  },
+  "o": {
+   "uz": [
+    "20000",
+    "10000",
+    "22000",
+    "25000"
+   ],
+   "ru": [
+    "20000",
+    "10000",
+    "22000",
+    "25000"
+   ],
+   "en": [
+    "20000",
+    "10000",
+    "22000",
+    "25000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 140 V, qarshiligi 20 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 140 В, сопротивление 20 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 140 V and resistance 20 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "12",
+    "20",
+    "2"
+   ],
+   "ru": [
+    "7",
+    "12",
+    "20",
+    "2"
+   ],
+   "en": [
+    "7",
+    "12",
+    "20",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 kg alyuminiyni 30 °C ga isitish uchun qancha issiqlik (J) kerak? (c = 900 J/(kg·°C))",
+   "ru": "Сколько теплоты (Дж) нужно, чтобы нагреть 3 кг вещества «алюминий» на 30 °C? (c = 900 Дж/(кг·°C))",
+   "en": "How much heat (J) is needed to heat 3 kg of aluminium by 30 °C? (c = 900 J/(kg·°C))"
+  },
+  "o": {
+   "uz": [
+    "81000",
+    "101250",
+    "97200",
+    "85050"
+   ],
+   "ru": [
+    "81000",
+    "101250",
+    "97200",
+    "85050"
+   ],
+   "en": [
+    "81000",
+    "101250",
+    "97200",
+    "85050"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ketma-ket ulangan 9 Ω, 36 Ω va 36 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 9 Ом, 36 Ом и 36 Ом соединены последовательно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 9 Ω, 36 Ω and 36 Ω are connected in series. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "81",
+    "89",
+    "121",
+    "162"
+   ],
+   "ru": [
+    "81",
+    "89",
+    "121",
+    "162"
+   ],
+   "en": [
+    "81",
+    "89",
+    "121",
+    "162"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 16 V, tok kuchi 4 A. O'tkazgich qarshiligi necha Ω?",
+   "ru": "Напряжение 16 В, сила тока 4 А. Чему равно сопротивление проводника (Ом)?",
+   "en": "The voltage is 16 V and the current is 4 A. What is the resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "12",
+    "8",
+    "2"
+   ],
+   "ru": [
+    "4",
+    "12",
+    "8",
+    "2"
+   ],
+   "en": [
+    "4",
+    "12",
+    "8",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 110 V, tok kuchi 5 A. Iste'molchi quvvati necha W?",
+   "ru": "Напряжение 110 В, сила тока 5 А. Чему равна мощность потребителя (Вт)?",
+   "en": "The voltage is 110 V and the current is 5 A. What is the power (W)?"
+  },
+  "o": {
+   "uz": [
+    "550",
+    "495",
+    "412",
+    "1100"
+   ],
+   "ru": [
+    "550",
+    "495",
+    "412",
+    "1100"
+   ],
+   "en": [
+    "550",
+    "495",
+    "412",
+    "1100"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ketma-ket ulangan 10 Ω, 28 Ω va 9 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 10 Ом, 28 Ом и 9 Ом соединены последовательно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 10 Ω, 28 Ω and 9 Ω are connected in series. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "47",
+    "56",
+    "71",
+    "59"
+   ],
+   "ru": [
+    "47",
+    "56",
+    "71",
+    "59"
+   ],
+   "en": [
+    "47",
+    "56",
+    "71",
+    "59"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "5 kg alyuminiyni 50 °C ga isitish uchun qancha issiqlik (J) kerak? (c = 900 J/(kg·°C))",
+   "ru": "Сколько теплоты (Дж) нужно, чтобы нагреть 5 кг вещества «алюминий» на 50 °C? (c = 900 Дж/(кг·°C))",
+   "en": "How much heat (J) is needed to heat 5 kg of aluminium by 50 °C? (c = 900 J/(kg·°C))"
+  },
+  "o": {
+   "uz": [
+    "225000",
+    "202500",
+    "281250",
+    "168750"
+   ],
+   "ru": [
+    "225000",
+    "202500",
+    "281250",
+    "168750"
+   ],
+   "en": [
+    "225000",
+    "202500",
+    "281250",
+    "168750"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 5 Ω va 20 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 5 Ом и 20 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 5 Ω and 20 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "11",
+    "17",
+    "7"
+   ],
+   "ru": [
+    "4",
+    "11",
+    "17",
+    "7"
+   ],
+   "en": [
+    "4",
+    "11",
+    "17",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 20 Ω va 30 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 20 Ом и 30 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 20 Ω and 30 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "9",
+    "13",
+    "2"
+   ],
+   "ru": [
+    "12",
+    "9",
+    "13",
+    "2"
+   ],
+   "en": [
+    "12",
+    "9",
+    "13",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 38 Ω va 38 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 38 Ом и 38 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 38 Ω and 38 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "19",
+    "24",
+    "38",
+    "28"
+   ],
+   "ru": [
+    "19",
+    "24",
+    "38",
+    "28"
+   ],
+   "en": [
+    "19",
+    "24",
+    "38",
+    "28"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 1 A bo'lgan o'tkazgichdan 15 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 1 А за 15 с?",
+   "en": "What charge (C) passes through a conductor carrying 1 A in 15 s?"
+  },
+  "o": {
+   "uz": [
+    "15",
+    "5",
+    "45",
+    "20"
+   ],
+   "ru": [
+    "15",
+    "5",
+    "45",
+    "20"
+   ],
+   "en": [
+    "15",
+    "5",
+    "45",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 kg misni 40 °C ga isitish uchun qancha issiqlik (J) kerak? (c = 400 J/(kg·°C))",
+   "ru": "Сколько теплоты (Дж) нужно, чтобы нагреть 2 кг вещества «медь» на 40 °C? (c = 400 Дж/(кг·°C))",
+   "en": "How much heat (J) is needed to heat 2 kg of copper by 40 °C? (c = 400 J/(kg·°C))"
+  },
+  "o": {
+   "uz": [
+    "32000",
+    "24000",
+    "25600",
+    "64000"
+   ],
+   "ru": [
+    "32000",
+    "24000",
+    "25600",
+    "64000"
+   ],
+   "en": [
+    "32000",
+    "24000",
+    "25600",
+    "64000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 32 V, qarshiligi 4 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 32 В, сопротивление 4 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 32 V and resistance 4 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "5",
+    "21",
+    "9"
+   ],
+   "ru": [
+    "8",
+    "5",
+    "21",
+    "9"
+   ],
+   "en": [
+    "8",
+    "5",
+    "21",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 18 Ω va 18 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 18 Ом и 18 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 18 Ω and 18 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "9",
+    "10",
+    "13",
+    "5"
+   ],
+   "ru": [
+    "9",
+    "10",
+    "13",
+    "5"
+   ],
+   "en": [
+    "9",
+    "10",
+    "13",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ketma-ket ulangan 3 Ω, 23 Ω va 11 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 3 Ом, 23 Ом и 11 Ом соединены последовательно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 3 Ω, 23 Ω and 11 Ω are connected in series. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "37",
+    "39",
+    "46",
+    "19"
+   ],
+   "ru": [
+    "37",
+    "39",
+    "46",
+    "19"
+   ],
+   "en": [
+    "37",
+    "39",
+    "46",
+    "19"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 10 V, tok kuchi 2 A. O'tkazgich qarshiligi necha Ω?",
+   "ru": "Напряжение 10 В, сила тока 2 А. Чему равно сопротивление проводника (Ом)?",
+   "en": "The voltage is 10 V and the current is 2 A. What is the resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "18",
+    "0",
+    "10"
+   ],
+   "ru": [
+    "5",
+    "18",
+    "0",
+    "10"
+   ],
+   "en": [
+    "5",
+    "18",
+    "0",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ketma-ket ulangan 2 Ω, 29 Ω va 24 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 2 Ом, 29 Ом и 24 Ом соединены последовательно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 2 Ω, 29 Ω and 24 Ω are connected in series. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "55",
+    "165",
+    "83",
+    "66"
+   ],
+   "ru": [
+    "55",
+    "165",
+    "83",
+    "66"
+   ],
+   "en": [
+    "55",
+    "165",
+    "83",
+    "66"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 2 A bo'lgan o'tkazgichdan 10 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 2 А за 10 с?",
+   "en": "What charge (C) passes through a conductor carrying 2 A in 10 s?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "18",
+    "23",
+    "40"
+   ],
+   "ru": [
+    "20",
+    "18",
+    "23",
+    "40"
+   ],
+   "en": [
+    "20",
+    "18",
+    "23",
+    "40"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 18 V, qarshiligi 2 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 18 В, сопротивление 2 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 18 V and resistance 2 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "9",
+    "12",
+    "8",
+    "4"
+   ],
+   "ru": [
+    "9",
+    "12",
+    "8",
+    "4"
+   ],
+   "en": [
+    "9",
+    "12",
+    "8",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 24 V, tok kuchi 9 A. Iste'molchi quvvati necha W?",
+   "ru": "Напряжение 24 В, сила тока 9 А. Чему равна мощность потребителя (Вт)?",
+   "en": "The voltage is 24 V and the current is 9 A. What is the power (W)?"
+  },
+  "o": {
+   "uz": [
+    "216",
+    "173",
+    "162",
+    "205"
+   ],
+   "ru": [
+    "216",
+    "173",
+    "162",
+    "205"
+   ],
+   "en": [
+    "216",
+    "173",
+    "162",
+    "205"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 225 V, qarshiligi 25 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 225 В, сопротивление 25 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 225 V and resistance 25 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "9",
+    "18",
+    "16",
+    "5"
+   ],
+   "ru": [
+    "9",
+    "18",
+    "16",
+    "5"
+   ],
+   "en": [
+    "9",
+    "18",
+    "16",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "5 kg alyuminiyni 40 °C ga isitish uchun qancha issiqlik (J) kerak? (c = 900 J/(kg·°C))",
+   "ru": "Сколько теплоты (Дж) нужно, чтобы нагреть 5 кг вещества «алюминий» на 40 °C? (c = 900 Дж/(кг·°C))",
+   "en": "How much heat (J) is needed to heat 5 kg of aluminium by 40 °C? (c = 900 J/(kg·°C))"
+  },
+  "o": {
+   "uz": [
+    "180000",
+    "162000",
+    "225000",
+    "360000"
+   ],
+   "ru": [
+    "180000",
+    "162000",
+    "225000",
+    "360000"
+   ],
+   "en": [
+    "180000",
+    "162000",
+    "225000",
+    "360000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 110 V, tok kuchi 9 A. Iste'molchi quvvati necha W?",
+   "ru": "Напряжение 110 В, сила тока 9 А. Чему равна мощность потребителя (Вт)?",
+   "en": "The voltage is 110 V and the current is 9 A. What is the power (W)?"
+  },
+  "o": {
+   "uz": [
+    "990",
+    "1188",
+    "742",
+    "891"
+   ],
+   "ru": [
+    "990",
+    "1188",
+    "742",
+    "891"
+   ],
+   "en": [
+    "990",
+    "1188",
+    "742",
+    "891"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 4 A bo'lgan o'tkazgichdan 9 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 4 А за 9 с?",
+   "en": "What charge (C) passes through a conductor carrying 4 A in 9 s?"
+  },
+  "o": {
+   "uz": [
+    "36",
+    "18",
+    "32",
+    "34"
+   ],
+   "ru": [
+    "36",
+    "18",
+    "32",
+    "34"
+   ],
+   "en": [
+    "36",
+    "18",
+    "32",
+    "34"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 28 V, qarshiligi 4 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 28 В, сопротивление 4 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 28 V and resistance 4 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "5",
+    "12",
+    "20"
+   ],
+   "ru": [
+    "7",
+    "5",
+    "12",
+    "20"
+   ],
+   "en": [
+    "7",
+    "5",
+    "12",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 54 Ω va 54 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 54 Ом и 54 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 54 Ω and 54 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "27",
+    "24",
+    "37",
+    "29"
+   ],
+   "ru": [
+    "27",
+    "24",
+    "37",
+    "29"
+   ],
+   "en": [
+    "27",
+    "24",
+    "37",
+    "29"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 35 V, qarshiligi 5 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 35 В, сопротивление 5 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 35 V and resistance 5 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "10",
+    "17",
+    "14"
+   ],
+   "ru": [
+    "7",
+    "10",
+    "17",
+    "14"
+   ],
+   "en": [
+    "7",
+    "10",
+    "17",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1 kg suvni 10 °C ga isitish uchun qancha issiqlik (J) kerak? (c = 4200 J/(kg·°C))",
+   "ru": "Сколько теплоты (Дж) нужно, чтобы нагреть 1 кг вещества «вода» на 10 °C? (c = 4200 Дж/(кг·°C))",
+   "en": "How much heat (J) is needed to heat 1 kg of water by 10 °C? (c = 4200 J/(kg·°C))"
+  },
+  "o": {
+   "uz": [
+    "42000",
+    "52500",
+    "126000",
+    "50400"
+   ],
+   "ru": [
+    "42000",
+    "52500",
+    "126000",
+    "50400"
+   ],
+   "en": [
+    "42000",
+    "52500",
+    "126000",
+    "50400"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 9 A bo'lgan o'tkazgichdan 16 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 9 А за 16 с?",
+   "en": "What charge (C) passes through a conductor carrying 9 A in 16 s?"
+  },
+  "o": {
+   "uz": [
+    "144",
+    "115",
+    "288",
+    "432"
+   ],
+   "ru": [
+    "144",
+    "115",
+    "288",
+    "432"
+   ],
+   "en": [
+    "144",
+    "115",
+    "288",
+    "432"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 40 V, tok kuchi 10 A. O'tkazgich qarshiligi necha Ω?",
+   "ru": "Напряжение 40 В, сила тока 10 А. Чему равно сопротивление проводника (Ом)?",
+   "en": "The voltage is 40 V and the current is 10 A. What is the resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "12",
+    "1",
+    "17"
+   ],
+   "ru": [
+    "4",
+    "12",
+    "1",
+    "17"
+   ],
+   "en": [
+    "4",
+    "12",
+    "1",
+    "17"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 10 A bo'lgan o'tkazgichdan 7 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 10 А за 7 с?",
+   "en": "What charge (C) passes through a conductor carrying 10 A in 7 s?"
+  },
+  "o": {
+   "uz": [
+    "70",
+    "77",
+    "210",
+    "66"
+   ],
+   "ru": [
+    "70",
+    "77",
+    "210",
+    "66"
+   ],
+   "en": [
+    "70",
+    "77",
+    "210",
+    "66"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ketma-ket ulangan 40 Ω, 9 Ω va 28 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 40 Ом, 9 Ом и 28 Ом соединены последовательно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 40 Ω, 9 Ω and 28 Ω are connected in series. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "77",
+    "73",
+    "81",
+    "154"
+   ],
+   "ru": [
+    "77",
+    "73",
+    "81",
+    "154"
+   ],
+   "en": [
+    "77",
+    "73",
+    "81",
+    "154"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 24 Ω va 24 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 24 Ом и 24 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 24 Ω and 24 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "25",
+    "10",
+    "15"
+   ],
+   "ru": [
+    "12",
+    "25",
+    "10",
+    "15"
+   ],
+   "en": [
+    "12",
+    "25",
+    "10",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 100 V, tok kuchi 10 A. O'tkazgich qarshiligi necha Ω?",
+   "ru": "Напряжение 100 В, сила тока 10 А. Чему равно сопротивление проводника (Ом)?",
+   "en": "The voltage is 100 V and the current is 10 A. What is the resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "15",
+    "23",
+    "12"
+   ],
+   "ru": [
+    "10",
+    "15",
+    "23",
+    "12"
+   ],
+   "en": [
+    "10",
+    "15",
+    "23",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 100 V, tok kuchi 2 A. O'tkazgich qarshiligi necha Ω?",
+   "ru": "Напряжение 100 В, сила тока 2 А. Чему равно сопротивление проводника (Ом)?",
+   "en": "The voltage is 100 V and the current is 2 A. What is the resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "48",
+    "75",
+    "25"
+   ],
+   "ru": [
+    "50",
+    "48",
+    "75",
+    "25"
+   ],
+   "en": [
+    "50",
+    "48",
+    "75",
+    "25"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ketma-ket ulangan 37 Ω, 5 Ω va 21 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 37 Ом, 5 Ом и 21 Ом соединены последовательно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 37 Ω, 5 Ω and 21 Ω are connected in series. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "63",
+    "31",
+    "126",
+    "60"
+   ],
+   "ru": [
+    "63",
+    "31",
+    "126",
+    "60"
+   ],
+   "en": [
+    "63",
+    "31",
+    "126",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 8 A bo'lgan o'tkazgichdan 2 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 8 А за 2 с?",
+   "en": "What charge (C) passes through a conductor carrying 8 A in 2 s?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "48",
+    "6",
+    "8"
+   ],
+   "ru": [
+    "16",
+    "48",
+    "6",
+    "8"
+   ],
+   "en": [
+    "16",
+    "48",
+    "6",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 7 A bo'lgan o'tkazgichdan 3 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 7 А за 3 с?",
+   "en": "What charge (C) passes through a conductor carrying 7 A in 3 s?"
+  },
+  "o": {
+   "uz": [
+    "21",
+    "16",
+    "18",
+    "34"
+   ],
+   "ru": [
+    "21",
+    "16",
+    "18",
+    "34"
+   ],
+   "en": [
+    "21",
+    "16",
+    "18",
+    "34"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 2 Ω va 2 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 2 Ом и 2 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 2 Ω and 2 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "2",
+    "3",
+    "0"
+   ],
+   "ru": [
+    "1",
+    "2",
+    "3",
+    "0"
+   ],
+   "en": [
+    "1",
+    "2",
+    "3",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 kg misni 50 °C ga isitish uchun qancha issiqlik (J) kerak? (c = 400 J/(kg·°C))",
+   "ru": "Сколько теплоты (Дж) нужно, чтобы нагреть 2 кг вещества «медь» на 50 °C? (c = 400 Дж/(кг·°C))",
+   "en": "How much heat (J) is needed to heat 2 kg of copper by 50 °C? (c = 400 J/(kg·°C))"
+  },
+  "o": {
+   "uz": [
+    "40000",
+    "36000",
+    "20000",
+    "42000"
+   ],
+   "ru": [
+    "40000",
+    "36000",
+    "20000",
+    "42000"
+   ],
+   "en": [
+    "40000",
+    "36000",
+    "20000",
+    "42000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 kg po'latni 30 °C ga isitish uchun qancha issiqlik (J) kerak? (c = 500 J/(kg·°C))",
+   "ru": "Сколько теплоты (Дж) нужно, чтобы нагреть 2 кг вещества «сталь» на 30 °C? (c = 500 Дж/(кг·°C))",
+   "en": "How much heat (J) is needed to heat 2 kg of steel by 30 °C? (c = 500 J/(kg·°C))"
+  },
+  "o": {
+   "uz": [
+    "30000",
+    "24000",
+    "15000",
+    "27000"
+   ],
+   "ru": [
+    "30000",
+    "24000",
+    "15000",
+    "27000"
+   ],
+   "en": [
+    "30000",
+    "24000",
+    "15000",
+    "27000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 8 Ω va 24 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 8 Ом и 24 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 8 Ω and 24 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "19",
+    "5",
+    "3"
+   ],
+   "ru": [
+    "6",
+    "19",
+    "5",
+    "3"
+   ],
+   "en": [
+    "6",
+    "19",
+    "5",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 1 A bo'lgan o'tkazgichdan 10 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 1 А за 10 с?",
+   "en": "What charge (C) passes through a conductor carrying 1 A in 10 s?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "5",
+    "23",
+    "12"
+   ],
+   "ru": [
+    "10",
+    "5",
+    "23",
+    "12"
+   ],
+   "en": [
+    "10",
+    "5",
+    "23",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ketma-ket ulangan 24 Ω, 4 Ω va 25 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 24 Ом, 4 Ом и 25 Ом соединены последовательно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 24 Ω, 4 Ω and 25 Ω are connected in series. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "53",
+    "58",
+    "27",
+    "40"
+   ],
+   "ru": [
+    "53",
+    "58",
+    "27",
+    "40"
+   ],
+   "en": [
+    "53",
+    "58",
+    "27",
+    "40"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 36 V, tok kuchi 3 A. Iste'molchi quvvati necha W?",
+   "ru": "Напряжение 36 В, сила тока 3 А. Чему равна мощность потребителя (Вт)?",
+   "en": "The voltage is 36 V and the current is 3 A. What is the power (W)?"
+  },
+  "o": {
+   "uz": [
+    "108",
+    "54",
+    "162",
+    "119"
+   ],
+   "ru": [
+    "108",
+    "54",
+    "162",
+    "119"
+   ],
+   "en": [
+    "108",
+    "54",
+    "162",
+    "119"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 kg po'latni 40 °C ga isitish uchun qancha issiqlik (J) kerak? (c = 500 J/(kg·°C))",
+   "ru": "Сколько теплоты (Дж) нужно, чтобы нагреть 3 кг вещества «сталь» на 40 °C? (c = 500 Дж/(кг·°C))",
+   "en": "How much heat (J) is needed to heat 3 kg of steel by 40 °C? (c = 500 J/(kg·°C))"
+  },
+  "o": {
+   "uz": [
+    "60000",
+    "57000",
+    "180000",
+    "30000"
+   ],
+   "ru": [
+    "60000",
+    "57000",
+    "180000",
+    "30000"
+   ],
+   "en": [
+    "60000",
+    "57000",
+    "180000",
+    "30000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ketma-ket ulangan 14 Ω, 27 Ω va 4 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 14 Ом, 27 Ом и 4 Ом соединены последовательно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 14 Ω, 27 Ω and 4 Ω are connected in series. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "45",
+    "49",
+    "90",
+    "36"
+   ],
+   "ru": [
+    "45",
+    "49",
+    "90",
+    "36"
+   ],
+   "en": [
+    "45",
+    "49",
+    "90",
+    "36"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 15 V, qarshiligi 5 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 15 В, сопротивление 5 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 15 V and resistance 5 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "13",
+    "10",
+    "2"
+   ],
+   "ru": [
+    "3",
+    "13",
+    "10",
+    "2"
+   ],
+   "en": [
+    "3",
+    "13",
+    "10",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 250 V, tok kuchi 5 A. O'tkazgich qarshiligi necha Ω?",
+   "ru": "Напряжение 250 В, сила тока 5 А. Чему равно сопротивление проводника (Ом)?",
+   "en": "The voltage is 250 V and the current is 5 A. What is the resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "62",
+    "48",
+    "38"
+   ],
+   "ru": [
+    "50",
+    "62",
+    "48",
+    "38"
+   ],
+   "en": [
+    "50",
+    "62",
+    "48",
+    "38"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 12 V, qarshiligi 4 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 12 В, сопротивление 4 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 12 V and resistance 4 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "8",
+    "4",
+    "0"
+   ],
+   "ru": [
+    "3",
+    "8",
+    "4",
+    "0"
+   ],
+   "en": [
+    "3",
+    "8",
+    "4",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 140 V, tok kuchi 7 A. O'tkazgich qarshiligi necha Ω?",
+   "ru": "Напряжение 140 В, сила тока 7 А. Чему равно сопротивление проводника (Ом)?",
+   "en": "The voltage is 140 V and the current is 7 A. What is the resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "19",
+    "10",
+    "60"
+   ],
+   "ru": [
+    "20",
+    "19",
+    "10",
+    "60"
+   ],
+   "en": [
+    "20",
+    "19",
+    "10",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 kg alyuminiyni 10 °C ga isitish uchun qancha issiqlik (J) kerak? (c = 900 J/(kg·°C))",
+   "ru": "Сколько теплоты (Дж) нужно, чтобы нагреть 4 кг вещества «алюминий» на 10 °C? (c = 900 Дж/(кг·°C))",
+   "en": "How much heat (J) is needed to heat 4 kg of aluminium by 10 °C? (c = 900 J/(kg·°C))"
+  },
+  "o": {
+   "uz": [
+    "36000",
+    "34200",
+    "43200",
+    "32400"
+   ],
+   "ru": [
+    "36000",
+    "34200",
+    "43200",
+    "32400"
+   ],
+   "en": [
+    "36000",
+    "34200",
+    "43200",
+    "32400"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 25 V, qarshiligi 25 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 25 В, сопротивление 25 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 25 V and resistance 25 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "3",
+    "8",
+    "6"
+   ],
+   "ru": [
+    "1",
+    "3",
+    "8",
+    "6"
+   ],
+   "en": [
+    "1",
+    "3",
+    "8",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 7 Ω va 42 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 7 Ом и 42 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 7 Ω and 42 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "1",
+    "13",
+    "12"
+   ],
+   "ru": [
+    "6",
+    "1",
+    "13",
+    "12"
+   ],
+   "en": [
+    "6",
+    "1",
+    "13",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tok kuchi 2 A bo'lgan o'tkazgichdan 2 s davomida qancha zaryad (C) o'tadi?",
+   "ru": "Какой заряд (Кл) пройдёт через проводник при силе тока 2 А за 2 с?",
+   "en": "What charge (C) passes through a conductor carrying 2 A in 2 s?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "11",
+    "14",
+    "8"
+   ],
+   "ru": [
+    "4",
+    "11",
+    "14",
+    "8"
+   ],
+   "en": [
+    "4",
+    "11",
+    "14",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ketma-ket ulangan 37 Ω, 40 Ω va 22 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 37 Ом, 40 Ом и 22 Ом соединены последовательно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 37 Ω, 40 Ω and 22 Ω are connected in series. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "99",
+    "149",
+    "198",
+    "297"
+   ],
+   "ru": [
+    "99",
+    "149",
+    "198",
+    "297"
+   ],
+   "en": [
+    "99",
+    "149",
+    "198",
+    "297"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "5 kg alyuminiyni 30 °C ga isitish uchun qancha issiqlik (J) kerak? (c = 900 J/(kg·°C))",
+   "ru": "Сколько теплоты (Дж) нужно, чтобы нагреть 5 кг вещества «алюминий» на 30 °C? (c = 900 Дж/(кг·°C))",
+   "en": "How much heat (J) is needed to heat 5 kg of aluminium by 30 °C? (c = 900 J/(kg·°C))"
+  },
+  "o": {
+   "uz": [
+    "135000",
+    "101250",
+    "128250",
+    "121500"
+   ],
+   "ru": [
+    "135000",
+    "101250",
+    "128250",
+    "121500"
+   ],
+   "en": [
+    "135000",
+    "101250",
+    "128250",
+    "121500"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 24 V, tok kuchi 3 A. Iste'molchi quvvati necha W?",
+   "ru": "Напряжение 24 В, сила тока 3 А. Чему равна мощность потребителя (Вт)?",
+   "en": "The voltage is 24 V and the current is 3 A. What is the power (W)?"
+  },
+  "o": {
+   "uz": [
+    "72",
+    "65",
+    "68",
+    "86"
+   ],
+   "ru": [
+    "72",
+    "65",
+    "68",
+    "86"
+   ],
+   "en": [
+    "72",
+    "65",
+    "68",
+    "86"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Parallel ulangan 9 Ω va 18 Ω rezistorlarning umumiy qarshiligi necha Ω?",
+   "ru": "Резисторы 9 Ом и 18 Ом соединены параллельно. Чему равно общее сопротивление (Ом)?",
+   "en": "Resistors of 9 Ω and 18 Ω are connected in parallel. What is the total resistance (Ω)?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "5",
+    "13",
+    "8"
+   ],
+   "ru": [
+    "6",
+    "5",
+    "13",
+    "8"
+   ],
+   "en": [
+    "6",
+    "5",
+    "13",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuchlanish 110 V, tok kuchi 6 A. Iste'molchi quvvati necha W?",
+   "ru": "Напряжение 110 В, сила тока 6 А. Чему равна мощность потребителя (Вт)?",
+   "en": "The voltage is 110 V and the current is 6 A. What is the power (W)?"
+  },
+  "o": {
+   "uz": [
+    "660",
+    "330",
+    "693",
+    "726"
+   ],
+   "ru": [
+    "660",
+    "330",
+    "693",
+    "726"
+   ],
+   "en": [
+    "660",
+    "330",
+    "693",
+    "726"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zanjir uchastkasining kuchlanishi 300 V, qarshiligi 50 Ω. Tok kuchi necha A?",
+   "ru": "Напряжение на участке цепи 300 В, сопротивление 50 Ом. Чему равна сила тока (А)?",
+   "en": "A circuit section has voltage 300 V and resistance 50 Ω. What is the current (A)?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "9",
+    "5",
+    "16"
+   ],
+   "ru": [
+    "6",
+    "9",
+    "5",
+    "16"
+   ],
+   "en": [
+    "6",
+    "9",
+    "5",
+    "16"
+   ]
+  },
+  "a": 0
+ }
+]

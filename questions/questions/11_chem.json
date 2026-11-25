@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +5 dan +0 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +5 до +0. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +5 to +0. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "7",
+    "10",
+    "0"
+   ],
+   "ru": [
+    "5",
+    "7",
+    "10",
+    "0"
+   ],
+   "en": [
+    "5",
+    "7",
+    "10",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +3 dan +0 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +3 до +0. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +3 to +0. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "6",
+    "5",
+    "4"
+   ],
+   "ru": [
+    "3",
+    "6",
+    "5",
+    "4"
+   ],
+   "en": [
+    "3",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 ml 5 mol/l li HCl eritmasini neytrallash uchun 2 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 2 моль/л нужно для нейтрализации 100 мл раствора HCl 5 моль/л?",
+   "en": "How many mL of 2 mol/L NaOH are needed to neutralise 100 mL of 5 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "250",
+    "225",
+    "375",
+    "500"
+   ],
+   "ru": [
+    "250",
+    "225",
+    "375",
+    "500"
+   ],
+   "en": [
+    "250",
+    "225",
+    "375",
+    "500"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C(s) + CO2 ⇌ 2CO − Q\nMuvozanat qayoqqa siljiydi, bosim kamaytirilsa?",
+   "ru": "C(s) + CO2 ⇌ 2CO − Q\nВ какую сторону сместится равновесие при понижении давления?",
+   "en": "C(s) + CO2 ⇌ 2CO − Q\nWhich way does the equilibrium shift if the pressure is decreased?"
+  },
+  "o": {
+   "uz": [
+    "Mahsulotlar tomonga (o'ngga)",
+    "Boshlang'ich moddalar tomonga (chapga)",
+    "Muvozanat siljimaydi",
+    "Aniqlab bo'lmaydi"
+   ],
+   "ru": [
+    "В сторону продуктов (вправо)",
+    "В сторону исходных веществ (влево)",
+    "Равновесие не смещается",
+    "Невозможно определить"
+   ],
+   "en": [
+    "Towards the products (right)",
+    "Towards the reactants (left)",
+    "The equilibrium does not shift",
+    "Cannot be determined"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "10 ml 5 mol/l li HCl eritmasini neytrallash uchun 1 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 1 моль/л нужно для нейтрализации 10 мл раствора HCl 5 моль/л?",
+   "en": "How many mL of 1 mol/L NaOH are needed to neutralise 10 mL of 5 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "75",
+    "38",
+    "25"
+   ],
+   "ru": [
+    "50",
+    "75",
+    "38",
+    "25"
+   ],
+   "en": [
+    "50",
+    "75",
+    "38",
+    "25"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "300 g 30% li eritmaga 200 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 300 г 30%-ного раствора добавили 200 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "200 g of water was added to 300 g of a 30% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "18",
+    "9",
+    "15",
+    "19"
+   ],
+   "ru": [
+    "18",
+    "9",
+    "15",
+    "19"
+   ],
+   "en": [
+    "18",
+    "9",
+    "15",
+    "19"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +5 dan +7 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +5 до +7. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +5 to +7. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "1",
+    "15",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "1",
+    "15",
+    "4"
+   ],
+   "en": [
+    "2",
+    "1",
+    "15",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "300 g 60% li eritmaga 100 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 300 г 60%-ного раствора добавили 100 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "100 g of water was added to 300 g of a 60% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "45",
+    "135",
+    "36",
+    "49"
+   ],
+   "ru": [
+    "45",
+    "135",
+    "36",
+    "49"
+   ],
+   "en": [
+    "45",
+    "135",
+    "36",
+    "49"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +0 dan -1 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +0 до -1. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +0 to -1. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "3",
+    "2",
+    "4"
+   ],
+   "ru": [
+    "1",
+    "3",
+    "2",
+    "4"
+   ],
+   "en": [
+    "1",
+    "3",
+    "2",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "300 g 10% li eritmaga 300 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 300 г 10%-ного раствора добавили 300 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "300 g of water was added to 300 g of a 10% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "12",
+    "10",
+    "15"
+   ],
+   "ru": [
+    "5",
+    "12",
+    "10",
+    "15"
+   ],
+   "en": [
+    "5",
+    "12",
+    "10",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 g 60% li eritmaga 100 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 100 г 60%-ного раствора добавили 100 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "100 g of water was added to 100 g of a 60% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "32",
+    "37",
+    "40"
+   ],
+   "ru": [
+    "30",
+    "32",
+    "37",
+    "40"
+   ],
+   "en": [
+    "30",
+    "32",
+    "37",
+    "40"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "300 g 60% li eritmaga 300 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 300 г 60%-ного раствора добавили 300 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "300 g of water was added to 300 g of a 60% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "28",
+    "27",
+    "60"
+   ],
+   "ru": [
+    "30",
+    "28",
+    "27",
+    "60"
+   ],
+   "en": [
+    "30",
+    "28",
+    "27",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "30 ml 5 mol/l li HCl eritmasini neytrallash uchun 5 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 5 моль/л нужно для нейтрализации 30 мл раствора HCl 5 моль/л?",
+   "en": "How many mL of 5 mol/L NaOH are needed to neutralise 30 mL of 5 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "32",
+    "27",
+    "15"
+   ],
+   "ru": [
+    "30",
+    "32",
+    "27",
+    "15"
+   ],
+   "en": [
+    "30",
+    "32",
+    "27",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "30 ml 5 mol/l li HCl eritmasini neytrallash uchun 2 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 2 моль/л нужно для нейтрализации 30 мл раствора HCl 5 моль/л?",
+   "en": "How many mL of 2 mol/L NaOH are needed to neutralise 30 mL of 5 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "75",
+    "79",
+    "67",
+    "60"
+   ],
+   "ru": [
+    "75",
+    "79",
+    "67",
+    "60"
+   ],
+   "en": [
+    "75",
+    "79",
+    "67",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eritmada [OH⁻] = 10⁻11 mol/l. Eritmaning pH qiymati nechaga teng? (25 °C)",
+   "ru": "В растворе [OH⁻] = 10⁻11 моль/л. Чему равен pH? (25 °C)",
+   "en": "In a solution [OH⁻] = 10⁻11 mol/L. What is the pH? (25 °C)"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "5",
+    "0",
+    "6"
+   ],
+   "ru": [
+    "3",
+    "5",
+    "0",
+    "6"
+   ],
+   "en": [
+    "3",
+    "5",
+    "0",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 mol/l li H2SO4 eritmasidan 5 l tayyorlash uchun necha gramm H2SO4 kerak?",
+   "ru": "Сколько граммов H2SO4 нужно для приготовления 5 л раствора с концентрацией 4 моль/л?",
+   "en": "How many grams of H2SO4 are needed to prepare 5 L of a 4 mol/L solution?"
+  },
+  "o": {
+   "uz": [
+    "1960",
+    "2156",
+    "2940",
+    "2450"
+   ],
+   "ru": [
+    "1960",
+    "2156",
+    "2940",
+    "2450"
+   ],
+   "en": [
+    "1960",
+    "2156",
+    "2940",
+    "2450"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "N2 + O2 ⇌ 2NO − Q\nMuvozanat qayoqqa siljiydi, harorat oshirilsa?",
+   "ru": "N2 + O2 ⇌ 2NO − Q\nВ какую сторону сместится равновесие при повышении температуры?",
+   "en": "N2 + O2 ⇌ 2NO − Q\nWhich way does the equilibrium shift if the temperature is increased?"
+  },
+  "o": {
+   "uz": [
+    "Mahsulotlar tomonga (o'ngga)",
+    "Boshlang'ich moddalar tomonga (chapga)",
+    "Muvozanat siljimaydi",
+    "Aniqlab bo'lmaydi"
+   ],
+   "ru": [
+    "В сторону продуктов (вправо)",
+    "В сторону исходных веществ (влево)",
+    "Равновесие не смещается",
+    "Невозможно определить"
+   ],
+   "en": [
+    "Towards the products (right)",
+    "Towards the reactants (left)",
+    "The equilibrium does not shift",
+    "Cannot be determined"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2H2 + O2 ⇌ 2H2O(g) + Q\nMuvozanat qayoqqa siljiydi, harorat pasaytirilsa?",
+   "ru": "2H2 + O2 ⇌ 2H2O(g) + Q\nВ какую сторону сместится равновесие при понижении температуры?",
+   "en": "2H2 + O2 ⇌ 2H2O(g) + Q\nWhich way does the equilibrium shift if the temperature is decreased?"
+  },
+  "o": {
+   "uz": [
+    "Mahsulotlar tomonga (o'ngga)",
+    "Boshlang'ich moddalar tomonga (chapga)",
+    "Muvozanat siljimaydi",
+    "Aniqlab bo'lmaydi"
+   ],
+   "ru": [
+    "В сторону продуктов (вправо)",
+    "В сторону исходных веществ (влево)",
+    "Равновесие не смещается",
+    "Невозможно определить"
+   ],
+   "en": [
+    "Towards the products (right)",
+    "Towards the reactants (left)",
+    "The equilibrium does not shift",
+    "Cannot be determined"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2H2 + O2 ⇌ 2H2O(g) + Q\nMuvozanat qayoqqa siljiydi, harorat oshirilsa?",
+   "ru": "2H2 + O2 ⇌ 2H2O(g) + Q\nВ какую сторону сместится равновесие при повышении температуры?",
+   "en": "2H2 + O2 ⇌ 2H2O(g) + Q\nWhich way does the equilibrium shift if the temperature is increased?"
+  },
+  "o": {
+   "uz": [
+    "Boshlang'ich moddalar tomonga (chapga)",
+    "Mahsulotlar tomonga (o'ngga)",
+    "Muvozanat siljimaydi",
+    "Aniqlab bo'lmaydi"
+   ],
+   "ru": [
+    "В сторону исходных веществ (влево)",
+    "В сторону продуктов (вправо)",
+    "Равновесие не смещается",
+    "Невозможно определить"
+   ],
+   "en": [
+    "Towards the reactants (left)",
+    "Towards the products (right)",
+    "The equilibrium does not shift",
+    "Cannot be determined"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +7 dan -4 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +7 до -4. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +7 to -4. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "11",
+    "12",
+    "18",
+    "22"
+   ],
+   "ru": [
+    "11",
+    "12",
+    "18",
+    "22"
+   ],
+   "en": [
+    "11",
+    "12",
+    "18",
+    "22"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "400 g 20% li eritmaga 100 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 400 г 20%-ного раствора добавили 100 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "100 g of water was added to 400 g of a 20% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "15",
+    "26",
+    "14"
+   ],
+   "ru": [
+    "16",
+    "15",
+    "26",
+    "14"
+   ],
+   "en": [
+    "16",
+    "15",
+    "26",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "300 g 40% li eritmaga 200 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 300 г 40%-ного раствора добавили 200 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "200 g of water was added to 300 g of a 40% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "24",
+    "19",
+    "29",
+    "14"
+   ],
+   "ru": [
+    "24",
+    "19",
+    "29",
+    "14"
+   ],
+   "en": [
+    "24",
+    "19",
+    "29",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eritmada [H⁺] = 10⁻6 mol/l. Eritmaning pH qiymati nechaga teng?",
+   "ru": "В растворе [H⁺] = 10⁻6 моль/л. Чему равен pH?",
+   "en": "In a solution [H⁺] = 10⁻6 mol/L. What is the pH?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "11",
+    "18",
+    "1"
+   ],
+   "ru": [
+    "6",
+    "11",
+    "18",
+    "1"
+   ],
+   "en": [
+    "6",
+    "11",
+    "18",
+    "1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 g 10% li eritmaga 100 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 100 г 10%-ного раствора добавили 100 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "100 g of water was added to 100 g of a 10% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "2",
+    "6",
+    "4"
+   ],
+   "ru": [
+    "5",
+    "2",
+    "6",
+    "4"
+   ],
+   "en": [
+    "5",
+    "2",
+    "6",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "10 ml 3 mol/l li HCl eritmasini neytrallash uchun 5 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 5 моль/л нужно для нейтрализации 10 мл раствора HCl 3 моль/л?",
+   "en": "How many mL of 5 mol/L NaOH are needed to neutralise 10 mL of 3 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "3",
+    "11",
+    "8"
+   ],
+   "ru": [
+    "6",
+    "3",
+    "11",
+    "8"
+   ],
+   "en": [
+    "6",
+    "3",
+    "11",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 ml 3 mol/l li HCl eritmasini neytrallash uchun 2 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 2 моль/л нужно для нейтрализации 100 мл раствора HCl 3 моль/л?",
+   "en": "How many mL of 2 mol/L NaOH are needed to neutralise 100 mL of 3 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "150",
+    "75",
+    "450",
+    "135"
+   ],
+   "ru": [
+    "150",
+    "75",
+    "450",
+    "135"
+   ],
+   "en": [
+    "150",
+    "75",
+    "450",
+    "135"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi -1 dan +7 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с -1 до +7. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from -1 to +7. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "12",
+    "11",
+    "3"
+   ],
+   "ru": [
+    "8",
+    "12",
+    "11",
+    "3"
+   ],
+   "en": [
+    "8",
+    "12",
+    "11",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 mol/l li NaNO3 eritmasidan 5 l tayyorlash uchun necha gramm NaNO3 kerak?",
+   "ru": "Сколько граммов NaNO3 нужно для приготовления 5 л раствора с концентрацией 4 моль/л?",
+   "en": "How many grams of NaNO3 are needed to prepare 5 L of a 4 mol/L solution?"
+  },
+  "o": {
+   "uz": [
+    "1700",
+    "1870",
+    "3400",
+    "5100"
+   ],
+   "ru": [
+    "1700",
+    "1870",
+    "3400",
+    "5100"
+   ],
+   "en": [
+    "1700",
+    "1870",
+    "3400",
+    "5100"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "N2 + O2 ⇌ 2NO − Q\nMuvozanat qayoqqa siljiydi, bosim oshirilsa?",
+   "ru": "N2 + O2 ⇌ 2NO − Q\nВ какую сторону сместится равновесие при повышении давления?",
+   "en": "N2 + O2 ⇌ 2NO − Q\nWhich way does the equilibrium shift if the pressure is increased?"
+  },
+  "o": {
+   "uz": [
+    "Muvozanat siljimaydi",
+    "Mahsulotlar tomonga (o'ngga)",
+    "Boshlang'ich moddalar tomonga (chapga)",
+    "Aniqlab bo'lmaydi"
+   ],
+   "ru": [
+    "Равновесие не смещается",
+    "В сторону продуктов (вправо)",
+    "В сторону исходных веществ (влево)",
+    "Невозможно определить"
+   ],
+   "en": [
+    "The equilibrium does not shift",
+    "Towards the products (right)",
+    "Towards the reactants (left)",
+    "Cannot be determined"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +7 dan +3 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +7 до +3. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +7 to +3. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "9",
+    "8",
+    "2"
+   ],
+   "ru": [
+    "4",
+    "9",
+    "8",
+    "2"
+   ],
+   "en": [
+    "4",
+    "9",
+    "8",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 mol/l li H2SO4 eritmasidan 1 l tayyorlash uchun necha gramm H2SO4 kerak?",
+   "ru": "Сколько граммов H2SO4 нужно для приготовления 1 л раствора с концентрацией 4 моль/л?",
+   "en": "How many grams of H2SO4 are needed to prepare 1 L of a 4 mol/L solution?"
+  },
+  "o": {
+   "uz": [
+    "392",
+    "196",
+    "353",
+    "294"
+   ],
+   "ru": [
+    "392",
+    "196",
+    "353",
+    "294"
+   ],
+   "en": [
+    "392",
+    "196",
+    "353",
+    "294"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 g 30% li eritmaga 400 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 100 г 30%-ного раствора добавили 400 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "400 g of water was added to 100 g of a 30% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "19",
+    "8",
+    "9"
+   ],
+   "ru": [
+    "6",
+    "19",
+    "8",
+    "9"
+   ],
+   "en": [
+    "6",
+    "19",
+    "8",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eritmada [H⁺] = 10⁻9 mol/l. Eritmaning pH qiymati nechaga teng?",
+   "ru": "В растворе [H⁺] = 10⁻9 моль/л. Чему равен pH?",
+   "en": "In a solution [H⁺] = 10⁻9 mol/L. What is the pH?"
+  },
+  "o": {
+   "uz": [
+    "9",
+    "13",
+    "18",
+    "22"
+   ],
+   "ru": [
+    "9",
+    "13",
+    "18",
+    "22"
+   ],
+   "en": [
+    "9",
+    "13",
+    "18",
+    "22"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi -3 dan +5 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с -3 до +5. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from -3 to +5. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "4",
+    "18",
+    "24"
+   ],
+   "ru": [
+    "8",
+    "4",
+    "18",
+    "24"
+   ],
+   "en": [
+    "8",
+    "4",
+    "18",
+    "24"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "5 l eritmada 1060 g Na2CO3 erigan. Eritmaning molyar konsentratsiyasi necha mol/l?",
+   "ru": "В 5 л раствора содержится 1060 г Na2CO3. Чему равна молярная концентрация (моль/л)?",
+   "en": "1060 g of Na2CO3 is dissolved in 5 L of solution. What is the molar concentration (mol/L)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "1",
+    "3",
+    "12"
+   ],
+   "ru": [
+    "2",
+    "1",
+    "3",
+    "12"
+   ],
+   "en": [
+    "2",
+    "1",
+    "3",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "200 g 10% li eritmaga 300 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 200 г 10%-ного раствора добавили 300 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "300 g of water was added to 200 g of a 10% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "3",
+    "2",
+    "8"
+   ],
+   "ru": [
+    "4",
+    "3",
+    "2",
+    "8"
+   ],
+   "en": [
+    "4",
+    "3",
+    "2",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi -1 dan +5 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с -1 до +5. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from -1 to +5. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "16",
+    "3",
+    "7"
+   ],
+   "ru": [
+    "6",
+    "16",
+    "3",
+    "7"
+   ],
+   "en": [
+    "6",
+    "16",
+    "3",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C(s) + CO2 ⇌ 2CO − Q\nMuvozanat qayoqqa siljiydi, harorat pasaytirilsa?",
+   "ru": "C(s) + CO2 ⇌ 2CO − Q\nВ какую сторону сместится равновесие при понижении температуры?",
+   "en": "C(s) + CO2 ⇌ 2CO − Q\nWhich way does the equilibrium shift if the temperature is decreased?"
+  },
+  "o": {
+   "uz": [
+    "Boshlang'ich moddalar tomonga (chapga)",
+    "Mahsulotlar tomonga (o'ngga)",
+    "Muvozanat siljimaydi",
+    "Aniqlab bo'lmaydi"
+   ],
+   "ru": [
+    "В сторону исходных веществ (влево)",
+    "В сторону продуктов (вправо)",
+    "Равновесие не смещается",
+    "Невозможно определить"
+   ],
+   "en": [
+    "Towards the reactants (left)",
+    "Towards the products (right)",
+    "The equilibrium does not shift",
+    "Cannot be determined"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "5 l eritmada 850 g NaNO3 erigan. Eritmaning molyar konsentratsiyasi necha mol/l?",
+   "ru": "В 5 л раствора содержится 850 г NaNO3. Чему равна молярная концентрация (моль/л)?",
+   "en": "850 g of NaNO3 is dissolved in 5 L of solution. What is the molar concentration (mol/L)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "6",
+    "15",
+    "3"
+   ],
+   "ru": [
+    "2",
+    "6",
+    "15",
+    "3"
+   ],
+   "en": [
+    "2",
+    "6",
+    "15",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +0 dan +1 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +0 до +1. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +0 to +1. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "11",
+    "3",
+    "2"
+   ],
+   "ru": [
+    "1",
+    "11",
+    "3",
+    "2"
+   ],
+   "en": [
+    "1",
+    "11",
+    "3",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "N2 + O2 ⇌ 2NO − Q\nMuvozanat qayoqqa siljiydi, harorat pasaytirilsa?",
+   "ru": "N2 + O2 ⇌ 2NO − Q\nВ какую сторону сместится равновесие при понижении температуры?",
+   "en": "N2 + O2 ⇌ 2NO − Q\nWhich way does the equilibrium shift if the temperature is decreased?"
+  },
+  "o": {
+   "uz": [
+    "Boshlang'ich moddalar tomonga (chapga)",
+    "Mahsulotlar tomonga (o'ngga)",
+    "Muvozanat siljimaydi",
+    "Aniqlab bo'lmaydi"
+   ],
+   "ru": [
+    "В сторону исходных веществ (влево)",
+    "В сторону продуктов (вправо)",
+    "Равновесие не смещается",
+    "Невозможно определить"
+   ],
+   "en": [
+    "Towards the reactants (left)",
+    "Towards the products (right)",
+    "The equilibrium does not shift",
+    "Cannot be determined"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1 l eritmada 404 g KNO3 erigan. Eritmaning molyar konsentratsiyasi necha mol/l?",
+   "ru": "В 1 л раствора содержится 404 г KNO3. Чему равна молярная концентрация (моль/л)?",
+   "en": "404 g of KNO3 is dissolved in 1 L of solution. What is the molar concentration (mol/L)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "7",
+    "2",
+    "8"
+   ],
+   "ru": [
+    "4",
+    "7",
+    "2",
+    "8"
+   ],
+   "en": [
+    "4",
+    "7",
+    "2",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 l eritmada 404 g KNO3 erigan. Eritmaning molyar konsentratsiyasi necha mol/l?",
+   "ru": "В 4 л раствора содержится 404 г KNO3. Чему равна молярная концентрация (моль/л)?",
+   "en": "404 g of KNO3 is dissolved in 4 L of solution. What is the molar concentration (mol/L)?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "4",
+    "0",
+    "14"
+   ],
+   "ru": [
+    "1",
+    "4",
+    "0",
+    "14"
+   ],
+   "en": [
+    "1",
+    "4",
+    "0",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 g 60% li eritmaga 150 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 100 г 60%-ного раствора добавили 150 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "150 g of water was added to 100 g of a 60% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "24",
+    "25",
+    "22",
+    "29"
+   ],
+   "ru": [
+    "24",
+    "25",
+    "22",
+    "29"
+   ],
+   "en": [
+    "24",
+    "25",
+    "22",
+    "29"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "N2 + 3H2 ⇌ 2NH3 + Q\nMuvozanat qayoqqa siljiydi, bosim oshirilsa?",
+   "ru": "N2 + 3H2 ⇌ 2NH3 + Q\nВ какую сторону сместится равновесие при повышении давления?",
+   "en": "N2 + 3H2 ⇌ 2NH3 + Q\nWhich way does the equilibrium shift if the pressure is increased?"
+  },
+  "o": {
+   "uz": [
+    "Mahsulotlar tomonga (o'ngga)",
+    "Boshlang'ich moddalar tomonga (chapga)",
+    "Muvozanat siljimaydi",
+    "Aniqlab bo'lmaydi"
+   ],
+   "ru": [
+    "В сторону продуктов (вправо)",
+    "В сторону исходных веществ (влево)",
+    "Равновесие не смещается",
+    "Невозможно определить"
+   ],
+   "en": [
+    "Towards the products (right)",
+    "Towards the reactants (left)",
+    "The equilibrium does not shift",
+    "Cannot be determined"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "25 ml 4 mol/l li HCl eritmasini neytrallash uchun 2 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 2 моль/л нужно для нейтрализации 25 мл раствора HCl 4 моль/л?",
+   "en": "How many mL of 2 mol/L NaOH are needed to neutralise 25 mL of 4 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "62",
+    "25",
+    "48"
+   ],
+   "ru": [
+    "50",
+    "62",
+    "25",
+    "48"
+   ],
+   "en": [
+    "50",
+    "62",
+    "25",
+    "48"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "10 ml 2 mol/l li HCl eritmasini neytrallash uchun 4 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 4 моль/л нужно для нейтрализации 10 мл раствора HCl 2 моль/л?",
+   "en": "How many mL of 4 mol/L NaOH are needed to neutralise 10 mL of 2 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "8",
+    "15",
+    "6"
+   ],
+   "ru": [
+    "5",
+    "8",
+    "15",
+    "6"
+   ],
+   "en": [
+    "5",
+    "8",
+    "15",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 l eritmada 1360 g NaNO3 erigan. Eritmaning molyar konsentratsiyasi necha mol/l?",
+   "ru": "В 4 л раствора содержится 1360 г NaNO3. Чему равна молярная концентрация (моль/л)?",
+   "en": "1360 g of NaNO3 is dissolved in 4 L of solution. What is the molar concentration (mol/L)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "11",
+    "9",
+    "3"
+   ],
+   "ru": [
+    "4",
+    "11",
+    "9",
+    "3"
+   ],
+   "en": [
+    "4",
+    "11",
+    "9",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "20 ml 2 mol/l li HCl eritmasini neytrallash uchun 2 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 2 моль/л нужно для нейтрализации 20 мл раствора HCl 2 моль/л?",
+   "en": "How many mL of 2 mol/L NaOH are needed to neutralise 20 mL of 2 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "33",
+    "27",
+    "19"
+   ],
+   "ru": [
+    "20",
+    "33",
+    "27",
+    "19"
+   ],
+   "en": [
+    "20",
+    "33",
+    "27",
+    "19"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +1 dan +6 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +1 до +6. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +1 to +6. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "10",
+    "0",
+    "15"
+   ],
+   "ru": [
+    "5",
+    "10",
+    "0",
+    "15"
+   ],
+   "en": [
+    "5",
+    "10",
+    "0",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +3 dan +7 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +3 до +7. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +3 to +7. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "3",
+    "8",
+    "11"
+   ],
+   "ru": [
+    "4",
+    "3",
+    "8",
+    "11"
+   ],
+   "en": [
+    "4",
+    "3",
+    "8",
+    "11"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 g 30% li eritmaga 200 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 100 г 30%-ного раствора добавили 200 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "200 g of water was added to 100 g of a 30% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "13",
+    "20",
+    "23"
+   ],
+   "ru": [
+    "10",
+    "13",
+    "20",
+    "23"
+   ],
+   "en": [
+    "10",
+    "13",
+    "20",
+    "23"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +3 dan +4 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +3 до +4. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +3 to +4. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "3",
+    "0",
+    "4"
+   ],
+   "ru": [
+    "1",
+    "3",
+    "0",
+    "4"
+   ],
+   "en": [
+    "1",
+    "3",
+    "0",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +6 dan +2 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +6 до +2. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +6 to +2. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "2",
+    "5",
+    "12"
+   ],
+   "ru": [
+    "4",
+    "2",
+    "5",
+    "12"
+   ],
+   "en": [
+    "4",
+    "2",
+    "5",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi -1 dan +4 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с -1 до +4. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from -1 to +4. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "4",
+    "6",
+    "8"
+   ],
+   "ru": [
+    "5",
+    "4",
+    "6",
+    "8"
+   ],
+   "en": [
+    "5",
+    "4",
+    "6",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +6 dan +0 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +6 до +0. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +6 to +0. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "16",
+    "11",
+    "19"
+   ],
+   "ru": [
+    "6",
+    "16",
+    "11",
+    "19"
+   ],
+   "en": [
+    "6",
+    "16",
+    "11",
+    "19"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "5 l eritmada 630 g HNO3 erigan. Eritmaning molyar konsentratsiyasi necha mol/l?",
+   "ru": "В 5 л раствора содержится 630 г HNO3. Чему равна молярная концентрация (моль/л)?",
+   "en": "630 g of HNO3 is dissolved in 5 L of solution. What is the molar concentration (mol/L)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "4",
+    "15"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "4",
+    "15"
+   ],
+   "en": [
+    "2",
+    "3",
+    "4",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "400 g 60% li eritmaga 200 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 400 г 60%-ного раствора добавили 200 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "200 g of water was added to 400 g of a 60% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "48",
+    "60",
+    "50"
+   ],
+   "ru": [
+    "40",
+    "48",
+    "60",
+    "50"
+   ],
+   "en": [
+    "40",
+    "48",
+    "60",
+    "50"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +5 dan +6 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +5 до +6. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +5 to +6. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "11",
+    "4",
+    "6"
+   ],
+   "ru": [
+    "1",
+    "11",
+    "4",
+    "6"
+   ],
+   "en": [
+    "1",
+    "11",
+    "4",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "200 g 10% li eritmaga 50 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 200 г 10%-ного раствора добавили 50 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "50 g of water was added to 200 g of a 10% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "6",
+    "9",
+    "5"
+   ],
+   "ru": [
+    "8",
+    "6",
+    "9",
+    "5"
+   ],
+   "en": [
+    "8",
+    "6",
+    "9",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "20 ml 4 mol/l li HCl eritmasini neytrallash uchun 1 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 1 моль/л нужно для нейтрализации 20 мл раствора HCl 4 моль/л?",
+   "en": "How many mL of 1 mol/L NaOH are needed to neutralise 20 mL of 4 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "80",
+    "160",
+    "40",
+    "240"
+   ],
+   "ru": [
+    "80",
+    "160",
+    "40",
+    "240"
+   ],
+   "en": [
+    "80",
+    "160",
+    "40",
+    "240"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 l eritmada 1920 g CuSO4 erigan. Eritmaning molyar konsentratsiyasi necha mol/l?",
+   "ru": "В 4 л раствора содержится 1920 г CuSO4. Чему равна молярная концентрация (моль/л)?",
+   "en": "1920 g of CuSO4 is dissolved in 4 L of solution. What is the molar concentration (mol/L)?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "10",
+    "5",
+    "8"
+   ],
+   "ru": [
+    "3",
+    "10",
+    "5",
+    "8"
+   ],
+   "en": [
+    "3",
+    "10",
+    "5",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eritmada [H⁺] = 10⁻2 mol/l. Eritmaning pH qiymati nechaga teng?",
+   "ru": "В растворе [H⁺] = 10⁻2 моль/л. Чему равен pH?",
+   "en": "In a solution [H⁺] = 10⁻2 mol/L. What is the pH?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "7",
+    "4",
+    "0"
+   ],
+   "ru": [
+    "2",
+    "7",
+    "4",
+    "0"
+   ],
+   "en": [
+    "2",
+    "7",
+    "4",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eritmada [H⁺] = 10⁻4 mol/l. Eritmaning pH qiymati nechaga teng?",
+   "ru": "В растворе [H⁺] = 10⁻4 моль/л. Чему равен pH?",
+   "en": "In a solution [H⁺] = 10⁻4 mol/L. What is the pH?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "14",
+    "3",
+    "6"
+   ],
+   "ru": [
+    "4",
+    "14",
+    "3",
+    "6"
+   ],
+   "en": [
+    "4",
+    "14",
+    "3",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "30 ml 3 mol/l li HCl eritmasini neytrallash uchun 1 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 1 моль/л нужно для нейтрализации 30 мл раствора HCl 3 моль/л?",
+   "en": "How many mL of 1 mol/L NaOH are needed to neutralise 30 mL of 3 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "90",
+    "270",
+    "112",
+    "135"
+   ],
+   "ru": [
+    "90",
+    "270",
+    "112",
+    "135"
+   ],
+   "en": [
+    "90",
+    "270",
+    "112",
+    "135"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 mol/l li NaOH eritmasidan 4 l tayyorlash uchun necha gramm NaOH kerak?",
+   "ru": "Сколько граммов NaOH нужно для приготовления 4 л раствора с концентрацией 4 моль/л?",
+   "en": "How many grams of NaOH are needed to prepare 4 L of a 4 mol/L solution?"
+  },
+  "o": {
+   "uz": [
+    "640",
+    "672",
+    "320",
+    "1920"
+   ],
+   "ru": [
+    "640",
+    "672",
+    "320",
+    "1920"
+   ],
+   "en": [
+    "640",
+    "672",
+    "320",
+    "1920"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 l eritmada 848 g Na2CO3 erigan. Eritmaning molyar konsentratsiyasi necha mol/l?",
+   "ru": "В 4 л раствора содержится 848 г Na2CO3. Чему равна молярная концентрация (моль/л)?",
+   "en": "848 g of Na2CO3 is dissolved in 4 L of solution. What is the molar concentration (mol/L)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "7",
+    "3",
+    "0"
+   ],
+   "ru": [
+    "2",
+    "7",
+    "3",
+    "0"
+   ],
+   "en": [
+    "2",
+    "7",
+    "3",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CO + H2O(g) ⇌ CO2 + H2 + Q\nMuvozanat qayoqqa siljiydi, bosim kamaytirilsa?",
+   "ru": "CO + H2O(g) ⇌ CO2 + H2 + Q\nВ какую сторону сместится равновесие при понижении давления?",
+   "en": "CO + H2O(g) ⇌ CO2 + H2 + Q\nWhich way does the equilibrium shift if the pressure is decreased?"
+  },
+  "o": {
+   "uz": [
+    "Muvozanat siljimaydi",
+    "Mahsulotlar tomonga (o'ngga)",
+    "Boshlang'ich moddalar tomonga (chapga)",
+    "Aniqlab bo'lmaydi"
+   ],
+   "ru": [
+    "Равновесие не смещается",
+    "В сторону продуктов (вправо)",
+    "В сторону исходных веществ (влево)",
+    "Невозможно определить"
+   ],
+   "en": [
+    "The equilibrium does not shift",
+    "Towards the products (right)",
+    "Towards the reactants (left)",
+    "Cannot be determined"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +3 dan -4 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +3 до -4. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +3 to -4. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "14",
+    "8",
+    "17"
+   ],
+   "ru": [
+    "7",
+    "14",
+    "8",
+    "17"
+   ],
+   "en": [
+    "7",
+    "14",
+    "8",
+    "17"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 mol/l li MgSO4 eritmasidan 4 l tayyorlash uchun necha gramm MgSO4 kerak?",
+   "ru": "Сколько граммов MgSO4 нужно для приготовления 4 л раствора с концентрацией 3 моль/л?",
+   "en": "How many grams of MgSO4 are needed to prepare 4 L of a 3 mol/L solution?"
+  },
+  "o": {
+   "uz": [
+    "1440",
+    "1152",
+    "2880",
+    "1296"
+   ],
+   "ru": [
+    "1440",
+    "1152",
+    "2880",
+    "1296"
+   ],
+   "en": [
+    "1440",
+    "1152",
+    "2880",
+    "1296"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi -2 dan +7 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с -2 до +7. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from -2 to +7. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "9",
+    "13",
+    "6",
+    "18"
+   ],
+   "ru": [
+    "9",
+    "13",
+    "6",
+    "18"
+   ],
+   "en": [
+    "9",
+    "13",
+    "6",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +3 dan +1 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +3 до +1. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +3 to +1. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "4",
+    "6",
+    "9"
+   ],
+   "ru": [
+    "2",
+    "4",
+    "6",
+    "9"
+   ],
+   "en": [
+    "2",
+    "4",
+    "6",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 ml 2 mol/l li HCl eritmasini neytrallash uchun 2 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 2 моль/л нужно для нейтрализации 100 мл раствора HCl 2 моль/л?",
+   "en": "How many mL of 2 mol/L NaOH are needed to neutralise 100 mL of 2 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "100",
+    "50",
+    "105",
+    "80"
+   ],
+   "ru": [
+    "100",
+    "50",
+    "105",
+    "80"
+   ],
+   "en": [
+    "100",
+    "50",
+    "105",
+    "80"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eritmada [OH⁻] = 10⁻2 mol/l. Eritmaning pH qiymati nechaga teng? (25 °C)",
+   "ru": "В растворе [OH⁻] = 10⁻2 моль/л. Чему равен pH? (25 °C)",
+   "en": "In a solution [OH⁻] = 10⁻2 mol/L. What is the pH? (25 °C)"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "36",
+    "18",
+    "7"
+   ],
+   "ru": [
+    "12",
+    "36",
+    "18",
+    "7"
+   ],
+   "en": [
+    "12",
+    "36",
+    "18",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "30 ml 3 mol/l li HCl eritmasini neytrallash uchun 5 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 5 моль/л нужно для нейтрализации 30 мл раствора HCl 3 моль/л?",
+   "en": "How many mL of 5 mol/L NaOH are needed to neutralise 30 mL of 3 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "18",
+    "16",
+    "20",
+    "9"
+   ],
+   "ru": [
+    "18",
+    "16",
+    "20",
+    "9"
+   ],
+   "en": [
+    "18",
+    "16",
+    "20",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi -3 dan +0 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с -3 до +0. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from -3 to +0. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "9",
+    "5",
+    "1"
+   ],
+   "ru": [
+    "3",
+    "9",
+    "5",
+    "1"
+   ],
+   "en": [
+    "3",
+    "9",
+    "5",
+    "1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 mol/l li KOH eritmasidan 2 l tayyorlash uchun necha gramm KOH kerak?",
+   "ru": "Сколько граммов KOH нужно для приготовления 2 л раствора с концентрацией 2 моль/л?",
+   "en": "How many grams of KOH are needed to prepare 2 L of a 2 mol/L solution?"
+  },
+  "o": {
+   "uz": [
+    "224",
+    "235",
+    "179",
+    "213"
+   ],
+   "ru": [
+    "224",
+    "235",
+    "179",
+    "213"
+   ],
+   "en": [
+    "224",
+    "235",
+    "179",
+    "213"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 mol/l li MgSO4 eritmasidan 2 l tayyorlash uchun necha gramm MgSO4 kerak?",
+   "ru": "Сколько граммов MgSO4 нужно для приготовления 2 л раствора с концентрацией 4 моль/л?",
+   "en": "How many grams of MgSO4 are needed to prepare 2 L of a 4 mol/L solution?"
+  },
+  "o": {
+   "uz": [
+    "960",
+    "1056",
+    "768",
+    "2880"
+   ],
+   "ru": [
+    "960",
+    "1056",
+    "768",
+    "2880"
+   ],
+   "en": [
+    "960",
+    "1056",
+    "768",
+    "2880"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 l eritmada 680 g NaNO3 erigan. Eritmaning molyar konsentratsiyasi necha mol/l?",
+   "ru": "В 2 л раствора содержится 680 г NaNO3. Чему равна молярная концентрация (моль/л)?",
+   "en": "680 g of NaNO3 is dissolved in 2 L of solution. What is the molar concentration (mol/L)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "1",
+    "9",
+    "5"
+   ],
+   "ru": [
+    "4",
+    "1",
+    "9",
+    "5"
+   ],
+   "en": [
+    "4",
+    "1",
+    "9",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 mol/l li KNO3 eritmasidan 4 l tayyorlash uchun necha gramm KNO3 kerak?",
+   "ru": "Сколько граммов KNO3 нужно для приготовления 4 л раствора с концентрацией 3 моль/л?",
+   "en": "How many grams of KNO3 are needed to prepare 4 L of a 3 mol/L solution?"
+  },
+  "o": {
+   "uz": [
+    "1212",
+    "970",
+    "1515",
+    "3636"
+   ],
+   "ru": [
+    "1212",
+    "970",
+    "1515",
+    "3636"
+   ],
+   "en": [
+    "1212",
+    "970",
+    "1515",
+    "3636"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "300 g 20% li eritmaga 100 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 300 г 20%-ного раствора добавили 100 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "100 g of water was added to 300 g of a 20% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "15",
+    "13",
+    "8",
+    "16"
+   ],
+   "ru": [
+    "15",
+    "13",
+    "8",
+    "16"
+   ],
+   "en": [
+    "15",
+    "13",
+    "8",
+    "16"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2NH3 ⇌ N2 + 3H2 − Q\nMuvozanat qayoqqa siljiydi, bosim oshirilsa?",
+   "ru": "2NH3 ⇌ N2 + 3H2 − Q\nВ какую сторону сместится равновесие при повышении давления?",
+   "en": "2NH3 ⇌ N2 + 3H2 − Q\nWhich way does the equilibrium shift if the pressure is increased?"
+  },
+  "o": {
+   "uz": [
+    "Boshlang'ich moddalar tomonga (chapga)",
+    "Mahsulotlar tomonga (o'ngga)",
+    "Muvozanat siljimaydi",
+    "Aniqlab bo'lmaydi"
+   ],
+   "ru": [
+    "В сторону исходных веществ (влево)",
+    "В сторону продуктов (вправо)",
+    "Равновесие не смещается",
+    "Невозможно определить"
+   ],
+   "en": [
+    "Towards the reactants (left)",
+    "Towards the products (right)",
+    "The equilibrium does not shift",
+    "Cannot be determined"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eritmada [OH⁻] = 10⁻4 mol/l. Eritmaning pH qiymati nechaga teng? (25 °C)",
+   "ru": "В растворе [OH⁻] = 10⁻4 моль/л. Чему равен pH? (25 °C)",
+   "en": "In a solution [OH⁻] = 10⁻4 mol/L. What is the pH? (25 °C)"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "15",
+    "23",
+    "12"
+   ],
+   "ru": [
+    "10",
+    "15",
+    "23",
+    "12"
+   ],
+   "en": [
+    "10",
+    "15",
+    "23",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +4 dan -2 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +4 до -2. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +4 to -2. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "18",
+    "1",
+    "7"
+   ],
+   "ru": [
+    "6",
+    "18",
+    "1",
+    "7"
+   ],
+   "en": [
+    "6",
+    "18",
+    "1",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eritmada [H⁺] = 10⁻8 mol/l. Eritmaning pH qiymati nechaga teng?",
+   "ru": "В растворе [H⁺] = 10⁻8 моль/л. Чему равен pH?",
+   "en": "In a solution [H⁺] = 10⁻8 mol/L. What is the pH?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "5",
+    "3",
+    "6"
+   ],
+   "ru": [
+    "8",
+    "5",
+    "3",
+    "6"
+   ],
+   "en": [
+    "8",
+    "5",
+    "3",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 ml 2 mol/l li HCl eritmasini neytrallash uchun 5 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 5 моль/л нужно для нейтрализации 100 мл раствора HCl 2 моль/л?",
+   "en": "How many mL of 5 mol/L NaOH are needed to neutralise 100 mL of 2 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "80",
+    "20",
+    "60"
+   ],
+   "ru": [
+    "40",
+    "80",
+    "20",
+    "60"
+   ],
+   "en": [
+    "40",
+    "80",
+    "20",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "100 g 40% li eritmaga 400 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 100 г 40%-ного раствора добавили 400 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "400 g of water was added to 100 g of a 40% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "10",
+    "12",
+    "6"
+   ],
+   "ru": [
+    "8",
+    "10",
+    "12",
+    "6"
+   ],
+   "en": [
+    "8",
+    "10",
+    "12",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "10 ml 2 mol/l li HCl eritmasini neytrallash uchun 5 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 5 моль/л нужно для нейтрализации 10 мл раствора HCl 2 моль/л?",
+   "en": "How many mL of 5 mol/L NaOH are needed to neutralise 10 mL of 2 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "17",
+    "2",
+    "7"
+   ],
+   "ru": [
+    "4",
+    "17",
+    "2",
+    "7"
+   ],
+   "en": [
+    "4",
+    "17",
+    "2",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2NO2 ⇌ N2O4 + Q\nMuvozanat qayoqqa siljiydi, bosim oshirilsa?",
+   "ru": "2NO2 ⇌ N2O4 + Q\nВ какую сторону сместится равновесие при повышении давления?",
+   "en": "2NO2 ⇌ N2O4 + Q\nWhich way does the equilibrium shift if the pressure is increased?"
+  },
+  "o": {
+   "uz": [
+    "Mahsulotlar tomonga (o'ngga)",
+    "Boshlang'ich moddalar tomonga (chapga)",
+    "Muvozanat siljimaydi",
+    "Aniqlab bo'lmaydi"
+   ],
+   "ru": [
+    "В сторону продуктов (вправо)",
+    "В сторону исходных веществ (влево)",
+    "Равновесие не смещается",
+    "Невозможно определить"
+   ],
+   "en": [
+    "Towards the products (right)",
+    "Towards the reactants (left)",
+    "The equilibrium does not shift",
+    "Cannot be determined"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2CO + O2 ⇌ 2CO2 + Q\nMuvozanat qayoqqa siljiydi, harorat oshirilsa?",
+   "ru": "2CO + O2 ⇌ 2CO2 + Q\nВ какую сторону сместится равновесие при повышении температуры?",
+   "en": "2CO + O2 ⇌ 2CO2 + Q\nWhich way does the equilibrium shift if the temperature is increased?"
+  },
+  "o": {
+   "uz": [
+    "Boshlang'ich moddalar tomonga (chapga)",
+    "Mahsulotlar tomonga (o'ngga)",
+    "Muvozanat siljimaydi",
+    "Aniqlab bo'lmaydi"
+   ],
+   "ru": [
+    "В сторону исходных веществ (влево)",
+    "В сторону продуктов (вправо)",
+    "Равновесие не смещается",
+    "Невозможно определить"
+   ],
+   "en": [
+    "Towards the reactants (left)",
+    "Towards the products (right)",
+    "The equilibrium does not shift",
+    "Cannot be determined"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 mol/l li H2SO4 eritmasidan 4 l tayyorlash uchun necha gramm H2SO4 kerak?",
+   "ru": "Сколько граммов H2SO4 нужно для приготовления 4 л раствора с концентрацией 2 моль/л?",
+   "en": "How many grams of H2SO4 are needed to prepare 4 L of a 2 mol/L solution?"
+  },
+  "o": {
+   "uz": [
+    "784",
+    "862",
+    "2352",
+    "745"
+   ],
+   "ru": [
+    "784",
+    "862",
+    "2352",
+    "745"
+   ],
+   "en": [
+    "784",
+    "862",
+    "2352",
+    "745"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "200 g 30% li eritmaga 400 g suv qo'shildi. Hosil bo'lgan eritmaning massa ulushi necha foiz?",
+   "ru": "К 200 г 30%-ного раствора добавили 400 г воды. Какова массовая доля вещества в полученном растворе (%)?",
+   "en": "400 g of water was added to 200 g of a 30% solution. What is the mass fraction in the new solution (%)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "0",
+    "15",
+    "5"
+   ],
+   "ru": [
+    "10",
+    "0",
+    "15",
+    "5"
+   ],
+   "en": [
+    "10",
+    "0",
+    "15",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1 mol/l li CuSO4 eritmasidan 5 l tayyorlash uchun necha gramm CuSO4 kerak?",
+   "ru": "Сколько граммов CuSO4 нужно для приготовления 5 л раствора с концентрацией 1 моль/л?",
+   "en": "How many grams of CuSO4 are needed to prepare 5 L of a 1 mol/L solution?"
+  },
+  "o": {
+   "uz": [
+    "800",
+    "880",
+    "600",
+    "640"
+   ],
+   "ru": [
+    "800",
+    "880",
+    "600",
+    "640"
+   ],
+   "en": [
+    "800",
+    "880",
+    "600",
+    "640"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "40 ml 5 mol/l li HCl eritmasini neytrallash uchun 4 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 4 моль/л нужно для нейтрализации 40 мл раствора HCl 5 моль/л?",
+   "en": "How many mL of 4 mol/L NaOH are needed to neutralise 40 mL of 5 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "55",
+    "150",
+    "100"
+   ],
+   "ru": [
+    "50",
+    "55",
+    "150",
+    "100"
+   ],
+   "en": [
+    "50",
+    "55",
+    "150",
+    "100"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +5 dan -1 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +5 до -1. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +5 to -1. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "4",
+    "12",
+    "3"
+   ],
+   "ru": [
+    "6",
+    "4",
+    "12",
+    "3"
+   ],
+   "en": [
+    "6",
+    "4",
+    "12",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1 l eritmada 224 g KOH erigan. Eritmaning molyar konsentratsiyasi necha mol/l?",
+   "ru": "В 1 л раствора содержится 224 г KOH. Чему равна молярная концентрация (моль/л)?",
+   "en": "224 g of KOH is dissolved in 1 L of solution. What is the molar concentration (mol/L)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "14",
+    "2",
+    "8"
+   ],
+   "ru": [
+    "4",
+    "14",
+    "2",
+    "8"
+   ],
+   "en": [
+    "4",
+    "14",
+    "2",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "5 l eritmada 1575 g HNO3 erigan. Eritmaning molyar konsentratsiyasi necha mol/l?",
+   "ru": "В 5 л раствора содержится 1575 г HNO3. Чему равна молярная концентрация (моль/л)?",
+   "en": "1575 g of HNO3 is dissolved in 5 L of solution. What is the molar concentration (mol/L)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "15",
+    "2",
+    "6"
+   ],
+   "ru": [
+    "5",
+    "15",
+    "2",
+    "6"
+   ],
+   "en": [
+    "5",
+    "15",
+    "2",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "25 ml 4 mol/l li HCl eritmasini neytrallash uchun 1 mol/l li NaOH eritmasidan necha ml kerak?",
+   "ru": "Сколько мл раствора NaOH с концентрацией 1 моль/л нужно для нейтрализации 25 мл раствора HCl 4 моль/л?",
+   "en": "How many mL of 1 mol/L NaOH are needed to neutralise 25 mL of 4 mol/L HCl?"
+  },
+  "o": {
+   "uz": [
+    "100",
+    "50",
+    "125",
+    "110"
+   ],
+   "ru": [
+    "100",
+    "50",
+    "125",
+    "110"
+   ],
+   "en": [
+    "100",
+    "50",
+    "125",
+    "110"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eritmada [H⁺] = 10⁻3 mol/l. Eritmaning pH qiymati nechaga teng?",
+   "ru": "В растворе [H⁺] = 10⁻3 моль/л. Чему равен pH?",
+   "en": "In a solution [H⁺] = 10⁻3 mol/L. What is the pH?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "5",
+    "4",
+    "6"
+   ],
+   "ru": [
+    "3",
+    "5",
+    "4",
+    "6"
+   ],
+   "en": [
+    "3",
+    "5",
+    "4",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Atomning oksidlanish darajasi +3 dan -1 ga o'zgardi. Bu jarayonda nechta elektron berildi yoki qabul qilindi?",
+   "ru": "Степень окисления атома изменилась с +3 до -1. Сколько электронов отдано или принято?",
+   "en": "The oxidation state of an atom changed from +3 to -1. How many electrons were lost or gained?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "17",
+    "2",
+    "1"
+   ],
+   "ru": [
+    "4",
+    "17",
+    "2",
+    "1"
+   ],
+   "en": [
+    "4",
+    "17",
+    "2",
+    "1"
+   ]
+  },
+  "a": 0
+ }
+]

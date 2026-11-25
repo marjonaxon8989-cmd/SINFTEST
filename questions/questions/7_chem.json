@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri metallmas?",
+   "ru": "Какой из этих элементов является неметаллом?",
+   "en": "Which of these elements is a non-metal?"
+  },
+  "o": {
+   "uz": [
+    "Xlor",
+    "Litiy",
+    "Natriy",
+    "Alyuminiy"
+   ],
+   "ru": [
+    "Хлор",
+    "Литий",
+    "Натрий",
+    "Алюминий"
+   ],
+   "en": [
+    "Chlorine",
+    "Lithium",
+    "Sodium",
+    "Aluminium"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri metall?",
+   "ru": "Какой из этих элементов является металлом?",
+   "en": "Which of these elements is a metal?"
+  },
+  "o": {
+   "uz": [
+    "Natriy",
+    "Xlor",
+    "Ftor",
+    "Azot"
+   ],
+   "ru": [
+    "Натрий",
+    "Хлор",
+    "Фтор",
+    "Азот"
+   ],
+   "en": [
+    "Sodium",
+    "Chlorine",
+    "Fluorine",
+    "Nitrogen"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Xlor (Cl) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Хлор (Cl)?",
+   "en": "What is the atomic number of Chlorine (Cl)?"
+  },
+  "o": {
+   "uz": [
+    "17",
+    "14",
+    "18",
+    "22"
+   ],
+   "ru": [
+    "17",
+    "14",
+    "18",
+    "22"
+   ],
+   "en": [
+    "17",
+    "14",
+    "18",
+    "22"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Rux (Zn) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Цинк (Zn)?",
+   "en": "What is the atomic number of Zinc (Zn)?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "31",
+    "60",
+    "25"
+   ],
+   "ru": [
+    "30",
+    "31",
+    "60",
+    "25"
+   ],
+   "en": [
+    "30",
+    "31",
+    "60",
+    "25"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Fosfor» elementining kimyoviy belgisi qaysi?",
+   "ru": "Какой химический символ у элемента «Фосфор»?",
+   "en": "What is the chemical symbol of Phosphorus?"
+  },
+  "o": {
+   "uz": [
+    "P",
+    "B",
+    "Pb",
+    "Hg"
+   ],
+   "ru": [
+    "P",
+    "B",
+    "Pb",
+    "Hg"
+   ],
+   "en": [
+    "P",
+    "B",
+    "Pb",
+    "Hg"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri metallmas?",
+   "ru": "Какой из этих элементов является неметаллом?",
+   "en": "Which of these elements is a non-metal?"
+  },
+  "o": {
+   "uz": [
+    "Xlor",
+    "Kumush",
+    "Berilliy",
+    "Simob"
+   ],
+   "ru": [
+    "Хлор",
+    "Серебро",
+    "Бериллий",
+    "Ртуть"
+   ],
+   "en": [
+    "Chlorine",
+    "Silver",
+    "Beryllium",
+    "Mercury"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "He belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ He?",
+   "en": "Which element has the symbol He?"
+  },
+  "o": {
+   "uz": [
+    "Geliy",
+    "Oltin",
+    "Natriy",
+    "Xlor"
+   ],
+   "ru": [
+    "Гелий",
+    "Золото",
+    "Натрий",
+    "Хлор"
+   ],
+   "en": [
+    "Helium",
+    "Gold",
+    "Sodium",
+    "Chlorine"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Cu belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ Cu?",
+   "en": "Which element has the symbol Cu?"
+  },
+  "o": {
+   "uz": [
+    "Mis",
+    "Bor",
+    "Azot",
+    "Oltingugurt"
+   ],
+   "ru": [
+    "Медь",
+    "Бор",
+    "Азот",
+    "Сера"
+   ],
+   "en": [
+    "Copper",
+    "Boron",
+    "Nitrogen",
+    "Sulfur"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Oltin (Au) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Золото (Au)?",
+   "en": "What is the atomic number of Gold (Au)?"
+  },
+  "o": {
+   "uz": [
+    "79",
+    "59",
+    "39",
+    "75"
+   ],
+   "ru": [
+    "79",
+    "59",
+    "39",
+    "75"
+   ],
+   "en": [
+    "79",
+    "59",
+    "39",
+    "75"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Fe belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ Fe?",
+   "en": "Which element has the symbol Fe?"
+  },
+  "o": {
+   "uz": [
+    "Temir",
+    "Kislorod",
+    "Ftor",
+    "Mis"
+   ],
+   "ru": [
+    "Железо",
+    "Кислород",
+    "Фтор",
+    "Медь"
+   ],
+   "en": [
+    "Iron",
+    "Oxygen",
+    "Fluorine",
+    "Copper"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "NH3 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества NH3?",
+   "en": "What is the relative molecular mass of NH3?"
+  },
+  "o": {
+   "uz": [
+    "17",
+    "9",
+    "27",
+    "14"
+   ],
+   "ru": [
+    "17",
+    "9",
+    "27",
+    "14"
+   ],
+   "en": [
+    "17",
+    "9",
+    "27",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Cu(OH)2 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества Cu(OH)2?",
+   "en": "How many atoms are there in total in one formula unit of Cu(OH)2?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "12",
+    "10",
+    "0"
+   ],
+   "ru": [
+    "5",
+    "12",
+    "10",
+    "0"
+   ],
+   "en": [
+    "5",
+    "12",
+    "10",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Oltingugurt» elementining kimyoviy belgisi qaysi?",
+   "ru": "Какой химический символ у элемента «Сера»?",
+   "en": "What is the chemical symbol of Sulfur?"
+  },
+  "o": {
+   "uz": [
+    "S",
+    "Cl",
+    "P",
+    "Al"
+   ],
+   "ru": [
+    "S",
+    "Cl",
+    "P",
+    "Al"
+   ],
+   "en": [
+    "S",
+    "Cl",
+    "P",
+    "Al"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Alyuminiy (Al) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Алюминий (Al)?",
+   "en": "What is the atomic number of Aluminium (Al)?"
+  },
+  "o": {
+   "uz": [
+    "13",
+    "26",
+    "16",
+    "7"
+   ],
+   "ru": [
+    "13",
+    "26",
+    "16",
+    "7"
+   ],
+   "en": [
+    "13",
+    "26",
+    "16",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "K2O moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества K2O?",
+   "en": "What is the relative molecular mass of K2O?"
+  },
+  "o": {
+   "uz": [
+    "94",
+    "188",
+    "103",
+    "47"
+   ],
+   "ru": [
+    "94",
+    "188",
+    "103",
+    "47"
+   ],
+   "en": [
+    "94",
+    "188",
+    "103",
+    "47"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Ftor» elementining kimyoviy belgisi qaysi?",
+   "ru": "Какой химический символ у элемента «Фтор»?",
+   "en": "What is the chemical symbol of Fluorine?"
+  },
+  "o": {
+   "uz": [
+    "F",
+    "He",
+    "S",
+    "Cu"
+   ],
+   "ru": [
+    "F",
+    "He",
+    "S",
+    "Cu"
+   ],
+   "en": [
+    "F",
+    "He",
+    "S",
+    "Cu"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "SiO2 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества SiO2?",
+   "en": "How many atoms are there in total in one formula unit of SiO2?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "1",
+    "13",
+    "4"
+   ],
+   "ru": [
+    "3",
+    "1",
+    "13",
+    "4"
+   ],
+   "en": [
+    "3",
+    "1",
+    "13",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Fe2O3 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества Fe2O3?",
+   "en": "What is the relative molecular mass of Fe2O3?"
+  },
+  "o": {
+   "uz": [
+    "160",
+    "144",
+    "80",
+    "152"
+   ],
+   "ru": [
+    "160",
+    "144",
+    "80",
+    "152"
+   ],
+   "en": [
+    "160",
+    "144",
+    "80",
+    "152"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tartib raqami 14 bo'lgan element qaysi?",
+   "ru": "Какой элемент имеет порядковый номер 14?",
+   "en": "Which element has atomic number 14?"
+  },
+  "o": {
+   "uz": [
+    "Kremniy",
+    "Qo'rg'oshin",
+    "Azot",
+    "Oltin"
+   ],
+   "ru": [
+    "Кремний",
+    "Свинец",
+    "Азот",
+    "Золото"
+   ],
+   "en": [
+    "Silicon",
+    "Lead",
+    "Nitrogen",
+    "Gold"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "NaNO3 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества NaNO3?",
+   "en": "How many atoms are there in total in one formula unit of NaNO3?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "0",
+    "6",
+    "10"
+   ],
+   "ru": [
+    "5",
+    "0",
+    "6",
+    "10"
+   ],
+   "en": [
+    "5",
+    "0",
+    "6",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kremniy (Si) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Кремний (Si)?",
+   "en": "What is the atomic number of Silicon (Si)?"
+  },
+  "o": {
+   "uz": [
+    "14",
+    "11",
+    "27",
+    "7"
+   ],
+   "ru": [
+    "14",
+    "11",
+    "27",
+    "7"
+   ],
+   "en": [
+    "14",
+    "11",
+    "27",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Na2O formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества Na2O?",
+   "en": "How many atoms are there in total in one formula unit of Na2O?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "1",
+    "0",
+    "6"
+   ],
+   "ru": [
+    "3",
+    "1",
+    "0",
+    "6"
+   ],
+   "en": [
+    "3",
+    "1",
+    "0",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kislorod (O) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Кислород (O)?",
+   "en": "What is the atomic number of Oxygen (O)?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "13",
+    "5",
+    "15"
+   ],
+   "ru": [
+    "8",
+    "13",
+    "5",
+    "15"
+   ],
+   "en": [
+    "8",
+    "13",
+    "5",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Mg belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ Mg?",
+   "en": "Which element has the symbol Mg?"
+  },
+  "o": {
+   "uz": [
+    "Magniy",
+    "Uglerod",
+    "Kislorod",
+    "Argon"
+   ],
+   "ru": [
+    "Магний",
+    "Углерод",
+    "Кислород",
+    "Аргон"
+   ],
+   "en": [
+    "Magnesium",
+    "Carbon",
+    "Oxygen",
+    "Argon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Neon» elementining kimyoviy belgisi qaysi?",
+   "ru": "Какой химический символ у элемента «Неон»?",
+   "en": "What is the chemical symbol of Neon?"
+  },
+  "o": {
+   "uz": [
+    "Ne",
+    "Ag",
+    "N",
+    "C"
+   ],
+   "ru": [
+    "Ne",
+    "Ag",
+    "N",
+    "C"
+   ],
+   "en": [
+    "Ne",
+    "Ag",
+    "N",
+    "C"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Mis» elementining kimyoviy belgisi qaysi?",
+   "ru": "Какой химический символ у элемента «Медь»?",
+   "en": "What is the chemical symbol of Copper?"
+  },
+  "o": {
+   "uz": [
+    "Cu",
+    "Ar",
+    "Au",
+    "N"
+   ],
+   "ru": [
+    "Cu",
+    "Ar",
+    "Au",
+    "N"
+   ],
+   "en": [
+    "Cu",
+    "Ar",
+    "Au",
+    "N"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Kremniy» elementining kimyoviy belgisi qaysi?",
+   "ru": "Какой химический символ у элемента «Кремний»?",
+   "en": "What is the chemical symbol of Silicon?"
+  },
+  "o": {
+   "uz": [
+    "Si",
+    "Cl",
+    "N",
+    "F"
+   ],
+   "ru": [
+    "Si",
+    "Cl",
+    "N",
+    "F"
+   ],
+   "en": [
+    "Si",
+    "Cl",
+    "N",
+    "F"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "B belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ B?",
+   "en": "Which element has the symbol B?"
+  },
+  "o": {
+   "uz": [
+    "Bor",
+    "Xlor",
+    "Simob",
+    "Kalsiy"
+   ],
+   "ru": [
+    "Бор",
+    "Хлор",
+    "Ртуть",
+    "Кальций"
+   ],
+   "en": [
+    "Boron",
+    "Chlorine",
+    "Mercury",
+    "Calcium"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Al2O3 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества Al2O3?",
+   "en": "What is the relative molecular mass of Al2O3?"
+  },
+  "o": {
+   "uz": [
+    "102",
+    "122",
+    "82",
+    "107"
+   ],
+   "ru": [
+    "102",
+    "122",
+    "82",
+    "107"
+   ],
+   "en": [
+    "102",
+    "122",
+    "82",
+    "107"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Na3PO4 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества Na3PO4?",
+   "en": "How many atoms are there in total in one formula unit of Na3PO4?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "7",
+    "3",
+    "12"
+   ],
+   "ru": [
+    "8",
+    "7",
+    "3",
+    "12"
+   ],
+   "en": [
+    "8",
+    "7",
+    "3",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qo'rg'oshin (Pb) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Свинец (Pb)?",
+   "en": "What is the atomic number of Lead (Pb)?"
+  },
+  "o": {
+   "uz": [
+    "82",
+    "41",
+    "78",
+    "66"
+   ],
+   "ru": [
+    "82",
+    "41",
+    "78",
+    "66"
+   ],
+   "en": [
+    "82",
+    "41",
+    "78",
+    "66"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "H2SO4 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества H2SO4?",
+   "en": "How many atoms are there in total in one formula unit of H2SO4?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "8",
+    "2",
+    "20"
+   ],
+   "ru": [
+    "7",
+    "8",
+    "2",
+    "20"
+   ],
+   "en": [
+    "7",
+    "8",
+    "2",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "P belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ P?",
+   "en": "Which element has the symbol P?"
+  },
+  "o": {
+   "uz": [
+    "Fosfor",
+    "Qo'rg'oshin",
+    "Litiy",
+    "Alyuminiy"
+   ],
+   "ru": [
+    "Фосфор",
+    "Свинец",
+    "Литий",
+    "Алюминий"
+   ],
+   "en": [
+    "Phosphorus",
+    "Lead",
+    "Lithium",
+    "Aluminium"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ag belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ Ag?",
+   "en": "Which element has the symbol Ag?"
+  },
+  "o": {
+   "uz": [
+    "Kumush",
+    "Vodorod",
+    "Berilliy",
+    "Uglerod"
+   ],
+   "ru": [
+    "Серебро",
+    "Водород",
+    "Бериллий",
+    "Углерод"
+   ],
+   "en": [
+    "Silver",
+    "Hydrogen",
+    "Beryllium",
+    "Carbon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "K2SO4 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества K2SO4?",
+   "en": "How many atoms are there in total in one formula unit of K2SO4?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "10",
+    "9",
+    "17"
+   ],
+   "ru": [
+    "7",
+    "10",
+    "9",
+    "17"
+   ],
+   "en": [
+    "7",
+    "10",
+    "9",
+    "17"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Temir (Fe) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Железо (Fe)?",
+   "en": "What is the atomic number of Iron (Fe)?"
+  },
+  "o": {
+   "uz": [
+    "26",
+    "13",
+    "31",
+    "23"
+   ],
+   "ru": [
+    "26",
+    "13",
+    "31",
+    "23"
+   ],
+   "en": [
+    "26",
+    "13",
+    "31",
+    "23"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri metallmas?",
+   "ru": "Какой из этих элементов является неметаллом?",
+   "en": "Which of these elements is a non-metal?"
+  },
+  "o": {
+   "uz": [
+    "Kislorod",
+    "Temir",
+    "Kaliy",
+    "Qo'rg'oshin"
+   ],
+   "ru": [
+    "Кислород",
+    "Железо",
+    "Калий",
+    "Свинец"
+   ],
+   "en": [
+    "Oxygen",
+    "Iron",
+    "Potassium",
+    "Lead"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri metall?",
+   "ru": "Какой из этих элементов является металлом?",
+   "en": "Which of these elements is a metal?"
+  },
+  "o": {
+   "uz": [
+    "Temir",
+    "Azot",
+    "Xlor",
+    "Vodorod"
+   ],
+   "ru": [
+    "Железо",
+    "Азот",
+    "Хлор",
+    "Водород"
+   ],
+   "en": [
+    "Iron",
+    "Nitrogen",
+    "Chlorine",
+    "Hydrogen"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kumush (Ag) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Серебро (Ag)?",
+   "en": "What is the atomic number of Silver (Ag)?"
+  },
+  "o": {
+   "uz": [
+    "47",
+    "42",
+    "56",
+    "38"
+   ],
+   "ru": [
+    "47",
+    "42",
+    "56",
+    "38"
+   ],
+   "en": [
+    "47",
+    "42",
+    "56",
+    "38"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tartib raqami 8 bo'lgan element qaysi?",
+   "ru": "Какой элемент имеет порядковый номер 8?",
+   "en": "Which element has atomic number 8?"
+  },
+  "o": {
+   "uz": [
+    "Kislorod",
+    "Berilliy",
+    "Neon",
+    "Rux"
+   ],
+   "ru": [
+    "Кислород",
+    "Бериллий",
+    "Неон",
+    "Цинк"
+   ],
+   "en": [
+    "Oxygen",
+    "Beryllium",
+    "Neon",
+    "Zinc"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ C?",
+   "en": "Which element has the symbol C?"
+  },
+  "o": {
+   "uz": [
+    "Uglerod",
+    "Kaliy",
+    "Xlor",
+    "Berilliy"
+   ],
+   "ru": [
+    "Углерод",
+    "Калий",
+    "Хлор",
+    "Бериллий"
+   ],
+   "en": [
+    "Carbon",
+    "Potassium",
+    "Chlorine",
+    "Beryllium"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri metall?",
+   "ru": "Какой из этих элементов является металлом?",
+   "en": "Which of these elements is a metal?"
+  },
+  "o": {
+   "uz": [
+    "Simob",
+    "Vodorod",
+    "Ftor",
+    "Xlor"
+   ],
+   "ru": [
+    "Ртуть",
+    "Водород",
+    "Фтор",
+    "Хлор"
+   ],
+   "en": [
+    "Mercury",
+    "Hydrogen",
+    "Fluorine",
+    "Chlorine"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Al2O3 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества Al2O3?",
+   "en": "How many atoms are there in total in one formula unit of Al2O3?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "18",
+    "15",
+    "3"
+   ],
+   "ru": [
+    "5",
+    "18",
+    "15",
+    "3"
+   ],
+   "en": [
+    "5",
+    "18",
+    "15",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "FeS formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества FeS?",
+   "en": "How many atoms are there in total in one formula unit of FeS?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "4",
+    "3",
+    "9"
+   ],
+   "ru": [
+    "2",
+    "4",
+    "3",
+    "9"
+   ],
+   "en": [
+    "2",
+    "4",
+    "3",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "NH3 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества NH3?",
+   "en": "How many atoms are there in total in one formula unit of NH3?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "3",
+    "12",
+    "5"
+   ],
+   "ru": [
+    "4",
+    "3",
+    "12",
+    "5"
+   ],
+   "en": [
+    "4",
+    "3",
+    "12",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "MgO moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества MgO?",
+   "en": "What is the relative molecular mass of MgO?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "20",
+    "120",
+    "36"
+   ],
+   "ru": [
+    "40",
+    "20",
+    "120",
+    "36"
+   ],
+   "en": [
+    "40",
+    "20",
+    "120",
+    "36"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tartib raqami 26 bo'lgan element qaysi?",
+   "ru": "Какой элемент имеет порядковый номер 26?",
+   "en": "Which element has atomic number 26?"
+  },
+  "o": {
+   "uz": [
+    "Temir",
+    "Fosfor",
+    "Oltingugurt",
+    "Qo'rg'oshin"
+   ],
+   "ru": [
+    "Железо",
+    "Фосфор",
+    "Сера",
+    "Свинец"
+   ],
+   "en": [
+    "Iron",
+    "Phosphorus",
+    "Sulfur",
+    "Lead"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Temir» elementining kimyoviy belgisi qaysi?",
+   "ru": "Какой химический символ у элемента «Железо»?",
+   "en": "What is the chemical symbol of Iron?"
+  },
+  "o": {
+   "uz": [
+    "Fe",
+    "He",
+    "Al",
+    "Ca"
+   ],
+   "ru": [
+    "Fe",
+    "He",
+    "Al",
+    "Ca"
+   ],
+   "en": [
+    "Fe",
+    "He",
+    "Al",
+    "Ca"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri metallmas?",
+   "ru": "Какой из этих элементов является неметаллом?",
+   "en": "Which of these elements is a non-metal?"
+  },
+  "o": {
+   "uz": [
+    "Vodorod",
+    "Berilliy",
+    "Natriy",
+    "Kalsiy"
+   ],
+   "ru": [
+    "Водород",
+    "Бериллий",
+    "Натрий",
+    "Кальций"
+   ],
+   "en": [
+    "Hydrogen",
+    "Beryllium",
+    "Sodium",
+    "Calcium"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kalsiy (Ca) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Кальций (Ca)?",
+   "en": "What is the atomic number of Calcium (Ca)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "40",
+    "25",
+    "30"
+   ],
+   "ru": [
+    "20",
+    "40",
+    "25",
+    "30"
+   ],
+   "en": [
+    "20",
+    "40",
+    "25",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CH4 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества CH4?",
+   "en": "What is the relative molecular mass of CH4?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "17",
+    "6",
+    "15"
+   ],
+   "ru": [
+    "16",
+    "17",
+    "6",
+    "15"
+   ],
+   "en": [
+    "16",
+    "17",
+    "6",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Kaliy» elementining kimyoviy belgisi qaysi?",
+   "ru": "Какой химический символ у элемента «Калий»?",
+   "en": "What is the chemical symbol of Potassium?"
+  },
+  "o": {
+   "uz": [
+    "K",
+    "Ca",
+    "Mg",
+    "Zn"
+   ],
+   "ru": [
+    "K",
+    "Ca",
+    "Mg",
+    "Zn"
+   ],
+   "en": [
+    "K",
+    "Ca",
+    "Mg",
+    "Zn"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri metall?",
+   "ru": "Какой из этих элементов является металлом?",
+   "en": "Which of these elements is a metal?"
+  },
+  "o": {
+   "uz": [
+    "Kaliy",
+    "Ftor",
+    "Kislorod",
+    "Uglerod"
+   ],
+   "ru": [
+    "Калий",
+    "Фтор",
+    "Кислород",
+    "Углерод"
+   ],
+   "en": [
+    "Potassium",
+    "Fluorine",
+    "Oxygen",
+    "Carbon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Fe2O3 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества Fe2O3?",
+   "en": "How many atoms are there in total in one formula unit of Fe2O3?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "15",
+    "10",
+    "18"
+   ],
+   "ru": [
+    "5",
+    "15",
+    "10",
+    "18"
+   ],
+   "en": [
+    "5",
+    "15",
+    "10",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri metall?",
+   "ru": "Какой из этих элементов является металлом?",
+   "en": "Which of these elements is a metal?"
+  },
+  "o": {
+   "uz": [
+    "Oltin",
+    "Fosfor",
+    "Kislorod",
+    "Uglerod"
+   ],
+   "ru": [
+    "Золото",
+    "Фосфор",
+    "Кислород",
+    "Углерод"
+   ],
+   "en": [
+    "Gold",
+    "Phosphorus",
+    "Oxygen",
+    "Carbon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "H2O moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества H2O?",
+   "en": "What is the relative molecular mass of H2O?"
+  },
+  "o": {
+   "uz": [
+    "18",
+    "31",
+    "28",
+    "23"
+   ],
+   "ru": [
+    "18",
+    "31",
+    "28",
+    "23"
+   ],
+   "en": [
+    "18",
+    "31",
+    "28",
+    "23"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zn belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ Zn?",
+   "en": "Which element has the symbol Zn?"
+  },
+  "o": {
+   "uz": [
+    "Rux",
+    "Bor",
+    "Qo'rg'oshin",
+    "Kislorod"
+   ],
+   "ru": [
+    "Цинк",
+    "Бор",
+    "Свинец",
+    "Кислород"
+   ],
+   "en": [
+    "Zinc",
+    "Boron",
+    "Lead",
+    "Oxygen"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Geliy» elementining kimyoviy belgisi qaysi?",
+   "ru": "Какой химический символ у элемента «Гелий»?",
+   "en": "What is the chemical symbol of Helium?"
+  },
+  "o": {
+   "uz": [
+    "He",
+    "Zn",
+    "Fe",
+    "O"
+   ],
+   "ru": [
+    "He",
+    "Zn",
+    "Fe",
+    "O"
+   ],
+   "en": [
+    "He",
+    "Zn",
+    "Fe",
+    "O"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Uglerod (C) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Углерод (C)?",
+   "en": "What is the atomic number of Carbon (C)?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "9",
+    "1",
+    "3"
+   ],
+   "ru": [
+    "6",
+    "9",
+    "1",
+    "3"
+   ],
+   "en": [
+    "6",
+    "9",
+    "1",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Si belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ Si?",
+   "en": "Which element has the symbol Si?"
+  },
+  "o": {
+   "uz": [
+    "Kremniy",
+    "Magniy",
+    "Kumush",
+    "Xlor"
+   ],
+   "ru": [
+    "Кремний",
+    "Магний",
+    "Серебро",
+    "Хлор"
+   ],
+   "en": [
+    "Silicon",
+    "Magnesium",
+    "Silver",
+    "Chlorine"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Oltingugurt (S) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Сера (S)?",
+   "en": "What is the atomic number of Sulfur (S)?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "8",
+    "17",
+    "13"
+   ],
+   "ru": [
+    "16",
+    "8",
+    "17",
+    "13"
+   ],
+   "en": [
+    "16",
+    "8",
+    "17",
+    "13"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Uglerod» elementining kimyoviy belgisi qaysi?",
+   "ru": "Какой химический символ у элемента «Углерод»?",
+   "en": "What is the chemical symbol of Carbon?"
+  },
+  "o": {
+   "uz": [
+    "C",
+    "N",
+    "P",
+    "Mg"
+   ],
+   "ru": [
+    "C",
+    "N",
+    "P",
+    "Mg"
+   ],
+   "en": [
+    "C",
+    "N",
+    "P",
+    "Mg"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "MgCO3 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества MgCO3?",
+   "en": "How many atoms are there in total in one formula unit of MgCO3?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "10",
+    "7",
+    "12"
+   ],
+   "ru": [
+    "5",
+    "10",
+    "7",
+    "12"
+   ],
+   "en": [
+    "5",
+    "10",
+    "7",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Geliy (He) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Гелий (He)?",
+   "en": "What is the atomic number of Helium (He)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "4",
+    "12",
+    "5"
+   ],
+   "ru": [
+    "2",
+    "4",
+    "12",
+    "5"
+   ],
+   "en": [
+    "2",
+    "4",
+    "12",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tartib raqami 5 bo'lgan element qaysi?",
+   "ru": "Какой элемент имеет порядковый номер 5?",
+   "en": "Which element has atomic number 5?"
+  },
+  "o": {
+   "uz": [
+    "Bor",
+    "Rux",
+    "Litiy",
+    "Neon"
+   ],
+   "ru": [
+    "Бор",
+    "Цинк",
+    "Литий",
+    "Неон"
+   ],
+   "en": [
+    "Boron",
+    "Zinc",
+    "Lithium",
+    "Neon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "NaOH formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества NaOH?",
+   "en": "How many atoms are there in total in one formula unit of NaOH?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "16",
+    "10",
+    "6"
+   ],
+   "ru": [
+    "3",
+    "16",
+    "10",
+    "6"
+   ],
+   "en": [
+    "3",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Na2SO4 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества Na2SO4?",
+   "en": "How many atoms are there in total in one formula unit of Na2SO4?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "2",
+    "14",
+    "12"
+   ],
+   "ru": [
+    "7",
+    "2",
+    "14",
+    "12"
+   ],
+   "en": [
+    "7",
+    "2",
+    "14",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Azot (N) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Азот (N)?",
+   "en": "What is the atomic number of Nitrogen (N)?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "10",
+    "8",
+    "17"
+   ],
+   "ru": [
+    "7",
+    "10",
+    "8",
+    "17"
+   ],
+   "en": [
+    "7",
+    "10",
+    "8",
+    "17"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Neon (Ne) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Неон (Ne)?",
+   "en": "What is the atomic number of Neon (Ne)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "5",
+    "17",
+    "13"
+   ],
+   "ru": [
+    "10",
+    "5",
+    "17",
+    "13"
+   ],
+   "en": [
+    "10",
+    "5",
+    "17",
+    "13"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Al belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ Al?",
+   "en": "Which element has the symbol Al?"
+  },
+  "o": {
+   "uz": [
+    "Alyuminiy",
+    "Oltingugurt",
+    "Litiy",
+    "Azot"
+   ],
+   "ru": [
+    "Алюминий",
+    "Сера",
+    "Литий",
+    "Азот"
+   ],
+   "en": [
+    "Aluminium",
+    "Sulfur",
+    "Lithium",
+    "Nitrogen"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Simob» elementining kimyoviy belgisi qaysi?",
+   "ru": "Какой химический символ у элемента «Ртуть»?",
+   "en": "What is the chemical symbol of Mercury?"
+  },
+  "o": {
+   "uz": [
+    "Hg",
+    "S",
+    "P",
+    "Al"
+   ],
+   "ru": [
+    "Hg",
+    "S",
+    "P",
+    "Al"
+   ],
+   "en": [
+    "Hg",
+    "S",
+    "P",
+    "Al"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tartib raqami 2 bo'lgan element qaysi?",
+   "ru": "Какой элемент имеет порядковый номер 2?",
+   "en": "Which element has atomic number 2?"
+  },
+  "o": {
+   "uz": [
+    "Geliy",
+    "Fosfor",
+    "Oltingugurt",
+    "Kremniy"
+   ],
+   "ru": [
+    "Гелий",
+    "Фосфор",
+    "Сера",
+    "Кремний"
+   ],
+   "en": [
+    "Helium",
+    "Phosphorus",
+    "Sulfur",
+    "Silicon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Berilliy (Be) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Бериллий (Be)?",
+   "en": "What is the atomic number of Beryllium (Be)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "7",
+    "11",
+    "12"
+   ],
+   "ru": [
+    "4",
+    "7",
+    "11",
+    "12"
+   ],
+   "en": [
+    "4",
+    "7",
+    "11",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Na2O moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества Na2O?",
+   "en": "What is the relative molecular mass of Na2O?"
+  },
+  "o": {
+   "uz": [
+    "62",
+    "68",
+    "78",
+    "59"
+   ],
+   "ru": [
+    "62",
+    "68",
+    "78",
+    "59"
+   ],
+   "en": [
+    "62",
+    "68",
+    "78",
+    "59"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Na belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ Na?",
+   "en": "Which element has the symbol Na?"
+  },
+  "o": {
+   "uz": [
+    "Natriy",
+    "Litiy",
+    "Fosfor",
+    "Kalsiy"
+   ],
+   "ru": [
+    "Натрий",
+    "Литий",
+    "Фосфор",
+    "Кальций"
+   ],
+   "en": [
+    "Sodium",
+    "Lithium",
+    "Phosphorus",
+    "Calcium"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "N2O5 moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества N2O5?",
+   "en": "What is the relative molecular mass of N2O5?"
+  },
+  "o": {
+   "uz": [
+    "108",
+    "130",
+    "113",
+    "162"
+   ],
+   "ru": [
+    "108",
+    "130",
+    "113",
+    "162"
+   ],
+   "en": [
+    "108",
+    "130",
+    "113",
+    "162"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tartib raqami 4 bo'lgan element qaysi?",
+   "ru": "Какой элемент имеет порядковый номер 4?",
+   "en": "Which element has atomic number 4?"
+  },
+  "o": {
+   "uz": [
+    "Berilliy",
+    "Kislorod",
+    "Kumush",
+    "Natriy"
+   ],
+   "ru": [
+    "Бериллий",
+    "Кислород",
+    "Серебро",
+    "Натрий"
+   ],
+   "en": [
+    "Beryllium",
+    "Oxygen",
+    "Silver",
+    "Sodium"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Be belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ Be?",
+   "en": "Which element has the symbol Be?"
+  },
+  "o": {
+   "uz": [
+    "Berilliy",
+    "Neon",
+    "Uglerod",
+    "Magniy"
+   ],
+   "ru": [
+    "Бериллий",
+    "Неон",
+    "Углерод",
+    "Магний"
+   ],
+   "en": [
+    "Beryllium",
+    "Neon",
+    "Carbon",
+    "Magnesium"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zn(OH)2 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества Zn(OH)2?",
+   "en": "How many atoms are there in total in one formula unit of Zn(OH)2?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "2",
+    "10",
+    "7"
+   ],
+   "ru": [
+    "5",
+    "2",
+    "10",
+    "7"
+   ],
+   "en": [
+    "5",
+    "2",
+    "10",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Vodorod» elementining kimyoviy belgisi qaysi?",
+   "ru": "Какой химический символ у элемента «Водород»?",
+   "en": "What is the chemical symbol of Hydrogen?"
+  },
+  "o": {
+   "uz": [
+    "H",
+    "P",
+    "N",
+    "Ar"
+   ],
+   "ru": [
+    "H",
+    "P",
+    "N",
+    "Ar"
+   ],
+   "en": [
+    "H",
+    "P",
+    "N",
+    "Ar"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "NaOH moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества NaOH?",
+   "en": "What is the relative molecular mass of NaOH?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "38",
+    "42",
+    "32"
+   ],
+   "ru": [
+    "40",
+    "38",
+    "42",
+    "32"
+   ],
+   "en": [
+    "40",
+    "38",
+    "42",
+    "32"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CuO moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества CuO?",
+   "en": "What is the relative molecular mass of CuO?"
+  },
+  "o": {
+   "uz": [
+    "80",
+    "40",
+    "160",
+    "84"
+   ],
+   "ru": [
+    "80",
+    "40",
+    "160",
+    "84"
+   ],
+   "en": [
+    "80",
+    "40",
+    "160",
+    "84"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri metallmas?",
+   "ru": "Какой из этих элементов является неметаллом?",
+   "en": "Which of these elements is a non-metal?"
+  },
+  "o": {
+   "uz": [
+    "Ftor",
+    "Simob",
+    "Litiy",
+    "Natriy"
+   ],
+   "ru": [
+    "Фтор",
+    "Ртуть",
+    "Литий",
+    "Натрий"
+   ],
+   "en": [
+    "Fluorine",
+    "Mercury",
+    "Lithium",
+    "Sodium"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CaO moddasining nisbiy molekulyar massasi nechaga teng?",
+   "ru": "Чему равна относительная молекулярная масса вещества CaO?",
+   "en": "What is the relative molecular mass of CaO?"
+  },
+  "o": {
+   "uz": [
+    "56",
+    "70",
+    "28",
+    "50"
+   ],
+   "ru": [
+    "56",
+    "70",
+    "28",
+    "50"
+   ],
+   "en": [
+    "56",
+    "70",
+    "28",
+    "50"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Azot» elementining kimyoviy belgisi qaysi?",
+   "ru": "Какой химический символ у элемента «Азот»?",
+   "en": "What is the chemical symbol of Nitrogen?"
+  },
+  "o": {
+   "uz": [
+    "N",
+    "Be",
+    "Cu",
+    "B"
+   ],
+   "ru": [
+    "N",
+    "Be",
+    "Cu",
+    "B"
+   ],
+   "en": [
+    "N",
+    "Be",
+    "Cu",
+    "B"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CH4 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества CH4?",
+   "en": "How many atoms are there in total in one formula unit of CH4?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "12",
+    "0",
+    "7"
+   ],
+   "ru": [
+    "5",
+    "12",
+    "0",
+    "7"
+   ],
+   "en": [
+    "5",
+    "12",
+    "0",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "K belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ K?",
+   "en": "Which element has the symbol K?"
+  },
+  "o": {
+   "uz": [
+    "Kaliy",
+    "Simob",
+    "Oltingugurt",
+    "Azot"
+   ],
+   "ru": [
+    "Калий",
+    "Ртуть",
+    "Сера",
+    "Азот"
+   ],
+   "en": [
+    "Potassium",
+    "Mercury",
+    "Sulfur",
+    "Nitrogen"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ca belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ Ca?",
+   "en": "Which element has the symbol Ca?"
+  },
+  "o": {
+   "uz": [
+    "Kalsiy",
+    "Geliy",
+    "Kaliy",
+    "Uglerod"
+   ],
+   "ru": [
+    "Кальций",
+    "Гелий",
+    "Калий",
+    "Углерод"
+   ],
+   "en": [
+    "Calcium",
+    "Helium",
+    "Potassium",
+    "Carbon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Fe(OH)3 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества Fe(OH)3?",
+   "en": "How many atoms are there in total in one formula unit of Fe(OH)3?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "14",
+    "4",
+    "10"
+   ],
+   "ru": [
+    "7",
+    "14",
+    "4",
+    "10"
+   ],
+   "en": [
+    "7",
+    "14",
+    "4",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "CuO formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества CuO?",
+   "en": "How many atoms are there in total in one formula unit of CuO?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "7",
+    "1"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "7",
+    "1"
+   ],
+   "en": [
+    "2",
+    "3",
+    "7",
+    "1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri metall?",
+   "ru": "Какой из этих элементов является металлом?",
+   "en": "Which of these elements is a metal?"
+  },
+  "o": {
+   "uz": [
+    "Mis",
+    "Vodorod",
+    "Uglerod",
+    "Oltingugurt"
+   ],
+   "ru": [
+    "Медь",
+    "Водород",
+    "Углерод",
+    "Сера"
+   ],
+   "en": [
+    "Copper",
+    "Hydrogen",
+    "Carbon",
+    "Sulfur"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri metallmas?",
+   "ru": "Какой из этих элементов является неметаллом?",
+   "en": "Which of these elements is a non-metal?"
+  },
+  "o": {
+   "uz": [
+    "Kislorod",
+    "Qo'rg'oshin",
+    "Alyuminiy",
+    "Berilliy"
+   ],
+   "ru": [
+    "Кислород",
+    "Свинец",
+    "Алюминий",
+    "Бериллий"
+   ],
+   "en": [
+    "Oxygen",
+    "Lead",
+    "Aluminium",
+    "Beryllium"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Mg(NO3)2 formulali moddaning bir birlik tarkibida jami nechta atom bor?",
+   "ru": "Сколько всего атомов в одной формульной единице вещества Mg(NO3)2?",
+   "en": "How many atoms are there in total in one formula unit of Mg(NO3)2?"
+  },
+  "o": {
+   "uz": [
+    "9",
+    "7",
+    "27",
+    "22"
+   ],
+   "ru": [
+    "9",
+    "7",
+    "27",
+    "22"
+   ],
+   "en": [
+    "9",
+    "7",
+    "27",
+    "22"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tartib raqami 47 bo'lgan element qaysi?",
+   "ru": "Какой элемент имеет порядковый номер 47?",
+   "en": "Which element has atomic number 47?"
+  },
+  "o": {
+   "uz": [
+    "Kumush",
+    "Kislorod",
+    "Natriy",
+    "Simob"
+   ],
+   "ru": [
+    "Серебро",
+    "Кислород",
+    "Натрий",
+    "Ртуть"
+   ],
+   "en": [
+    "Silver",
+    "Oxygen",
+    "Sodium",
+    "Mercury"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri metallmas?",
+   "ru": "Какой из этих элементов является неметаллом?",
+   "en": "Which of these elements is a non-metal?"
+  },
+  "o": {
+   "uz": [
+    "Uglerod",
+    "Litiy",
+    "Alyuminiy",
+    "Natriy"
+   ],
+   "ru": [
+    "Углерод",
+    "Литий",
+    "Алюминий",
+    "Натрий"
+   ],
+   "en": [
+    "Carbon",
+    "Lithium",
+    "Aluminium",
+    "Sodium"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Natriy (Na) elementining tartib raqami nechaga teng?",
+   "ru": "Чему равен порядковый номер элемента Натрий (Na)?",
+   "en": "What is the atomic number of Sodium (Na)?"
+  },
+  "o": {
+   "uz": [
+    "11",
+    "16",
+    "9",
+    "6"
+   ],
+   "ru": [
+    "11",
+    "16",
+    "9",
+    "6"
+   ],
+   "en": [
+    "11",
+    "16",
+    "9",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tartib raqami 13 bo'lgan element qaysi?",
+   "ru": "Какой элемент имеет порядковый номер 13?",
+   "en": "Which element has atomic number 13?"
+  },
+  "o": {
+   "uz": [
+    "Alyuminiy",
+    "Natriy",
+    "Berilliy",
+    "Temir"
+   ],
+   "ru": [
+    "Алюминий",
+    "Натрий",
+    "Бериллий",
+    "Железо"
+   ],
+   "en": [
+    "Aluminium",
+    "Sodium",
+    "Beryllium",
+    "Iron"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ar belgisi qaysi elementga tegishli?",
+   "ru": "Какому элементу соответствует символ Ar?",
+   "en": "Which element has the symbol Ar?"
+  },
+  "o": {
+   "uz": [
+    "Argon",
+    "Ftor",
+    "Rux",
+    "Uglerod"
+   ],
+   "ru": [
+    "Аргон",
+    "Фтор",
+    "Цинк",
+    "Углерод"
+   ],
+   "en": [
+    "Argon",
+    "Fluorine",
+    "Zinc",
+    "Carbon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tartib raqami 15 bo'lgan element qaysi?",
+   "ru": "Какой элемент имеет порядковый номер 15?",
+   "en": "Which element has atomic number 15?"
+  },
+  "o": {
+   "uz": [
+    "Fosfor",
+    "Rux",
+    "Neon",
+    "Vodorod"
+   ],
+   "ru": [
+    "Фосфор",
+    "Цинк",
+    "Неон",
+    "Водород"
+   ],
+   "en": [
+    "Phosphorus",
+    "Zinc",
+    "Neon",
+    "Hydrogen"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tartib raqami 10 bo'lgan element qaysi?",
+   "ru": "Какой элемент имеет порядковый номер 10?",
+   "en": "Which element has atomic number 10?"
+  },
+  "o": {
+   "uz": [
+    "Neon",
+    "Natriy",
+    "Argon",
+    "Bor"
+   ],
+   "ru": [
+    "Неон",
+    "Натрий",
+    "Аргон",
+    "Бор"
+   ],
+   "en": [
+    "Neon",
+    "Sodium",
+    "Argon",
+    "Boron"
+   ]
+  },
+  "a": 0
+ }
+]

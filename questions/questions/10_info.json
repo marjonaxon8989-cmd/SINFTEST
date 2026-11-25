@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "A = 1, B = 1 bo'lganda qaysi ifoda 1 ga (rost) teng?",
+   "ru": "При A = 1, B = 1 какое выражение равно 1 (истина)?",
+   "en": "When A = 1 and B = 1, which expression equals 1 (true)?"
+  },
+  "o": {
+   "uz": [
+    "¬A ∨ B",
+    "¬(A ∨ B)",
+    "¬A ∧ B",
+    "¬A ∧ ¬B"
+   ],
+   "ru": [
+    "¬A ∨ B",
+    "¬(A ∨ B)",
+    "¬A ∧ B",
+    "¬A ∧ ¬B"
+   ],
+   "en": [
+    "¬A ∨ B",
+    "¬(A ∨ B)",
+    "¬A ∧ B",
+    "¬A ∧ ¬B"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 78 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 78 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 78?"
+  },
+  "o": {
+   "uz": [
+    "4E",
+    "4F",
+    "4D",
+    "E4"
+   ],
+   "ru": [
+    "4E",
+    "4F",
+    "4D",
+    "E4"
+   ],
+   "en": [
+    "4E",
+    "4F",
+    "4D",
+    "E4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A = 1, B = 1 bo'lganda qaysi ifoda 1 ga (rost) teng?",
+   "ru": "При A = 1, B = 1 какое выражение равно 1 (истина)?",
+   "en": "When A = 1 and B = 1, which expression equals 1 (true)?"
+  },
+  "o": {
+   "uz": [
+    "A ∨ B",
+    "¬(A ∧ B)",
+    "¬A ∧ B",
+    "A ∧ ¬B"
+   ],
+   "ru": [
+    "A ∨ B",
+    "¬(A ∧ B)",
+    "¬A ∧ B",
+    "A ∧ ¬B"
+   ],
+   "en": [
+    "A ∨ B",
+    "¬(A ∧ B)",
+    "¬A ∧ B",
+    "A ∧ ¬B"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 170 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 170 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 170?"
+  },
+  "o": {
+   "uz": [
+    "AA",
+    "AB",
+    "A9",
+    "BA"
+   ],
+   "ru": [
+    "AA",
+    "AB",
+    "A9",
+    "BA"
+   ],
+   "en": [
+    "AA",
+    "AB",
+    "A9",
+    "BA"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "7 MB necha KB? (1 MB = 1024 KB)",
+   "ru": "7 МБ — сколько КБ? (1 МБ = 1024 КБ)",
+   "en": "How many KB are in 7 MB? (1 MB = 1024 KB)"
+  },
+  "o": {
+   "uz": [
+    "7168",
+    "5376",
+    "3584",
+    "14336"
+   ],
+   "ru": [
+    "7168",
+    "5376",
+    "3584",
+    "14336"
+   ],
+   "en": [
+    "7168",
+    "5376",
+    "3584",
+    "14336"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 45 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 45 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 45?"
+  },
+  "o": {
+   "uz": [
+    "2D",
+    "2E",
+    "2C",
+    "D2"
+   ],
+   "ru": [
+    "2D",
+    "2E",
+    "2C",
+    "D2"
+   ],
+   "en": [
+    "2D",
+    "2E",
+    "2C",
+    "D2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'n oltilik 11₁₆ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение шестнадцатеричного числа 11₁₆?",
+   "en": "What is the decimal value of the hexadecimal number 11₁₆?"
+  },
+  "o": {
+   "uz": [
+    "17",
+    "7",
+    "25",
+    "18"
+   ],
+   "ru": [
+    "17",
+    "7",
+    "25",
+    "18"
+   ],
+   "en": [
+    "17",
+    "7",
+    "25",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 76 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 76 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 76?"
+  },
+  "o": {
+   "uz": [
+    "4C",
+    "4D",
+    "4B",
+    "C4"
+   ],
+   "ru": [
+    "4C",
+    "4D",
+    "4B",
+    "C4"
+   ],
+   "en": [
+    "4C",
+    "4D",
+    "4B",
+    "C4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 111000₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 111000₂?",
+   "en": "What is the decimal value of the binary number 111000₂?"
+  },
+  "o": {
+   "uz": [
+    "56",
+    "84",
+    "53",
+    "59"
+   ],
+   "ru": [
+    "56",
+    "84",
+    "53",
+    "59"
+   ],
+   "en": [
+    "56",
+    "84",
+    "53",
+    "59"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A = 0, B = 0 bo'lganda qaysi ifoda 1 ga (rost) teng?",
+   "ru": "При A = 0, B = 0 какое выражение равно 1 (истина)?",
+   "en": "When A = 0 and B = 0, which expression equals 1 (true)?"
+  },
+  "o": {
+   "uz": [
+    "¬A ∨ B",
+    "A ∧ ¬B",
+    "A ∧ B",
+    "A ∨ B"
+   ],
+   "ru": [
+    "¬A ∨ B",
+    "A ∧ ¬B",
+    "A ∧ B",
+    "A ∨ B"
+   ],
+   "en": [
+    "¬A ∨ B",
+    "A ∧ ¬B",
+    "A ∧ B",
+    "A ∨ B"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "656 ta turli holatni kodlash uchun kamida nechta bit kerak?",
+   "ru": "Какое минимальное количество бит нужно, чтобы закодировать 656 различных состояний?",
+   "en": "What is the minimum number of bits needed to encode 656 different states?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "8",
+    "0",
+    "17"
+   ],
+   "ru": [
+    "10",
+    "8",
+    "0",
+    "17"
+   ],
+   "en": [
+    "10",
+    "8",
+    "0",
+    "17"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'n oltilik 4C₁₆ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение шестнадцатеричного числа 4C₁₆?",
+   "en": "What is the decimal value of the hexadecimal number 4C₁₆?"
+  },
+  "o": {
+   "uz": [
+    "76",
+    "228",
+    "57",
+    "61"
+   ],
+   "ru": [
+    "76",
+    "228",
+    "57",
+    "61"
+   ],
+   "en": [
+    "76",
+    "228",
+    "57",
+    "61"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 46 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 46 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 46?"
+  },
+  "o": {
+   "uz": [
+    "101110",
+    "110000",
+    "101100",
+    "101111"
+   ],
+   "ru": [
+    "101110",
+    "110000",
+    "101100",
+    "101111"
+   ],
+   "en": [
+    "101110",
+    "110000",
+    "101100",
+    "101111"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 49 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 49 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 49?"
+  },
+  "o": {
+   "uz": [
+    "31",
+    "32",
+    "30",
+    "13"
+   ],
+   "ru": [
+    "31",
+    "32",
+    "30",
+    "13"
+   ],
+   "en": [
+    "31",
+    "32",
+    "30",
+    "13"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 110110₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 110110₂?",
+   "en": "What is the decimal value of the binary number 110110₂?"
+  },
+  "o": {
+   "uz": [
+    "54",
+    "57",
+    "43",
+    "59"
+   ],
+   "ru": [
+    "54",
+    "57",
+    "43",
+    "59"
+   ],
+   "en": [
+    "54",
+    "57",
+    "43",
+    "59"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 61 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 61 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 61?"
+  },
+  "o": {
+   "uz": [
+    "111101",
+    "110101",
+    "101101",
+    "111100"
+   ],
+   "ru": [
+    "111101",
+    "110101",
+    "101101",
+    "111100"
+   ],
+   "en": [
+    "111101",
+    "110101",
+    "101101",
+    "111100"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A = 0, B = 1 bo'lganda qaysi ifoda 1 ga (rost) teng?",
+   "ru": "При A = 0, B = 1 какое выражение равно 1 (истина)?",
+   "en": "When A = 0 and B = 1, which expression equals 1 (true)?"
+  },
+  "o": {
+   "uz": [
+    "¬A ∧ B",
+    "¬A ∧ ¬B",
+    "A ∨ ¬B",
+    "¬(A ∨ B)"
+   ],
+   "ru": [
+    "¬A ∧ B",
+    "¬A ∧ ¬B",
+    "A ∨ ¬B",
+    "¬(A ∨ B)"
+   ],
+   "en": [
+    "¬A ∧ B",
+    "¬A ∧ ¬B",
+    "A ∨ ¬B",
+    "¬(A ∨ B)"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 110010₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 110010₂?",
+   "en": "What is the decimal value of the binary number 110010₂?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "48",
+    "38",
+    "40"
+   ],
+   "ru": [
+    "50",
+    "48",
+    "38",
+    "40"
+   ],
+   "en": [
+    "50",
+    "48",
+    "38",
+    "40"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 1010101₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 1010101₂?",
+   "en": "What is the decimal value of the binary number 1010101₂?"
+  },
+  "o": {
+   "uz": [
+    "85",
+    "102",
+    "77",
+    "93"
+   ],
+   "ru": [
+    "85",
+    "102",
+    "77",
+    "93"
+   ],
+   "en": [
+    "85",
+    "102",
+    "77",
+    "93"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 1110000₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 1110000₂?",
+   "en": "What is the decimal value of the binary number 1110000₂?"
+  },
+  "o": {
+   "uz": [
+    "112",
+    "90",
+    "168",
+    "118"
+   ],
+   "ru": [
+    "112",
+    "90",
+    "168",
+    "118"
+   ],
+   "en": [
+    "112",
+    "90",
+    "168",
+    "118"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 61 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 61 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 61?"
+  },
+  "o": {
+   "uz": [
+    "3D",
+    "3E",
+    "3C",
+    "D3"
+   ],
+   "ru": [
+    "3D",
+    "3E",
+    "3C",
+    "D3"
+   ],
+   "en": [
+    "3D",
+    "3E",
+    "3C",
+    "D3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A = 0, B = 0 bo'lganda qaysi ifoda 1 ga (rost) teng?",
+   "ru": "При A = 0, B = 0 какое выражение равно 1 (истина)?",
+   "en": "When A = 0 and B = 0, which expression equals 1 (true)?"
+  },
+  "o": {
+   "uz": [
+    "¬(A ∨ B)",
+    "A ⊕ B",
+    "¬A ∧ B",
+    "A ∧ B"
+   ],
+   "ru": [
+    "¬(A ∨ B)",
+    "A ⊕ B",
+    "¬A ∧ B",
+    "A ∧ B"
+   ],
+   "en": [
+    "¬(A ∨ B)",
+    "A ⊕ B",
+    "¬A ∧ B",
+    "A ∧ B"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 88 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 88 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 88?"
+  },
+  "o": {
+   "uz": [
+    "58",
+    "59",
+    "57",
+    "85"
+   ],
+   "ru": [
+    "58",
+    "59",
+    "57",
+    "85"
+   ],
+   "en": [
+    "58",
+    "59",
+    "57",
+    "85"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 112 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 112 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 112?"
+  },
+  "o": {
+   "uz": [
+    "70",
+    "71",
+    "6F",
+    "07"
+   ],
+   "ru": [
+    "70",
+    "71",
+    "6F",
+    "07"
+   ],
+   "en": [
+    "70",
+    "71",
+    "6F",
+    "07"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "11 bit yordamida nechta turli qiymatni kodlash mumkin?",
+   "ru": "Сколько различных значений можно закодировать с помощью 11 бит?",
+   "en": "How many different values can be encoded with 11 bits?"
+  },
+  "o": {
+   "uz": [
+    "2048",
+    "22",
+    "121",
+    "4096"
+   ],
+   "ru": [
+    "2048",
+    "22",
+    "121",
+    "4096"
+   ],
+   "en": [
+    "2048",
+    "22",
+    "121",
+    "4096"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 5 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 5 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 5?"
+  },
+  "o": {
+   "uz": [
+    "101",
+    "100",
+    "110",
+    "111"
+   ],
+   "ru": [
+    "101",
+    "100",
+    "110",
+    "111"
+   ],
+   "en": [
+    "101",
+    "100",
+    "110",
+    "111"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "200 bit necha bayt?",
+   "ru": "200 бит — сколько байт?",
+   "en": "How many bytes are in 200 bits?"
+  },
+  "o": {
+   "uz": [
+    "25",
+    "28",
+    "27",
+    "32"
+   ],
+   "ru": [
+    "25",
+    "28",
+    "27",
+    "32"
+   ],
+   "en": [
+    "25",
+    "28",
+    "27",
+    "32"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "6 bit yordamida nechta turli qiymatni kodlash mumkin?",
+   "ru": "Сколько различных значений можно закодировать с помощью 6 бит?",
+   "en": "How many different values can be encoded with 6 bits?"
+  },
+  "o": {
+   "uz": [
+    "64",
+    "12",
+    "36",
+    "128"
+   ],
+   "ru": [
+    "64",
+    "12",
+    "36",
+    "128"
+   ],
+   "en": [
+    "64",
+    "12",
+    "36",
+    "128"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 64 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 64 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 64?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "41",
+    "3F",
+    "04"
+   ],
+   "ru": [
+    "40",
+    "41",
+    "3F",
+    "04"
+   ],
+   "en": [
+    "40",
+    "41",
+    "3F",
+    "04"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A = 0, B = 0 bo'lganda qaysi ifoda 1 ga (rost) teng?",
+   "ru": "При A = 0, B = 0 какое выражение равно 1 (истина)?",
+   "en": "When A = 0 and B = 0, which expression equals 1 (true)?"
+  },
+  "o": {
+   "uz": [
+    "¬(A ∧ B)",
+    "¬A ∧ B",
+    "A ∧ ¬B",
+    "A ∧ B"
+   ],
+   "ru": [
+    "¬(A ∧ B)",
+    "¬A ∧ B",
+    "A ∧ ¬B",
+    "A ∧ B"
+   ],
+   "en": [
+    "¬(A ∧ B)",
+    "¬A ∧ B",
+    "A ∧ ¬B",
+    "A ∧ B"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 100000₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 100000₂?",
+   "en": "What is the decimal value of the binary number 100000₂?"
+  },
+  "o": {
+   "uz": [
+    "32",
+    "34",
+    "38",
+    "64"
+   ],
+   "ru": [
+    "32",
+    "34",
+    "38",
+    "64"
+   ],
+   "en": [
+    "32",
+    "34",
+    "38",
+    "64"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 20 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 20 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 20?"
+  },
+  "o": {
+   "uz": [
+    "10100",
+    "11000",
+    "10110",
+    "10011"
+   ],
+   "ru": [
+    "10100",
+    "11000",
+    "10110",
+    "10011"
+   ],
+   "en": [
+    "10100",
+    "11000",
+    "10110",
+    "10011"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 8 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 8 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 8?"
+  },
+  "o": {
+   "uz": [
+    "1000",
+    "1001",
+    "1100",
+    "1010"
+   ],
+   "ru": [
+    "1000",
+    "1001",
+    "1100",
+    "1010"
+   ],
+   "en": [
+    "1000",
+    "1001",
+    "1100",
+    "1010"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "7 KB necha bayt? (1 KB = 1024 bayt)",
+   "ru": "7 КБ — сколько байт? (1 КБ = 1024 байт)",
+   "en": "How many bytes are in 7 KB? (1 KB = 1024 bytes)"
+  },
+  "o": {
+   "uz": [
+    "7168",
+    "21504",
+    "7885",
+    "3584"
+   ],
+   "ru": [
+    "7168",
+    "21504",
+    "7885",
+    "3584"
+   ],
+   "en": [
+    "7168",
+    "21504",
+    "7885",
+    "3584"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 9 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 9 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 9?"
+  },
+  "o": {
+   "uz": [
+    "1001",
+    "1000",
+    "1101",
+    "1011"
+   ],
+   "ru": [
+    "1001",
+    "1000",
+    "1101",
+    "1011"
+   ],
+   "en": [
+    "1001",
+    "1000",
+    "1101",
+    "1011"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "ASCII jadvalida «I» harfining kodi 73 bo'lsa, «N» harfining kodi nechaga teng? (harflar tartib bilan joylashgan)",
+   "ru": "Если код буквы «I» в таблице ASCII равен 73, чему равен код буквы «N»? (буквы идут по порядку)",
+   "en": "If the ASCII code of «I» is 73, what is the code of «N»? (letters are in alphabetical order)"
+  },
+  "o": {
+   "uz": [
+    "78",
+    "156",
+    "70",
+    "74"
+   ],
+   "ru": [
+    "78",
+    "156",
+    "70",
+    "74"
+   ],
+   "en": [
+    "78",
+    "156",
+    "70",
+    "74"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "ASCII jadvalida «N» harfining kodi 78 bo'lsa, «G» harfining kodi nechaga teng? (harflar tartib bilan joylashgan)",
+   "ru": "Если код буквы «N» в таблице ASCII равен 78, чему равен код буквы «G»? (буквы идут по порядку)",
+   "en": "If the ASCII code of «N» is 78, what is the code of «G»? (letters are in alphabetical order)"
+  },
+  "o": {
+   "uz": [
+    "71",
+    "57",
+    "213",
+    "85"
+   ],
+   "ru": [
+    "71",
+    "57",
+    "213",
+    "85"
+   ],
+   "en": [
+    "71",
+    "57",
+    "213",
+    "85"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "ASCII jadvalida «H» harfining kodi 72 bo'lsa, «B» harfining kodi nechaga teng? (harflar tartib bilan joylashgan)",
+   "ru": "Если код буквы «H» в таблице ASCII равен 72, чему равен код буквы «B»? (буквы идут по порядку)",
+   "en": "If the ASCII code of «H» is 72, what is the code of «B»? (letters are in alphabetical order)"
+  },
+  "o": {
+   "uz": [
+    "66",
+    "59",
+    "132",
+    "53"
+   ],
+   "ru": [
+    "66",
+    "59",
+    "132",
+    "53"
+   ],
+   "en": [
+    "66",
+    "59",
+    "132",
+    "53"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'n oltilik BF₁₆ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение шестнадцатеричного числа BF₁₆?",
+   "en": "What is the decimal value of the hexadecimal number BF₁₆?"
+  },
+  "o": {
+   "uz": [
+    "191",
+    "573",
+    "143",
+    "95"
+   ],
+   "ru": [
+    "191",
+    "573",
+    "143",
+    "95"
+   ],
+   "en": [
+    "191",
+    "573",
+    "143",
+    "95"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A = 1, B = 0 bo'lganda qaysi ifoda 1 ga (rost) teng?",
+   "ru": "При A = 1, B = 0 какое выражение равно 1 (истина)?",
+   "en": "When A = 1 and B = 0, which expression equals 1 (true)?"
+  },
+  "o": {
+   "uz": [
+    "¬(A ∧ B)",
+    "¬(A ∨ B)",
+    "A ∧ B",
+    "¬A ∧ ¬B"
+   ],
+   "ru": [
+    "¬(A ∧ B)",
+    "¬(A ∨ B)",
+    "A ∧ B",
+    "¬A ∧ ¬B"
+   ],
+   "en": [
+    "¬(A ∧ B)",
+    "¬(A ∨ B)",
+    "A ∧ B",
+    "¬A ∧ ¬B"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A = 0, B = 0 bo'lganda qaysi ifoda 1 ga (rost) teng?",
+   "ru": "При A = 0, B = 0 какое выражение равно 1 (истина)?",
+   "en": "When A = 0 and B = 0, which expression equals 1 (true)?"
+  },
+  "o": {
+   "uz": [
+    "¬(A ∧ B)",
+    "A ∧ B",
+    "A ∧ ¬B",
+    "A ⊕ B"
+   ],
+   "ru": [
+    "¬(A ∧ B)",
+    "A ∧ B",
+    "A ∧ ¬B",
+    "A ⊕ B"
+   ],
+   "en": [
+    "¬(A ∧ B)",
+    "A ∧ B",
+    "A ∧ ¬B",
+    "A ⊕ B"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "16 MB necha KB? (1 MB = 1024 KB)",
+   "ru": "16 МБ — сколько КБ? (1 МБ = 1024 КБ)",
+   "en": "How many KB are in 16 MB? (1 MB = 1024 KB)"
+  },
+  "o": {
+   "uz": [
+    "16384",
+    "8192",
+    "20480",
+    "32768"
+   ],
+   "ru": [
+    "16384",
+    "8192",
+    "20480",
+    "32768"
+   ],
+   "en": [
+    "16384",
+    "8192",
+    "20480",
+    "32768"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 19 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 19 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 19?"
+  },
+  "o": {
+   "uz": [
+    "13",
+    "14",
+    "12",
+    "31"
+   ],
+   "ru": [
+    "13",
+    "14",
+    "12",
+    "31"
+   ],
+   "en": [
+    "13",
+    "14",
+    "12",
+    "31"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "ASCII jadvalida «Y» harfining kodi 89 bo'lsa, «B» harfining kodi nechaga teng? (harflar tartib bilan joylashgan)",
+   "ru": "Если код буквы «Y» в таблице ASCII равен 89, чему равен код буквы «B»? (буквы идут по порядку)",
+   "en": "If the ASCII code of «Y» is 89, what is the code of «B»? (letters are in alphabetical order)"
+  },
+  "o": {
+   "uz": [
+    "66",
+    "53",
+    "63",
+    "198"
+   ],
+   "ru": [
+    "66",
+    "53",
+    "63",
+    "198"
+   ],
+   "en": [
+    "66",
+    "53",
+    "63",
+    "198"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "43 bayt necha bit?",
+   "ru": "43 байт — сколько бит?",
+   "en": "How many bits are in 43 bytes?"
+  },
+  "o": {
+   "uz": [
+    "344",
+    "430",
+    "688",
+    "172"
+   ],
+   "ru": [
+    "344",
+    "430",
+    "688",
+    "172"
+   ],
+   "en": [
+    "344",
+    "430",
+    "688",
+    "172"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "903 ta turli holatni kodlash uchun kamida nechta bit kerak?",
+   "ru": "Какое минимальное количество бит нужно, чтобы закодировать 903 различных состояний?",
+   "en": "What is the minimum number of bits needed to encode 903 different states?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "20",
+    "30",
+    "15"
+   ],
+   "ru": [
+    "10",
+    "20",
+    "30",
+    "15"
+   ],
+   "en": [
+    "10",
+    "20",
+    "30",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 100011₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 100011₂?",
+   "en": "What is the decimal value of the binary number 100011₂?"
+  },
+  "o": {
+   "uz": [
+    "35",
+    "53",
+    "31",
+    "105"
+   ],
+   "ru": [
+    "35",
+    "53",
+    "31",
+    "105"
+   ],
+   "en": [
+    "35",
+    "53",
+    "31",
+    "105"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A = 0, B = 0 bo'lganda qaysi ifoda 1 ga (rost) teng?",
+   "ru": "При A = 0, B = 0 какое выражение равно 1 (истина)?",
+   "en": "When A = 0 and B = 0, which expression equals 1 (true)?"
+  },
+  "o": {
+   "uz": [
+    "A ∨ ¬B",
+    "A ⊕ B",
+    "¬A ∧ B",
+    "A ∧ B"
+   ],
+   "ru": [
+    "A ∨ ¬B",
+    "A ⊕ B",
+    "¬A ∧ B",
+    "A ∧ B"
+   ],
+   "en": [
+    "A ∨ ¬B",
+    "A ⊕ B",
+    "¬A ∧ B",
+    "A ∧ B"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 176 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 176 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 176?"
+  },
+  "o": {
+   "uz": [
+    "B0",
+    "B1",
+    "AF",
+    "0B"
+   ],
+   "ru": [
+    "B0",
+    "B1",
+    "AF",
+    "0B"
+   ],
+   "en": [
+    "B0",
+    "B1",
+    "AF",
+    "0B"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "940 ta turli holatni kodlash uchun kamida nechta bit kerak?",
+   "ru": "Какое минимальное количество бит нужно, чтобы закодировать 940 различных состояний?",
+   "en": "What is the minimum number of bits needed to encode 940 different states?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "5",
+    "13",
+    "20"
+   ],
+   "ru": [
+    "10",
+    "5",
+    "13",
+    "20"
+   ],
+   "en": [
+    "10",
+    "5",
+    "13",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 36 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 36 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 36?"
+  },
+  "o": {
+   "uz": [
+    "100100",
+    "101100",
+    "110100",
+    "101000"
+   ],
+   "ru": [
+    "100100",
+    "101100",
+    "110100",
+    "101000"
+   ],
+   "en": [
+    "100100",
+    "101100",
+    "110100",
+    "101000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 1100001₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 1100001₂?",
+   "en": "What is the decimal value of the binary number 1100001₂?"
+  },
+  "o": {
+   "uz": [
+    "97",
+    "194",
+    "291",
+    "102"
+   ],
+   "ru": [
+    "97",
+    "194",
+    "291",
+    "102"
+   ],
+   "en": [
+    "97",
+    "194",
+    "291",
+    "102"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 16 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 16 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 16?"
+  },
+  "o": {
+   "uz": [
+    "10000",
+    "1111",
+    "11000",
+    "10100"
+   ],
+   "ru": [
+    "10000",
+    "1111",
+    "11000",
+    "10100"
+   ],
+   "en": [
+    "10000",
+    "1111",
+    "11000",
+    "10100"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 19 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 19 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 19?"
+  },
+  "o": {
+   "uz": [
+    "10011",
+    "10001",
+    "10111",
+    "10100"
+   ],
+   "ru": [
+    "10011",
+    "10001",
+    "10111",
+    "10100"
+   ],
+   "en": [
+    "10011",
+    "10001",
+    "10111",
+    "10100"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'n oltilik C2₁₆ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение шестнадцатеричного числа C2₁₆?",
+   "en": "What is the decimal value of the hexadecimal number C2₁₆?"
+  },
+  "o": {
+   "uz": [
+    "194",
+    "97",
+    "291",
+    "242"
+   ],
+   "ru": [
+    "194",
+    "97",
+    "291",
+    "242"
+   ],
+   "en": [
+    "194",
+    "97",
+    "291",
+    "242"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'n oltilik BA₁₆ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение шестнадцатеричного числа BA₁₆?",
+   "en": "What is the decimal value of the hexadecimal number BA₁₆?"
+  },
+  "o": {
+   "uz": [
+    "186",
+    "195",
+    "223",
+    "93"
+   ],
+   "ru": [
+    "186",
+    "195",
+    "223",
+    "93"
+   ],
+   "en": [
+    "186",
+    "195",
+    "223",
+    "93"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 11010₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 11010₂?",
+   "en": "What is the decimal value of the binary number 11010₂?"
+  },
+  "o": {
+   "uz": [
+    "26",
+    "23",
+    "33",
+    "36"
+   ],
+   "ru": [
+    "26",
+    "23",
+    "33",
+    "36"
+   ],
+   "en": [
+    "26",
+    "23",
+    "33",
+    "36"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'n oltilik 1A₁₆ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение шестнадцатеричного числа 1A₁₆?",
+   "en": "What is the decimal value of the hexadecimal number 1A₁₆?"
+  },
+  "o": {
+   "uz": [
+    "26",
+    "36",
+    "52",
+    "25"
+   ],
+   "ru": [
+    "26",
+    "36",
+    "52",
+    "25"
+   ],
+   "en": [
+    "26",
+    "36",
+    "52",
+    "25"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'n oltilik D4₁₆ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение шестнадцатеричного числа D4₁₆?",
+   "en": "What is the decimal value of the hexadecimal number D4₁₆?"
+  },
+  "o": {
+   "uz": [
+    "212",
+    "191",
+    "106",
+    "424"
+   ],
+   "ru": [
+    "212",
+    "191",
+    "106",
+    "424"
+   ],
+   "en": [
+    "212",
+    "191",
+    "106",
+    "424"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 23 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 23 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 23?"
+  },
+  "o": {
+   "uz": [
+    "17",
+    "18",
+    "16",
+    "71"
+   ],
+   "ru": [
+    "17",
+    "18",
+    "16",
+    "71"
+   ],
+   "en": [
+    "17",
+    "18",
+    "16",
+    "71"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 35 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 35 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 35?"
+  },
+  "o": {
+   "uz": [
+    "100011",
+    "101011",
+    "100111",
+    "110011"
+   ],
+   "ru": [
+    "100011",
+    "101011",
+    "100111",
+    "110011"
+   ],
+   "en": [
+    "100011",
+    "101011",
+    "100111",
+    "110011"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "12 bit yordamida nechta turli qiymatni kodlash mumkin?",
+   "ru": "Сколько различных значений можно закодировать с помощью 12 бит?",
+   "en": "How many different values can be encoded with 12 bits?"
+  },
+  "o": {
+   "uz": [
+    "4096",
+    "24",
+    "144",
+    "8192"
+   ],
+   "ru": [
+    "4096",
+    "24",
+    "144",
+    "8192"
+   ],
+   "en": [
+    "4096",
+    "24",
+    "144",
+    "8192"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "ASCII jadvalida «Y» harfining kodi 89 bo'lsa, «D» harfining kodi nechaga teng? (harflar tartib bilan joylashgan)",
+   "ru": "Если код буквы «Y» в таблице ASCII равен 89, чему равен код буквы «D»? (буквы идут по порядку)",
+   "en": "If the ASCII code of «Y» is 89, what is the code of «D»? (letters are in alphabetical order)"
+  },
+  "o": {
+   "uz": [
+    "68",
+    "82",
+    "34",
+    "136"
+   ],
+   "ru": [
+    "68",
+    "82",
+    "34",
+    "136"
+   ],
+   "en": [
+    "68",
+    "82",
+    "34",
+    "136"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "176 bit necha bayt?",
+   "ru": "176 бит — сколько байт?",
+   "en": "How many bytes are in 176 bits?"
+  },
+  "o": {
+   "uz": [
+    "22",
+    "21",
+    "27",
+    "29"
+   ],
+   "ru": [
+    "22",
+    "21",
+    "27",
+    "29"
+   ],
+   "en": [
+    "22",
+    "21",
+    "27",
+    "29"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 38 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 38 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 38?"
+  },
+  "o": {
+   "uz": [
+    "100110",
+    "100111",
+    "110110",
+    "101000"
+   ],
+   "ru": [
+    "100110",
+    "100111",
+    "110110",
+    "101000"
+   ],
+   "en": [
+    "100110",
+    "100111",
+    "110110",
+    "101000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 ta turli holatni kodlash uchun kamida nechta bit kerak?",
+   "ru": "Какое минимальное количество бит нужно, чтобы закодировать 3 различных состояний?",
+   "en": "What is the minimum number of bits needed to encode 3 different states?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "4",
+    "12",
+    "5"
+   ],
+   "ru": [
+    "2",
+    "4",
+    "12",
+    "5"
+   ],
+   "en": [
+    "2",
+    "4",
+    "12",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'n oltilik 3B₁₆ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение шестнадцатеричного числа 3B₁₆?",
+   "en": "What is the decimal value of the hexadecimal number 3B₁₆?"
+  },
+  "o": {
+   "uz": [
+    "59",
+    "62",
+    "44",
+    "118"
+   ],
+   "ru": [
+    "59",
+    "62",
+    "44",
+    "118"
+   ],
+   "en": [
+    "59",
+    "62",
+    "44",
+    "118"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 1001101₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 1001101₂?",
+   "en": "What is the decimal value of the binary number 1001101₂?"
+  },
+  "o": {
+   "uz": [
+    "77",
+    "92",
+    "81",
+    "154"
+   ],
+   "ru": [
+    "77",
+    "92",
+    "81",
+    "154"
+   ],
+   "en": [
+    "77",
+    "92",
+    "81",
+    "154"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 7 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 7 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 7?"
+  },
+  "o": {
+   "uz": [
+    "111",
+    "101",
+    "110",
+    "1001"
+   ],
+   "ru": [
+    "111",
+    "101",
+    "110",
+    "1001"
+   ],
+   "en": [
+    "111",
+    "101",
+    "110",
+    "1001"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'n oltilik A6₁₆ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение шестнадцатеричного числа A6₁₆?",
+   "en": "What is the decimal value of the hexadecimal number A6₁₆?"
+  },
+  "o": {
+   "uz": [
+    "166",
+    "208",
+    "158",
+    "83"
+   ],
+   "ru": [
+    "166",
+    "208",
+    "158",
+    "83"
+   ],
+   "en": [
+    "166",
+    "208",
+    "158",
+    "83"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 24 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 24 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 24?"
+  },
+  "o": {
+   "uz": [
+    "11000",
+    "11010",
+    "11100",
+    "11001"
+   ],
+   "ru": [
+    "11000",
+    "11010",
+    "11100",
+    "11001"
+   ],
+   "en": [
+    "11000",
+    "11010",
+    "11100",
+    "11001"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 101111₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 101111₂?",
+   "en": "What is the decimal value of the binary number 101111₂?"
+  },
+  "o": {
+   "uz": [
+    "47",
+    "71",
+    "45",
+    "49"
+   ],
+   "ru": [
+    "47",
+    "71",
+    "45",
+    "49"
+   ],
+   "en": [
+    "47",
+    "71",
+    "45",
+    "49"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 1100111₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 1100111₂?",
+   "en": "What is the decimal value of the binary number 1100111₂?"
+  },
+  "o": {
+   "uz": [
+    "103",
+    "113",
+    "309",
+    "206"
+   ],
+   "ru": [
+    "103",
+    "113",
+    "309",
+    "206"
+   ],
+   "en": [
+    "103",
+    "113",
+    "309",
+    "206"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1 bit yordamida nechta turli qiymatni kodlash mumkin?",
+   "ru": "Сколько различных значений можно закодировать с помощью 1 бит?",
+   "en": "How many different values can be encoded with 1 bits?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "1",
+    "4",
+    "9"
+   ],
+   "ru": [
+    "2",
+    "1",
+    "4",
+    "9"
+   ],
+   "en": [
+    "2",
+    "1",
+    "4",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "ASCII jadvalida «D» harfining kodi 68 bo'lsa, «E» harfining kodi nechaga teng? (harflar tartib bilan joylashgan)",
+   "ru": "Если код буквы «D» в таблице ASCII равен 68, чему равен код буквы «E»? (буквы идут по порядку)",
+   "en": "If the ASCII code of «D» is 68, what is the code of «E»? (letters are in alphabetical order)"
+  },
+  "o": {
+   "uz": [
+    "69",
+    "83",
+    "103",
+    "66"
+   ],
+   "ru": [
+    "69",
+    "83",
+    "103",
+    "66"
+   ],
+   "en": [
+    "69",
+    "83",
+    "103",
+    "66"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "14 bit yordamida nechta turli qiymatni kodlash mumkin?",
+   "ru": "Сколько различных значений можно закодировать с помощью 14 бит?",
+   "en": "How many different values can be encoded with 14 bits?"
+  },
+  "o": {
+   "uz": [
+    "16384",
+    "28",
+    "196",
+    "32768"
+   ],
+   "ru": [
+    "16384",
+    "28",
+    "196",
+    "32768"
+   ],
+   "en": [
+    "16384",
+    "28",
+    "196",
+    "32768"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "670 ta turli holatni kodlash uchun kamida nechta bit kerak?",
+   "ru": "Какое минимальное количество бит нужно, чтобы закодировать 670 различных состояний?",
+   "en": "What is the minimum number of bits needed to encode 670 different states?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "30",
+    "20",
+    "9"
+   ],
+   "ru": [
+    "10",
+    "30",
+    "20",
+    "9"
+   ],
+   "en": [
+    "10",
+    "30",
+    "20",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "ASCII jadvalida «I» harfining kodi 73 bo'lsa, «Q» harfining kodi nechaga teng? (harflar tartib bilan joylashgan)",
+   "ru": "Если код буквы «I» в таблице ASCII равен 73, чему равен код буквы «Q»? (буквы идут по порядку)",
+   "en": "If the ASCII code of «I» is 73, what is the code of «Q»? (letters are in alphabetical order)"
+  },
+  "o": {
+   "uz": [
+    "81",
+    "243",
+    "73",
+    "121"
+   ],
+   "ru": [
+    "81",
+    "243",
+    "73",
+    "121"
+   ],
+   "en": [
+    "81",
+    "243",
+    "73",
+    "121"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 100100₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 100100₂?",
+   "en": "What is the decimal value of the binary number 100100₂?"
+  },
+  "o": {
+   "uz": [
+    "36",
+    "32",
+    "72",
+    "38"
+   ],
+   "ru": [
+    "36",
+    "32",
+    "72",
+    "38"
+   ],
+   "en": [
+    "36",
+    "32",
+    "72",
+    "38"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "ASCII jadvalida «O» harfining kodi 79 bo'lsa, «H» harfining kodi nechaga teng? (harflar tartib bilan joylashgan)",
+   "ru": "Если код буквы «O» в таблице ASCII равен 79, чему равен код буквы «H»? (буквы идут по порядку)",
+   "en": "If the ASCII code of «O» is 79, what is the code of «H»? (letters are in alphabetical order)"
+  },
+  "o": {
+   "uz": [
+    "72",
+    "90",
+    "36",
+    "65"
+   ],
+   "ru": [
+    "72",
+    "90",
+    "36",
+    "65"
+   ],
+   "en": [
+    "72",
+    "90",
+    "36",
+    "65"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'n oltilik 19₁₆ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение шестнадцатеричного числа 19₁₆?",
+   "en": "What is the decimal value of the hexadecimal number 19₁₆?"
+  },
+  "o": {
+   "uz": [
+    "25",
+    "38",
+    "30",
+    "13"
+   ],
+   "ru": [
+    "25",
+    "38",
+    "30",
+    "13"
+   ],
+   "en": [
+    "25",
+    "38",
+    "30",
+    "13"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "405 ta turli holatni kodlash uchun kamida nechta bit kerak?",
+   "ru": "Какое минимальное количество бит нужно, чтобы закодировать 405 различных состояний?",
+   "en": "What is the minimum number of bits needed to encode 405 different states?"
+  },
+  "o": {
+   "uz": [
+    "9",
+    "8",
+    "27",
+    "18"
+   ],
+   "ru": [
+    "9",
+    "8",
+    "27",
+    "18"
+   ],
+   "en": [
+    "9",
+    "8",
+    "27",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 KB necha bayt? (1 KB = 1024 bayt)",
+   "ru": "2 КБ — сколько байт? (1 КБ = 1024 байт)",
+   "en": "How many bytes are in 2 KB? (1 KB = 1024 bytes)"
+  },
+  "o": {
+   "uz": [
+    "2048",
+    "2458",
+    "1638",
+    "6144"
+   ],
+   "ru": [
+    "2048",
+    "2458",
+    "1638",
+    "6144"
+   ],
+   "en": [
+    "2048",
+    "2458",
+    "1638",
+    "6144"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "5 bit yordamida nechta turli qiymatni kodlash mumkin?",
+   "ru": "Сколько различных значений можно закодировать с помощью 5 бит?",
+   "en": "How many different values can be encoded with 5 bits?"
+  },
+  "o": {
+   "uz": [
+    "32",
+    "10",
+    "25",
+    "64"
+   ],
+   "ru": [
+    "32",
+    "10",
+    "25",
+    "64"
+   ],
+   "en": [
+    "32",
+    "10",
+    "25",
+    "64"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 1110001₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 1110001₂?",
+   "en": "What is the decimal value of the binary number 1110001₂?"
+  },
+  "o": {
+   "uz": [
+    "113",
+    "169",
+    "90",
+    "339"
+   ],
+   "ru": [
+    "113",
+    "169",
+    "90",
+    "339"
+   ],
+   "en": [
+    "113",
+    "169",
+    "90",
+    "339"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 1100101₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 1100101₂?",
+   "en": "What is the decimal value of the binary number 1100101₂?"
+  },
+  "o": {
+   "uz": [
+    "101",
+    "81",
+    "303",
+    "111"
+   ],
+   "ru": [
+    "101",
+    "81",
+    "303",
+    "111"
+   ],
+   "en": [
+    "101",
+    "81",
+    "303",
+    "111"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 36 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 36 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 36?"
+  },
+  "o": {
+   "uz": [
+    "24",
+    "25",
+    "23",
+    "42"
+   ],
+   "ru": [
+    "24",
+    "25",
+    "23",
+    "42"
+   ],
+   "en": [
+    "24",
+    "25",
+    "23",
+    "42"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "18 bayt necha bit?",
+   "ru": "18 байт — сколько бит?",
+   "en": "How many bits are in 18 bytes?"
+  },
+  "o": {
+   "uz": [
+    "144",
+    "115",
+    "137",
+    "72"
+   ],
+   "ru": [
+    "144",
+    "115",
+    "137",
+    "72"
+   ],
+   "en": [
+    "144",
+    "115",
+    "137",
+    "72"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 1010110₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 1010110₂?",
+   "en": "What is the decimal value of the binary number 1010110₂?"
+  },
+  "o": {
+   "uz": [
+    "86",
+    "90",
+    "43",
+    "172"
+   ],
+   "ru": [
+    "86",
+    "90",
+    "43",
+    "172"
+   ],
+   "en": [
+    "86",
+    "90",
+    "43",
+    "172"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "22 bayt necha bit?",
+   "ru": "22 байт — сколько бит?",
+   "en": "How many bits are in 22 bytes?"
+  },
+  "o": {
+   "uz": [
+    "176",
+    "264",
+    "194",
+    "88"
+   ],
+   "ru": [
+    "176",
+    "264",
+    "194",
+    "88"
+   ],
+   "en": [
+    "176",
+    "264",
+    "194",
+    "88"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "131 ta turli holatni kodlash uchun kamida nechta bit kerak?",
+   "ru": "Какое минимальное количество бит нужно, чтобы закодировать 131 различных состояний?",
+   "en": "What is the minimum number of bits needed to encode 131 different states?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "18",
+    "3",
+    "4"
+   ],
+   "ru": [
+    "8",
+    "18",
+    "3",
+    "4"
+   ],
+   "en": [
+    "8",
+    "18",
+    "3",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ikkilik 1101010₂ sonining o'nlik qiymati nechaga teng?",
+   "ru": "Чему равно десятичное значение двоичного числа 1101010₂?",
+   "en": "What is the decimal value of the binary number 1101010₂?"
+  },
+  "o": {
+   "uz": [
+    "106",
+    "85",
+    "212",
+    "95"
+   ],
+   "ru": [
+    "106",
+    "85",
+    "212",
+    "95"
+   ],
+   "en": [
+    "106",
+    "85",
+    "212",
+    "95"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A = 1, B = 1 bo'lganda qaysi ifoda 1 ga (rost) teng?",
+   "ru": "При A = 1, B = 1 какое выражение равно 1 (истина)?",
+   "en": "When A = 1 and B = 1, which expression equals 1 (true)?"
+  },
+  "o": {
+   "uz": [
+    "¬A ∨ B",
+    "A ⊕ B",
+    "¬A ∧ ¬B",
+    "¬(A ∧ B)"
+   ],
+   "ru": [
+    "¬A ∨ B",
+    "A ⊕ B",
+    "¬A ∧ ¬B",
+    "¬(A ∧ B)"
+   ],
+   "en": [
+    "¬A ∨ B",
+    "A ⊕ B",
+    "¬A ∧ ¬B",
+    "¬(A ∧ B)"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "ASCII jadvalida «E» harfining kodi 69 bo'lsa, «Z» harfining kodi nechaga teng? (harflar tartib bilan joylashgan)",
+   "ru": "Если код буквы «E» в таблице ASCII равен 69, чему равен код буквы «Z»? (буквы идут по порядку)",
+   "en": "If the ASCII code of «E» is 69, what is the code of «Z»? (letters are in alphabetical order)"
+  },
+  "o": {
+   "uz": [
+    "90",
+    "94",
+    "112",
+    "81"
+   ],
+   "ru": [
+    "90",
+    "94",
+    "112",
+    "81"
+   ],
+   "en": [
+    "90",
+    "94",
+    "112",
+    "81"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 155 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 155 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 155?"
+  },
+  "o": {
+   "uz": [
+    "9B",
+    "9C",
+    "9A",
+    "B9"
+   ],
+   "ru": [
+    "9B",
+    "9C",
+    "9A",
+    "B9"
+   ],
+   "en": [
+    "9B",
+    "9C",
+    "9A",
+    "B9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "8 MB necha KB? (1 MB = 1024 KB)",
+   "ru": "8 МБ — сколько КБ? (1 МБ = 1024 КБ)",
+   "en": "How many KB are in 8 MB? (1 MB = 1024 KB)"
+  },
+  "o": {
+   "uz": [
+    "8192",
+    "10240",
+    "7373",
+    "4096"
+   ],
+   "ru": [
+    "8192",
+    "10240",
+    "7373",
+    "4096"
+   ],
+   "en": [
+    "8192",
+    "10240",
+    "7373",
+    "4096"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "7 bit yordamida nechta turli qiymatni kodlash mumkin?",
+   "ru": "Сколько различных значений можно закодировать с помощью 7 бит?",
+   "en": "How many different values can be encoded with 7 bits?"
+  },
+  "o": {
+   "uz": [
+    "128",
+    "14",
+    "49",
+    "256"
+   ],
+   "ru": [
+    "128",
+    "14",
+    "49",
+    "256"
+   ],
+   "en": [
+    "128",
+    "14",
+    "49",
+    "256"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 21 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 21 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 21?"
+  },
+  "o": {
+   "uz": [
+    "10101",
+    "10110",
+    "10001",
+    "11101"
+   ],
+   "ru": [
+    "10101",
+    "10110",
+    "10001",
+    "11101"
+   ],
+   "en": [
+    "10101",
+    "10110",
+    "10001",
+    "11101"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 37 sonining ikkilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 37 в двоичной системе?",
+   "en": "What is the binary representation of the decimal number 37?"
+  },
+  "o": {
+   "uz": [
+    "100101",
+    "100100",
+    "100001",
+    "101001"
+   ],
+   "ru": [
+    "100101",
+    "100100",
+    "100001",
+    "101001"
+   ],
+   "en": [
+    "100101",
+    "100100",
+    "100001",
+    "101001"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'nlik 42 sonining o'n oltilik ko'rinishi qaysi?",
+   "ru": "Как записывается десятичное число 42 в шестнадцатеричной системе?",
+   "en": "What is the hexadecimal representation of the decimal number 42?"
+  },
+  "o": {
+   "uz": [
+    "2A",
+    "2B",
+    "29",
+    "A2"
+   ],
+   "ru": [
+    "2A",
+    "2B",
+    "29",
+    "A2"
+   ],
+   "en": [
+    "2A",
+    "2B",
+    "29",
+    "A2"
+   ]
+  },
+  "a": 0
+ }
+]

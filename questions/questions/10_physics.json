@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Mexanizm 200 J ish sarfladi, foydali ish 160 J. Foydali ish koeffitsiyenti necha foiz?",
+   "ru": "Механизм затратил 200 Дж, полезная работа 160 Дж. Чему равен КПД (%)?",
+   "en": "A machine used 200 J of work and produced 160 J of useful work. What is its efficiency (%)?"
+  },
+  "o": {
+   "uz": [
+    "80",
+    "40",
+    "160",
+    "60"
+   ],
+   "ru": [
+    "80",
+    "40",
+    "160",
+    "60"
+   ],
+   "en": [
+    "80",
+    "40",
+    "160",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 400 N/m bo'lgan prujina 18 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 400 Н/м растянули на 18 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 400 N/m is stretched by 18 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "72",
+    "54",
+    "36",
+    "86"
+   ],
+   "ru": [
+    "72",
+    "54",
+    "36",
+    "86"
+   ],
+   "en": [
+    "72",
+    "54",
+    "36",
+    "86"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 5 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 45 N va 15 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 5 кг вдоль одной прямой в противоположных направлениях действуют силы 45 Н и 15 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 5 kg body is acted on by forces of 45 N and 15 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "11",
+    "19",
+    "3"
+   ],
+   "ru": [
+    "6",
+    "11",
+    "19",
+    "3"
+   ],
+   "en": [
+    "6",
+    "11",
+    "19",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 1000 N/m bo'lgan prujina 14 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 1000 Н/м растянули на 14 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 1000 N/m is stretched by 14 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "140",
+    "210",
+    "133",
+    "280"
+   ],
+   "ru": [
+    "140",
+    "210",
+    "133",
+    "280"
+   ],
+   "en": [
+    "140",
+    "210",
+    "133",
+    "280"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 17 litr bo'lgan jism suvga to'liq botirilgan. Arximed kuchi necha N? (ρ = 1000 kg/m³, g = 10 m/s²)",
+   "ru": "Тело объёмом 17 л полностью погружено в воду. Чему равна сила Архимеда (Н)? (ρ = 1000 кг/м³, g = 10 м/с²)",
+   "en": "A body of volume 17 L is fully submerged in water. What is the buoyant force (N)? (ρ = 1000 kg/m³, g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "170",
+    "204",
+    "255",
+    "178"
+   ],
+   "ru": [
+    "170",
+    "204",
+    "255",
+    "178"
+   ],
+   "en": [
+    "170",
+    "204",
+    "255",
+    "178"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 15 litr bo'lgan jism suvga to'liq botirilgan. Arximed kuchi necha N? (ρ = 1000 kg/m³, g = 10 m/s²)",
+   "ru": "Тело объёмом 15 л полностью погружено в воду. Чему равна сила Архимеда (Н)? (ρ = 1000 кг/м³, g = 10 м/с²)",
+   "en": "A body of volume 15 L is fully submerged in water. What is the buoyant force (N)? (ρ = 1000 kg/m³, g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "150",
+    "165",
+    "225",
+    "300"
+   ],
+   "ru": [
+    "150",
+    "165",
+    "225",
+    "300"
+   ],
+   "en": [
+    "150",
+    "165",
+    "225",
+    "300"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 8 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 66 N va 26 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 8 кг вдоль одной прямой в противоположных направлениях действуют силы 66 Н и 26 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 8 kg body is acted on by forces of 66 N and 26 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "0",
+    "15",
+    "18"
+   ],
+   "ru": [
+    "5",
+    "0",
+    "15",
+    "18"
+   ],
+   "en": [
+    "5",
+    "0",
+    "15",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Aylanish davri 0.04 s bo'lgan jismning chastotasi necha Hz?",
+   "ru": "Период вращения тела 0.04 с. Чему равна частота (Гц)?",
+   "en": "A body rotates with period 0.04 s. What is its frequency (Hz)?"
+  },
+  "o": {
+   "uz": [
+    "25",
+    "50",
+    "32",
+    "26"
+   ],
+   "ru": [
+    "25",
+    "50",
+    "32",
+    "26"
+   ],
+   "en": [
+    "25",
+    "50",
+    "32",
+    "26"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 300 N/m bo'lgan prujina 3 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 300 Н/м растянули на 3 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 300 N/m is stretched by 3 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "9",
+    "14",
+    "4",
+    "6"
+   ],
+   "ru": [
+    "9",
+    "14",
+    "4",
+    "6"
+   ],
+   "en": [
+    "9",
+    "14",
+    "4",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 500 N/m bo'lgan prujina 19 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 500 Н/м растянули на 19 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 500 N/m is stretched by 19 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "95",
+    "100",
+    "47",
+    "190"
+   ],
+   "ru": [
+    "95",
+    "100",
+    "47",
+    "190"
+   ],
+   "en": [
+    "95",
+    "100",
+    "47",
+    "190"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Mexanizm 100 J ish sarfladi, foydali ish 50 J. Foydali ish koeffitsiyenti necha foiz?",
+   "ru": "Механизм затратил 100 Дж, полезная работа 50 Дж. Чему равен КПД (%)?",
+   "en": "A machine used 100 J of work and produced 50 J of useful work. What is its efficiency (%)?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "25",
+    "45",
+    "100"
+   ],
+   "ru": [
+    "50",
+    "25",
+    "45",
+    "100"
+   ],
+   "en": [
+    "50",
+    "25",
+    "45",
+    "100"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 2 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 28 N va 18 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 2 кг вдоль одной прямой в противоположных направлениях действуют силы 28 Н и 18 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 2 kg body is acted on by forces of 28 N and 18 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "15",
+    "0",
+    "6"
+   ],
+   "ru": [
+    "5",
+    "15",
+    "0",
+    "6"
+   ],
+   "en": [
+    "5",
+    "15",
+    "0",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 6 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 34 N va 10 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 6 кг вдоль одной прямой в противоположных направлениях действуют силы 34 Н и 10 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 6 kg body is acted on by forces of 34 N and 10 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "12",
+    "2",
+    "8"
+   ],
+   "ru": [
+    "4",
+    "12",
+    "2",
+    "8"
+   ],
+   "en": [
+    "4",
+    "12",
+    "2",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gazning bosimi 5 atm, hajmi 4 l. Harorat o'zgarmas, hajm 2 l gacha o'zgardi. Yangi bosim necha atm?",
+   "ru": "Давление газа 5 атм, объём 4 л. При постоянной температуре объём стал 2 л. Каким стало давление (атм)?",
+   "en": "A gas has pressure 5 atm and volume 4 L. At constant temperature the volume becomes 2 L. What is the new pressure (atm)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "5",
+    "13",
+    "30"
+   ],
+   "ru": [
+    "10",
+    "5",
+    "13",
+    "30"
+   ],
+   "en": [
+    "10",
+    "5",
+    "13",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Mexanizm 500 J ish sarfladi, foydali ish 375 J. Foydali ish koeffitsiyenti necha foiz?",
+   "ru": "Механизм затратил 500 Дж, полезная работа 375 Дж. Чему равен КПД (%)?",
+   "en": "A machine used 500 J of work and produced 375 J of useful work. What is its efficiency (%)?"
+  },
+  "o": {
+   "uz": [
+    "75",
+    "71",
+    "90",
+    "56"
+   ],
+   "ru": [
+    "75",
+    "71",
+    "90",
+    "56"
+   ],
+   "en": [
+    "75",
+    "71",
+    "90",
+    "56"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 17 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 132 N va 13 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 17 кг вдоль одной прямой в противоположных направлениях действуют силы 132 Н и 13 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 17 kg body is acted on by forces of 132 N and 13 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "2",
+    "14",
+    "8"
+   ],
+   "ru": [
+    "7",
+    "2",
+    "14",
+    "8"
+   ],
+   "en": [
+    "7",
+    "2",
+    "14",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.1 bo'lgan gorizontal sirtda 6 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 6 кг лежит на горизонтальной поверхности, коэффициент трения 0.1. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 6 kg body lies on a horizontal surface with friction coefficient 0.1. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "13",
+    "3",
+    "7"
+   ],
+   "ru": [
+    "6",
+    "13",
+    "3",
+    "7"
+   ],
+   "en": [
+    "6",
+    "13",
+    "3",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 500 N/m bo'lgan prujina 16 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 500 Н/м растянули на 16 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 500 N/m is stretched by 16 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "80",
+    "40",
+    "100",
+    "240"
+   ],
+   "ru": [
+    "80",
+    "40",
+    "100",
+    "240"
+   ],
+   "en": [
+    "80",
+    "40",
+    "100",
+    "240"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Aylanish davri 0.25 s bo'lgan jismning chastotasi necha Hz?",
+   "ru": "Период вращения тела 0.25 с. Чему равна частота (Гц)?",
+   "en": "A body rotates with period 0.25 s. What is its frequency (Hz)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "6",
+    "5",
+    "7"
+   ],
+   "ru": [
+    "4",
+    "6",
+    "5",
+    "7"
+   ],
+   "en": [
+    "4",
+    "6",
+    "5",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.2 bo'lgan gorizontal sirtda 10 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 10 кг лежит на горизонтальной поверхности, коэффициент трения 0.2. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 10 kg body lies on a horizontal surface with friction coefficient 0.2. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "30",
+    "27",
+    "10"
+   ],
+   "ru": [
+    "20",
+    "30",
+    "27",
+    "10"
+   ],
+   "en": [
+    "20",
+    "30",
+    "27",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Mexanizm 500 J ish sarfladi, foydali ish 100 J. Foydali ish koeffitsiyenti necha foiz?",
+   "ru": "Механизм затратил 500 Дж, полезная работа 100 Дж. Чему равен КПД (%)?",
+   "en": "A machine used 500 J of work and produced 100 J of useful work. What is its efficiency (%)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "19",
+    "17",
+    "60"
+   ],
+   "ru": [
+    "20",
+    "19",
+    "17",
+    "60"
+   ],
+   "en": [
+    "20",
+    "19",
+    "17",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Aylanish davri 0.02 s bo'lgan jismning chastotasi necha Hz?",
+   "ru": "Период вращения тела 0.02 с. Чему равна частота (Гц)?",
+   "en": "A body rotates with period 0.02 s. What is its frequency (Hz)?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "25",
+    "75",
+    "55"
+   ],
+   "ru": [
+    "50",
+    "25",
+    "75",
+    "55"
+   ],
+   "en": [
+    "50",
+    "25",
+    "75",
+    "55"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 200 N/m bo'lgan prujina 11 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 200 Н/м растянули на 11 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 200 N/m is stretched by 11 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "22",
+    "27",
+    "19",
+    "25"
+   ],
+   "ru": [
+    "22",
+    "27",
+    "19",
+    "25"
+   ],
+   "en": [
+    "22",
+    "27",
+    "19",
+    "25"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 3 litr bo'lgan jism suvga to'liq botirilgan. Arximed kuchi necha N? (ρ = 1000 kg/m³, g = 10 m/s²)",
+   "ru": "Тело объёмом 3 л полностью погружено в воду. Чему равна сила Архимеда (Н)? (ρ = 1000 кг/м³, g = 10 м/с²)",
+   "en": "A body of volume 3 L is fully submerged in water. What is the buoyant force (N)? (ρ = 1000 kg/m³, g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "37",
+    "60",
+    "32"
+   ],
+   "ru": [
+    "30",
+    "37",
+    "60",
+    "32"
+   ],
+   "en": [
+    "30",
+    "37",
+    "60",
+    "32"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gazning bosimi 8 atm, hajmi 10 l. Harorat o'zgarmas, hajm 20 l gacha o'zgardi. Yangi bosim necha atm?",
+   "ru": "Давление газа 8 атм, объём 10 л. При постоянной температуре объём стал 20 л. Каким стало давление (атм)?",
+   "en": "A gas has pressure 8 atm and volume 10 L. At constant temperature the volume becomes 20 L. What is the new pressure (atm)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "7",
+    "12",
+    "17"
+   ],
+   "ru": [
+    "4",
+    "7",
+    "12",
+    "17"
+   ],
+   "en": [
+    "4",
+    "7",
+    "12",
+    "17"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.5 bo'lgan gorizontal sirtda 36 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 36 кг лежит на горизонтальной поверхности, коэффициент трения 0.5. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 36 kg body lies on a horizontal surface with friction coefficient 0.5. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "180",
+    "216",
+    "360",
+    "198"
+   ],
+   "ru": [
+    "180",
+    "216",
+    "360",
+    "198"
+   ],
+   "en": [
+    "180",
+    "216",
+    "360",
+    "198"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 1 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 22 N va 15 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 1 кг вдоль одной прямой в противоположных направлениях действуют силы 22 Н и 15 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 1 kg body is acted on by forces of 22 N and 15 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "5",
+    "17",
+    "21"
+   ],
+   "ru": [
+    "7",
+    "5",
+    "17",
+    "21"
+   ],
+   "en": [
+    "7",
+    "5",
+    "17",
+    "21"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.5 bo'lgan gorizontal sirtda 18 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 18 кг лежит на горизонтальной поверхности, коэффициент трения 0.5. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 18 kg body lies on a horizontal surface with friction coefficient 0.5. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "90",
+    "94",
+    "180",
+    "108"
+   ],
+   "ru": [
+    "90",
+    "94",
+    "180",
+    "108"
+   ],
+   "en": [
+    "90",
+    "94",
+    "180",
+    "108"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism burchak tezligi 3 rad/s bilan radiusi 2 m bo'lgan aylana bo'ylab harakatlanmoqda. Chiziqli tezligi necha m/s?",
+   "ru": "Тело движется по окружности радиусом 2 м с угловой скоростью 3 рад/с. Чему равна линейная скорость (м/с)?",
+   "en": "A body moves along a circle of radius 2 m with angular speed 3 rad/s. What is its linear speed (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "3",
+    "7",
+    "1"
+   ],
+   "ru": [
+    "6",
+    "3",
+    "7",
+    "1"
+   ],
+   "en": [
+    "6",
+    "3",
+    "7",
+    "1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Aylanish davri 0.2 s bo'lgan jismning chastotasi necha Hz?",
+   "ru": "Период вращения тела 0.2 с. Чему равна частота (Гц)?",
+   "en": "A body rotates with period 0.2 s. What is its frequency (Hz)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "4",
+    "8",
+    "6"
+   ],
+   "ru": [
+    "5",
+    "4",
+    "8",
+    "6"
+   ],
+   "en": [
+    "5",
+    "4",
+    "8",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gazning bosimi 7 atm, hajmi 12 l. Harorat o'zgarmas, hajm 3 l gacha o'zgardi. Yangi bosim necha atm?",
+   "ru": "Давление газа 7 атм, объём 12 л. При постоянной температуре объём стал 3 л. Каким стало давление (атм)?",
+   "en": "A gas has pressure 7 atm and volume 12 L. At constant temperature the volume becomes 3 L. What is the new pressure (atm)?"
+  },
+  "o": {
+   "uz": [
+    "28",
+    "27",
+    "30",
+    "33"
+   ],
+   "ru": [
+    "28",
+    "27",
+    "30",
+    "33"
+   ],
+   "en": [
+    "28",
+    "27",
+    "30",
+    "33"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism burchak tezligi 10 rad/s bilan radiusi 7 m bo'lgan aylana bo'ylab harakatlanmoqda. Chiziqli tezligi necha m/s?",
+   "ru": "Тело движется по окружности радиусом 7 м с угловой скоростью 10 рад/с. Чему равна линейная скорость (м/с)?",
+   "en": "A body moves along a circle of radius 7 m with angular speed 10 rad/s. What is its linear speed (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "70",
+    "35",
+    "74",
+    "140"
+   ],
+   "ru": [
+    "70",
+    "35",
+    "74",
+    "140"
+   ],
+   "en": [
+    "70",
+    "35",
+    "74",
+    "140"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.5 bo'lgan gorizontal sirtda 38 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 38 кг лежит на горизонтальной поверхности, коэффициент трения 0.5. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 38 kg body lies on a horizontal surface with friction coefficient 0.5. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "190",
+    "570",
+    "142",
+    "152"
+   ],
+   "ru": [
+    "190",
+    "570",
+    "142",
+    "152"
+   ],
+   "en": [
+    "190",
+    "570",
+    "142",
+    "152"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Aylanish davri 0.05 s bo'lgan jismning chastotasi necha Hz?",
+   "ru": "Период вращения тела 0.05 с. Чему равна частота (Гц)?",
+   "en": "A body rotates with period 0.05 s. What is its frequency (Hz)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "15",
+    "60",
+    "18"
+   ],
+   "ru": [
+    "20",
+    "15",
+    "60",
+    "18"
+   ],
+   "en": [
+    "20",
+    "15",
+    "60",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 51 litr bo'lgan jism suvga to'liq botirilgan. Arximed kuchi necha N? (ρ = 1000 kg/m³, g = 10 m/s²)",
+   "ru": "Тело объёмом 51 л полностью погружено в воду. Чему равна сила Архимеда (Н)? (ρ = 1000 кг/м³, g = 10 м/с²)",
+   "en": "A body of volume 51 L is fully submerged in water. What is the buoyant force (N)? (ρ = 1000 kg/m³, g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "510",
+    "1530",
+    "561",
+    "255"
+   ],
+   "ru": [
+    "510",
+    "1530",
+    "561",
+    "255"
+   ],
+   "en": [
+    "510",
+    "1530",
+    "561",
+    "255"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Mexanizm 500 J ish sarfladi, foydali ish 200 J. Foydali ish koeffitsiyenti necha foiz?",
+   "ru": "Механизм затратил 500 Дж, полезная работа 200 Дж. Чему равен КПД (%)?",
+   "en": "A machine used 500 J of work and produced 200 J of useful work. What is its efficiency (%)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "38",
+    "42",
+    "20"
+   ],
+   "ru": [
+    "40",
+    "38",
+    "42",
+    "20"
+   ],
+   "en": [
+    "40",
+    "38",
+    "42",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 32 litr bo'lgan jism suvga to'liq botirilgan. Arximed kuchi necha N? (ρ = 1000 kg/m³, g = 10 m/s²)",
+   "ru": "Тело объёмом 32 л полностью погружено в воду. Чему равна сила Архимеда (Н)? (ρ = 1000 кг/м³, g = 10 м/с²)",
+   "en": "A body of volume 32 L is fully submerged in water. What is the buoyant force (N)? (ρ = 1000 kg/m³, g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "320",
+    "288",
+    "480",
+    "256"
+   ],
+   "ru": [
+    "320",
+    "288",
+    "480",
+    "256"
+   ],
+   "en": [
+    "320",
+    "288",
+    "480",
+    "256"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 60 litr bo'lgan jism suvga to'liq botirilgan. Arximed kuchi necha N? (ρ = 1000 kg/m³, g = 10 m/s²)",
+   "ru": "Тело объёмом 60 л полностью погружено в воду. Чему равна сила Архимеда (Н)? (ρ = 1000 кг/м³, g = 10 м/с²)",
+   "en": "A body of volume 60 L is fully submerged in water. What is the buoyant force (N)? (ρ = 1000 kg/m³, g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "600",
+    "720",
+    "900",
+    "480"
+   ],
+   "ru": [
+    "600",
+    "720",
+    "900",
+    "480"
+   ],
+   "en": [
+    "600",
+    "720",
+    "900",
+    "480"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Aylanish davri 0.01 s bo'lgan jismning chastotasi necha Hz?",
+   "ru": "Период вращения тела 0.01 с. Чему равна частота (Гц)?",
+   "en": "A body rotates with period 0.01 s. What is its frequency (Hz)?"
+  },
+  "o": {
+   "uz": [
+    "100",
+    "75",
+    "150",
+    "90"
+   ],
+   "ru": [
+    "100",
+    "75",
+    "150",
+    "90"
+   ],
+   "en": [
+    "100",
+    "75",
+    "150",
+    "90"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism burchak tezligi 12 rad/s bilan radiusi 7 m bo'lgan aylana bo'ylab harakatlanmoqda. Chiziqli tezligi necha m/s?",
+   "ru": "Тело движется по окружности радиусом 7 м с угловой скоростью 12 рад/с. Чему равна линейная скорость (м/с)?",
+   "en": "A body moves along a circle of radius 7 m with angular speed 12 rad/s. What is its linear speed (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "84",
+    "88",
+    "168",
+    "63"
+   ],
+   "ru": [
+    "84",
+    "88",
+    "168",
+    "63"
+   ],
+   "en": [
+    "84",
+    "88",
+    "168",
+    "63"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 2 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 23 N va 21 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 2 кг вдоль одной прямой в противоположных направлениях действуют силы 23 Н и 21 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 2 kg body is acted on by forces of 23 N and 21 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "11",
+    "0",
+    "4"
+   ],
+   "ru": [
+    "1",
+    "11",
+    "0",
+    "4"
+   ],
+   "en": [
+    "1",
+    "11",
+    "0",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gazning bosimi 4 atm, hajmi 4 l. Harorat o'zgarmas, hajm 1 l gacha o'zgardi. Yangi bosim necha atm?",
+   "ru": "Давление газа 4 атм, объём 4 л. При постоянной температуре объём стал 1 л. Каким стало давление (атм)?",
+   "en": "A gas has pressure 4 atm and volume 4 L. At constant temperature the volume becomes 1 L. What is the new pressure (atm)?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "18",
+    "24",
+    "19"
+   ],
+   "ru": [
+    "16",
+    "18",
+    "24",
+    "19"
+   ],
+   "en": [
+    "16",
+    "18",
+    "24",
+    "19"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.5 bo'lgan gorizontal sirtda 30 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 30 кг лежит на горизонтальной поверхности, коэффициент трения 0.5. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 30 kg body lies on a horizontal surface with friction coefficient 0.5. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "150",
+    "450",
+    "135",
+    "75"
+   ],
+   "ru": [
+    "150",
+    "450",
+    "135",
+    "75"
+   ],
+   "en": [
+    "150",
+    "450",
+    "135",
+    "75"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism burchak tezligi 8 rad/s bilan radiusi 7 m bo'lgan aylana bo'ylab harakatlanmoqda. Chiziqli tezligi necha m/s?",
+   "ru": "Тело движется по окружности радиусом 7 м с угловой скоростью 8 рад/с. Чему равна линейная скорость (м/с)?",
+   "en": "A body moves along a circle of radius 7 m with angular speed 8 rad/s. What is its linear speed (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "56",
+    "70",
+    "59",
+    "50"
+   ],
+   "ru": [
+    "56",
+    "70",
+    "59",
+    "50"
+   ],
+   "en": [
+    "56",
+    "70",
+    "59",
+    "50"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 7 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 73 N va 17 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 7 кг вдоль одной прямой в противоположных направлениях действуют силы 73 Н и 17 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 7 kg body is acted on by forces of 73 N and 17 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "16",
+    "5",
+    "21"
+   ],
+   "ru": [
+    "8",
+    "16",
+    "5",
+    "21"
+   ],
+   "en": [
+    "8",
+    "16",
+    "5",
+    "21"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Mexanizm 100 J ish sarfladi, foydali ish 25 J. Foydali ish koeffitsiyenti necha foiz?",
+   "ru": "Механизм затратил 100 Дж, полезная работа 25 Дж. Чему равен КПД (%)?",
+   "en": "A machine used 100 J of work and produced 25 J of useful work. What is its efficiency (%)?"
+  },
+  "o": {
+   "uz": [
+    "25",
+    "38",
+    "27",
+    "24"
+   ],
+   "ru": [
+    "25",
+    "38",
+    "27",
+    "24"
+   ],
+   "en": [
+    "25",
+    "38",
+    "27",
+    "24"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism burchak tezligi 9 rad/s bilan radiusi 8 m bo'lgan aylana bo'ylab harakatlanmoqda. Chiziqli tezligi necha m/s?",
+   "ru": "Тело движется по окружности радиусом 8 м с угловой скоростью 9 рад/с. Чему равна линейная скорость (м/с)?",
+   "en": "A body moves along a circle of radius 8 m with angular speed 9 rad/s. What is its linear speed (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "72",
+    "76",
+    "58",
+    "54"
+   ],
+   "ru": [
+    "72",
+    "76",
+    "58",
+    "54"
+   ],
+   "en": [
+    "72",
+    "76",
+    "58",
+    "54"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 100 N/m bo'lgan prujina 4 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 100 Н/м растянули на 4 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 100 N/m is stretched by 4 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "14",
+    "6",
+    "17"
+   ],
+   "ru": [
+    "4",
+    "14",
+    "6",
+    "17"
+   ],
+   "en": [
+    "4",
+    "14",
+    "6",
+    "17"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.1 bo'lgan gorizontal sirtda 12 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 12 кг лежит на горизонтальной поверхности, коэффициент трения 0.1. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 12 kg body lies on a horizontal surface with friction coefficient 0.1. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "14",
+    "6",
+    "13"
+   ],
+   "ru": [
+    "12",
+    "14",
+    "6",
+    "13"
+   ],
+   "en": [
+    "12",
+    "14",
+    "6",
+    "13"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.25 bo'lgan gorizontal sirtda 4 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 4 кг лежит на горизонтальной поверхности, коэффициент трения 0.25. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 4 kg body lies on a horizontal surface with friction coefficient 0.25. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "12",
+    "20",
+    "11"
+   ],
+   "ru": [
+    "10",
+    "12",
+    "20",
+    "11"
+   ],
+   "en": [
+    "10",
+    "12",
+    "20",
+    "11"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 400 N/m bo'lgan prujina 1 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 400 Н/м растянули на 1 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 400 N/m is stretched by 1 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "3",
+    "11",
+    "12"
+   ],
+   "ru": [
+    "4",
+    "3",
+    "11",
+    "12"
+   ],
+   "en": [
+    "4",
+    "3",
+    "11",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism burchak tezligi 12 rad/s bilan radiusi 5 m bo'lgan aylana bo'ylab harakatlanmoqda. Chiziqli tezligi necha m/s?",
+   "ru": "Тело движется по окружности радиусом 5 м с угловой скоростью 12 рад/с. Чему равна линейная скорость (м/с)?",
+   "en": "A body moves along a circle of radius 5 m with angular speed 12 rad/s. What is its linear speed (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "45",
+    "57",
+    "66"
+   ],
+   "ru": [
+    "60",
+    "45",
+    "57",
+    "66"
+   ],
+   "en": [
+    "60",
+    "45",
+    "57",
+    "66"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 20 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 27 N va 7 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 20 кг вдоль одной прямой в противоположных направлениях действуют силы 27 Н и 7 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 20 kg body is acted on by forces of 27 N and 7 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "8",
+    "2",
+    "11"
+   ],
+   "ru": [
+    "1",
+    "8",
+    "2",
+    "11"
+   ],
+   "en": [
+    "1",
+    "8",
+    "2",
+    "11"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gazning bosimi 1 atm, hajmi 10 l. Harorat o'zgarmas, hajm 5 l gacha o'zgardi. Yangi bosim necha atm?",
+   "ru": "Давление газа 1 атм, объём 10 л. При постоянной температуре объём стал 5 л. Каким стало давление (атм)?",
+   "en": "A gas has pressure 1 atm and volume 10 L. At constant temperature the volume becomes 5 L. What is the new pressure (atm)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "4",
+    "0",
+    "1"
+   ],
+   "ru": [
+    "2",
+    "4",
+    "0",
+    "1"
+   ],
+   "en": [
+    "2",
+    "4",
+    "0",
+    "1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.25 bo'lgan gorizontal sirtda 12 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 12 кг лежит на горизонтальной поверхности, коэффициент трения 0.25. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 12 kg body lies on a horizontal surface with friction coefficient 0.25. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "25",
+    "60",
+    "28"
+   ],
+   "ru": [
+    "30",
+    "25",
+    "60",
+    "28"
+   ],
+   "en": [
+    "30",
+    "25",
+    "60",
+    "28"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 800 N/m bo'lgan prujina 15 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 800 Н/м растянули на 15 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 800 N/m is stretched by 15 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "120",
+    "150",
+    "60",
+    "114"
+   ],
+   "ru": [
+    "120",
+    "150",
+    "60",
+    "114"
+   ],
+   "en": [
+    "120",
+    "150",
+    "60",
+    "114"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gazning bosimi 7 atm, hajmi 8 l. Harorat o'zgarmas, hajm 14 l gacha o'zgardi. Yangi bosim necha atm?",
+   "ru": "Давление газа 7 атм, объём 8 л. При постоянной температуре объём стал 14 л. Каким стало давление (атм)?",
+   "en": "A gas has pressure 7 atm and volume 8 L. At constant temperature the volume becomes 14 L. What is the new pressure (atm)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "9",
+    "17",
+    "7"
+   ],
+   "ru": [
+    "4",
+    "9",
+    "17",
+    "7"
+   ],
+   "en": [
+    "4",
+    "9",
+    "17",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gazning bosimi 1 atm, hajmi 12 l. Harorat o'zgarmas, hajm 3 l gacha o'zgardi. Yangi bosim necha atm?",
+   "ru": "Давление газа 1 атм, объём 12 л. При постоянной температуре объём стал 3 л. Каким стало давление (атм)?",
+   "en": "A gas has pressure 1 atm and volume 12 L. At constant temperature the volume becomes 3 L. What is the new pressure (atm)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "12",
+    "8",
+    "3"
+   ],
+   "ru": [
+    "4",
+    "12",
+    "8",
+    "3"
+   ],
+   "en": [
+    "4",
+    "12",
+    "8",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 30 litr bo'lgan jism suvga to'liq botirilgan. Arximed kuchi necha N? (ρ = 1000 kg/m³, g = 10 m/s²)",
+   "ru": "Тело объёмом 30 л полностью погружено в воду. Чему равна сила Архимеда (Н)? (ρ = 1000 кг/м³, g = 10 м/с²)",
+   "en": "A body of volume 30 L is fully submerged in water. What is the buoyant force (N)? (ρ = 1000 kg/m³, g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "300",
+    "375",
+    "285",
+    "360"
+   ],
+   "ru": [
+    "300",
+    "375",
+    "285",
+    "360"
+   ],
+   "en": [
+    "300",
+    "375",
+    "285",
+    "360"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 17 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 129 N va 10 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 17 кг вдоль одной прямой в противоположных направлениях действуют силы 129 Н и 10 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 17 kg body is acted on by forces of 129 N and 10 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "7",
+    "8",
+    "6",
+    "14"
+   ],
+   "ru": [
+    "7",
+    "8",
+    "6",
+    "14"
+   ],
+   "en": [
+    "7",
+    "8",
+    "6",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 49 litr bo'lgan jism suvga to'liq botirilgan. Arximed kuchi necha N? (ρ = 1000 kg/m³, g = 10 m/s²)",
+   "ru": "Тело объёмом 49 л полностью погружено в воду. Чему равна сила Архимеда (Н)? (ρ = 1000 кг/м³, g = 10 м/с²)",
+   "en": "A body of volume 49 L is fully submerged in water. What is the buoyant force (N)? (ρ = 1000 kg/m³, g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "490",
+    "514",
+    "1470",
+    "612"
+   ],
+   "ru": [
+    "490",
+    "514",
+    "1470",
+    "612"
+   ],
+   "en": [
+    "490",
+    "514",
+    "1470",
+    "612"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 300 N/m bo'lgan prujina 11 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 300 Н/м растянули на 11 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 300 N/m is stretched by 11 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "33",
+    "66",
+    "30",
+    "35"
+   ],
+   "ru": [
+    "33",
+    "66",
+    "30",
+    "35"
+   ],
+   "en": [
+    "33",
+    "66",
+    "30",
+    "35"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 2 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 26 N va 20 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 2 кг вдоль одной прямой в противоположных направлениях действуют силы 26 Н и 20 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 2 kg body is acted on by forces of 26 N and 20 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "16",
+    "0",
+    "6"
+   ],
+   "ru": [
+    "3",
+    "16",
+    "0",
+    "6"
+   ],
+   "en": [
+    "3",
+    "16",
+    "0",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism burchak tezligi 8 rad/s bilan radiusi 3 m bo'lgan aylana bo'ylab harakatlanmoqda. Chiziqli tezligi necha m/s?",
+   "ru": "Тело движется по окружности радиусом 3 м с угловой скоростью 8 рад/с. Чему равна линейная скорость (м/с)?",
+   "en": "A body moves along a circle of radius 3 m with angular speed 8 rad/s. What is its linear speed (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "24",
+    "37",
+    "12",
+    "72"
+   ],
+   "ru": [
+    "24",
+    "37",
+    "12",
+    "72"
+   ],
+   "en": [
+    "24",
+    "37",
+    "12",
+    "72"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 800 N/m bo'lgan prujina 17 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 800 Н/м растянули на 17 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 800 N/m is stretched by 17 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "136",
+    "163",
+    "109",
+    "204"
+   ],
+   "ru": [
+    "136",
+    "163",
+    "109",
+    "204"
+   ],
+   "en": [
+    "136",
+    "163",
+    "109",
+    "204"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 50 litr bo'lgan jism suvga to'liq botirilgan. Arximed kuchi necha N? (ρ = 1000 kg/m³, g = 10 m/s²)",
+   "ru": "Тело объёмом 50 л полностью погружено в воду. Чему равна сила Архимеда (Н)? (ρ = 1000 кг/м³, g = 10 м/с²)",
+   "en": "A body of volume 50 L is fully submerged in water. What is the buoyant force (N)? (ρ = 1000 kg/m³, g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "500",
+    "600",
+    "625",
+    "400"
+   ],
+   "ru": [
+    "500",
+    "600",
+    "625",
+    "400"
+   ],
+   "en": [
+    "500",
+    "600",
+    "625",
+    "400"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.25 bo'lgan gorizontal sirtda 38 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 38 кг лежит на горизонтальной поверхности, коэффициент трения 0.25. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 38 kg body lies on a horizontal surface with friction coefficient 0.25. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "95",
+    "100",
+    "105",
+    "47"
+   ],
+   "ru": [
+    "95",
+    "100",
+    "105",
+    "47"
+   ],
+   "en": [
+    "95",
+    "100",
+    "105",
+    "47"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 7 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 29 N va 8 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 7 кг вдоль одной прямой в противоположных направлениях действуют силы 29 Н и 8 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 7 kg body is acted on by forces of 29 N and 8 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "ru": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "en": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 300 N/m bo'lgan prujina 9 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 300 Н/м растянули на 9 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 300 N/m is stretched by 9 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "27",
+    "22",
+    "17",
+    "30"
+   ],
+   "ru": [
+    "27",
+    "22",
+    "17",
+    "30"
+   ],
+   "en": [
+    "27",
+    "22",
+    "17",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 5 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 44 N va 19 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 5 кг вдоль одной прямой в противоположных направлениях действуют силы 44 Н и 19 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 5 kg body is acted on by forces of 44 N and 19 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "6",
+    "3",
+    "12"
+   ],
+   "ru": [
+    "5",
+    "6",
+    "3",
+    "12"
+   ],
+   "en": [
+    "5",
+    "6",
+    "3",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gazning bosimi 8 atm, hajmi 6 l. Harorat o'zgarmas, hajm 24 l gacha o'zgardi. Yangi bosim necha atm?",
+   "ru": "Давление газа 8 атм, объём 6 л. При постоянной температуре объём стал 24 л. Каким стало давление (атм)?",
+   "en": "A gas has pressure 8 atm and volume 6 L. At constant temperature the volume becomes 24 L. What is the new pressure (atm)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "5",
+    "4",
+    "1"
+   ],
+   "ru": [
+    "2",
+    "5",
+    "4",
+    "1"
+   ],
+   "en": [
+    "2",
+    "5",
+    "4",
+    "1"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 500 N/m bo'lgan prujina 2 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 500 Н/м растянули на 2 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 500 N/m is stretched by 2 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "23",
+    "15",
+    "9"
+   ],
+   "ru": [
+    "10",
+    "23",
+    "15",
+    "9"
+   ],
+   "en": [
+    "10",
+    "23",
+    "15",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 600 N/m bo'lgan prujina 13 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 600 Н/м растянули на 13 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 600 N/m is stretched by 13 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "78",
+    "98",
+    "234",
+    "70"
+   ],
+   "ru": [
+    "78",
+    "98",
+    "234",
+    "70"
+   ],
+   "en": [
+    "78",
+    "98",
+    "234",
+    "70"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 46 litr bo'lgan jism suvga to'liq botirilgan. Arximed kuchi necha N? (ρ = 1000 kg/m³, g = 10 m/s²)",
+   "ru": "Тело объёмом 46 л полностью погружено в воду. Чему равна сила Архимеда (Н)? (ρ = 1000 кг/м³, g = 10 м/с²)",
+   "en": "A body of volume 46 L is fully submerged in water. What is the buoyant force (N)? (ρ = 1000 kg/m³, g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "460",
+    "230",
+    "1380",
+    "414"
+   ],
+   "ru": [
+    "460",
+    "230",
+    "1380",
+    "414"
+   ],
+   "en": [
+    "460",
+    "230",
+    "1380",
+    "414"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gazning bosimi 4 atm, hajmi 2 l. Harorat o'zgarmas, hajm 8 l gacha o'zgardi. Yangi bosim necha atm?",
+   "ru": "Давление газа 4 атм, объём 2 л. При постоянной температуре объём стал 8 л. Каким стало давление (атм)?",
+   "en": "A gas has pressure 4 atm and volume 2 L. At constant temperature the volume becomes 8 L. What is the new pressure (atm)?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "3",
+    "6",
+    "2"
+   ],
+   "ru": [
+    "1",
+    "3",
+    "6",
+    "2"
+   ],
+   "en": [
+    "1",
+    "3",
+    "6",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 37 litr bo'lgan jism suvga to'liq botirilgan. Arximed kuchi necha N? (ρ = 1000 kg/m³, g = 10 m/s²)",
+   "ru": "Тело объёмом 37 л полностью погружено в воду. Чему равна сила Архимеда (Н)? (ρ = 1000 кг/м³, g = 10 м/с²)",
+   "en": "A body of volume 37 L is fully submerged in water. What is the buoyant force (N)? (ρ = 1000 kg/m³, g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "370",
+    "278",
+    "407",
+    "352"
+   ],
+   "ru": [
+    "370",
+    "278",
+    "407",
+    "352"
+   ],
+   "en": [
+    "370",
+    "278",
+    "407",
+    "352"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism burchak tezligi 2 rad/s bilan radiusi 12 m bo'lgan aylana bo'ylab harakatlanmoqda. Chiziqli tezligi necha m/s?",
+   "ru": "Тело движется по окружности радиусом 12 м с угловой скоростью 2 рад/с. Чему равна линейная скорость (м/с)?",
+   "en": "A body moves along a circle of radius 12 m with angular speed 2 rad/s. What is its linear speed (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "24",
+    "12",
+    "37",
+    "25"
+   ],
+   "ru": [
+    "24",
+    "12",
+    "37",
+    "25"
+   ],
+   "en": [
+    "24",
+    "12",
+    "37",
+    "25"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 11 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 33 N va 22 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 11 кг вдоль одной прямой в противоположных направлениях действуют силы 33 Н и 22 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 11 kg body is acted on by forces of 33 N and 22 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "14",
+    "3",
+    "0"
+   ],
+   "ru": [
+    "1",
+    "14",
+    "3",
+    "0"
+   ],
+   "en": [
+    "1",
+    "14",
+    "3",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 800 N/m bo'lgan prujina 6 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 800 Н/м растянули на 6 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 800 N/m is stretched by 6 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "48",
+    "72",
+    "24",
+    "46"
+   ],
+   "ru": [
+    "48",
+    "72",
+    "24",
+    "46"
+   ],
+   "en": [
+    "48",
+    "72",
+    "24",
+    "46"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gazning bosimi 6 atm, hajmi 4 l. Harorat o'zgarmas, hajm 12 l gacha o'zgardi. Yangi bosim necha atm?",
+   "ru": "Давление газа 6 атм, объём 4 л. При постоянной температуре объём стал 12 л. Каким стало давление (атм)?",
+   "en": "A gas has pressure 6 atm and volume 4 L. At constant temperature the volume becomes 12 L. What is the new pressure (atm)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "4",
+    "1",
+    "6"
+   ],
+   "ru": [
+    "2",
+    "4",
+    "1",
+    "6"
+   ],
+   "en": [
+    "2",
+    "4",
+    "1",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 200 N/m bo'lgan prujina 16 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 200 Н/м растянули на 16 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 200 N/m is stretched by 16 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "32",
+    "16",
+    "29",
+    "26"
+   ],
+   "ru": [
+    "32",
+    "16",
+    "29",
+    "26"
+   ],
+   "en": [
+    "32",
+    "16",
+    "29",
+    "26"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 24 litr bo'lgan jism suvga to'liq botirilgan. Arximed kuchi necha N? (ρ = 1000 kg/m³, g = 10 m/s²)",
+   "ru": "Тело объёмом 24 л полностью погружено в воду. Чему равна сила Архимеда (Н)? (ρ = 1000 кг/м³, g = 10 м/с²)",
+   "en": "A body of volume 24 L is fully submerged in water. What is the buoyant force (N)? (ρ = 1000 kg/m³, g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "240",
+    "480",
+    "180",
+    "264"
+   ],
+   "ru": [
+    "240",
+    "480",
+    "180",
+    "264"
+   ],
+   "en": [
+    "240",
+    "480",
+    "180",
+    "264"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gazning bosimi 4 atm, hajmi 10 l. Harorat o'zgarmas, hajm 20 l gacha o'zgardi. Yangi bosim necha atm?",
+   "ru": "Давление газа 4 атм, объём 10 л. При постоянной температуре объём стал 20 л. Каким стало давление (атм)?",
+   "en": "A gas has pressure 4 atm and volume 10 L. At constant temperature the volume becomes 20 L. What is the new pressure (atm)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "12",
+    "15",
+    "3"
+   ],
+   "ru": [
+    "2",
+    "12",
+    "15",
+    "3"
+   ],
+   "en": [
+    "2",
+    "12",
+    "15",
+    "3"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 9 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 48 N va 12 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 9 кг вдоль одной прямой в противоположных направлениях действуют силы 48 Н и 12 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 9 kg body is acted on by forces of 48 N and 12 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "1",
+    "12",
+    "14"
+   ],
+   "ru": [
+    "4",
+    "1",
+    "12",
+    "14"
+   ],
+   "en": [
+    "4",
+    "1",
+    "12",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 2 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 25 N va 9 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 2 кг вдоль одной прямой в противоположных направлениях действуют силы 25 Н и 9 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 2 kg body is acted on by forces of 25 N and 9 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "9",
+    "21",
+    "4"
+   ],
+   "ru": [
+    "8",
+    "9",
+    "21",
+    "4"
+   ],
+   "en": [
+    "8",
+    "9",
+    "21",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.5 bo'lgan gorizontal sirtda 6 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 6 кг лежит на горизонтальной поверхности, коэффициент трения 0.5. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 6 kg body lies on a horizontal surface with friction coefficient 0.5. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "29",
+    "27",
+    "31"
+   ],
+   "ru": [
+    "30",
+    "29",
+    "27",
+    "31"
+   ],
+   "en": [
+    "30",
+    "29",
+    "27",
+    "31"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gazning bosimi 7 atm, hajmi 10 l. Harorat o'zgarmas, hajm 14 l gacha o'zgardi. Yangi bosim necha atm?",
+   "ru": "Давление газа 7 атм, объём 10 л. При постоянной температуре объём стал 14 л. Каким стало давление (атм)?",
+   "en": "A gas has pressure 7 atm and volume 10 L. At constant temperature the volume becomes 14 L. What is the new pressure (atm)?"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "10",
+    "3",
+    "0"
+   ],
+   "ru": [
+    "5",
+    "10",
+    "3",
+    "0"
+   ],
+   "en": [
+    "5",
+    "10",
+    "3",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.5 bo'lgan gorizontal sirtda 4 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 4 кг лежит на горизонтальной поверхности, коэффициент трения 0.5. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 4 kg body lies on a horizontal surface with friction coefficient 0.5. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "17",
+    "27",
+    "18"
+   ],
+   "ru": [
+    "20",
+    "17",
+    "27",
+    "18"
+   ],
+   "en": [
+    "20",
+    "17",
+    "27",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 600 N/m bo'lgan prujina 12 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 600 Н/м растянули на 12 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 600 N/m is stretched by 12 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "72",
+    "54",
+    "90",
+    "68"
+   ],
+   "ru": [
+    "72",
+    "54",
+    "90",
+    "68"
+   ],
+   "en": [
+    "72",
+    "54",
+    "90",
+    "68"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.1 bo'lgan gorizontal sirtda 10 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 10 кг лежит на горизонтальной поверхности, коэффициент трения 0.1. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 10 kg body lies on a horizontal surface with friction coefficient 0.1. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "17",
+    "15",
+    "9"
+   ],
+   "ru": [
+    "10",
+    "17",
+    "15",
+    "9"
+   ],
+   "en": [
+    "10",
+    "17",
+    "15",
+    "9"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Mexanizm 250 J ish sarfladi, foydali ish 50 J. Foydali ish koeffitsiyenti necha foiz?",
+   "ru": "Механизм затратил 250 Дж, полезная работа 50 Дж. Чему равен КПД (%)?",
+   "en": "A machine used 250 J of work and produced 50 J of useful work. What is its efficiency (%)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "25",
+    "18",
+    "40"
+   ],
+   "ru": [
+    "20",
+    "25",
+    "18",
+    "40"
+   ],
+   "en": [
+    "20",
+    "25",
+    "18",
+    "40"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ishqalanish koeffitsiyenti 0.2 bo'lgan gorizontal sirtda 36 kg jism turibdi. Ishqalanish kuchi necha N? (g = 10 m/s²)",
+   "ru": "Тело массой 36 кг лежит на горизонтальной поверхности, коэффициент трения 0.2. Чему равна сила трения (Н)? (g = 10 м/с²)",
+   "en": "A 36 kg body lies on a horizontal surface with friction coefficient 0.2. What is the friction force (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "72",
+    "86",
+    "216",
+    "36"
+   ],
+   "ru": [
+    "72",
+    "86",
+    "216",
+    "36"
+   ],
+   "en": [
+    "72",
+    "86",
+    "216",
+    "36"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 11 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 66 N va 22 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 11 кг вдоль одной прямой в противоположных направлениях действуют силы 66 Н и 22 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 11 kg body is acted on by forces of 66 N and 22 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "2",
+    "7",
+    "12"
+   ],
+   "ru": [
+    "4",
+    "2",
+    "7",
+    "12"
+   ],
+   "en": [
+    "4",
+    "2",
+    "7",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Mexanizm 400 J ish sarfladi, foydali ish 300 J. Foydali ish koeffitsiyenti necha foiz?",
+   "ru": "Механизм затратил 400 Дж, полезная работа 300 Дж. Чему равен КПД (%)?",
+   "en": "A machine used 400 J of work and produced 300 J of useful work. What is its efficiency (%)?"
+  },
+  "o": {
+   "uz": [
+    "75",
+    "225",
+    "90",
+    "150"
+   ],
+   "ru": [
+    "75",
+    "225",
+    "90",
+    "150"
+   ],
+   "en": [
+    "75",
+    "225",
+    "90",
+    "150"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism burchak tezligi 2 rad/s bilan radiusi 8 m bo'lgan aylana bo'ylab harakatlanmoqda. Chiziqli tezligi necha m/s?",
+   "ru": "Тело движется по окружности радиусом 8 м с угловой скоростью 2 рад/с. Чему равна линейная скорость (м/с)?",
+   "en": "A body moves along a circle of radius 8 m with angular speed 2 rad/s. What is its linear speed (m/s)?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "29",
+    "18",
+    "15"
+   ],
+   "ru": [
+    "16",
+    "29",
+    "18",
+    "15"
+   ],
+   "en": [
+    "16",
+    "29",
+    "18",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Mexanizm 500 J ish sarfladi, foydali ish 125 J. Foydali ish koeffitsiyenti necha foiz?",
+   "ru": "Механизм затратил 500 Дж, полезная работа 125 Дж. Чему равен КПД (%)?",
+   "en": "A machine used 500 J of work and produced 125 J of useful work. What is its efficiency (%)?"
+  },
+  "o": {
+   "uz": [
+    "25",
+    "13",
+    "24",
+    "23"
+   ],
+   "ru": [
+    "25",
+    "13",
+    "24",
+    "23"
+   ],
+   "en": [
+    "25",
+    "13",
+    "24",
+    "23"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gazning bosimi 5 atm, hajmi 3 l. Harorat o'zgarmas, hajm 15 l gacha o'zgardi. Yangi bosim necha atm?",
+   "ru": "Давление газа 5 атм, объём 3 л. При постоянной температуре объём стал 15 л. Каким стало давление (атм)?",
+   "en": "A gas has pressure 5 atm and volume 3 L. At constant temperature the volume becomes 15 L. What is the new pressure (atm)?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "14",
+    "3",
+    "0"
+   ],
+   "ru": [
+    "1",
+    "14",
+    "3",
+    "0"
+   ],
+   "en": [
+    "1",
+    "14",
+    "3",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hajmi 13 litr bo'lgan jism suvga to'liq botirilgan. Arximed kuchi necha N? (ρ = 1000 kg/m³, g = 10 m/s²)",
+   "ru": "Тело объёмом 13 л полностью погружено в воду. Чему равна сила Архимеда (Н)? (ρ = 1000 кг/м³, g = 10 м/с²)",
+   "en": "A body of volume 13 L is fully submerged in water. What is the buoyant force (N)? (ρ = 1000 kg/m³, g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "130",
+    "117",
+    "124",
+    "104"
+   ],
+   "ru": [
+    "130",
+    "117",
+    "124",
+    "104"
+   ],
+   "en": [
+    "130",
+    "117",
+    "124",
+    "104"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 17 kg jismga bir to'g'ri chiziqda qarama-qarshi yo'nalishda 25 N va 8 N kuchlar ta'sir qiladi. Tezlanishi necha m/s²?",
+   "ru": "На тело массой 17 кг вдоль одной прямой в противоположных направлениях действуют силы 25 Н и 8 Н. Чему равно ускорение (м/с²)?",
+   "en": "A 17 kg body is acted on by forces of 25 N and 8 N along one line in opposite directions. What is its acceleration (m/s²)?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "4",
+    "3",
+    "0"
+   ],
+   "ru": [
+    "1",
+    "4",
+    "3",
+    "0"
+   ],
+   "en": [
+    "1",
+    "4",
+    "3",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bikrligi 300 N/m bo'lgan prujina 5 sm ga cho'zildi. Elastiklik kuchi necha N?",
+   "ru": "Пружину жёсткостью 300 Н/м растянули на 5 см. Чему равна сила упругости (Н)?",
+   "en": "A spring with stiffness 300 N/m is stretched by 5 cm. What is the elastic force (N)?"
+  },
+  "o": {
+   "uz": [
+    "15",
+    "12",
+    "13",
+    "22"
+   ],
+   "ru": [
+    "15",
+    "12",
+    "13",
+    "22"
+   ],
+   "en": [
+    "15",
+    "12",
+    "13",
+    "22"
+   ]
+  },
+  "a": 0
+ }
+]
