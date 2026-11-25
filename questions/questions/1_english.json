@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: She ___ a teacher.",
+   "ru": "Заполните пропуск: She ___ a teacher.",
+   "en": "Fill in the blank: She ___ a teacher."
+  },
+  "o": {
+   "uz": [
+    "is",
+    "am",
+    "are",
+    "be"
+   ],
+   "ru": [
+    "is",
+    "am",
+    "are",
+    "be"
+   ],
+   "en": [
+    "is",
+    "am",
+    "are",
+    "be"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«choy» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «чай»?",
+   "en": "How do you say «choy» in English?"
+  },
+  "o": {
+   "uz": [
+    "tea",
+    "night",
+    "seven",
+    "friend"
+   ],
+   "ru": [
+    "tea",
+    "night",
+    "seven",
+    "friend"
+   ],
+   "en": [
+    "tea",
+    "night",
+    "seven",
+    "friend"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: This is ___ apple.",
+   "ru": "Заполните пропуск: This is ___ apple.",
+   "en": "Fill in the blank: This is ___ apple."
+  },
+  "o": {
+   "uz": [
+    "an",
+    "a",
+    "two",
+    "many"
+   ],
+   "ru": [
+    "an",
+    "a",
+    "two",
+    "many"
+   ],
+   "en": [
+    "an",
+    "a",
+    "two",
+    "many"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«maymun» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «обезьяна»?",
+   "en": "How do you say «maymun» in English?"
+  },
+  "o": {
+   "uz": [
+    "monkey",
+    "mouth",
+    "fish",
+    "head"
+   ],
+   "ru": [
+    "monkey",
+    "mouth",
+    "fish",
+    "head"
+   ],
+   "en": [
+    "monkey",
+    "mouth",
+    "fish",
+    "head"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«horse» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «horse» на русский?",
+   "en": "What is the Uzbek translation of the word «horse»?"
+  },
+  "o": {
+   "uz": [
+    "ot",
+    "yulduz",
+    "deraza",
+    "olti"
+   ],
+   "ru": [
+    "лошадь",
+    "звезда",
+    "окно",
+    "шесть"
+   ],
+   "en": [
+    "ot",
+    "yulduz",
+    "deraza",
+    "olti"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: I ___ ten years old.",
+   "ru": "Заполните пропуск: I ___ ten years old.",
+   "en": "Fill in the blank: I ___ ten years old."
+  },
+  "o": {
+   "uz": [
+    "am",
+    "is",
+    "are",
+    "have"
+   ],
+   "ru": [
+    "am",
+    "is",
+    "are",
+    "have"
+   ],
+   "en": [
+    "am",
+    "is",
+    "are",
+    "have"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«five» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «five» на русский?",
+   "en": "What is the Uzbek translation of the word «five»?"
+  },
+  "o": {
+   "uz": [
+    "besh",
+    "qo'l",
+    "it",
+    "uy"
+   ],
+   "ru": [
+    "пять",
+    "рука",
+    "собака",
+    "дом"
+   ],
+   "en": [
+    "besh",
+    "qo'l",
+    "it",
+    "uy"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«deraza» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «окно»?",
+   "en": "How do you say «deraza» in English?"
+  },
+  "o": {
+   "uz": [
+    "window",
+    "bird",
+    "brown",
+    "four"
+   ],
+   "ru": [
+    "window",
+    "bird",
+    "brown",
+    "four"
+   ],
+   "en": [
+    "window",
+    "bird",
+    "brown",
+    "four"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«olti» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «шесть»?",
+   "en": "How do you say «olti» in English?"
+  },
+  "o": {
+   "uz": [
+    "six",
+    "night",
+    "son",
+    "two"
+   ],
+   "ru": [
+    "six",
+    "night",
+    "son",
+    "two"
+   ],
+   "en": [
+    "six",
+    "night",
+    "son",
+    "two"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«mushuk» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «кошка»?",
+   "en": "How do you say «mushuk» in English?"
+  },
+  "o": {
+   "uz": [
+    "cat",
+    "horse",
+    "meat",
+    "elephant"
+   ],
+   "ru": [
+    "cat",
+    "horse",
+    "meat",
+    "elephant"
+   ],
+   "en": [
+    "cat",
+    "horse",
+    "meat",
+    "elephant"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: I ___ a pupil.",
+   "ru": "Заполните пропуск: I ___ a pupil.",
+   "en": "Fill in the blank: I ___ a pupil."
+  },
+  "o": {
+   "uz": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "ru": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "en": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: He ___ a doctor.",
+   "ru": "Заполните пропуск: He ___ a doctor.",
+   "en": "Fill in the blank: He ___ a doctor."
+  },
+  "o": {
+   "uz": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ],
+   "ru": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ],
+   "en": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: ___ are you from?",
+   "ru": "Заполните пропуск: ___ are you from?",
+   "en": "Fill in the blank: ___ are you from?"
+  },
+  "o": {
+   "uz": [
+    "Where",
+    "What",
+    "Who",
+    "When"
+   ],
+   "ru": [
+    "Where",
+    "What",
+    "Who",
+    "When"
+   ],
+   "en": [
+    "Where",
+    "What",
+    "Who",
+    "When"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«suv» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «вода»?",
+   "en": "How do you say «suv» in English?"
+  },
+  "o": {
+   "uz": [
+    "water",
+    "six",
+    "son",
+    "sun"
+   ],
+   "ru": [
+    "water",
+    "six",
+    "son",
+    "sun"
+   ],
+   "en": [
+    "water",
+    "six",
+    "son",
+    "sun"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ruchka» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «ручка»?",
+   "en": "How do you say «ruchka» in English?"
+  },
+  "o": {
+   "uz": [
+    "pen",
+    "pear",
+    "grandfather",
+    "window"
+   ],
+   "ru": [
+    "pen",
+    "pear",
+    "grandfather",
+    "window"
+   ],
+   "en": [
+    "pen",
+    "pear",
+    "grandfather",
+    "window"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: My name ___ Ali.",
+   "ru": "Заполните пропуск: My name ___ Ali.",
+   "en": "Fill in the blank: My name ___ Ali."
+  },
+  "o": {
+   "uz": [
+    "is",
+    "are",
+    "am",
+    "do"
+   ],
+   "ru": [
+    "is",
+    "are",
+    "am",
+    "do"
+   ],
+   "en": [
+    "is",
+    "are",
+    "am",
+    "do"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«it» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «собака»?",
+   "en": "How do you say «it» in English?"
+  },
+  "o": {
+   "uz": [
+    "dog",
+    "eye",
+    "bread",
+    "rice"
+   ],
+   "ru": [
+    "dog",
+    "eye",
+    "bread",
+    "rice"
+   ],
+   "en": [
+    "dog",
+    "eye",
+    "bread",
+    "rice"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«six» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «six» на русский?",
+   "en": "What is the Uzbek translation of the word «six»?"
+  },
+  "o": {
+   "uz": [
+    "olti",
+    "ayiq",
+    "parta",
+    "og'iz"
+   ],
+   "ru": [
+    "шесть",
+    "медведь",
+    "парта",
+    "рот"
+   ],
+   "en": [
+    "olti",
+    "ayiq",
+    "parta",
+    "og'iz"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«moon» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «moon» на русский?",
+   "en": "What is the Uzbek translation of the word «moon»?"
+  },
+  "o": {
+   "uz": [
+    "oy",
+    "uzum",
+    "nok",
+    "kitob"
+   ],
+   "ru": [
+    "луна",
+    "виноград",
+    "груша",
+    "книга"
+   ],
+   "en": [
+    "oy",
+    "uzum",
+    "nok",
+    "kitob"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sigir» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «корова»?",
+   "en": "How do you say «sigir» in English?"
+  },
+  "o": {
+   "uz": [
+    "cow",
+    "hair",
+    "red",
+    "black"
+   ],
+   "ru": [
+    "cow",
+    "hair",
+    "red",
+    "black"
+   ],
+   "en": [
+    "cow",
+    "hair",
+    "red",
+    "black"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sakkiz» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «восемь»?",
+   "en": "How do you say «sakkiz» in English?"
+  },
+  "o": {
+   "uz": [
+    "eight",
+    "star",
+    "family",
+    "pear"
+   ],
+   "ru": [
+    "eight",
+    "star",
+    "family",
+    "pear"
+   ],
+   "en": [
+    "eight",
+    "star",
+    "family",
+    "pear"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«nine» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «nine» на русский?",
+   "en": "What is the Uzbek translation of the word «nine»?"
+  },
+  "o": {
+   "uz": [
+    "to'qqiz",
+    "sakkiz",
+    "bir",
+    "gul"
+   ],
+   "ru": [
+    "девять",
+    "восемь",
+    "один",
+    "цветок"
+   ],
+   "en": [
+    "to'qqiz",
+    "sakkiz",
+    "bir",
+    "gul"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«jigarrang» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «коричневый»?",
+   "en": "How do you say «jigarrang» in English?"
+  },
+  "o": {
+   "uz": [
+    "brown",
+    "eye",
+    "hair",
+    "four"
+   ],
+   "ru": [
+    "brown",
+    "eye",
+    "hair",
+    "four"
+   ],
+   "en": [
+    "brown",
+    "eye",
+    "hair",
+    "four"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«maktab» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «школа»?",
+   "en": "How do you say «maktab» in English?"
+  },
+  "o": {
+   "uz": [
+    "school",
+    "cat",
+    "window",
+    "hand"
+   ],
+   "ru": [
+    "school",
+    "cat",
+    "window",
+    "hand"
+   ],
+   "en": [
+    "school",
+    "cat",
+    "window",
+    "hand"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«olma» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «яблоко»?",
+   "en": "How do you say «olma» in English?"
+  },
+  "o": {
+   "uz": [
+    "apple",
+    "hand",
+    "teacher",
+    "nine"
+   ],
+   "ru": [
+    "apple",
+    "hand",
+    "teacher",
+    "nine"
+   ],
+   "en": [
+    "apple",
+    "hand",
+    "teacher",
+    "nine"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«stol» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «стол»?",
+   "en": "How do you say «stol» in English?"
+  },
+  "o": {
+   "uz": [
+    "table",
+    "head",
+    "elephant",
+    "rabbit"
+   ],
+   "ru": [
+    "table",
+    "head",
+    "elephant",
+    "rabbit"
+   ],
+   "en": [
+    "table",
+    "head",
+    "elephant",
+    "rabbit"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: This is ___ book.",
+   "ru": "Заполните пропуск: This is ___ book.",
+   "en": "Fill in the blank: This is ___ book."
+  },
+  "o": {
+   "uz": [
+    "a",
+    "an",
+    "two",
+    "many"
+   ],
+   "ru": [
+    "a",
+    "an",
+    "two",
+    "many"
+   ],
+   "en": [
+    "a",
+    "an",
+    "two",
+    "many"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: ___ old are you?",
+   "ru": "Заполните пропуск: ___ old are you?",
+   "en": "Fill in the blank: ___ old are you?"
+  },
+  "o": {
+   "uz": [
+    "How",
+    "What",
+    "Who",
+    "Where"
+   ],
+   "ru": [
+    "How",
+    "What",
+    "Who",
+    "Where"
+   ],
+   "en": [
+    "How",
+    "What",
+    "Who",
+    "Where"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: We ___ in the classroom.",
+   "ru": "Заполните пропуск: We ___ in the classroom.",
+   "en": "Fill in the blank: We ___ in the classroom."
+  },
+  "o": {
+   "uz": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ],
+   "ru": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ],
+   "en": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: It ___ a cat.",
+   "ru": "Заполните пропуск: It ___ a cat.",
+   "en": "Fill in the blank: It ___ a cat."
+  },
+  "o": {
+   "uz": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ],
+   "ru": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ],
+   "en": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«apple» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «apple» на русский?",
+   "en": "What is the Uzbek translation of the word «apple»?"
+  },
+  "o": {
+   "uz": [
+    "olma",
+    "to'rt",
+    "ot",
+    "kun"
+   ],
+   "ru": [
+    "яблоко",
+    "четыре",
+    "лошадь",
+    "день"
+   ],
+   "en": [
+    "olma",
+    "to'rt",
+    "ot",
+    "kun"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: ___ is your name?",
+   "ru": "Заполните пропуск: ___ is your name?",
+   "en": "Fill in the blank: ___ is your name?"
+  },
+  "o": {
+   "uz": [
+    "What",
+    "Who",
+    "Where",
+    "When"
+   ],
+   "ru": [
+    "What",
+    "Who",
+    "Where",
+    "When"
+   ],
+   "en": [
+    "What",
+    "Who",
+    "Where",
+    "When"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«hand» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «hand» на русский?",
+   "en": "What is the Uzbek translation of the word «hand»?"
+  },
+  "o": {
+   "uz": [
+    "qo'l",
+    "sigir",
+    "o'n",
+    "yashil"
+   ],
+   "ru": [
+    "рука",
+    "корова",
+    "десять",
+    "зелёный"
+   ],
+   "en": [
+    "qo'l",
+    "sigir",
+    "o'n",
+    "yashil"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sariq» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «жёлтый»?",
+   "en": "How do you say «sariq» in English?"
+  },
+  "o": {
+   "uz": [
+    "yellow",
+    "mother",
+    "friend",
+    "sheep"
+   ],
+   "ru": [
+    "yellow",
+    "mother",
+    "friend",
+    "sheep"
+   ],
+   "en": [
+    "yellow",
+    "mother",
+    "friend",
+    "sheep"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«water» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «water» на русский?",
+   "en": "What is the Uzbek translation of the word «water»?"
+  },
+  "o": {
+   "uz": [
+    "suv",
+    "oq",
+    "mashina",
+    "maymun"
+   ],
+   "ru": [
+    "вода",
+    "белый",
+    "машина",
+    "обезьяна"
+   ],
+   "en": [
+    "suv",
+    "oq",
+    "mashina",
+    "maymun"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ko'z» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «глаз»?",
+   "en": "How do you say «ko'z» in English?"
+  },
+  "o": {
+   "uz": [
+    "eye",
+    "night",
+    "yellow",
+    "ten"
+   ],
+   "ru": [
+    "eye",
+    "night",
+    "yellow",
+    "ten"
+   ],
+   "en": [
+    "eye",
+    "night",
+    "yellow",
+    "ten"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«two» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «two» на русский?",
+   "en": "What is the Uzbek translation of the word «two»?"
+  },
+  "o": {
+   "uz": [
+    "ikki",
+    "oy",
+    "og'iz",
+    "stul"
+   ],
+   "ru": [
+    "два",
+    "луна",
+    "рот",
+    "стул"
+   ],
+   "en": [
+    "ikki",
+    "oy",
+    "og'iz",
+    "stul"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tea» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «tea» на русский?",
+   "en": "What is the Uzbek translation of the word «tea»?"
+  },
+  "o": {
+   "uz": [
+    "choy",
+    "sigir",
+    "daraxt",
+    "pushti"
+   ],
+   "ru": [
+    "чай",
+    "корова",
+    "дерево",
+    "розовый"
+   ],
+   "en": [
+    "choy",
+    "sigir",
+    "daraxt",
+    "pushti"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«rabbit» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «rabbit» на русский?",
+   "en": "What is the Uzbek translation of the word «rabbit»?"
+  },
+  "o": {
+   "uz": [
+    "quyon",
+    "yulduz",
+    "quyosh",
+    "bosh"
+   ],
+   "ru": [
+    "кролик",
+    "звезда",
+    "солнце",
+    "голова"
+   ],
+   "en": [
+    "quyon",
+    "yulduz",
+    "quyosh",
+    "bosh"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«dog» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «dog» на русский?",
+   "en": "What is the Uzbek translation of the word «dog»?"
+  },
+  "o": {
+   "uz": [
+    "it",
+    "parta",
+    "qiz",
+    "oila"
+   ],
+   "ru": [
+    "собака",
+    "парта",
+    "дочь",
+    "семья"
+   ],
+   "en": [
+    "it",
+    "parta",
+    "qiz",
+    "oila"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«burun» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «нос»?",
+   "en": "How do you say «burun» in English?"
+  },
+  "o": {
+   "uz": [
+    "nose",
+    "bird",
+    "tooth",
+    "meat"
+   ],
+   "ru": [
+    "nose",
+    "bird",
+    "tooth",
+    "meat"
+   ],
+   "en": [
+    "nose",
+    "bird",
+    "tooth",
+    "meat"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«bir» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «один»?",
+   "en": "How do you say «bir» in English?"
+  },
+  "o": {
+   "uz": [
+    "one",
+    "ten",
+    "pupil",
+    "red"
+   ],
+   "ru": [
+    "one",
+    "ten",
+    "pupil",
+    "red"
+   ],
+   "en": [
+    "one",
+    "ten",
+    "pupil",
+    "red"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«to'rt» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «четыре»?",
+   "en": "How do you say «to'rt» in English?"
+  },
+  "o": {
+   "uz": [
+    "four",
+    "flower",
+    "car",
+    "family"
+   ],
+   "ru": [
+    "four",
+    "flower",
+    "car",
+    "family"
+   ],
+   "en": [
+    "four",
+    "flower",
+    "car",
+    "family"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«oyoq» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «нога»?",
+   "en": "How do you say «oyoq» in English?"
+  },
+  "o": {
+   "uz": [
+    "leg",
+    "night",
+    "apple",
+    "bag"
+   ],
+   "ru": [
+    "leg",
+    "night",
+    "apple",
+    "bag"
+   ],
+   "en": [
+    "leg",
+    "night",
+    "apple",
+    "bag"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«wolf» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «wolf» на русский?",
+   "en": "What is the Uzbek translation of the word «wolf»?"
+  },
+  "o": {
+   "uz": [
+    "bo'ri",
+    "guruch",
+    "qiz",
+    "ona"
+   ],
+   "ru": [
+    "волк",
+    "рис",
+    "дочь",
+    "мама"
+   ],
+   "en": [
+    "bo'ri",
+    "guruch",
+    "qiz",
+    "ona"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«buvi» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «бабушка»?",
+   "en": "How do you say «buvi» in English?"
+  },
+  "o": {
+   "uz": [
+    "grandmother",
+    "three",
+    "bird",
+    "moon"
+   ],
+   "ru": [
+    "grandmother",
+    "three",
+    "bird",
+    "moon"
+   ],
+   "en": [
+    "grandmother",
+    "three",
+    "bird",
+    "moon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«fil» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «слон»?",
+   "en": "How do you say «fil» in English?"
+  },
+  "o": {
+   "uz": [
+    "elephant",
+    "teacher",
+    "three",
+    "friend"
+   ],
+   "ru": [
+    "elephant",
+    "teacher",
+    "three",
+    "friend"
+   ],
+   "en": [
+    "elephant",
+    "teacher",
+    "three",
+    "friend"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«teacher» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «teacher» на русский?",
+   "en": "What is the Uzbek translation of the word «teacher»?"
+  },
+  "o": {
+   "uz": [
+    "o'qituvchi",
+    "yulduz",
+    "ko'z",
+    "stol"
+   ],
+   "ru": [
+    "учитель",
+    "звезда",
+    "глаз",
+    "стол"
+   ],
+   "en": [
+    "o'qituvchi",
+    "yulduz",
+    "ko'z",
+    "stol"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ko'k» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «синий»?",
+   "en": "How do you say «ko'k» in English?"
+  },
+  "o": {
+   "uz": [
+    "blue",
+    "book",
+    "moon",
+    "friend"
+   ],
+   "ru": [
+    "blue",
+    "book",
+    "moon",
+    "friend"
+   ],
+   "en": [
+    "blue",
+    "book",
+    "moon",
+    "friend"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«elephant» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «elephant» на русский?",
+   "en": "What is the Uzbek translation of the word «elephant»?"
+  },
+  "o": {
+   "uz": [
+    "fil",
+    "uy",
+    "oyoq",
+    "gul"
+   ],
+   "ru": [
+    "слон",
+    "дом",
+    "нога",
+    "цветок"
+   ],
+   "en": [
+    "fil",
+    "uy",
+    "oyoq",
+    "gul"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«o'quvchi» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «ученик»?",
+   "en": "How do you say «o'quvchi» in English?"
+  },
+  "o": {
+   "uz": [
+    "pupil",
+    "six",
+    "sun",
+    "mouth"
+   ],
+   "ru": [
+    "pupil",
+    "six",
+    "sun",
+    "mouth"
+   ],
+   "en": [
+    "pupil",
+    "six",
+    "sun",
+    "mouth"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«to'qqiz» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «девять»?",
+   "en": "How do you say «to'qqiz» in English?"
+  },
+  "o": {
+   "uz": [
+    "nine",
+    "eye",
+    "door",
+    "tea"
+   ],
+   "ru": [
+    "nine",
+    "eye",
+    "door",
+    "tea"
+   ],
+   "en": [
+    "nine",
+    "eye",
+    "door",
+    "tea"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qo'y» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «овца»?",
+   "en": "How do you say «qo'y» in English?"
+  },
+  "o": {
+   "uz": [
+    "sheep",
+    "red",
+    "tooth",
+    "lion"
+   ],
+   "ru": [
+    "sheep",
+    "red",
+    "tooth",
+    "lion"
+   ],
+   "en": [
+    "sheep",
+    "red",
+    "tooth",
+    "lion"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«yashil» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «зелёный»?",
+   "en": "How do you say «yashil» in English?"
+  },
+  "o": {
+   "uz": [
+    "green",
+    "monkey",
+    "pencil",
+    "elephant"
+   ],
+   "ru": [
+    "green",
+    "monkey",
+    "pencil",
+    "elephant"
+   ],
+   "en": [
+    "green",
+    "monkey",
+    "pencil",
+    "elephant"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«blue» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «blue» на русский?",
+   "en": "What is the Uzbek translation of the word «blue»?"
+  },
+  "o": {
+   "uz": [
+    "ko'k",
+    "kun",
+    "o'qituvchi",
+    "choy"
+   ],
+   "ru": [
+    "синий",
+    "день",
+    "учитель",
+    "чай"
+   ],
+   "en": [
+    "ko'k",
+    "kun",
+    "o'qituvchi",
+    "choy"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: They ___ my friends.",
+   "ru": "Заполните пропуск: They ___ my friends.",
+   "en": "Fill in the blank: They ___ my friends."
+  },
+  "o": {
+   "uz": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ],
+   "ru": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ],
+   "en": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tish» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «зуб»?",
+   "en": "How do you say «tish» in English?"
+  },
+  "o": {
+   "uz": [
+    "tooth",
+    "father",
+    "brown",
+    "cat"
+   ],
+   "ru": [
+    "tooth",
+    "father",
+    "brown",
+    "cat"
+   ],
+   "en": [
+    "tooth",
+    "father",
+    "brown",
+    "cat"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«eye» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «eye» на русский?",
+   "en": "What is the Uzbek translation of the word «eye»?"
+  },
+  "o": {
+   "uz": [
+    "ko'z",
+    "ot",
+    "buvi",
+    "quyon"
+   ],
+   "ru": [
+    "глаз",
+    "лошадь",
+    "бабушка",
+    "кролик"
+   ],
+   "en": [
+    "ko'z",
+    "ot",
+    "buvi",
+    "quyon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«pen» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «pen» на русский?",
+   "en": "What is the Uzbek translation of the word «pen»?"
+  },
+  "o": {
+   "uz": [
+    "ruchka",
+    "gul",
+    "maktab",
+    "to'rt"
+   ],
+   "ru": [
+    "ручка",
+    "цветок",
+    "школа",
+    "четыре"
+   ],
+   "en": [
+    "ruchka",
+    "gul",
+    "maktab",
+    "to'rt"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«car» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «car» на русский?",
+   "en": "What is the Uzbek translation of the word «car»?"
+  },
+  "o": {
+   "uz": [
+    "mashina",
+    "o'g'il",
+    "besh",
+    "og'iz"
+   ],
+   "ru": [
+    "машина",
+    "сын",
+    "пять",
+    "рот"
+   ],
+   "en": [
+    "mashina",
+    "o'g'il",
+    "besh",
+    "og'iz"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«friend» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «friend» на русский?",
+   "en": "What is the Uzbek translation of the word «friend»?"
+  },
+  "o": {
+   "uz": [
+    "do'st",
+    "stol",
+    "bo'ri",
+    "it"
+   ],
+   "ru": [
+    "друг",
+    "стол",
+    "волк",
+    "собака"
+   ],
+   "en": [
+    "do'st",
+    "stol",
+    "bo'ri",
+    "it"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«kitob» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «книга»?",
+   "en": "How do you say «kitob» in English?"
+  },
+  "o": {
+   "uz": [
+    "book",
+    "flower",
+    "elephant",
+    "desk"
+   ],
+   "ru": [
+    "book",
+    "flower",
+    "elephant",
+    "desk"
+   ],
+   "en": [
+    "book",
+    "flower",
+    "elephant",
+    "desk"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«soch» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «волосы»?",
+   "en": "How do you say «soch» in English?"
+  },
+  "o": {
+   "uz": [
+    "hair",
+    "fish",
+    "mother",
+    "grandfather"
+   ],
+   "ru": [
+    "hair",
+    "fish",
+    "mother",
+    "grandfather"
+   ],
+   "en": [
+    "hair",
+    "fish",
+    "mother",
+    "grandfather"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«oy» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «луна»?",
+   "en": "How do you say «oy» in English?"
+  },
+  "o": {
+   "uz": [
+    "moon",
+    "day",
+    "tree",
+    "green"
+   ],
+   "ru": [
+    "moon",
+    "day",
+    "tree",
+    "green"
+   ],
+   "en": [
+    "moon",
+    "day",
+    "tree",
+    "green"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«egg» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «egg» на русский?",
+   "en": "What is the Uzbek translation of the word «egg»?"
+  },
+  "o": {
+   "uz": [
+    "tuxum",
+    "suv",
+    "gul",
+    "quyon"
+   ],
+   "ru": [
+    "яйцо",
+    "вода",
+    "цветок",
+    "кролик"
+   ],
+   "en": [
+    "tuxum",
+    "suv",
+    "gul",
+    "quyon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«bosh» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «голова»?",
+   "en": "How do you say «bosh» in English?"
+  },
+  "o": {
+   "uz": [
+    "head",
+    "horse",
+    "five",
+    "daughter"
+   ],
+   "ru": [
+    "head",
+    "horse",
+    "five",
+    "daughter"
+   ],
+   "en": [
+    "head",
+    "horse",
+    "five",
+    "daughter"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«leg» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «leg» на русский?",
+   "en": "What is the Uzbek translation of the word «leg»?"
+  },
+  "o": {
+   "uz": [
+    "oyoq",
+    "it",
+    "yulduz",
+    "yetti"
+   ],
+   "ru": [
+    "нога",
+    "собака",
+    "звезда",
+    "семь"
+   ],
+   "en": [
+    "oyoq",
+    "it",
+    "yulduz",
+    "yetti"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ikki» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «два»?",
+   "en": "How do you say «ikki» in English?"
+  },
+  "o": {
+   "uz": [
+    "two",
+    "star",
+    "night",
+    "egg"
+   ],
+   "ru": [
+    "two",
+    "star",
+    "night",
+    "egg"
+   ],
+   "en": [
+    "two",
+    "star",
+    "night",
+    "egg"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«kun» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «день»?",
+   "en": "How do you say «kun» in English?"
+  },
+  "o": {
+   "uz": [
+    "day",
+    "one",
+    "red",
+    "pink"
+   ],
+   "ru": [
+    "day",
+    "one",
+    "red",
+    "pink"
+   ],
+   "en": [
+    "day",
+    "one",
+    "red",
+    "pink"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«one» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «one» на русский?",
+   "en": "What is the Uzbek translation of the word «one»?"
+  },
+  "o": {
+   "uz": [
+    "bir",
+    "quyon",
+    "soch",
+    "olti"
+   ],
+   "ru": [
+    "один",
+    "кролик",
+    "волосы",
+    "шесть"
+   ],
+   "en": [
+    "bir",
+    "quyon",
+    "soch",
+    "olti"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«grapes» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «grapes» на русский?",
+   "en": "What is the Uzbek translation of the word «grapes»?"
+  },
+  "o": {
+   "uz": [
+    "uzum",
+    "qiz",
+    "choy",
+    "parta"
+   ],
+   "ru": [
+    "виноград",
+    "дочь",
+    "чай",
+    "парта"
+   ],
+   "en": [
+    "uzum",
+    "qiz",
+    "choy",
+    "parta"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«quyon» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «кролик»?",
+   "en": "How do you say «quyon» in English?"
+  },
+  "o": {
+   "uz": [
+    "rabbit",
+    "elephant",
+    "pen",
+    "water"
+   ],
+   "ru": [
+    "rabbit",
+    "elephant",
+    "pen",
+    "water"
+   ],
+   "en": [
+    "rabbit",
+    "elephant",
+    "pen",
+    "water"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ota» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «папа»?",
+   "en": "How do you say «ota» in English?"
+  },
+  "o": {
+   "uz": [
+    "father",
+    "friend",
+    "duck",
+    "ear"
+   ],
+   "ru": [
+    "father",
+    "friend",
+    "duck",
+    "ear"
+   ],
+   "en": [
+    "father",
+    "friend",
+    "duck",
+    "ear"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«green» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «green» на русский?",
+   "en": "What is the Uzbek translation of the word «green»?"
+  },
+  "o": {
+   "uz": [
+    "yashil",
+    "ko'z",
+    "stul",
+    "kun"
+   ],
+   "ru": [
+    "зелёный",
+    "глаз",
+    "стул",
+    "день"
+   ],
+   "en": [
+    "yashil",
+    "ko'z",
+    "stul",
+    "kun"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«o'g'il» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «сын»?",
+   "en": "How do you say «o'g'il» in English?"
+  },
+  "o": {
+   "uz": [
+    "son",
+    "nine",
+    "door",
+    "bird"
+   ],
+   "ru": [
+    "son",
+    "nine",
+    "door",
+    "bird"
+   ],
+   "en": [
+    "son",
+    "nine",
+    "door",
+    "bird"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ot» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «лошадь»?",
+   "en": "How do you say «ot» in English?"
+  },
+  "o": {
+   "uz": [
+    "horse",
+    "two",
+    "flower",
+    "friend"
+   ],
+   "ru": [
+    "horse",
+    "two",
+    "flower",
+    "friend"
+   ],
+   "en": [
+    "horse",
+    "two",
+    "flower",
+    "friend"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«o'n» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «десять»?",
+   "en": "How do you say «o'n» in English?"
+  },
+  "o": {
+   "uz": [
+    "ten",
+    "six",
+    "hand",
+    "star"
+   ],
+   "ru": [
+    "ten",
+    "six",
+    "hand",
+    "star"
+   ],
+   "en": [
+    "ten",
+    "six",
+    "hand",
+    "star"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«uch» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «три»?",
+   "en": "How do you say «uch» in English?"
+  },
+  "o": {
+   "uz": [
+    "three",
+    "moon",
+    "night",
+    "tea"
+   ],
+   "ru": [
+    "three",
+    "moon",
+    "night",
+    "tea"
+   ],
+   "en": [
+    "three",
+    "moon",
+    "night",
+    "tea"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qo'l» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «рука»?",
+   "en": "How do you say «qo'l» in English?"
+  },
+  "o": {
+   "uz": [
+    "hand",
+    "window",
+    "wolf",
+    "son"
+   ],
+   "ru": [
+    "hand",
+    "window",
+    "wolf",
+    "son"
+   ],
+   "en": [
+    "hand",
+    "window",
+    "wolf",
+    "son"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sumka» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «сумка»?",
+   "en": "How do you say «sumka» in English?"
+  },
+  "o": {
+   "uz": [
+    "bag",
+    "moon",
+    "chair",
+    "bread"
+   ],
+   "ru": [
+    "bag",
+    "moon",
+    "chair",
+    "bread"
+   ],
+   "en": [
+    "bag",
+    "moon",
+    "chair",
+    "bread"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«pencil» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «pencil» на русский?",
+   "en": "What is the Uzbek translation of the word «pencil»?"
+  },
+  "o": {
+   "uz": [
+    "qalam",
+    "ona",
+    "og'iz",
+    "fil"
+   ],
+   "ru": [
+    "карандаш",
+    "мама",
+    "рот",
+    "слон"
+   ],
+   "en": [
+    "qalam",
+    "ona",
+    "og'iz",
+    "fil"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tree» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «tree» на русский?",
+   "en": "What is the Uzbek translation of the word «tree»?"
+  },
+  "o": {
+   "uz": [
+    "daraxt",
+    "qo'y",
+    "gul",
+    "sigir"
+   ],
+   "ru": [
+    "дерево",
+    "овца",
+    "цветок",
+    "корова"
+   ],
+   "en": [
+    "daraxt",
+    "qo'y",
+    "gul",
+    "sigir"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«meat» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «meat» на русский?",
+   "en": "What is the Uzbek translation of the word «meat»?"
+  },
+  "o": {
+   "uz": [
+    "go'sht",
+    "oy",
+    "tish",
+    "yashil"
+   ],
+   "ru": [
+    "мясо",
+    "луна",
+    "зуб",
+    "зелёный"
+   ],
+   "en": [
+    "go'sht",
+    "oy",
+    "tish",
+    "yashil"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«uzum» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «виноград»?",
+   "en": "How do you say «uzum» in English?"
+  },
+  "o": {
+   "uz": [
+    "grapes",
+    "night",
+    "grandmother",
+    "monkey"
+   ],
+   "ru": [
+    "grapes",
+    "night",
+    "grandmother",
+    "monkey"
+   ],
+   "en": [
+    "grapes",
+    "night",
+    "grandmother",
+    "monkey"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«besh» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «пять»?",
+   "en": "How do you say «besh» in English?"
+  },
+  "o": {
+   "uz": [
+    "five",
+    "pupil",
+    "grandfather",
+    "apple"
+   ],
+   "ru": [
+    "five",
+    "pupil",
+    "grandfather",
+    "apple"
+   ],
+   "en": [
+    "five",
+    "pupil",
+    "grandfather",
+    "apple"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«pink» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «pink» на русский?",
+   "en": "What is the Uzbek translation of the word «pink»?"
+  },
+  "o": {
+   "uz": [
+    "pushti",
+    "mushuk",
+    "sigir",
+    "oy"
+   ],
+   "ru": [
+    "розовый",
+    "кошка",
+    "корова",
+    "луна"
+   ],
+   "en": [
+    "pushti",
+    "mushuk",
+    "sigir",
+    "oy"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«parta» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «парта»?",
+   "en": "How do you say «parta» in English?"
+  },
+  "o": {
+   "uz": [
+    "desk",
+    "bird",
+    "eight",
+    "rice"
+   ],
+   "ru": [
+    "desk",
+    "bird",
+    "eight",
+    "rice"
+   ],
+   "en": [
+    "desk",
+    "bird",
+    "eight",
+    "rice"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«eight» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «eight» на русский?",
+   "en": "What is the Uzbek translation of the word «eight»?"
+  },
+  "o": {
+   "uz": [
+    "sakkiz",
+    "ko'z",
+    "oq",
+    "besh"
+   ],
+   "ru": [
+    "восемь",
+    "глаз",
+    "белый",
+    "пять"
+   ],
+   "en": [
+    "sakkiz",
+    "ko'z",
+    "oq",
+    "besh"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«desk» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «desk» на русский?",
+   "en": "What is the Uzbek translation of the word «desk»?"
+  },
+  "o": {
+   "uz": [
+    "parta",
+    "oila",
+    "gul",
+    "sher"
+   ],
+   "ru": [
+    "парта",
+    "семья",
+    "цветок",
+    "лев"
+   ],
+   "en": [
+    "parta",
+    "oila",
+    "gul",
+    "sher"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«bread» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «bread» на русский?",
+   "en": "What is the Uzbek translation of the word «bread»?"
+  },
+  "o": {
+   "uz": [
+    "non",
+    "uch",
+    "quyosh",
+    "ko'z"
+   ],
+   "ru": [
+    "хлеб",
+    "три",
+    "солнце",
+    "глаз"
+   ],
+   "en": [
+    "non",
+    "uch",
+    "quyosh",
+    "ko'z"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«cat» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «cat» на русский?",
+   "en": "What is the Uzbek translation of the word «cat»?"
+  },
+  "o": {
+   "uz": [
+    "mushuk",
+    "stol",
+    "uzum",
+    "kun"
+   ],
+   "ru": [
+    "кошка",
+    "стол",
+    "виноград",
+    "день"
+   ],
+   "en": [
+    "mushuk",
+    "stol",
+    "uzum",
+    "kun"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«eshik» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «дверь»?",
+   "en": "How do you say «eshik» in English?"
+  },
+  "o": {
+   "uz": [
+    "door",
+    "car",
+    "monkey",
+    "chair"
+   ],
+   "ru": [
+    "door",
+    "car",
+    "monkey",
+    "chair"
+   ],
+   "en": [
+    "door",
+    "car",
+    "monkey",
+    "chair"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tooth» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «tooth» на русский?",
+   "en": "What is the Uzbek translation of the word «tooth»?"
+  },
+  "o": {
+   "uz": [
+    "tish",
+    "qush",
+    "o'rdak",
+    "soch"
+   ],
+   "ru": [
+    "зуб",
+    "птица",
+    "утка",
+    "волосы"
+   ],
+   "en": [
+    "tish",
+    "qush",
+    "o'rdak",
+    "soch"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«nose» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «nose» на русский?",
+   "en": "What is the Uzbek translation of the word «nose»?"
+  },
+  "o": {
+   "uz": [
+    "burun",
+    "to'qqiz",
+    "baliq",
+    "tuxum"
+   ],
+   "ru": [
+    "нос",
+    "девять",
+    "рыба",
+    "яйцо"
+   ],
+   "en": [
+    "burun",
+    "to'qqiz",
+    "baliq",
+    "tuxum"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«seven» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «seven» на русский?",
+   "en": "What is the Uzbek translation of the word «seven»?"
+  },
+  "o": {
+   "uz": [
+    "yetti",
+    "quloq",
+    "burun",
+    "sumka"
+   ],
+   "ru": [
+    "семь",
+    "ухо",
+    "нос",
+    "сумка"
+   ],
+   "en": [
+    "yetti",
+    "quloq",
+    "burun",
+    "sumka"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«brown» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «brown» на русский?",
+   "en": "What is the Uzbek translation of the word «brown»?"
+  },
+  "o": {
+   "uz": [
+    "jigarrang",
+    "og'iz",
+    "bobo",
+    "daraxt"
+   ],
+   "ru": [
+    "коричневый",
+    "рот",
+    "дедушка",
+    "дерево"
+   ],
+   "en": [
+    "jigarrang",
+    "og'iz",
+    "bobo",
+    "daraxt"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«oila» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «семья»?",
+   "en": "How do you say «oila» in English?"
+  },
+  "o": {
+   "uz": [
+    "family",
+    "cat",
+    "one",
+    "five"
+   ],
+   "ru": [
+    "family",
+    "cat",
+    "one",
+    "five"
+   ],
+   "en": [
+    "family",
+    "cat",
+    "one",
+    "five"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«pupil» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «pupil» на русский?",
+   "en": "What is the Uzbek translation of the word «pupil»?"
+  },
+  "o": {
+   "uz": [
+    "o'quvchi",
+    "stul",
+    "uzum",
+    "qo'l"
+   ],
+   "ru": [
+    "ученик",
+    "стул",
+    "виноград",
+    "рука"
+   ],
+   "en": [
+    "o'quvchi",
+    "stul",
+    "uzum",
+    "qo'l"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qush» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «птица»?",
+   "en": "How do you say «qush» in English?"
+  },
+  "o": {
+   "uz": [
+    "bird",
+    "tooth",
+    "red",
+    "flower"
+   ],
+   "ru": [
+    "bird",
+    "tooth",
+    "red",
+    "flower"
+   ],
+   "en": [
+    "bird",
+    "tooth",
+    "red",
+    "flower"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qizil» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «красный»?",
+   "en": "How do you say «qizil» in English?"
+  },
+  "o": {
+   "uz": [
+    "red",
+    "desk",
+    "six",
+    "cat"
+   ],
+   "ru": [
+    "red",
+    "desk",
+    "six",
+    "cat"
+   ],
+   "en": [
+    "red",
+    "desk",
+    "six",
+    "cat"
+   ]
+  },
+  "a": 0
+ }
+]

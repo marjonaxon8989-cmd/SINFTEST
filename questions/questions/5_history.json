@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Rim shahri asos solindi (an'anaviy sana)?",
+   "ru": "Когда произошло событие: Основание Рима (традиционная дата)?",
+   "en": "When did this happen: Rome was founded (traditional date)?"
+  },
+  "o": {
+   "uz": [
+    "m.av. 753-yil",
+    "m.av. 653-yil",
+    "m.av. 853-yil",
+    "m.av. 603-yil"
+   ],
+   "ru": [
+    "753 г. до н. э.",
+    "653 г. до н. э.",
+    "853 г. до н. э.",
+    "603 г. до н. э."
+   ],
+   "en": [
+    "753 BCE",
+    "653 BCE",
+    "853 BCE",
+    "603 BCE"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Xitoy Buyuk devori» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Великая Китайская стена»?",
+   "en": "In which city or country is «The Great Wall» located?"
+  },
+  "o": {
+   "uz": [
+    "Xitoy",
+    "Rim",
+    "Afina",
+    "Samarqand"
+   ],
+   "ru": [
+    "Китай",
+    "Рим",
+    "Афины",
+    "Самарканд"
+   ],
+   "en": [
+    "China",
+    "Rome",
+    "Athens",
+    "Samarkand"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Marafon jangi bo'ldi?",
+   "ru": "Когда произошло событие: Состоялась Марафонская битва?",
+   "en": "When did this happen: The Battle of Marathon took place?"
+  },
+  "o": {
+   "uz": [
+    "m.av. 490-yil",
+    "m.av. 480-yil",
+    "m.av. 290-yil",
+    "m.av. 440-yil"
+   ],
+   "ru": [
+    "490 г. до н. э.",
+    "480 г. до н. э.",
+    "290 г. до н. э.",
+    "440 г. до н. э."
+   ],
+   "en": [
+    "490 BCE",
+    "480 BCE",
+    "290 BCE",
+    "440 BCE"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "m.av. 73-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 73 г. до н. э.?",
+   "en": "Which event took place in 73 BCE?"
+  },
+  "o": {
+   "uz": [
+    "Spartak boshchiligida qullar qo'zg'oloni boshlandi",
+    "Chjan Szyan G'arbga safarga chiqdi (Ipak yo'li ochila boshladi)",
+    "Fermopil jangi bo'ldi",
+    "Yuliy Sezar o'ldirildi"
+   ],
+   "ru": [
+    "Началось восстание рабов под предводительством Спартака",
+    "Чжан Цянь отправился на Запад (начало Шёлкового пути)",
+    "Состоялась битва при Фермопилах",
+    "Убит Юлий Цезарь"
+   ],
+   "en": [
+    "The slave revolt led by Spartacus began",
+    "Zhang Qian set out west (the Silk Road began to open)",
+    "The Battle of Thermopylae took place",
+    "Julius Caesar was assassinated"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "m.av. 776-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 776 г. до н. э.?",
+   "en": "Which event took place in 776 BCE?"
+  },
+  "o": {
+   "uz": [
+    "Birinchi Olimpiya o'yinlari o'tkazildi",
+    "Marafon jangi bo'ldi",
+    "Fermopil jangi bo'ldi",
+    "Kir II Ahamoniylar davlatiga asos soldi"
+   ],
+   "ru": [
+    "Прошли первые Олимпийские игры",
+    "Состоялась Марафонская битва",
+    "Состоялась битва при Фермопилах",
+    "Кир II основал державу Ахеменидов"
+   ],
+   "en": [
+    "The first Olympic Games were held",
+    "The Battle of Marathon took place",
+    "The Battle of Thermopylae took place",
+    "Cyrus II founded the Achaemenid Empire"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1577-yildan 1623-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1577 года по 1623 год?",
+   "en": "How many years passed from 1577 to 1623?"
+  },
+  "o": {
+   "uz": [
+    "46",
+    "41",
+    "47",
+    "36"
+   ],
+   "ru": [
+    "46",
+    "41",
+    "47",
+    "36"
+   ],
+   "en": [
+    "46",
+    "41",
+    "47",
+    "36"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1554-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1554 год?",
+   "en": "Which century does the year 1554 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XVI asr",
+    "XVII asr",
+    "XIV asr",
+    "XVIII asr"
+   ],
+   "ru": [
+    "XVI век",
+    "XVII век",
+    "XIV век",
+    "XVIII век"
+   ],
+   "en": [
+    "16th century",
+    "17th century",
+    "14th century",
+    "18th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dastlabki mehnat qurollari asosan nimadan yasalgan?",
+   "ru": "Из чего в основном делали первые орудия труда?",
+   "en": "What were the first tools mainly made of?"
+  },
+  "o": {
+   "uz": [
+    "Toshdan",
+    "Po'latdan",
+    "Plastmassadan",
+    "Shishadan"
+   ],
+   "ru": [
+    "Из камня",
+    "Из стали",
+    "Из пластика",
+    "Из стекла"
+   ],
+   "en": [
+    "Stone",
+    "Steel",
+    "Plastic",
+    "Glass"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "623-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 623 год?",
+   "en": "Which century does the year 623 belong to?"
+  },
+  "o": {
+   "uz": [
+    "VII asr",
+    "V asr",
+    "VIII asr",
+    "VI asr"
+   ],
+   "ru": [
+    "VII век",
+    "V век",
+    "VIII век",
+    "VI век"
+   ],
+   "en": [
+    "7th century",
+    "5th century",
+    "8th century",
+    "6th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yuliy Sezar kim?",
+   "ru": "Кто такой(ая) Юлий Цезарь?",
+   "en": "Who is Julius Caesar?"
+  },
+  "o": {
+   "uz": [
+    "Qadimgi Rim sarkardasi va davlat arbobi",
+    "Iskandarga qarshi kurashgan Sug'd hokimi",
+    "«Tarix otasi» deb ataladigan yunon tarixchisi",
+    "Osiyoga yurish qilgan Makedoniya podshosi"
+   ],
+   "ru": [
+    "Полководец и государственный деятель Древнего Рима",
+    "Правитель Согда, боровшийся против Александра",
+    "Греческий историк, «отец истории»",
+    "Царь Македонии, совершивший поход в Азию"
+   ],
+   "en": [
+    "A general and statesman of Ancient Rome",
+    "Sogdian leader who fought against Alexander",
+    "The Greek historian called the «Father of History»",
+    "The king of Macedon who led a campaign into Asia"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "m.av. 480-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 480 г. до н. э.?",
+   "en": "Which event took place in 480 BCE?"
+  },
+  "o": {
+   "uz": [
+    "Fermopil jangi bo'ldi",
+    "Chjan Szyan G'arbga safarga chiqdi (Ipak yo'li ochila boshladi)",
+    "Marafon jangi bo'ldi",
+    "Rim shahri asos solindi (an'anaviy sana)"
+   ],
+   "ru": [
+    "Состоялась битва при Фермопилах",
+    "Чжан Цянь отправился на Запад (начало Шёлкового пути)",
+    "Состоялась Марафонская битва",
+    "Основание Рима (традиционная дата)"
+   ],
+   "en": [
+    "The Battle of Thermopylae took place",
+    "Zhang Qian set out west (the Silk Road began to open)",
+    "The Battle of Marathon took place",
+    "Rome was founded (traditional date)"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Xitoy qaysi daryo(lar) bo'yida vujudga kelgan?",
+   "ru": "У каких рек возникла цивилизация: Древний Китай?",
+   "en": "Beside which river(s) did this civilisation arise: Ancient China?"
+  },
+  "o": {
+   "uz": [
+    "Xuanxe va Yantszi daryolari",
+    "Hind va Gang daryolari",
+    "Amudaryoning quyi oqimi",
+    "Nil daryosi"
+   ],
+   "ru": [
+    "реки Хуанхэ и Янцзы",
+    "реки Инд и Ганг",
+    "нижнее течение Амударьи",
+    "река Нил"
+   ],
+   "en": [
+    "The Yellow River and Yangtze",
+    "The Indus and Ganges",
+    "The lower course of the Amudarya",
+    "The Nile"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Poyi Kalon majmuasi» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Комплекс Пои-Калян»?",
+   "en": "In which city or country is «Poi Kalon complex» located?"
+  },
+  "o": {
+   "uz": [
+    "Buxoro",
+    "Xitoy",
+    "Samarqand",
+    "Rim"
+   ],
+   "ru": [
+    "Бухара",
+    "Китай",
+    "Самарканд",
+    "Рим"
+   ],
+   "en": [
+    "Bukhara",
+    "China",
+    "Samarkand",
+    "Rome"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "866-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 866 год?",
+   "en": "Which century does the year 866 belong to?"
+  },
+  "o": {
+   "uz": [
+    "IX asr",
+    "VIII asr",
+    "X asr",
+    "XI asr"
+   ],
+   "ru": [
+    "IX век",
+    "VIII век",
+    "X век",
+    "XI век"
+   ],
+   "en": [
+    "9th century",
+    "8th century",
+    "10th century",
+    "11th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Misrda hukmdor qanday atalgan?",
+   "ru": "Как называли правителя в Древнем Египте?",
+   "en": "What was the ruler of Ancient Egypt called?"
+  },
+  "o": {
+   "uz": [
+    "Fir'avn",
+    "Sulton",
+    "Amir",
+    "Imperator"
+   ],
+   "ru": [
+    "Фараон",
+    "Султан",
+    "Эмир",
+    "Император"
+   ],
+   "en": [
+    "Pharaoh",
+    "Sultan",
+    "Emir",
+    "Emperor"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "m.av. 550-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 550 г. до н. э.?",
+   "en": "Which event took place in 550 BCE?"
+  },
+  "o": {
+   "uz": [
+    "Kir II Ahamoniylar davlatiga asos soldi",
+    "Birinchi Olimpiya o'yinlari o'tkazildi",
+    "Chjan Szyan G'arbga safarga chiqdi (Ipak yo'li ochila boshladi)",
+    "Fermopil jangi bo'ldi"
+   ],
+   "ru": [
+    "Кир II основал державу Ахеменидов",
+    "Прошли первые Олимпийские игры",
+    "Чжан Цянь отправился на Запад (начало Шёлкового пути)",
+    "Состоялась битва при Фермопилах"
+   ],
+   "en": [
+    "Cyrus II founded the Achaemenid Empire",
+    "The first Olympic Games were held",
+    "Zhang Qian set out west (the Silk Road began to open)",
+    "The Battle of Thermopylae took place"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Ko'kaldosh madrasasi» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Медресе Кукельдаш»?",
+   "en": "In which city or country is «Kukeldash Madrasa» located?"
+  },
+  "o": {
+   "uz": [
+    "Toshkent",
+    "Misr",
+    "Rim",
+    "Samarqand"
+   ],
+   "ru": [
+    "Ташкент",
+    "Египет",
+    "Рим",
+    "Самарканд"
+   ],
+   "en": [
+    "Tashkent",
+    "Egypt",
+    "Rome",
+    "Samarkand"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gippokrat kim?",
+   "ru": "Кто такой(ая) Гиппократ?",
+   "en": "Who is Hippocrates?"
+  },
+  "o": {
+   "uz": [
+    "«Tibbiyot otasi» deb ataladigan yunon shifokori",
+    "Suzuvchi jismlar qonunini kashf etgan yunon olimi",
+    "Osiyoga yurish qilgan Makedoniya podshosi",
+    "Ahamoniylar davlatiga asos solgan podsho"
+   ],
+   "ru": [
+    "Греческий врач, «отец медицины»",
+    "Греческий учёный, открывший закон плавания тел",
+    "Царь Македонии, совершивший поход в Азию",
+    "Царь, основавший державу Ахеменидов"
+   ],
+   "en": [
+    "The Greek physician called the «Father of Medicine»",
+    "The Greek scientist who discovered the law of buoyancy",
+    "The king of Macedon who led a campaign into Asia",
+    "The king who founded the Achaemenid Empire"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "m.av. 331-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 331 г. до н. э.?",
+   "en": "Which event took place in 331 BCE?"
+  },
+  "o": {
+   "uz": [
+    "Gavgamela jangida Iskandar Doro III ni yengdi",
+    "Yuliy Sezar o'ldirildi",
+    "Kir II Ahamoniylar davlatiga asos soldi",
+    "Fermopil jangi bo'ldi"
+   ],
+   "ru": [
+    "Александр победил Дария III при Гавгамелах",
+    "Убит Юлий Цезарь",
+    "Кир II основал державу Ахеменидов",
+    "Состоялась битва при Фермопилах"
+   ],
+   "en": [
+    "Alexander defeated Darius III at Gaugamela",
+    "Julius Caesar was assassinated",
+    "Cyrus II founded the Achaemenid Empire",
+    "The Battle of Thermopylae took place"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Xorazm qaysi daryo(lar) bo'yida vujudga kelgan?",
+   "ru": "У каких рек возникла цивилизация: Древний Хорезм?",
+   "en": "Beside which river(s) did this civilisation arise: Ancient Khorezm?"
+  },
+  "o": {
+   "uz": [
+    "Amudaryoning quyi oqimi",
+    "Xuanxe va Yantszi daryolari",
+    "Nil daryosi",
+    "Hind va Gang daryolari"
+   ],
+   "ru": [
+    "нижнее течение Амударьи",
+    "реки Хуанхэ и Янцзы",
+    "река Нил",
+    "реки Инд и Ганг"
+   ],
+   "en": [
+    "The lower course of the Amudarya",
+    "The Yellow River and Yangtze",
+    "The Nile",
+    "The Indus and Ganges"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Yuliy Sezar o'ldirildi?",
+   "ru": "Когда произошло событие: Убит Юлий Цезарь?",
+   "en": "When did this happen: Julius Caesar was assassinated?"
+  },
+  "o": {
+   "uz": [
+    "m.av. 44-yil",
+    "m.av. 94-yil",
+    "m.av. 49-yil",
+    "m.av. 19-yil"
+   ],
+   "ru": [
+    "44 г. до н. э.",
+    "94 г. до н. э.",
+    "49 г. до н. э.",
+    "19 г. до н. э."
+   ],
+   "en": [
+    "44 BCE",
+    "94 BCE",
+    "49 BCE",
+    "19 BCE"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: Ahamoniylar davlatiga asos solgan podsho?",
+   "ru": "О ком идёт речь: Царь, основавший державу Ахеменидов?",
+   "en": "Who is described here: The king who founded the Achaemenid Empire?"
+  },
+  "o": {
+   "uz": [
+    "Kir II",
+    "Tomiris",
+    "Kleopatra",
+    "Arximed"
+   ],
+   "ru": [
+    "Кир II",
+    "Томирис",
+    "Клеопатра",
+    "Архимед"
+   ],
+   "en": [
+    "Cyrus II",
+    "Tomyris",
+    "Cleopatra",
+    "Archimedes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tarix qanday fan?",
+   "ru": "Что такое история?",
+   "en": "What is history?"
+  },
+  "o": {
+   "uz": [
+    "Insoniyat o'tmishini o'rganuvchi fan",
+    "Yer qa'rini o'rganuvchi fan",
+    "O'simliklar haqidagi fan",
+    "Sonlar haqidagi fan"
+   ],
+   "ru": [
+    "Наука о прошлом человечества",
+    "Наука о недрах Земли",
+    "Наука о растениях",
+    "Наука о числах"
+   ],
+   "en": [
+    "The science of humanity's past",
+    "The science of the Earth's interior",
+    "The science of plants",
+    "The science of numbers"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Birinchi Olimpiya o'yinlari o'tkazildi?",
+   "ru": "Когда произошло событие: Прошли первые Олимпийские игры?",
+   "en": "When did this happen: The first Olympic Games were held?"
+  },
+  "o": {
+   "uz": [
+    "m.av. 776-yil",
+    "m.av. 756-yil",
+    "m.av. 801-yil",
+    "m.av. 826-yil"
+   ],
+   "ru": [
+    "776 г. до н. э.",
+    "756 г. до н. э.",
+    "801 г. до н. э.",
+    "826 г. до н. э."
+   ],
+   "en": [
+    "776 BCE",
+    "756 BCE",
+    "801 BCE",
+    "826 BCE"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Iskandar Zulqarnayn Amudaryodan o'tib Sug'dga kirdi?",
+   "ru": "Когда произошло событие: Александр Македонский перешёл Амударью и вступил в Согд?",
+   "en": "When did this happen: Alexander crossed the Amudarya and entered Sogdiana?"
+  },
+  "o": {
+   "uz": [
+    "m.av. 329-yil",
+    "m.av. 129-yil",
+    "m.av. 529-yil",
+    "m.av. 279-yil"
+   ],
+   "ru": [
+    "329 г. до н. э.",
+    "129 г. до н. э.",
+    "529 г. до н. э.",
+    "279 г. до н. э."
+   ],
+   "en": [
+    "329 BCE",
+    "129 BCE",
+    "529 BCE",
+    "279 BCE"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Ichan qal'a» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Ичан-Кала»?",
+   "en": "In which city or country is «Itchan Kala» located?"
+  },
+  "o": {
+   "uz": [
+    "Xiva",
+    "Buxoro",
+    "Misr",
+    "Toshkent"
+   ],
+   "ru": [
+    "Хива",
+    "Бухара",
+    "Египет",
+    "Ташкент"
+   ],
+   "en": [
+    "Khiva",
+    "Bukhara",
+    "Egypt",
+    "Tashkent"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: Qadimgi Rim sarkardasi va davlat arbobi?",
+   "ru": "О ком идёт речь: Полководец и государственный деятель Древнего Рима?",
+   "en": "Who is described here: A general and statesman of Ancient Rome?"
+  },
+  "o": {
+   "uz": [
+    "Yuliy Sezar",
+    "Kir II",
+    "Tomiris",
+    "Spitamen"
+   ],
+   "ru": [
+    "Юлий Цезарь",
+    "Кир II",
+    "Томирис",
+    "Спитамен"
+   ],
+   "en": [
+    "Julius Caesar",
+    "Cyrus II",
+    "Tomyris",
+    "Spitamenes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: Iskandarga qarshi kurashgan Sug'd hokimi?",
+   "ru": "О ком идёт речь: Правитель Согда, боровшийся против Александра?",
+   "en": "Who is described here: Sogdian leader who fought against Alexander?"
+  },
+  "o": {
+   "uz": [
+    "Spitamen",
+    "Tomiris",
+    "Yuliy Sezar",
+    "Kir II"
+   ],
+   "ru": [
+    "Спитамен",
+    "Томирис",
+    "Юлий Цезарь",
+    "Кир II"
+   ],
+   "en": [
+    "Spitamenes",
+    "Tomyris",
+    "Julius Caesar",
+    "Cyrus II"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sparta shahar-davlati nimasi bilan mashhur bo'lgan?",
+   "ru": "Чем была известна Спарта?",
+   "en": "What was the city-state of Sparta famous for?"
+  },
+  "o": {
+   "uz": [
+    "Harbiy tarbiyasi",
+    "Savdo flotiga",
+    "Qog'oz ishlab chiqarishga",
+    "Ipak to'qishga"
+   ],
+   "ru": [
+    "Военным воспитанием",
+    "Торговым флотом",
+    "Производством бумаги",
+    "Ткачеством шёлка"
+   ],
+   "en": [
+    "Its military training",
+    "Its trade fleet",
+    "Paper production",
+    "Silk weaving"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Iskandar Zulqarnayn kim?",
+   "ru": "Кто такой(ая) Александр Македонский?",
+   "en": "Who is Alexander the Great?"
+  },
+  "o": {
+   "uz": [
+    "Osiyoga yurish qilgan Makedoniya podshosi",
+    "«Tibbiyot otasi» deb ataladigan yunon shifokori",
+    "Qadimgi Misrning mashhur malikasi",
+    "Kirni mag'lub etgan massagetlar malikasi"
+   ],
+   "ru": [
+    "Царь Македонии, совершивший поход в Азию",
+    "Греческий врач, «отец медицины»",
+    "Знаменитая царица Древнего Египта",
+    "Царица массагетов, победившая Кира"
+   ],
+   "en": [
+    "The king of Macedon who led a campaign into Asia",
+    "The Greek physician called the «Father of Medicine»",
+    "The famous queen of Ancient Egypt",
+    "Queen of the Massagetae who defeated Cyrus"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: Osiyoga yurish qilgan Makedoniya podshosi?",
+   "ru": "О ком идёт речь: Царь Македонии, совершивший поход в Азию?",
+   "en": "Who is described here: The king of Macedon who led a campaign into Asia?"
+  },
+  "o": {
+   "uz": [
+    "Iskandar Zulqarnayn",
+    "Spitamen",
+    "Kir II",
+    "Gippokrat"
+   ],
+   "ru": [
+    "Александр Македонский",
+    "Спитамен",
+    "Кир II",
+    "Гиппократ"
+   ],
+   "en": [
+    "Alexander the Great",
+    "Spitamenes",
+    "Cyrus II",
+    "Hippocrates"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Piramidalar» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Пирамиды»?",
+   "en": "In which city or country is «The Pyramids» located?"
+  },
+  "o": {
+   "uz": [
+    "Misr",
+    "Buxoro",
+    "Xitoy",
+    "Xiva"
+   ],
+   "ru": [
+    "Египет",
+    "Бухара",
+    "Китай",
+    "Хива"
+   ],
+   "en": [
+    "Egypt",
+    "Bukhara",
+    "China",
+    "Khiva"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kir II kim?",
+   "ru": "Кто такой(ая) Кир II?",
+   "en": "Who is Cyrus II?"
+  },
+  "o": {
+   "uz": [
+    "Ahamoniylar davlatiga asos solgan podsho",
+    "Suzuvchi jismlar qonunini kashf etgan yunon olimi",
+    "«Tibbiyot otasi» deb ataladigan yunon shifokori",
+    "Osiyoga yurish qilgan Makedoniya podshosi"
+   ],
+   "ru": [
+    "Царь, основавший державу Ахеменидов",
+    "Греческий учёный, открывший закон плавания тел",
+    "Греческий врач, «отец медицины»",
+    "Царь Македонии, совершивший поход в Азию"
+   ],
+   "en": [
+    "The king who founded the Achaemenid Empire",
+    "The Greek scientist who discovered the law of buoyancy",
+    "The Greek physician called the «Father of Medicine»",
+    "The king of Macedon who led a campaign into Asia"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Hindiston qaysi daryo(lar) bo'yida vujudga kelgan?",
+   "ru": "У каких рек возникла цивилизация: Древняя Индия?",
+   "en": "Beside which river(s) did this civilisation arise: Ancient India?"
+  },
+  "o": {
+   "uz": [
+    "Hind va Gang daryolari",
+    "Amudaryoning quyi oqimi",
+    "Xuanxe va Yantszi daryolari",
+    "Nil daryosi"
+   ],
+   "ru": [
+    "реки Инд и Ганг",
+    "нижнее течение Амударьи",
+    "реки Хуанхэ и Янцзы",
+    "река Нил"
+   ],
+   "en": [
+    "The Indus and Ganges",
+    "The lower course of the Amudarya",
+    "The Yellow River and Yangtze",
+    "The Nile"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Xorazmning asosiy daryosi qaysi?",
+   "ru": "Какая главная река Древнего Хорезма?",
+   "en": "What was the main river of Ancient Khorezm?"
+  },
+  "o": {
+   "uz": [
+    "Amudaryo",
+    "Zarafshon",
+    "Sirdaryo",
+    "Chirchiq"
+   ],
+   "ru": [
+    "Амударья",
+    "Зеравшан",
+    "Сырдарья",
+    "Чирчик"
+   ],
+   "en": [
+    "Amudarya",
+    "Zarafshan",
+    "Syrdarya",
+    "Chirchiq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Ark qal'asi» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Крепость Арк»?",
+   "en": "In which city or country is «The Ark Fortress» located?"
+  },
+  "o": {
+   "uz": [
+    "Buxoro",
+    "Xiva",
+    "Misr",
+    "Rim"
+   ],
+   "ru": [
+    "Бухара",
+    "Хива",
+    "Египет",
+    "Рим"
+   ],
+   "en": [
+    "Bukhara",
+    "Khiva",
+    "Egypt",
+    "Rome"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: «Tibbiyot otasi» deb ataladigan yunon shifokori?",
+   "ru": "О ком идёт речь: Греческий врач, «отец медицины»?",
+   "en": "Who is described here: The Greek physician called the «Father of Medicine»?"
+  },
+  "o": {
+   "uz": [
+    "Gippokrat",
+    "Kir II",
+    "Gerodot",
+    "Iskandar Zulqarnayn"
+   ],
+   "ru": [
+    "Гиппократ",
+    "Кир II",
+    "Геродот",
+    "Александр Македонский"
+   ],
+   "en": [
+    "Hippocrates",
+    "Cyrus II",
+    "Herodotus",
+    "Alexander the Great"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1334-yildan 1397-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1334 года по 1397 год?",
+   "en": "How many years passed from 1334 to 1397?"
+  },
+  "o": {
+   "uz": [
+    "63",
+    "58",
+    "64",
+    "62"
+   ],
+   "ru": [
+    "63",
+    "58",
+    "64",
+    "62"
+   ],
+   "en": [
+    "63",
+    "58",
+    "64",
+    "62"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tomiris kim?",
+   "ru": "Кто такой(ая) Томирис?",
+   "en": "Who is Tomyris?"
+  },
+  "o": {
+   "uz": [
+    "Kirni mag'lub etgan massagetlar malikasi",
+    "Osiyoga yurish qilgan Makedoniya podshosi",
+    "«Tarix otasi» deb ataladigan yunon tarixchisi",
+    "Ahamoniylar davlatiga asos solgan podsho"
+   ],
+   "ru": [
+    "Царица массагетов, победившая Кира",
+    "Царь Македонии, совершивший поход в Азию",
+    "Греческий историк, «отец истории»",
+    "Царь, основавший державу Ахеменидов"
+   ],
+   "en": [
+    "Queen of the Massagetae who defeated Cyrus",
+    "The king of Macedon who led a campaign into Asia",
+    "The Greek historian called the «Father of History»",
+    "The king who founded the Achaemenid Empire"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zardushtiylik asoschisi kim hisoblanadi?",
+   "ru": "Кто считается основателем зороастризма?",
+   "en": "Who is considered the founder of Zoroastrianism?"
+  },
+  "o": {
+   "uz": [
+    "Zardusht",
+    "Kir II",
+    "Spitamen",
+    "Doro III"
+   ],
+   "ru": [
+    "Заратустра",
+    "Кир II",
+    "Спитамен",
+    "Дарий III"
+   ],
+   "en": [
+    "Zoroaster (Zarathustra)",
+    "Cyrus II",
+    "Spitamenes",
+    "Darius III"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Chjan Szyan G'arbga safarga chiqdi (Ipak yo'li ochila boshladi)?",
+   "ru": "Когда произошло событие: Чжан Цянь отправился на Запад (начало Шёлкового пути)?",
+   "en": "When did this happen: Zhang Qian set out west (the Silk Road began to open)?"
+  },
+  "o": {
+   "uz": [
+    "m.av. 138-yil",
+    "m.av. 143-yil",
+    "m.av. 148-yil",
+    "m.av. 133-yil"
+   ],
+   "ru": [
+    "138 г. до н. э.",
+    "143 г. до н. э.",
+    "148 г. до н. э.",
+    "133 г. до н. э."
+   ],
+   "en": [
+    "138 BCE",
+    "143 BCE",
+    "148 BCE",
+    "133 BCE"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "m.av. 44-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 44 г. до н. э.?",
+   "en": "Which event took place in 44 BCE?"
+  },
+  "o": {
+   "uz": [
+    "Yuliy Sezar o'ldirildi",
+    "Chjan Szyan G'arbga safarga chiqdi (Ipak yo'li ochila boshladi)",
+    "Spartak boshchiligida qullar qo'zg'oloni boshlandi",
+    "Kir II Ahamoniylar davlatiga asos soldi"
+   ],
+   "ru": [
+    "Убит Юлий Цезарь",
+    "Чжан Цянь отправился на Запад (начало Шёлкового пути)",
+    "Началось восстание рабов под предводительством Спартака",
+    "Кир II основал державу Ахеменидов"
+   ],
+   "en": [
+    "Julius Caesar was assassinated",
+    "Zhang Qian set out west (the Silk Road began to open)",
+    "The slave revolt led by Spartacus began",
+    "Cyrus II founded the Achaemenid Empire"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "m.av. 138-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 138 г. до н. э.?",
+   "en": "Which event took place in 138 BCE?"
+  },
+  "o": {
+   "uz": [
+    "Chjan Szyan G'arbga safarga chiqdi (Ipak yo'li ochila boshladi)",
+    "Iskandar Zulqarnayn Amudaryodan o'tib Sug'dga kirdi",
+    "Yuliy Sezar o'ldirildi",
+    "Birinchi Olimpiya o'yinlari o'tkazildi"
+   ],
+   "ru": [
+    "Чжан Цянь отправился на Запад (начало Шёлкового пути)",
+    "Александр Македонский перешёл Амударью и вступил в Согд",
+    "Убит Юлий Цезарь",
+    "Прошли первые Олимпийские игры"
+   ],
+   "en": [
+    "Zhang Qian set out west (the Silk Road began to open)",
+    "Alexander crossed the Amudarya and entered Sogdiana",
+    "Julius Caesar was assassinated",
+    "The first Olympic Games were held"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1243-yildan 1272-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1243 года по 1272 год?",
+   "en": "How many years passed from 1243 to 1272?"
+  },
+  "o": {
+   "uz": [
+    "29",
+    "24",
+    "28",
+    "34"
+   ],
+   "ru": [
+    "29",
+    "24",
+    "28",
+    "34"
+   ],
+   "en": [
+    "29",
+    "24",
+    "28",
+    "34"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Akropol» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Акрополь»?",
+   "en": "In which city or country is «The Acropolis» located?"
+  },
+  "o": {
+   "uz": [
+    "Afina",
+    "Samarqand",
+    "Buxoro",
+    "Misr"
+   ],
+   "ru": [
+    "Афины",
+    "Самарканд",
+    "Бухара",
+    "Египет"
+   ],
+   "en": [
+    "Athens",
+    "Samarkand",
+    "Bukhara",
+    "Egypt"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Davlat madhiyasi, bayroq va gerb nima deb ataladi?",
+   "ru": "Как называются государственный гимн, флаг и герб?",
+   "en": "What are the state anthem, flag and coat of arms together called?"
+  },
+  "o": {
+   "uz": [
+    "Davlat ramzlari",
+    "Davlat qonunlari",
+    "Davlat idoralari",
+    "Davlat bayramlari"
+   ],
+   "ru": [
+    "Государственные символы",
+    "Государственные законы",
+    "Государственные органы",
+    "Государственные праздники"
+   ],
+   "en": [
+    "State symbols",
+    "State laws",
+    "State bodies",
+    "State holidays"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1705-yildan 1775-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1705 года по 1775 год?",
+   "en": "How many years passed from 1705 to 1775?"
+  },
+  "o": {
+   "uz": [
+    "70",
+    "65",
+    "80",
+    "75"
+   ],
+   "ru": [
+    "70",
+    "65",
+    "80",
+    "75"
+   ],
+   "en": [
+    "70",
+    "65",
+    "80",
+    "75"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Registon» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Регистан»?",
+   "en": "In which city or country is «Registan» located?"
+  },
+  "o": {
+   "uz": [
+    "Samarqand",
+    "Rim",
+    "Buxoro",
+    "Afina"
+   ],
+   "ru": [
+    "Самарканд",
+    "Рим",
+    "Бухара",
+    "Афины"
+   ],
+   "en": [
+    "Samarkand",
+    "Rome",
+    "Bukhara",
+    "Athens"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1835-yildan 1903-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1835 года по 1903 год?",
+   "en": "How many years passed from 1835 to 1903?"
+  },
+  "o": {
+   "uz": [
+    "68",
+    "78",
+    "63",
+    "88"
+   ],
+   "ru": [
+    "68",
+    "78",
+    "63",
+    "88"
+   ],
+   "en": [
+    "68",
+    "78",
+    "63",
+    "88"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "m.av. 329-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 329 г. до н. э.?",
+   "en": "Which event took place in 329 BCE?"
+  },
+  "o": {
+   "uz": [
+    "Iskandar Zulqarnayn Amudaryodan o'tib Sug'dga kirdi",
+    "Rim shahri asos solindi (an'anaviy sana)",
+    "Marafon jangi bo'ldi",
+    "Birinchi Olimpiya o'yinlari o'tkazildi"
+   ],
+   "ru": [
+    "Александр Македонский перешёл Амударью и вступил в Согд",
+    "Основание Рима (традиционная дата)",
+    "Состоялась Марафонская битва",
+    "Прошли первые Олимпийские игры"
+   ],
+   "en": [
+    "Alexander crossed the Amudarya and entered Sogdiana",
+    "Rome was founded (traditional date)",
+    "The Battle of Marathon took place",
+    "The first Olympic Games were held"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1923-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1923 год?",
+   "en": "Which century does the year 1923 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XX asr",
+    "XVIII asr",
+    "XXI asr",
+    "XIX asr"
+   ],
+   "ru": [
+    "XX век",
+    "XVIII век",
+    "XXI век",
+    "XIX век"
+   ],
+   "en": [
+    "20th century",
+    "18th century",
+    "21st century",
+    "19th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "XXI asr qaysi yillarni o'z ichiga oladi?",
+   "ru": "Какие годы входят в XXI век?",
+   "en": "Which years does the 21st century include?"
+  },
+  "o": {
+   "uz": [
+    "2001–2100",
+    "1901–2000",
+    "2000–2099",
+    "1991–2090"
+   ],
+   "ru": [
+    "2001–2100",
+    "1901–2000",
+    "2000–2099",
+    "1991–2090"
+   ],
+   "en": [
+    "2001–2100",
+    "1901–2000",
+    "2000–2099",
+    "1991–2090"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gerodot kim?",
+   "ru": "Кто такой(ая) Геродот?",
+   "en": "Who is Herodotus?"
+  },
+  "o": {
+   "uz": [
+    "«Tarix otasi» deb ataladigan yunon tarixchisi",
+    "Qadimgi Misrning mashhur malikasi",
+    "Kirni mag'lub etgan massagetlar malikasi",
+    "Ahamoniylar davlatiga asos solgan podsho"
+   ],
+   "ru": [
+    "Греческий историк, «отец истории»",
+    "Знаменитая царица Древнего Египта",
+    "Царица массагетов, победившая Кира",
+    "Царь, основавший державу Ахеменидов"
+   ],
+   "en": [
+    "The Greek historian called the «Father of History»",
+    "The famous queen of Ancient Egypt",
+    "Queen of the Massagetae who defeated Cyrus",
+    "The king who founded the Achaemenid Empire"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1321-yildan 1374-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1321 года по 1374 год?",
+   "en": "How many years passed from 1321 to 1374?"
+  },
+  "o": {
+   "uz": [
+    "53",
+    "54",
+    "73",
+    "52"
+   ],
+   "ru": [
+    "53",
+    "54",
+    "73",
+    "52"
+   ],
+   "en": [
+    "53",
+    "54",
+    "73",
+    "52"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1202-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1202 год?",
+   "en": "Which century does the year 1202 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XIII asr",
+    "XII asr",
+    "XIV asr",
+    "XI asr"
+   ],
+   "ru": [
+    "XIII век",
+    "XII век",
+    "XIV век",
+    "XI век"
+   ],
+   "en": [
+    "13th century",
+    "12th century",
+    "14th century",
+    "11th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Spartak boshchiligida qullar qo'zg'oloni boshlandi?",
+   "ru": "Когда произошло событие: Началось восстание рабов под предводительством Спартака?",
+   "en": "When did this happen: The slave revolt led by Spartacus began?"
+  },
+  "o": {
+   "uz": [
+    "m.av. 73-yil",
+    "m.av. 58-yil",
+    "m.av. 68-yil",
+    "m.av. 48-yil"
+   ],
+   "ru": [
+    "73 г. до н. э.",
+    "58 г. до н. э.",
+    "68 г. до н. э.",
+    "48 г. до н. э."
+   ],
+   "en": [
+    "73 BCE",
+    "58 BCE",
+    "68 BCE",
+    "48 BCE"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Yunonistonda Olimpiya o'yinlari qaysi xudo sharafiga o'tkazilgan?",
+   "ru": "В честь какого бога проводились Олимпийские игры в Древней Греции?",
+   "en": "In honour of which god were the Ancient Olympic Games held?"
+  },
+  "o": {
+   "uz": [
+    "Zevs",
+    "Apollon",
+    "Poseydon",
+    "Ares"
+   ],
+   "ru": [
+    "Зевс",
+    "Аполлон",
+    "Посейдон",
+    "Арес"
+   ],
+   "en": [
+    "Zeus",
+    "Apollo",
+    "Poseidon",
+    "Ares"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Arximed kim?",
+   "ru": "Кто такой(ая) Архимед?",
+   "en": "Who is Archimedes?"
+  },
+  "o": {
+   "uz": [
+    "Suzuvchi jismlar qonunini kashf etgan yunon olimi",
+    "Qadimgi Misrning mashhur malikasi",
+    "Osiyoga yurish qilgan Makedoniya podshosi",
+    "Iskandarga qarshi kurashgan Sug'd hokimi"
+   ],
+   "ru": [
+    "Греческий учёный, открывший закон плавания тел",
+    "Знаменитая царица Древнего Египта",
+    "Царь Македонии, совершивший поход в Азию",
+    "Правитель Согда, боровшийся против Александра"
+   ],
+   "en": [
+    "The Greek scientist who discovered the law of buoyancy",
+    "The famous queen of Ancient Egypt",
+    "The king of Macedon who led a campaign into Asia",
+    "Sogdian leader who fought against Alexander"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: Suzuvchi jismlar qonunini kashf etgan yunon olimi?",
+   "ru": "О ком идёт речь: Греческий учёный, открывший закон плавания тел?",
+   "en": "Who is described here: The Greek scientist who discovered the law of buoyancy?"
+  },
+  "o": {
+   "uz": [
+    "Arximed",
+    "Gerodot",
+    "Iskandar Zulqarnayn",
+    "Yuliy Sezar"
+   ],
+   "ru": [
+    "Архимед",
+    "Геродот",
+    "Александр Македонский",
+    "Юлий Цезарь"
+   ],
+   "en": [
+    "Archimedes",
+    "Herodotus",
+    "Alexander the Great",
+    "Julius Caesar"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "831-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 831 год?",
+   "en": "Which century does the year 831 belong to?"
+  },
+  "o": {
+   "uz": [
+    "IX asr",
+    "VII asr",
+    "VIII asr",
+    "XI asr"
+   ],
+   "ru": [
+    "IX век",
+    "VII век",
+    "VIII век",
+    "XI век"
+   ],
+   "en": [
+    "9th century",
+    "7th century",
+    "8th century",
+    "11th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1880-yildan 1966-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1880 года по 1966 год?",
+   "en": "How many years passed from 1880 to 1966?"
+  },
+  "o": {
+   "uz": [
+    "86",
+    "106",
+    "96",
+    "76"
+   ],
+   "ru": [
+    "86",
+    "106",
+    "96",
+    "76"
+   ],
+   "en": [
+    "86",
+    "106",
+    "96",
+    "76"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Kolizey» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Колизей»?",
+   "en": "In which city or country is «The Colosseum» located?"
+  },
+  "o": {
+   "uz": [
+    "Rim",
+    "Xiva",
+    "Toshkent",
+    "Samarqand"
+   ],
+   "ru": [
+    "Рим",
+    "Хива",
+    "Ташкент",
+    "Самарканд"
+   ],
+   "en": [
+    "Rome",
+    "Khiva",
+    "Tashkent",
+    "Samarkand"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Gavgamela jangida Iskandar Doro III ni yengdi?",
+   "ru": "Когда произошло событие: Александр победил Дария III при Гавгамелах?",
+   "en": "When did this happen: Alexander defeated Darius III at Gaugamela?"
+  },
+  "o": {
+   "uz": [
+    "m.av. 331-yil",
+    "m.av. 481-yil",
+    "m.av. 341-yil",
+    "m.av. 311-yil"
+   ],
+   "ru": [
+    "331 г. до н. э.",
+    "481 г. до н. э.",
+    "341 г. до н. э.",
+    "311 г. до н. э."
+   ],
+   "en": [
+    "331 BCE",
+    "481 BCE",
+    "341 BCE",
+    "311 BCE"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1543-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1543 год?",
+   "en": "Which century does the year 1543 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XVI asr",
+    "XVII asr",
+    "XVIII asr",
+    "XV asr"
+   ],
+   "ru": [
+    "XVI век",
+    "XVII век",
+    "XVIII век",
+    "XV век"
+   ],
+   "en": [
+    "16th century",
+    "17th century",
+    "18th century",
+    "15th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Rimliklar qaysi tilda so'zlashgan?",
+   "ru": "На каком языке говорили в Древнем Риме?",
+   "en": "Which language was spoken in Ancient Rome?"
+  },
+  "o": {
+   "uz": [
+    "Lotin",
+    "Arab",
+    "Xitoy",
+    "Fors"
+   ],
+   "ru": [
+    "Латынь",
+    "Арабский",
+    "Китайский",
+    "Персидский"
+   ],
+   "en": [
+    "Latin",
+    "Arabic",
+    "Chinese",
+    "Persian"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1493-yildan 1545-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1493 года по 1545 год?",
+   "en": "How many years passed from 1493 to 1545?"
+  },
+  "o": {
+   "uz": [
+    "52",
+    "51",
+    "53",
+    "57"
+   ],
+   "ru": [
+    "52",
+    "51",
+    "53",
+    "57"
+   ],
+   "en": [
+    "52",
+    "51",
+    "53",
+    "57"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Marakanda hozirgi qaysi shaharga to'g'ri keladi?",
+   "ru": "Какому современному городу соответствует Мараканда?",
+   "en": "Which modern city does ancient Marakanda correspond to?"
+  },
+  "o": {
+   "uz": [
+    "Samarqand",
+    "Buxoro",
+    "Termiz",
+    "Xiva"
+   ],
+   "ru": [
+    "Самарканд",
+    "Бухара",
+    "Термез",
+    "Хива"
+   ],
+   "en": [
+    "Samarkand",
+    "Bukhara",
+    "Termez",
+    "Khiva"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Kir II Ahamoniylar davlatiga asos soldi?",
+   "ru": "Когда произошло событие: Кир II основал державу Ахеменидов?",
+   "en": "When did this happen: Cyrus II founded the Achaemenid Empire?"
+  },
+  "o": {
+   "uz": [
+    "m.av. 550-yil",
+    "m.av. 575-yil",
+    "m.av. 540-yil",
+    "m.av. 350-yil"
+   ],
+   "ru": [
+    "550 г. до н. э.",
+    "575 г. до н. э.",
+    "540 г. до н. э.",
+    "350 г. до н. э."
+   ],
+   "en": [
+    "550 BCE",
+    "575 BCE",
+    "540 BCE",
+    "350 BCE"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qog'oz qaysi mamlakatda ixtiro qilingan?",
+   "ru": "В какой стране изобрели бумагу?",
+   "en": "In which country was paper invented?"
+  },
+  "o": {
+   "uz": [
+    "Xitoy",
+    "Misr",
+    "Rim",
+    "Hindiston"
+   ],
+   "ru": [
+    "Китай",
+    "Египет",
+    "Рим",
+    "Индия"
+   ],
+   "en": [
+    "China",
+    "Egypt",
+    "Rome",
+    "India"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Asr necha yildan iborat?",
+   "ru": "Сколько лет в веке?",
+   "en": "How many years are in a century?"
+  },
+  "o": {
+   "uz": [
+    "100",
+    "10",
+    "50",
+    "1000"
+   ],
+   "ru": [
+    "100",
+    "10",
+    "50",
+    "1000"
+   ],
+   "en": [
+    "100",
+    "10",
+    "50",
+    "1000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1748-yildan 1757-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1748 года по 1757 год?",
+   "en": "How many years passed from 1748 to 1757?"
+  },
+  "o": {
+   "uz": [
+    "9",
+    "14",
+    "10",
+    "4"
+   ],
+   "ru": [
+    "9",
+    "14",
+    "10",
+    "4"
+   ],
+   "en": [
+    "9",
+    "14",
+    "10",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: Kirni mag'lub etgan massagetlar malikasi?",
+   "ru": "О ком идёт речь: Царица массагетов, победившая Кира?",
+   "en": "Who is described here: Queen of the Massagetae who defeated Cyrus?"
+  },
+  "o": {
+   "uz": [
+    "Tomiris",
+    "Spitamen",
+    "Kleopatra",
+    "Arximed"
+   ],
+   "ru": [
+    "Томирис",
+    "Спитамен",
+    "Клеопатра",
+    "Архимед"
+   ],
+   "en": [
+    "Tomyris",
+    "Spitamenes",
+    "Cleopatra",
+    "Archimedes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Mesopotamiya qaysi daryo(lar) bo'yida vujudga kelgan?",
+   "ru": "У каких рек возникла цивилизация: Древняя Месопотамия?",
+   "en": "Beside which river(s) did this civilisation arise: Ancient Mesopotamia?"
+  },
+  "o": {
+   "uz": [
+    "Dajla va Furot daryolari",
+    "Hind va Gang daryolari",
+    "Xuanxe va Yantszi daryolari",
+    "Nil daryosi"
+   ],
+   "ru": [
+    "реки Тигр и Евфрат",
+    "реки Инд и Ганг",
+    "реки Хуанхэ и Янцзы",
+    "река Нил"
+   ],
+   "en": [
+    "The Tigris and Euphrates",
+    "The Indus and Ganges",
+    "The Yellow River and Yangtze",
+    "The Nile"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1248-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1248 год?",
+   "en": "Which century does the year 1248 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XIII asr",
+    "XI asr",
+    "XIV asr",
+    "XII asr"
+   ],
+   "ru": [
+    "XIII век",
+    "XI век",
+    "XIV век",
+    "XII век"
+   ],
+   "en": [
+    "13th century",
+    "11th century",
+    "14th century",
+    "12th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Fermopil jangi bo'ldi?",
+   "ru": "Когда произошло событие: Состоялась битва при Фермопилах?",
+   "en": "When did this happen: The Battle of Thermopylae took place?"
+  },
+  "o": {
+   "uz": [
+    "m.av. 480-yil",
+    "m.av. 530-yil",
+    "m.av. 505-yil",
+    "m.av. 500-yil"
+   ],
+   "ru": [
+    "480 г. до н. э.",
+    "530 г. до н. э.",
+    "505 г. до н. э.",
+    "500 г. до н. э."
+   ],
+   "en": [
+    "480 BCE",
+    "530 BCE",
+    "505 BCE",
+    "500 BCE"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1832-yildan 1904-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1832 года по 1904 год?",
+   "en": "How many years passed from 1832 to 1904?"
+  },
+  "o": {
+   "uz": [
+    "72",
+    "77",
+    "71",
+    "82"
+   ],
+   "ru": [
+    "72",
+    "77",
+    "71",
+    "82"
+   ],
+   "en": [
+    "72",
+    "77",
+    "71",
+    "82"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1301-yildan 1325-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1301 года по 1325 год?",
+   "en": "How many years passed from 1301 to 1325?"
+  },
+  "o": {
+   "uz": [
+    "24",
+    "25",
+    "29",
+    "23"
+   ],
+   "ru": [
+    "24",
+    "25",
+    "29",
+    "23"
+   ],
+   "en": [
+    "24",
+    "25",
+    "29",
+    "23"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Rimda hukmdor unvoni nima deb atalgan (imperiya davrida)?",
+   "ru": "Как назывался правитель Римской империи?",
+   "en": "What was the ruler of the Roman Empire called?"
+  },
+  "o": {
+   "uz": [
+    "Imperator",
+    "Fir'avn",
+    "Amir",
+    "Xon"
+   ],
+   "ru": [
+    "Император",
+    "Фараон",
+    "Эмир",
+    "Хан"
+   ],
+   "en": [
+    "Emperor",
+    "Pharaoh",
+    "Emir",
+    "Khan"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Ulug'bek rasadxonasi» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Обсерватория Улугбека»?",
+   "en": "In which city or country is «Ulugbek Observatory» located?"
+  },
+  "o": {
+   "uz": [
+    "Samarqand",
+    "Rim",
+    "Buxoro",
+    "Xitoy"
+   ],
+   "ru": [
+    "Самарканд",
+    "Рим",
+    "Бухара",
+    "Китай"
+   ],
+   "en": [
+    "Samarkand",
+    "Rome",
+    "Bukhara",
+    "China"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1996-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1996 год?",
+   "en": "Which century does the year 1996 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XX asr",
+    "XXI asr",
+    "XVIII asr",
+    "XIX asr"
+   ],
+   "ru": [
+    "XX век",
+    "XXI век",
+    "XVIII век",
+    "XIX век"
+   ],
+   "en": [
+    "20th century",
+    "21st century",
+    "18th century",
+    "19th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kleopatra kim?",
+   "ru": "Кто такой(ая) Клеопатра?",
+   "en": "Who is Cleopatra?"
+  },
+  "o": {
+   "uz": [
+    "Qadimgi Misrning mashhur malikasi",
+    "Kirni mag'lub etgan massagetlar malikasi",
+    "Qadimgi Rim sarkardasi va davlat arbobi",
+    "Ahamoniylar davlatiga asos solgan podsho"
+   ],
+   "ru": [
+    "Знаменитая царица Древнего Египта",
+    "Царица массагетов, победившая Кира",
+    "Полководец и государственный деятель Древнего Рима",
+    "Царь, основавший державу Ахеменидов"
+   ],
+   "en": [
+    "The famous queen of Ancient Egypt",
+    "Queen of the Massagetae who defeated Cyrus",
+    "A general and statesman of Ancient Rome",
+    "The king who founded the Achaemenid Empire"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Buyuk ipak yo'li orqali qaysi mahsulot G'arbga eng ko'p olib borilgan?",
+   "ru": "Какой товар чаще всего вывозили на Запад по Шёлковому пути?",
+   "en": "Which product was most often carried west along the Silk Road?"
+  },
+  "o": {
+   "uz": [
+    "Ipak",
+    "Neft",
+    "Qog'oz pul",
+    "Avtomobil"
+   ],
+   "ru": [
+    "Шёлк",
+    "Нефть",
+    "Бумажные деньги",
+    "Автомобили"
+   ],
+   "en": [
+    "Silk",
+    "Oil",
+    "Banknotes",
+    "Cars"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Misr tsivilizatsiyasi qaysi daryo(lar) bo'yida vujudga kelgan?",
+   "ru": "У каких рек возникла цивилизация: Цивилизация Древнего Египта?",
+   "en": "Beside which river(s) did this civilisation arise: Ancient Egyptian civilisation?"
+  },
+  "o": {
+   "uz": [
+    "Nil daryosi",
+    "Amudaryoning quyi oqimi",
+    "Dajla va Furot daryolari",
+    "Hind va Gang daryolari"
+   ],
+   "ru": [
+    "река Нил",
+    "нижнее течение Амударьи",
+    "реки Тигр и Евфрат",
+    "реки Инд и Ганг"
+   ],
+   "en": [
+    "The Nile",
+    "The lower course of the Amudarya",
+    "The Tigris and Euphrates",
+    "The Indus and Ganges"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1430-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1430 год?",
+   "en": "Which century does the year 1430 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XV asr",
+    "XVII asr",
+    "XVI asr",
+    "XIII asr"
+   ],
+   "ru": [
+    "XV век",
+    "XVII век",
+    "XVI век",
+    "XIII век"
+   ],
+   "en": [
+    "15th century",
+    "17th century",
+    "16th century",
+    "13th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "m.av. 753-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 753 г. до н. э.?",
+   "en": "Which event took place in 753 BCE?"
+  },
+  "o": {
+   "uz": [
+    "Rim shahri asos solindi (an'anaviy sana)",
+    "Birinchi Olimpiya o'yinlari o'tkazildi",
+    "Yuliy Sezar o'ldirildi",
+    "Fermopil jangi bo'ldi"
+   ],
+   "ru": [
+    "Основание Рима (традиционная дата)",
+    "Прошли первые Олимпийские игры",
+    "Убит Юлий Цезарь",
+    "Состоялась битва при Фермопилах"
+   ],
+   "en": [
+    "Rome was founded (traditional date)",
+    "The first Olympic Games were held",
+    "Julius Caesar was assassinated",
+    "The Battle of Thermopylae took place"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "840-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 840 год?",
+   "en": "Which century does the year 840 belong to?"
+  },
+  "o": {
+   "uz": [
+    "IX asr",
+    "XI asr",
+    "X asr",
+    "VII asr"
+   ],
+   "ru": [
+    "IX век",
+    "XI век",
+    "X век",
+    "VII век"
+   ],
+   "en": [
+    "9th century",
+    "11th century",
+    "10th century",
+    "7th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1434-yildan 1461-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1434 года по 1461 год?",
+   "en": "How many years passed from 1434 to 1461?"
+  },
+  "o": {
+   "uz": [
+    "27",
+    "26",
+    "32",
+    "37"
+   ],
+   "ru": [
+    "27",
+    "26",
+    "32",
+    "37"
+   ],
+   "en": [
+    "27",
+    "26",
+    "32",
+    "37"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zardushtiylik qaysi hududda paydo bo'lgan?",
+   "ru": "Где возникло зороастрийство?",
+   "en": "Where did Zoroastrianism arise?"
+  },
+  "o": {
+   "uz": [
+    "Markaziy Osiyo va Eron hududida",
+    "Yevropada",
+    "Amerikada",
+    "Avstraliyada"
+   ],
+   "ru": [
+    "В Центральной Азии и Иране",
+    "В Европе",
+    "В Америке",
+    "В Австралии"
+   ],
+   "en": [
+    "In Central Asia and Iran",
+    "In Europe",
+    "In America",
+    "In Australia"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "636-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 636 год?",
+   "en": "Which century does the year 636 belong to?"
+  },
+  "o": {
+   "uz": [
+    "VII asr",
+    "VI asr",
+    "V asr",
+    "VIII asr"
+   ],
+   "ru": [
+    "VII век",
+    "VI век",
+    "V век",
+    "VIII век"
+   ],
+   "en": [
+    "7th century",
+    "6th century",
+    "5th century",
+    "8th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1238-yildan 1249-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1238 года по 1249 год?",
+   "en": "How many years passed from 1238 to 1249?"
+  },
+  "o": {
+   "uz": [
+    "11",
+    "21",
+    "10",
+    "16"
+   ],
+   "ru": [
+    "11",
+    "21",
+    "10",
+    "16"
+   ],
+   "en": [
+    "11",
+    "21",
+    "10",
+    "16"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1997-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1997 год?",
+   "en": "Which century does the year 1997 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XX asr",
+    "XXI asr",
+    "XVIII asr",
+    "XIX asr"
+   ],
+   "ru": [
+    "XX век",
+    "XXI век",
+    "XVIII век",
+    "XIX век"
+   ],
+   "en": [
+    "20th century",
+    "21st century",
+    "18th century",
+    "19th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1957-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1957 год?",
+   "en": "Which century does the year 1957 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XX asr",
+    "XIX asr",
+    "XVIII asr",
+    "XXI asr"
+   ],
+   "ru": [
+    "XX век",
+    "XIX век",
+    "XVIII век",
+    "XXI век"
+   ],
+   "en": [
+    "20th century",
+    "19th century",
+    "18th century",
+    "21st century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1849-yildan 1913-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1849 года по 1913 год?",
+   "en": "How many years passed from 1849 to 1913?"
+  },
+  "o": {
+   "uz": [
+    "64",
+    "59",
+    "65",
+    "84"
+   ],
+   "ru": [
+    "64",
+    "59",
+    "65",
+    "84"
+   ],
+   "en": [
+    "64",
+    "59",
+    "65",
+    "84"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1903-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1903 год?",
+   "en": "Which century does the year 1903 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XX asr",
+    "XVIII asr",
+    "XXI asr",
+    "XIX asr"
+   ],
+   "ru": [
+    "XX век",
+    "XVIII век",
+    "XXI век",
+    "XIX век"
+   ],
+   "en": [
+    "20th century",
+    "18th century",
+    "21st century",
+    "19th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Misrda yozuv qanday ataladi?",
+   "ru": "Как называется письмо в Древнем Египте?",
+   "en": "What was Ancient Egyptian writing called?"
+  },
+  "o": {
+   "uz": [
+    "Ierogliflar",
+    "Kirill yozuvi",
+    "Lotin yozuvi",
+    "Arab yozuvi"
+   ],
+   "ru": [
+    "Иероглифы",
+    "Кириллица",
+    "Латиница",
+    "Арабское письмо"
+   ],
+   "en": [
+    "Hieroglyphs",
+    "Cyrillic",
+    "Latin script",
+    "Arabic script"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1696-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1696 год?",
+   "en": "Which century does the year 1696 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XVII asr",
+    "XV asr",
+    "XVIII asr",
+    "XVI asr"
+   ],
+   "ru": [
+    "XVII век",
+    "XV век",
+    "XVIII век",
+    "XVI век"
+   ],
+   "en": [
+    "17th century",
+    "15th century",
+    "18th century",
+    "16th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1689-yildan 1780-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1689 года по 1780 год?",
+   "en": "How many years passed from 1689 to 1780?"
+  },
+  "o": {
+   "uz": [
+    "91",
+    "81",
+    "86",
+    "90"
+   ],
+   "ru": [
+    "91",
+    "81",
+    "86",
+    "90"
+   ],
+   "en": [
+    "91",
+    "81",
+    "86",
+    "90"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Yunonistonda demokratiya qaysi shahar-davlatda rivojlangan?",
+   "ru": "В каком греческом полисе развилась демократия?",
+   "en": "In which Greek city-state did democracy develop?"
+  },
+  "o": {
+   "uz": [
+    "Afina",
+    "Sparta",
+    "Rim",
+    "Troya"
+   ],
+   "ru": [
+    "Афины",
+    "Спарта",
+    "Рим",
+    "Троя"
+   ],
+   "en": [
+    "Athens",
+    "Sparta",
+    "Rome",
+    "Troy"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: «Tarix otasi» deb ataladigan yunon tarixchisi?",
+   "ru": "О ком идёт речь: Греческий историк, «отец истории»?",
+   "en": "Who is described here: The Greek historian called the «Father of History»?"
+  },
+  "o": {
+   "uz": [
+    "Gerodot",
+    "Tomiris",
+    "Spitamen",
+    "Arximed"
+   ],
+   "ru": [
+    "Геродот",
+    "Томирис",
+    "Спитамен",
+    "Архимед"
+   ],
+   "en": [
+    "Herodotus",
+    "Tomyris",
+    "Spitamenes",
+    "Archimedes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Baqtriyaning shimoliy qismi hozirgi qaysi viloyatda joylashgan?",
+   "ru": "В какой современной области находилась северная часть Бактрии?",
+   "en": "In which modern region was northern Bactria located?"
+  },
+  "o": {
+   "uz": [
+    "Surxondaryo",
+    "Xorazm",
+    "Navoiy",
+    "Sirdaryo"
+   ],
+   "ru": [
+    "Сурхандарья",
+    "Хорезм",
+    "Навои",
+    "Сырдарья"
+   ],
+   "en": [
+    "Surkhandarya",
+    "Khorezm",
+    "Navoi",
+    "Syrdarya"
+   ]
+  },
+  "a": 0
+ }
+]

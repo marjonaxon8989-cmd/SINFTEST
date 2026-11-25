@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "«lion» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «lion» на русский?",
+   "en": "What is the Uzbek translation of the word «lion»?"
+  },
+  "o": {
+   "uz": [
+    "sher",
+    "qo'y",
+    "it",
+    "sumka"
+   ],
+   "ru": [
+    "лев",
+    "овца",
+    "собака",
+    "сумка"
+   ],
+   "en": [
+    "sher",
+    "qo'y",
+    "it",
+    "sumka"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«wolf» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «wolf» на русский?",
+   "en": "What is the Uzbek translation of the word «wolf»?"
+  },
+  "o": {
+   "uz": [
+    "bo'ri",
+    "guruch",
+    "ko'k",
+    "haydovchi"
+   ],
+   "ru": [
+    "волк",
+    "рис",
+    "синий",
+    "водитель"
+   ],
+   "en": [
+    "bo'ri",
+    "guruch",
+    "ko'k",
+    "haydovchi"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«oyoq» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «нога»?",
+   "en": "How do you say «oyoq» in English?"
+  },
+  "o": {
+   "uz": [
+    "leg",
+    "run",
+    "river",
+    "father"
+   ],
+   "ru": [
+    "leg",
+    "run",
+    "river",
+    "father"
+   ],
+   "en": [
+    "leg",
+    "run",
+    "river",
+    "father"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«oy» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «луна»?",
+   "en": "How do you say «oy» in English?"
+  },
+  "o": {
+   "uz": [
+    "moon",
+    "horse",
+    "farmer",
+    "fast"
+   ],
+   "ru": [
+    "moon",
+    "horse",
+    "farmer",
+    "fast"
+   ],
+   "en": [
+    "moon",
+    "horse",
+    "farmer",
+    "fast"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ota» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «папа»?",
+   "en": "How do you say «ota» in English?"
+  },
+  "o": {
+   "uz": [
+    "father",
+    "tree",
+    "big",
+    "driver"
+   ],
+   "ru": [
+    "father",
+    "tree",
+    "big",
+    "driver"
+   ],
+   "en": [
+    "father",
+    "tree",
+    "big",
+    "driver"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: one box, two ___",
+   "ru": "Заполните пропуск: one box, two ___",
+   "en": "Fill in the blank: one box, two ___"
+  },
+  "o": {
+   "uz": [
+    "boxes",
+    "boxs",
+    "boxies",
+    "box"
+   ],
+   "ru": [
+    "boxes",
+    "boxs",
+    "boxies",
+    "box"
+   ],
+   "en": [
+    "boxes",
+    "boxs",
+    "boxies",
+    "box"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«happy» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «happy»?",
+   "en": "Which word is the opposite of «happy»?"
+  },
+  "o": {
+   "uz": [
+    "sad",
+    "cold",
+    "small",
+    "dark"
+   ],
+   "ru": [
+    "sad",
+    "cold",
+    "small",
+    "dark"
+   ],
+   "en": [
+    "sad",
+    "cold",
+    "small",
+    "dark"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: They ___ TV in the evening.",
+   "ru": "Заполните пропуск: They ___ TV in the evening.",
+   "en": "Fill in the blank: They ___ TV in the evening."
+  },
+  "o": {
+   "uz": [
+    "watch",
+    "watches",
+    "watching",
+    "watched"
+   ],
+   "ru": [
+    "watch",
+    "watches",
+    "watching",
+    "watched"
+   ],
+   "en": [
+    "watch",
+    "watches",
+    "watching",
+    "watched"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«new» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «new»?",
+   "en": "Which word is the opposite of «new»?"
+  },
+  "o": {
+   "uz": [
+    "old",
+    "difficult",
+    "close",
+    "go"
+   ],
+   "ru": [
+    "old",
+    "difficult",
+    "close",
+    "go"
+   ],
+   "en": [
+    "old",
+    "difficult",
+    "close",
+    "go"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: one tooth, many ___",
+   "ru": "Заполните пропуск: one tooth, many ___",
+   "en": "Fill in the blank: one tooth, many ___"
+  },
+  "o": {
+   "uz": [
+    "teeth",
+    "tooths",
+    "teeths",
+    "toothes"
+   ],
+   "ru": [
+    "teeth",
+    "tooths",
+    "teeths",
+    "toothes"
+   ],
+   "en": [
+    "teeth",
+    "tooths",
+    "teeths",
+    "toothes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sariq» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «жёлтый»?",
+   "en": "How do you say «sariq» in English?"
+  },
+  "o": {
+   "uz": [
+    "yellow",
+    "spring",
+    "sheep",
+    "blue"
+   ],
+   "ru": [
+    "yellow",
+    "spring",
+    "sheep",
+    "blue"
+   ],
+   "en": [
+    "yellow",
+    "spring",
+    "sheep",
+    "blue"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«come» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «come»?",
+   "en": "Which word is the opposite of «come»?"
+  },
+  "o": {
+   "uz": [
+    "go",
+    "old",
+    "sad",
+    "night"
+   ],
+   "ru": [
+    "go",
+    "old",
+    "sad",
+    "night"
+   ],
+   "en": [
+    "go",
+    "old",
+    "sad",
+    "night"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sumka» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «сумка»?",
+   "en": "How do you say «sumka» in English?"
+  },
+  "o": {
+   "uz": [
+    "bag",
+    "driver",
+    "drink",
+    "write"
+   ],
+   "ru": [
+    "bag",
+    "driver",
+    "drink",
+    "write"
+   ],
+   "en": [
+    "bag",
+    "driver",
+    "drink",
+    "write"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: It ___ a cat.",
+   "ru": "Заполните пропуск: It ___ a cat.",
+   "en": "Fill in the blank: It ___ a cat."
+  },
+  "o": {
+   "uz": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ],
+   "ru": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ],
+   "en": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«write» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «write» на русский?",
+   "en": "What is the Uzbek translation of the word «write»?"
+  },
+  "o": {
+   "uz": [
+    "yozmoq",
+    "uy",
+    "quyosh",
+    "ishchi"
+   ],
+   "ru": [
+    "писать",
+    "дом",
+    "солнце",
+    "рабочий"
+   ],
+   "en": [
+    "yozmoq",
+    "uy",
+    "quyosh",
+    "ishchi"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: She is ___ now.",
+   "ru": "Заполните пропуск: She is ___ now.",
+   "en": "Fill in the blank: She is ___ now."
+  },
+  "o": {
+   "uz": [
+    "sleeping",
+    "sleeps",
+    "slept",
+    "sleep"
+   ],
+   "ru": [
+    "sleeping",
+    "sleeps",
+    "slept",
+    "sleep"
+   ],
+   "en": [
+    "sleeping",
+    "sleeps",
+    "slept",
+    "sleep"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: They ___ in Samarkand last year.",
+   "ru": "Заполните пропуск: They ___ in Samarkand last year.",
+   "en": "Fill in the blank: They ___ in Samarkand last year."
+  },
+  "o": {
+   "uz": [
+    "were",
+    "was",
+    "are",
+    "is"
+   ],
+   "ru": [
+    "were",
+    "was",
+    "are",
+    "is"
+   ],
+   "en": [
+    "were",
+    "was",
+    "are",
+    "is"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«strong» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «strong»?",
+   "en": "Which word is the opposite of «strong»?"
+  },
+  "o": {
+   "uz": [
+    "weak",
+    "small",
+    "close",
+    "low"
+   ],
+   "ru": [
+    "weak",
+    "small",
+    "close",
+    "low"
+   ],
+   "en": [
+    "weak",
+    "small",
+    "close",
+    "low"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: We ___ in the classroom.",
+   "ru": "Заполните пропуск: We ___ in the classroom.",
+   "en": "Fill in the blank: We ___ in the classroom."
+  },
+  "o": {
+   "uz": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ],
+   "ru": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ],
+   "en": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: She ___ a cake yesterday.",
+   "ru": "Заполните пропуск: She ___ a cake yesterday.",
+   "en": "Fill in the blank: She ___ a cake yesterday."
+  },
+  "o": {
+   "uz": [
+    "made",
+    "make",
+    "makes",
+    "making"
+   ],
+   "ru": [
+    "made",
+    "make",
+    "makes",
+    "making"
+   ],
+   "en": [
+    "made",
+    "make",
+    "makes",
+    "making"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«light» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «light»?",
+   "en": "Which word is the opposite of «light»?"
+  },
+  "o": {
+   "uz": [
+    "dark",
+    "empty",
+    "night",
+    "cold"
+   ],
+   "ru": [
+    "dark",
+    "empty",
+    "night",
+    "cold"
+   ],
+   "en": [
+    "dark",
+    "empty",
+    "night",
+    "cold"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«red» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «red» на русский?",
+   "en": "What is the Uzbek translation of the word «red»?"
+  },
+  "o": {
+   "uz": [
+    "qizil",
+    "haydovchi",
+    "g'amgin",
+    "do'st"
+   ],
+   "ru": [
+    "красный",
+    "водитель",
+    "грустный",
+    "друг"
+   ],
+   "en": [
+    "qizil",
+    "haydovchi",
+    "g'amgin",
+    "do'st"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: We ___ lunch at 1 o'clock yesterday.",
+   "ru": "Заполните пропуск: We ___ lunch at 1 o'clock yesterday.",
+   "en": "Fill in the blank: We ___ lunch at 1 o'clock yesterday."
+  },
+  "o": {
+   "uz": [
+    "had",
+    "have",
+    "has",
+    "having"
+   ],
+   "ru": [
+    "had",
+    "have",
+    "has",
+    "having"
+   ],
+   "en": [
+    "had",
+    "have",
+    "has",
+    "having"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: Tomorrow I ___ visit my grandmother.",
+   "ru": "Заполните пропуск: Tomorrow I ___ visit my grandmother.",
+   "en": "Fill in the blank: Tomorrow I ___ visit my grandmother."
+  },
+  "o": {
+   "uz": [
+    "will",
+    "did",
+    "was",
+    "am"
+   ],
+   "ru": [
+    "will",
+    "did",
+    "was",
+    "am"
+   ],
+   "en": [
+    "will",
+    "did",
+    "was",
+    "am"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«do'st» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «друг»?",
+   "en": "How do you say «do'st» in English?"
+  },
+  "o": {
+   "uz": [
+    "friend",
+    "bird",
+    "day",
+    "kitchen"
+   ],
+   "ru": [
+    "friend",
+    "bird",
+    "day",
+    "kitchen"
+   ],
+   "en": [
+    "friend",
+    "bird",
+    "day",
+    "kitchen"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: one bus, two ___",
+   "ru": "Заполните пропуск: one bus, two ___",
+   "en": "Fill in the blank: one bus, two ___"
+  },
+  "o": {
+   "uz": [
+    "buses",
+    "buss",
+    "busies",
+    "bus"
+   ],
+   "ru": [
+    "buses",
+    "buss",
+    "busies",
+    "bus"
+   ],
+   "en": [
+    "buses",
+    "buss",
+    "busies",
+    "bus"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: She lives ___ Tashkent.",
+   "ru": "Заполните пропуск: She lives ___ Tashkent.",
+   "en": "Fill in the blank: She lives ___ Tashkent."
+  },
+  "o": {
+   "uz": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "ru": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "en": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: I ___ a pupil.",
+   "ru": "Заполните пропуск: I ___ a pupil.",
+   "en": "Fill in the blank: I ___ a pupil."
+  },
+  "o": {
+   "uz": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "ru": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "en": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«high» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «high»?",
+   "en": "Which word is the opposite of «high»?"
+  },
+  "o": {
+   "uz": [
+    "low",
+    "sell",
+    "close",
+    "small"
+   ],
+   "ru": [
+    "low",
+    "sell",
+    "close",
+    "small"
+   ],
+   "en": [
+    "low",
+    "sell",
+    "close",
+    "small"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«autumn» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «autumn» на русский?",
+   "en": "What is the Uzbek translation of the word «autumn»?"
+  },
+  "o": {
+   "uz": [
+    "kuz",
+    "quyon",
+    "ko'k",
+    "o'rdak"
+   ],
+   "ru": [
+    "осень",
+    "кролик",
+    "синий",
+    "утка"
+   ],
+   "en": [
+    "kuz",
+    "quyon",
+    "ko'k",
+    "o'rdak"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«o'rganmoq» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «учить»?",
+   "en": "How do you say «o'rganmoq» in English?"
+  },
+  "o": {
+   "uz": [
+    "learn",
+    "spring",
+    "teacher",
+    "bag"
+   ],
+   "ru": [
+    "learn",
+    "spring",
+    "teacher",
+    "bag"
+   ],
+   "en": [
+    "learn",
+    "spring",
+    "teacher",
+    "bag"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«day» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «day»?",
+   "en": "Which word is the opposite of «day»?"
+  },
+  "o": {
+   "uz": [
+    "night",
+    "empty",
+    "old",
+    "dark"
+   ],
+   "ru": [
+    "night",
+    "empty",
+    "old",
+    "dark"
+   ],
+   "en": [
+    "night",
+    "empty",
+    "old",
+    "dark"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«monkey» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «monkey» на русский?",
+   "en": "What is the Uzbek translation of the word «monkey»?"
+  },
+  "o": {
+   "uz": [
+    "maymun",
+    "suv",
+    "ertalab",
+    "quyon"
+   ],
+   "ru": [
+    "обезьяна",
+    "вода",
+    "утро",
+    "кролик"
+   ],
+   "en": [
+    "maymun",
+    "suv",
+    "ertalab",
+    "quyon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ko'cha» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «улица»?",
+   "en": "How do you say «ko'cha» in English?"
+  },
+  "o": {
+   "uz": [
+    "street",
+    "read",
+    "city",
+    "rabbit"
+   ],
+   "ru": [
+    "street",
+    "read",
+    "city",
+    "rabbit"
+   ],
+   "en": [
+    "street",
+    "read",
+    "city",
+    "rabbit"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: Tomorrow it ___ rain.",
+   "ru": "Заполните пропуск: Tomorrow it ___ rain.",
+   "en": "Fill in the blank: Tomorrow it ___ rain."
+  },
+  "o": {
+   "uz": [
+    "will",
+    "was",
+    "did",
+    "has"
+   ],
+   "ru": [
+    "will",
+    "was",
+    "did",
+    "has"
+   ],
+   "en": [
+    "will",
+    "was",
+    "did",
+    "has"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: I ___ milk every morning.",
+   "ru": "Заполните пропуск: I ___ milk every morning.",
+   "en": "Fill in the blank: I ___ milk every morning."
+  },
+  "o": {
+   "uz": [
+    "drink",
+    "drinks",
+    "drinking",
+    "drank"
+   ],
+   "ru": [
+    "drink",
+    "drinks",
+    "drinking",
+    "drank"
+   ],
+   "en": [
+    "drink",
+    "drinks",
+    "drinking",
+    "drank"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: There ___ two books on the table.",
+   "ru": "Заполните пропуск: There ___ two books on the table.",
+   "en": "Fill in the blank: There ___ two books on the table."
+  },
+  "o": {
+   "uz": [
+    "are",
+    "is",
+    "am",
+    "was"
+   ],
+   "ru": [
+    "are",
+    "is",
+    "am",
+    "was"
+   ],
+   "en": [
+    "are",
+    "is",
+    "am",
+    "was"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: I ___ ten years old.",
+   "ru": "Заполните пропуск: I ___ ten years old.",
+   "en": "Fill in the blank: I ___ ten years old."
+  },
+  "o": {
+   "uz": [
+    "am",
+    "is",
+    "are",
+    "have"
+   ],
+   "ru": [
+    "am",
+    "is",
+    "are",
+    "have"
+   ],
+   "en": [
+    "am",
+    "is",
+    "are",
+    "have"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«full» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «full»?",
+   "en": "Which word is the opposite of «full»?"
+  },
+  "o": {
+   "uz": [
+    "empty",
+    "weak",
+    "go",
+    "cold"
+   ],
+   "ru": [
+    "empty",
+    "weak",
+    "go",
+    "cold"
+   ],
+   "en": [
+    "empty",
+    "weak",
+    "go",
+    "cold"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: He ___ a doctor.",
+   "ru": "Заполните пропуск: He ___ a doctor.",
+   "en": "Fill in the blank: He ___ a doctor."
+  },
+  "o": {
+   "uz": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ],
+   "ru": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ],
+   "en": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: I go to school ___ bus.",
+   "ru": "Заполните пропуск: I go to school ___ bus.",
+   "en": "Fill in the blank: I go to school ___ bus."
+  },
+  "o": {
+   "uz": [
+    "by",
+    "in",
+    "at",
+    "with"
+   ],
+   "ru": [
+    "by",
+    "in",
+    "at",
+    "with"
+   ],
+   "en": [
+    "by",
+    "in",
+    "at",
+    "with"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tun» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «ночь»?",
+   "en": "How do you say «tun» in English?"
+  },
+  "o": {
+   "uz": [
+    "night",
+    "beautiful",
+    "sun",
+    "milk"
+   ],
+   "ru": [
+    "night",
+    "beautiful",
+    "sun",
+    "milk"
+   ],
+   "en": [
+    "night",
+    "beautiful",
+    "sun",
+    "milk"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«easy» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «easy»?",
+   "en": "Which word is the opposite of «easy»?"
+  },
+  "o": {
+   "uz": [
+    "difficult",
+    "weak",
+    "slow",
+    "dirty"
+   ],
+   "ru": [
+    "difficult",
+    "weak",
+    "slow",
+    "dirty"
+   ],
+   "en": [
+    "difficult",
+    "weak",
+    "slow",
+    "dirty"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«open» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «open»?",
+   "en": "Which word is the opposite of «open»?"
+  },
+  "o": {
+   "uz": [
+    "close",
+    "sell",
+    "old",
+    "low"
+   ],
+   "ru": [
+    "close",
+    "sell",
+    "old",
+    "low"
+   ],
+   "en": [
+    "close",
+    "sell",
+    "old",
+    "low"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«teacher» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «teacher» на русский?",
+   "en": "What is the Uzbek translation of the word «teacher»?"
+  },
+  "o": {
+   "uz": [
+    "o'qituvchi",
+    "bo'ri",
+    "bobo",
+    "uzum"
+   ],
+   "ru": [
+    "учитель",
+    "волк",
+    "дедушка",
+    "виноград"
+   ],
+   "en": [
+    "o'qituvchi",
+    "bo'ri",
+    "bobo",
+    "uzum"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tooth» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «tooth» на русский?",
+   "en": "What is the Uzbek translation of the word «tooth»?"
+  },
+  "o": {
+   "uz": [
+    "tish",
+    "ko'cha",
+    "kitob",
+    "tez"
+   ],
+   "ru": [
+    "зуб",
+    "улица",
+    "книга",
+    "быстрый"
+   ],
+   "en": [
+    "tish",
+    "ko'cha",
+    "kitob",
+    "tez"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: This is ___ apple.",
+   "ru": "Заполните пропуск: This is ___ apple.",
+   "en": "Fill in the blank: This is ___ apple."
+  },
+  "o": {
+   "uz": [
+    "an",
+    "a",
+    "two",
+    "many"
+   ],
+   "ru": [
+    "an",
+    "a",
+    "two",
+    "many"
+   ],
+   "en": [
+    "an",
+    "a",
+    "two",
+    "many"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: He was born ___ 2010.",
+   "ru": "Заполните пропуск: He was born ___ 2010.",
+   "en": "Fill in the blank: He was born ___ 2010."
+  },
+  "o": {
+   "uz": [
+    "in",
+    "at",
+    "on",
+    "by"
+   ],
+   "ru": [
+    "in",
+    "at",
+    "on",
+    "by"
+   ],
+   "en": [
+    "in",
+    "at",
+    "on",
+    "by"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«play» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «play» на русский?",
+   "en": "What is the Uzbek translation of the word «play»?"
+  },
+  "o": {
+   "uz": [
+    "o'ynamoq",
+    "o'g'il",
+    "o'qimoq",
+    "yugurmoq"
+   ],
+   "ru": [
+    "играть",
+    "сын",
+    "читать",
+    "бежать"
+   ],
+   "en": [
+    "o'ynamoq",
+    "o'g'il",
+    "o'qimoq",
+    "yugurmoq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«clean» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «clean»?",
+   "en": "Which word is the opposite of «clean»?"
+  },
+  "o": {
+   "uz": [
+    "dirty",
+    "small",
+    "old",
+    "empty"
+   ],
+   "ru": [
+    "dirty",
+    "small",
+    "old",
+    "empty"
+   ],
+   "en": [
+    "dirty",
+    "small",
+    "old",
+    "empty"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«parta» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «парта»?",
+   "en": "How do you say «parta» in English?"
+  },
+  "o": {
+   "uz": [
+    "desk",
+    "cow",
+    "write",
+    "black"
+   ],
+   "ru": [
+    "desk",
+    "cow",
+    "write",
+    "black"
+   ],
+   "en": [
+    "desk",
+    "cow",
+    "write",
+    "black"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«long» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «long»?",
+   "en": "Which word is the opposite of «long»?"
+  },
+  "o": {
+   "uz": [
+    "short",
+    "low",
+    "go",
+    "small"
+   ],
+   "ru": [
+    "short",
+    "low",
+    "go",
+    "small"
+   ],
+   "en": [
+    "short",
+    "low",
+    "go",
+    "small"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: This is ___ book.",
+   "ru": "Заполните пропуск: This is ___ book.",
+   "en": "Fill in the blank: This is ___ book."
+  },
+  "o": {
+   "uz": [
+    "a",
+    "an",
+    "two",
+    "many"
+   ],
+   "ru": [
+    "a",
+    "an",
+    "two",
+    "many"
+   ],
+   "en": [
+    "a",
+    "an",
+    "two",
+    "many"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«water» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «water» на русский?",
+   "en": "What is the Uzbek translation of the word «water»?"
+  },
+  "o": {
+   "uz": [
+    "suv",
+    "soch",
+    "kun",
+    "bo'ri"
+   ],
+   "ru": [
+    "вода",
+    "волосы",
+    "день",
+    "волк"
+   ],
+   "en": [
+    "suv",
+    "soch",
+    "kun",
+    "bo'ri"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«cat» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «cat» на русский?",
+   "en": "What is the Uzbek translation of the word «cat»?"
+  },
+  "o": {
+   "uz": [
+    "mushuk",
+    "xursand",
+    "yotoqxona",
+    "sher"
+   ],
+   "ru": [
+    "кошка",
+    "счастливый",
+    "спальня",
+    "лев"
+   ],
+   "en": [
+    "mushuk",
+    "xursand",
+    "yotoqxona",
+    "sher"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«xursand» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «счастливый»?",
+   "en": "How do you say «xursand» in English?"
+  },
+  "o": {
+   "uz": [
+    "happy",
+    "book",
+    "eye",
+    "white"
+   ],
+   "ru": [
+    "happy",
+    "book",
+    "eye",
+    "white"
+   ],
+   "en": [
+    "happy",
+    "book",
+    "eye",
+    "white"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«cold» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «cold» на русский?",
+   "en": "What is the Uzbek translation of the word «cold»?"
+  },
+  "o": {
+   "uz": [
+    "sovuq",
+    "tuxum",
+    "uzum",
+    "qizil"
+   ],
+   "ru": [
+    "холодный",
+    "яйцо",
+    "виноград",
+    "красный"
+   ],
+   "en": [
+    "sovuq",
+    "tuxum",
+    "uzum",
+    "qizil"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: one baby, two ___",
+   "ru": "Заполните пропуск: one baby, two ___",
+   "en": "Fill in the blank: one baby, two ___"
+  },
+  "o": {
+   "uz": [
+    "babies",
+    "babys",
+    "babyes",
+    "baby"
+   ],
+   "ru": [
+    "babies",
+    "babys",
+    "babyes",
+    "baby"
+   ],
+   "en": [
+    "babies",
+    "babys",
+    "babyes",
+    "baby"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sovuq» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «холодный»?",
+   "en": "How do you say «sovuq» in English?"
+  },
+  "o": {
+   "uz": [
+    "cold",
+    "grandfather",
+    "open",
+    "grapes"
+   ],
+   "ru": [
+    "cold",
+    "grandfather",
+    "open",
+    "grapes"
+   ],
+   "en": [
+    "cold",
+    "grandfather",
+    "open",
+    "grapes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: She ___ to school every morning.",
+   "ru": "Заполните пропуск: She ___ to school every morning.",
+   "en": "Fill in the blank: She ___ to school every morning."
+  },
+  "o": {
+   "uz": [
+    "goes",
+    "go",
+    "going",
+    "gone"
+   ],
+   "ru": [
+    "goes",
+    "go",
+    "going",
+    "gone"
+   ],
+   "en": [
+    "goes",
+    "go",
+    "going",
+    "gone"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: They ___ my friends.",
+   "ru": "Заполните пропуск: They ___ my friends.",
+   "en": "Fill in the blank: They ___ my friends."
+  },
+  "o": {
+   "uz": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ],
+   "ru": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ],
+   "en": [
+    "are",
+    "is",
+    "am",
+    "be"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: ___ is your name?",
+   "ru": "Заполните пропуск: ___ is your name?",
+   "en": "Fill in the blank: ___ is your name?"
+  },
+  "o": {
+   "uz": [
+    "What",
+    "Who",
+    "Where",
+    "When"
+   ],
+   "ru": [
+    "What",
+    "Who",
+    "Where",
+    "When"
+   ],
+   "en": [
+    "What",
+    "Who",
+    "Where",
+    "When"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«nok» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «груша»?",
+   "en": "How do you say «nok» in English?"
+  },
+  "o": {
+   "uz": [
+    "pear",
+    "spring",
+    "rabbit",
+    "table"
+   ],
+   "ru": [
+    "pear",
+    "spring",
+    "rabbit",
+    "table"
+   ],
+   "en": [
+    "pear",
+    "spring",
+    "rabbit",
+    "table"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: I get up ___ 7 o'clock.",
+   "ru": "Заполните пропуск: I get up ___ 7 o'clock.",
+   "en": "Fill in the blank: I get up ___ 7 o'clock."
+  },
+  "o": {
+   "uz": [
+    "at",
+    "on",
+    "in",
+    "by"
+   ],
+   "ru": [
+    "at",
+    "on",
+    "in",
+    "by"
+   ],
+   "en": [
+    "at",
+    "on",
+    "in",
+    "by"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sell» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «sell» на русский?",
+   "en": "What is the Uzbek translation of the word «sell»?"
+  },
+  "o": {
+   "uz": [
+    "sotmoq",
+    "baliq",
+    "kun",
+    "dengiz"
+   ],
+   "ru": [
+    "продавать",
+    "рыба",
+    "день",
+    "море"
+   ],
+   "en": [
+    "sotmoq",
+    "baliq",
+    "kun",
+    "dengiz"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: Yesterday I ___ to the park.",
+   "ru": "Заполните пропуск: Yesterday I ___ to the park.",
+   "en": "Fill in the blank: Yesterday I ___ to the park."
+  },
+  "o": {
+   "uz": [
+    "went",
+    "go",
+    "goes",
+    "going"
+   ],
+   "ru": [
+    "went",
+    "go",
+    "goes",
+    "going"
+   ],
+   "en": [
+    "went",
+    "go",
+    "goes",
+    "going"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«yemoq» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «есть»?",
+   "en": "How do you say «yemoq» in English?"
+  },
+  "o": {
+   "uz": [
+    "eat",
+    "blue",
+    "chair",
+    "old"
+   ],
+   "ru": [
+    "eat",
+    "blue",
+    "chair",
+    "old"
+   ],
+   "en": [
+    "eat",
+    "blue",
+    "chair",
+    "old"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«fast» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «fast»?",
+   "en": "Which word is the opposite of «fast»?"
+  },
+  "o": {
+   "uz": [
+    "slow",
+    "night",
+    "low",
+    "old"
+   ],
+   "ru": [
+    "slow",
+    "night",
+    "low",
+    "old"
+   ],
+   "en": [
+    "slow",
+    "night",
+    "low",
+    "old"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tez» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «быстрый»?",
+   "en": "How do you say «tez» in English?"
+  },
+  "o": {
+   "uz": [
+    "fast",
+    "play",
+    "grandmother",
+    "red"
+   ],
+   "ru": [
+    "fast",
+    "play",
+    "grandmother",
+    "red"
+   ],
+   "en": [
+    "fast",
+    "play",
+    "grandmother",
+    "red"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«milk» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «milk» на русский?",
+   "en": "What is the Uzbek translation of the word «milk»?"
+  },
+  "o": {
+   "uz": [
+    "sut",
+    "o'g'il",
+    "it",
+    "dengiz"
+   ],
+   "ru": [
+    "молоко",
+    "сын",
+    "собака",
+    "море"
+   ],
+   "en": [
+    "sut",
+    "o'g'il",
+    "it",
+    "dengiz"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«hot» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «hot»?",
+   "en": "Which word is the opposite of «hot»?"
+  },
+  "o": {
+   "uz": [
+    "cold",
+    "short",
+    "slow",
+    "low"
+   ],
+   "ru": [
+    "cold",
+    "short",
+    "slow",
+    "low"
+   ],
+   "en": [
+    "cold",
+    "short",
+    "slow",
+    "low"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«fast» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «fast» на русский?",
+   "en": "What is the Uzbek translation of the word «fast»?"
+  },
+  "o": {
+   "uz": [
+    "tez",
+    "yangi",
+    "sariq",
+    "o'qimoq"
+   ],
+   "ru": [
+    "быстрый",
+    "новый",
+    "жёлтый",
+    "читать"
+   ],
+   "en": [
+    "tez",
+    "yangi",
+    "sariq",
+    "o'qimoq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: The sun ___ in the east.",
+   "ru": "Заполните пропуск: The sun ___ in the east.",
+   "en": "Fill in the blank: The sun ___ in the east."
+  },
+  "o": {
+   "uz": [
+    "rises",
+    "rise",
+    "rising",
+    "rose"
+   ],
+   "ru": [
+    "rises",
+    "rise",
+    "rising",
+    "rose"
+   ],
+   "en": [
+    "rises",
+    "rise",
+    "rising",
+    "rose"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«bilmoq» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «знать»?",
+   "en": "How do you say «bilmoq» in English?"
+  },
+  "o": {
+   "uz": [
+    "know",
+    "mouth",
+    "son",
+    "nurse"
+   ],
+   "ru": [
+    "know",
+    "mouth",
+    "son",
+    "nurse"
+   ],
+   "en": [
+    "know",
+    "mouth",
+    "son",
+    "nurse"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«blue» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «blue» на русский?",
+   "en": "What is the Uzbek translation of the word «blue»?"
+  },
+  "o": {
+   "uz": [
+    "ko'k",
+    "yotoqxona",
+    "ota",
+    "it"
+   ],
+   "ru": [
+    "синий",
+    "спальня",
+    "папа",
+    "собака"
+   ],
+   "en": [
+    "ko'k",
+    "yotoqxona",
+    "ota",
+    "it"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: He doesn't ___ coffee.",
+   "ru": "Заполните пропуск: He doesn't ___ coffee.",
+   "en": "Fill in the blank: He doesn't ___ coffee."
+  },
+  "o": {
+   "uz": [
+    "like",
+    "likes",
+    "liking",
+    "liked"
+   ],
+   "ru": [
+    "like",
+    "likes",
+    "liking",
+    "liked"
+   ],
+   "en": [
+    "like",
+    "likes",
+    "liking",
+    "liked"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«know» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «know» на русский?",
+   "en": "What is the Uzbek translation of the word «know»?"
+  },
+  "o": {
+   "uz": [
+    "bilmoq",
+    "go'sht",
+    "bahor",
+    "yashil"
+   ],
+   "ru": [
+    "знать",
+    "мясо",
+    "весна",
+    "зелёный"
+   ],
+   "en": [
+    "bilmoq",
+    "go'sht",
+    "bahor",
+    "yashil"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: My birthday is ___ May.",
+   "ru": "Заполните пропуск: My birthday is ___ May.",
+   "en": "Fill in the blank: My birthday is ___ May."
+  },
+  "o": {
+   "uz": [
+    "in",
+    "at",
+    "on",
+    "to"
+   ],
+   "ru": [
+    "in",
+    "at",
+    "on",
+    "to"
+   ],
+   "en": [
+    "in",
+    "at",
+    "on",
+    "to"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«dirty» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «dirty» на русский?",
+   "en": "What is the Uzbek translation of the word «dirty»?"
+  },
+  "o": {
+   "uz": [
+    "iflos",
+    "kutubxona",
+    "qizil",
+    "mashina"
+   ],
+   "ru": [
+    "грязный",
+    "библиотека",
+    "красный",
+    "машина"
+   ],
+   "en": [
+    "iflos",
+    "kutubxona",
+    "qizil",
+    "mashina"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: ___ she like apples?",
+   "ru": "Заполните пропуск: ___ she like apples?",
+   "en": "Fill in the blank: ___ she like apples?"
+  },
+  "o": {
+   "uz": [
+    "Does",
+    "Do",
+    "Is",
+    "Are"
+   ],
+   "ru": [
+    "Does",
+    "Do",
+    "Is",
+    "Are"
+   ],
+   "en": [
+    "Does",
+    "Do",
+    "Is",
+    "Are"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: He ___ his homework two hours ago.",
+   "ru": "Заполните пропуск: He ___ his homework two hours ago.",
+   "en": "Fill in the blank: He ___ his homework two hours ago."
+  },
+  "o": {
+   "uz": [
+    "did",
+    "do",
+    "does",
+    "done"
+   ],
+   "ru": [
+    "did",
+    "do",
+    "does",
+    "done"
+   ],
+   "en": [
+    "did",
+    "do",
+    "does",
+    "done"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«buy» so'zining antonimi (qarama-qarshi ma'noli so'z) qaysi?",
+   "ru": "Какое слово — антоним к слову «buy»?",
+   "en": "Which word is the opposite of «buy»?"
+  },
+  "o": {
+   "uz": [
+    "sell",
+    "old",
+    "small",
+    "sad"
+   ],
+   "ru": [
+    "sell",
+    "old",
+    "small",
+    "sad"
+   ],
+   "en": [
+    "sell",
+    "old",
+    "small",
+    "sad"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«bog'» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «сад»?",
+   "en": "How do you say «bog'» in English?"
+  },
+  "o": {
+   "uz": [
+    "garden",
+    "mountain",
+    "slow",
+    "pear"
+   ],
+   "ru": [
+    "garden",
+    "mountain",
+    "slow",
+    "pear"
+   ],
+   "en": [
+    "garden",
+    "mountain",
+    "slow",
+    "pear"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«bo'ri» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «волк»?",
+   "en": "How do you say «bo'ri» in English?"
+  },
+  "o": {
+   "uz": [
+    "wolf",
+    "lion",
+    "teacher",
+    "leg"
+   ],
+   "ru": [
+    "wolf",
+    "lion",
+    "teacher",
+    "leg"
+   ],
+   "en": [
+    "wolf",
+    "lion",
+    "teacher",
+    "leg"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«gul» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «цветок»?",
+   "en": "How do you say «gul» in English?"
+  },
+  "o": {
+   "uz": [
+    "flower",
+    "clean",
+    "elephant",
+    "sea"
+   ],
+   "ru": [
+    "flower",
+    "clean",
+    "elephant",
+    "sea"
+   ],
+   "en": [
+    "flower",
+    "clean",
+    "elephant",
+    "sea"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: ___ old are you?",
+   "ru": "Заполните пропуск: ___ old are you?",
+   "en": "Fill in the blank: ___ old are you?"
+  },
+  "o": {
+   "uz": [
+    "How",
+    "What",
+    "Who",
+    "Where"
+   ],
+   "ru": [
+    "How",
+    "What",
+    "Who",
+    "Where"
+   ],
+   "en": [
+    "How",
+    "What",
+    "Who",
+    "Where"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«clean» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «clean» на русский?",
+   "en": "What is the Uzbek translation of the word «clean»?"
+  },
+  "o": {
+   "uz": [
+    "toza",
+    "dehqon",
+    "oson",
+    "yangi"
+   ],
+   "ru": [
+    "чистый",
+    "фермер",
+    "лёгкий",
+    "новый"
+   ],
+   "en": [
+    "toza",
+    "dehqon",
+    "oson",
+    "yangi"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: The book is ___ the table.",
+   "ru": "Заполните пропуск: The book is ___ the table.",
+   "en": "Fill in the blank: The book is ___ the table."
+  },
+  "o": {
+   "uz": [
+    "on",
+    "at",
+    "to",
+    "by"
+   ],
+   "ru": [
+    "on",
+    "at",
+    "to",
+    "by"
+   ],
+   "en": [
+    "on",
+    "at",
+    "to",
+    "by"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qiz» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «дочь»?",
+   "en": "How do you say «qiz» in English?"
+  },
+  "o": {
+   "uz": [
+    "daughter",
+    "grandmother",
+    "bird",
+    "tea"
+   ],
+   "ru": [
+    "daughter",
+    "grandmother",
+    "bird",
+    "tea"
+   ],
+   "en": [
+    "daughter",
+    "grandmother",
+    "bird",
+    "tea"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«yopmoq» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «закрывать»?",
+   "en": "How do you say «yopmoq» in English?"
+  },
+  "o": {
+   "uz": [
+    "close",
+    "egg",
+    "work",
+    "kitchen"
+   ],
+   "ru": [
+    "close",
+    "egg",
+    "work",
+    "kitchen"
+   ],
+   "en": [
+    "close",
+    "egg",
+    "work",
+    "kitchen"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«pear» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «pear» на русский?",
+   "en": "What is the Uzbek translation of the word «pear»?"
+  },
+  "o": {
+   "uz": [
+    "nok",
+    "bozor",
+    "quloq",
+    "o'qimoq"
+   ],
+   "ru": [
+    "груша",
+    "рынок",
+    "ухо",
+    "читать"
+   ],
+   "en": [
+    "nok",
+    "bozor",
+    "quloq",
+    "o'qimoq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«pen» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «pen» на русский?",
+   "en": "What is the Uzbek translation of the word «pen»?"
+  },
+  "o": {
+   "uz": [
+    "ruchka",
+    "bobo",
+    "tish",
+    "ko'z"
+   ],
+   "ru": [
+    "ручка",
+    "дедушка",
+    "зуб",
+    "глаз"
+   ],
+   "en": [
+    "ruchka",
+    "bobo",
+    "tish",
+    "ko'z"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: one woman, two ___",
+   "ru": "Заполните пропуск: one woman, two ___",
+   "en": "Fill in the blank: one woman, two ___"
+  },
+  "o": {
+   "uz": [
+    "women",
+    "womans",
+    "womens",
+    "womanes"
+   ],
+   "ru": [
+    "women",
+    "womans",
+    "womens",
+    "womanes"
+   ],
+   "en": [
+    "women",
+    "womans",
+    "womens",
+    "womanes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: There ___ a cat on the sofa.",
+   "ru": "Заполните пропуск: There ___ a cat on the sofa.",
+   "en": "Fill in the blank: There ___ a cat on the sofa."
+  },
+  "o": {
+   "uz": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ],
+   "ru": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ],
+   "en": [
+    "is",
+    "are",
+    "am",
+    "were"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«table» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «table» на русский?",
+   "en": "What is the Uzbek translation of the word «table»?"
+  },
+  "o": {
+   "uz": [
+    "stol",
+    "qalam",
+    "tez",
+    "sariq"
+   ],
+   "ru": [
+    "стол",
+    "карандаш",
+    "быстрый",
+    "жёлтый"
+   ],
+   "en": [
+    "stol",
+    "qalam",
+    "tez",
+    "sariq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«nose» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «nose» на русский?",
+   "en": "What is the Uzbek translation of the word «nose»?"
+  },
+  "o": {
+   "uz": [
+    "burun",
+    "quyosh",
+    "nok",
+    "qalam"
+   ],
+   "ru": [
+    "нос",
+    "солнце",
+    "груша",
+    "карандаш"
+   ],
+   "en": [
+    "burun",
+    "quyosh",
+    "nok",
+    "qalam"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: They are ___ football.",
+   "ru": "Заполните пропуск: They are ___ football.",
+   "en": "Fill in the blank: They are ___ football."
+  },
+  "o": {
+   "uz": [
+    "playing",
+    "play",
+    "plays",
+    "played"
+   ],
+   "ru": [
+    "playing",
+    "play",
+    "plays",
+    "played"
+   ],
+   "en": [
+    "playing",
+    "play",
+    "plays",
+    "played"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«suzmoq» so'zi inglizchada qanday?",
+   "ru": "Как по-английски «плыть»?",
+   "en": "How do you say «suzmoq» in English?"
+  },
+  "o": {
+   "uz": [
+    "swim",
+    "city",
+    "water",
+    "mountain"
+   ],
+   "ru": [
+    "swim",
+    "city",
+    "water",
+    "mountain"
+   ],
+   "en": [
+    "swim",
+    "city",
+    "water",
+    "mountain"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«come» so'zining o'zbekcha tarjimasi qaysi?",
+   "ru": "Как переводится слово «come» на русский?",
+   "en": "What is the Uzbek translation of the word «come»?"
+  },
+  "o": {
+   "uz": [
+    "kelmoq",
+    "quloq",
+    "qisqa",
+    "pushti"
+   ],
+   "ru": [
+    "приходить",
+    "ухо",
+    "короткий",
+    "розовый"
+   ],
+   "en": [
+    "kelmoq",
+    "quloq",
+    "qisqa",
+    "pushti"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'sh joyni to'ldiring: Look! It is ___.",
+   "ru": "Заполните пропуск: Look! It is ___.",
+   "en": "Fill in the blank: Look! It is ___."
+  },
+  "o": {
+   "uz": [
+    "raining",
+    "rains",
+    "rained",
+    "rain"
+   ],
+   "ru": [
+    "raining",
+    "rains",
+    "rained",
+    "rain"
+   ],
+   "en": [
+    "raining",
+    "rains",
+    "rained",
+    "rain"
+   ]
+  },
+  "a": 0
+ }
+]

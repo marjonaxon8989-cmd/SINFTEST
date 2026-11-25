@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Kir II kim?",
+   "ru": "Кто такой(ая) Кир II?",
+   "en": "Who is Cyrus II?"
+  },
+  "o": {
+   "uz": [
+    "Ahamoniylar davlatiga asos solgan podsho",
+    "«Tarix otasi» deb ataladigan yunon tarixchisi",
+    "«Devonu lug'otit turk» muallifi",
+    "AQShning birinchi prezidenti"
+   ],
+   "ru": [
+    "Царь, основавший державу Ахеменидов",
+    "Греческий историк, «отец истории»",
+    "Автор «Дивану лугат ат-турк»",
+    "Первый президент США"
+   ],
+   "en": [
+    "The king who founded the Achaemenid Empire",
+    "The Greek historian called the «Father of History»",
+    "The author of «Diwan Lughat al-Turk»",
+    "The first President of the USA"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Misr tsivilizatsiyasi qaysi daryo(lar) bo'yida vujudga kelgan?",
+   "ru": "У каких рек возникла цивилизация: Цивилизация Древнего Египта?",
+   "en": "Beside which river(s) did this civilisation arise: Ancient Egyptian civilisation?"
+  },
+  "o": {
+   "uz": [
+    "Nil daryosi",
+    "Dajla va Furot daryolari",
+    "Xuanxe va Yantszi daryolari",
+    "Amudaryoning quyi oqimi"
+   ],
+   "ru": [
+    "река Нил",
+    "реки Тигр и Евфрат",
+    "реки Хуанхэ и Янцзы",
+    "нижнее течение Амударьи"
+   ],
+   "en": [
+    "The Nile",
+    "The Tigris and Euphrates",
+    "The Yellow River and Yangtze",
+    "The lower course of the Amudarya"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1918-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1918 г.?",
+   "en": "Which event took place in 1918?"
+  },
+  "o": {
+   "uz": [
+    "Birinchi jahon urushi tugadi",
+    "Rossiya qo'shinlari Toshkentni egalladi",
+    "Shayboniyxon Samarqandni egalladi",
+    "Rim imperiyasi G'arbiy va Sharqiy qismlarga bo'lindi"
+   ],
+   "ru": [
+    "Закончилась Первая мировая война",
+    "Российские войска заняли Ташкент",
+    "Шайбани-хан овладел Самаркандом",
+    "Римская империя разделилась на Западную и Восточную"
+   ],
+   "en": [
+    "World War I ended",
+    "Russian troops captured Tashkent",
+    "Shaybani Khan captured Samarkand",
+    "The Roman Empire split into Western and Eastern parts"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi ta'rif qaysi tushunchaga tegishli: Zardushtiylikning muqaddas kitobi?",
+   "ru": "Какому понятию соответствует определение: священная книга зороастризма?",
+   "en": "Which term matches this definition: The holy book of Zoroastrianism?"
+  },
+  "o": {
+   "uz": [
+    "Avesto",
+    "Jadidlar",
+    "Arxeologiya",
+    "Mustaqillik"
+   ],
+   "ru": [
+    "Авеста",
+    "Джадиды",
+    "Археология",
+    "Независимость"
+   ],
+   "en": [
+    "The Avesta",
+    "The Jadids",
+    "Archaeology",
+    "Independence"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: Osiyoga yurish qilgan Makedoniya podshosi?",
+   "ru": "О ком идёт речь: Царь Македонии, совершивший поход в Азию?",
+   "en": "Who is described here: The king of Macedon who led a campaign into Asia?"
+  },
+  "o": {
+   "uz": [
+    "Iskandar Zulqarnayn",
+    "Tomiris",
+    "Nodirshoh",
+    "Shavkat Mirziyoyev"
+   ],
+   "ru": [
+    "Александр Македонский",
+    "Томирис",
+    "Надир-шах",
+    "Шавкат Мирзиёев"
+   ],
+   "en": [
+    "Alexander the Great",
+    "Tomyris",
+    "Nader Shah",
+    "Shavkat Mirziyoyev"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Marakanda hozirgi qaysi shaharga to'g'ri keladi?",
+   "ru": "Какому современному городу соответствует Мараканда?",
+   "en": "Which modern city does ancient Marakanda correspond to?"
+  },
+  "o": {
+   "uz": [
+    "Samarqand",
+    "Buxoro",
+    "Termiz",
+    "Xiva"
+   ],
+   "ru": [
+    "Самарканд",
+    "Бухара",
+    "Термез",
+    "Хива"
+   ],
+   "en": [
+    "Samarkand",
+    "Bukhara",
+    "Termez",
+    "Khiva"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Xorazm qaysi daryo(lar) bo'yida vujudga kelgan?",
+   "ru": "У каких рек возникла цивилизация: Древний Хорезм?",
+   "en": "Beside which river(s) did this civilisation arise: Ancient Khorezm?"
+  },
+  "o": {
+   "uz": [
+    "Amudaryoning quyi oqimi",
+    "Hind va Gang daryolari",
+    "Nil daryosi",
+    "Xuanxe va Yantszi daryolari"
+   ],
+   "ru": [
+    "нижнее течение Амударьи",
+    "реки Инд и Ганг",
+    "река Нил",
+    "реки Хуанхэ и Янцзы"
+   ],
+   "en": [
+    "The lower course of the Amudarya",
+    "The Indus and Ganges",
+    "The Nile",
+    "The Yellow River and Yangtze"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yuriy Gagarin kim?",
+   "ru": "Кто такой(ая) Юрий Гагарин?",
+   "en": "Who is Yuri Gagarin?"
+  },
+  "o": {
+   "uz": [
+    "Koinotga uchgan birinchi inson",
+    "Farg'onalik buyuk astronom",
+    "Osiyoga yurish qilgan Makedoniya podshosi",
+    "«Tarix otasi» deb ataladigan yunon tarixchisi"
+   ],
+   "ru": [
+    "Первый человек в космосе",
+    "Великий астроном из Ферганы",
+    "Царь Македонии, совершивший поход в Азию",
+    "Греческий историк, «отец истории»"
+   ],
+   "en": [
+    "The first human in space",
+    "The great astronomer from Fergana",
+    "The king of Macedon who led a campaign into Asia",
+    "The Greek historian called the «Father of History»"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Somoniylar davlati hukmronligi tugadi?",
+   "ru": "Когда произошло событие: Закончилось правление государства Саманидов?",
+   "en": "When did this happen: The Samanid state came to an end?"
+  },
+  "o": {
+   "uz": [
+    "999-yil",
+    "989-yil",
+    "799-yil",
+    "1049-yil"
+   ],
+   "ru": [
+    "999 г.",
+    "989 г.",
+    "799 г.",
+    "1049 г."
+   ],
+   "en": [
+    "999",
+    "989",
+    "799",
+    "1049"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: «Mona Liza» asarining muallifi?",
+   "ru": "О ком идёт речь: Автор «Моны Лизы»?",
+   "en": "Who is described here: The painter of the «Mona Lisa»?"
+  },
+  "o": {
+   "uz": [
+    "Leonardo da Vinchi",
+    "Iskandar Zulqarnayn",
+    "Kleopatra",
+    "Spitamen"
+   ],
+   "ru": [
+    "Леонардо да Винчи",
+    "Александр Македонский",
+    "Клеопатра",
+    "Спитамен"
+   ],
+   "en": [
+    "Leonardo da Vinci",
+    "Alexander the Great",
+    "Cleopatra",
+    "Spitamenes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Abu Ali ibn Sino vafot etdi?",
+   "ru": "Когда произошло событие: Умер Абу Али ибн Сина?",
+   "en": "When did this happen: Abu Ali ibn Sina (Avicenna) died?"
+  },
+  "o": {
+   "uz": [
+    "1037-yil",
+    "1057-yil",
+    "1047-yil",
+    "1187-yil"
+   ],
+   "ru": [
+    "1037 г.",
+    "1057 г.",
+    "1047 г.",
+    "1187 г."
+   ],
+   "en": [
+    "1037",
+    "1057",
+    "1047",
+    "1187"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1608-yildan 1699-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1608 года по 1699 год?",
+   "en": "How many years passed from 1608 to 1699?"
+  },
+  "o": {
+   "uz": [
+    "91",
+    "101",
+    "81",
+    "92"
+   ],
+   "ru": [
+    "91",
+    "101",
+    "81",
+    "92"
+   ],
+   "en": [
+    "91",
+    "101",
+    "81",
+    "92"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sug'diyona asosan qaysi daryolar oralig'ida joylashgan?",
+   "ru": "Между какими реками находилась Согдиана?",
+   "en": "Between which rivers was Sogdiana located?"
+  },
+  "o": {
+   "uz": [
+    "Amudaryo va Sirdaryo",
+    "Nil va Dajla",
+    "Volga va Don",
+    "Dunay va Reyn"
+   ],
+   "ru": [
+    "Амударья и Сырдарья",
+    "Нил и Тигр",
+    "Волга и Дон",
+    "Дунай и Рейн"
+   ],
+   "en": [
+    "Amudarya and Syrdarya",
+    "The Nile and Tigris",
+    "Volga and Don",
+    "Danube and Rhine"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Rim imperiyasi G'arbiy va Sharqiy qismlarga bo'lindi?",
+   "ru": "Когда произошло событие: Римская империя разделилась на Западную и Восточную?",
+   "en": "When did this happen: The Roman Empire split into Western and Eastern parts?"
+  },
+  "o": {
+   "uz": [
+    "395-yil",
+    "375-yil",
+    "445-yil",
+    "420-yil"
+   ],
+   "ru": [
+    "395 г.",
+    "375 г.",
+    "445 г.",
+    "420 г."
+   ],
+   "en": [
+    "395",
+    "375",
+    "445",
+    "420"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zardushtiylik asoschisi kim hisoblanadi?",
+   "ru": "Кто считается основателем зороастризма?",
+   "en": "Who is considered the founder of Zoroastrianism?"
+  },
+  "o": {
+   "uz": [
+    "Zardusht",
+    "Kir II",
+    "Spitamen",
+    "Doro III"
+   ],
+   "ru": [
+    "Заратустра",
+    "Кир II",
+    "Спитамен",
+    "Дарий III"
+   ],
+   "en": [
+    "Zoroaster (Zarathustra)",
+    "Cyrus II",
+    "Spitamenes",
+    "Darius III"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "810-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 810 г.?",
+   "en": "Which event took place in 810?"
+  },
+  "o": {
+   "uz": [
+    "Imom al-Buxoriy tavallud topdi",
+    "Amir Temur taxtga o'tirdi",
+    "Xiva xonligi Rossiyaga vassal bo'lib qoldi",
+    "Birinchi jahon urushi tugadi"
+   ],
+   "ru": [
+    "Родился имам аль-Бухари",
+    "Амир Темур взошёл на престол",
+    "Хивинское ханство стало вассалом России",
+    "Закончилась Первая мировая война"
+   ],
+   "en": [
+    "Imam al-Bukhari was born",
+    "Amir Temur came to the throne",
+    "The Khiva Khanate became a vassal of Russia",
+    "World War I ended"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi ta'rif qaysi tushunchaga tegishli: Yangi usul maktablari va yangilanish tarafdorlari?",
+   "ru": "Какому понятию соответствует определение: сторонники новометодных школ и обновления?",
+   "en": "Which term matches this definition: Supporters of new-method schools and reform?"
+  },
+  "o": {
+   "uz": [
+    "Jadidlar",
+    "Reformatsiya",
+    "Amir",
+    "Arxeologiya"
+   ],
+   "ru": [
+    "Джадиды",
+    "Реформация",
+    "Эмир",
+    "Археология"
+   ],
+   "en": [
+    "The Jadids",
+    "The Reformation",
+    "Emir",
+    "Archaeology"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Oqsaroy» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Ак-Сарай»?",
+   "en": "In which city or country is «Ak-Saray Palace» located?"
+  },
+  "o": {
+   "uz": [
+    "Shahrisabz",
+    "Toshkent",
+    "Samarqand",
+    "Buxoro"
+   ],
+   "ru": [
+    "Шахрисабз",
+    "Ташкент",
+    "Самарканд",
+    "Бухара"
+   ],
+   "en": [
+    "Shahrisabz",
+    "Tashkent",
+    "Samarkand",
+    "Bukhara"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: Kirni mag'lub etgan massagetlar malikasi?",
+   "ru": "О ком идёт речь: Царица массагетов, победившая Кира?",
+   "en": "Who is described here: Queen of the Massagetae who defeated Cyrus?"
+  },
+  "o": {
+   "uz": [
+    "Tomiris",
+    "Isaak Nyuton",
+    "Jaloliddin Manguberdi",
+    "Alisher Navoiy"
+   ],
+   "ru": [
+    "Томирис",
+    "Исаак Ньютон",
+    "Джалал ад-Дин Мангуберды",
+    "Алишер Навои"
+   ],
+   "en": [
+    "Tomyris",
+    "Isaac Newton",
+    "Jalal al-Din Manguberdi",
+    "Alisher Navoi"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Xotira va qadrlash kuni qaysi sanada nishonlanadi?",
+   "ru": "Когда отмечается День памяти и почестей?",
+   "en": "When is the Day of Remembrance and Honour celebrated?"
+  },
+  "o": {
+   "uz": [
+    "9-may",
+    "1-sentabr",
+    "8-dekabr",
+    "21-mart"
+   ],
+   "ru": [
+    "9 мая",
+    "1 сентября",
+    "8 декабря",
+    "21 марта"
+   ],
+   "en": [
+    "9 May",
+    "1 September",
+    "8 December",
+    "21 March"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Arxeologiya» nima?",
+   "ru": "Что такое «Археология»?",
+   "en": "What is «Archaeology»?"
+  },
+  "o": {
+   "uz": [
+    "Moddiy yodgorliklar orqali o'tmishni o'rganuvchi fan",
+    "Davlatning o'z ishlarini mustaqil hal qilishi",
+    "Yevropada cherkovni isloh qilish harakati",
+    "Muhim masala bo'yicha umumxalq ovoz berishi"
+   ],
+   "ru": [
+    "наука, изучающая прошлое по вещественным памятникам",
+    "право государства самостоятельно решать свои дела",
+    "движение за реформу церкви в Европе",
+    "всенародное голосование по важному вопросу"
+   ],
+   "en": [
+    "The science that studies the past through material remains",
+    "A state's right to run its own affairs",
+    "A movement to reform the church in Europe",
+    "A nationwide vote on an important question"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1417-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1417 г.?",
+   "en": "Which event took place in 1417?"
+  },
+  "o": {
+   "uz": [
+    "Samarqandda Ulug'bek madrasasi qurildi (qurilish boshlandi)",
+    "Rim respublikasi e'lon qilindi (an'anaviy sana)",
+    "Fermopil jangi bo'ldi",
+    "Mo'g'ullar Bag'dodni egalladi"
+   ],
+   "ru": [
+    "В Самарканде начато строительство медресе Улугбека",
+    "Провозглашена Римская республика (традиционная дата)",
+    "Состоялась битва при Фермопилах",
+    "Монголы взяли Багдад"
+   ],
+   "en": [
+    "Construction of Ulugbek Madrasa in Samarkand began",
+    "The Roman Republic was proclaimed (traditional date)",
+    "The Battle of Thermopylae took place",
+    "The Mongols captured Baghdad"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Akropol» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Акрополь»?",
+   "en": "In which city or country is «The Acropolis» located?"
+  },
+  "o": {
+   "uz": [
+    "Afina",
+    "Xitoy",
+    "Samarqand",
+    "Xiva"
+   ],
+   "ru": [
+    "Афины",
+    "Китай",
+    "Самарканд",
+    "Хива"
+   ],
+   "en": [
+    "Athens",
+    "China",
+    "Samarkand",
+    "Khiva"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Avesto» nima?",
+   "ru": "Что такое «Авеста»?",
+   "en": "What is «The Avesta»?"
+  },
+  "o": {
+   "uz": [
+    "Zardushtiylikning muqaddas kitobi",
+    "Sharq va G'arbni bog'lagan savdo yo'li",
+    "Davlatning asosiy qonuni",
+    "Xonlik hukmdorining unvoni"
+   ],
+   "ru": [
+    "священная книга зороастризма",
+    "торговый путь, связывавший Восток и Запад",
+    "основной закон государства",
+    "титул правителя ханства"
+   ],
+   "en": [
+    "The holy book of Zoroastrianism",
+    "A trade route linking East and West",
+    "The fundamental law of a state",
+    "The title of a khanate's ruler"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Poyi Kalon majmuasi» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Комплекс Пои-Калян»?",
+   "en": "In which city or country is «Poi Kalon complex» located?"
+  },
+  "o": {
+   "uz": [
+    "Buxoro",
+    "Samarqand",
+    "Rim",
+    "Termiz"
+   ],
+   "ru": [
+    "Бухара",
+    "Самарканд",
+    "Рим",
+    "Термез"
+   ],
+   "en": [
+    "Bukhara",
+    "Samarkand",
+    "Rome",
+    "Termez"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1453-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1453 г.?",
+   "en": "Which event took place in 1453?"
+  },
+  "o": {
+   "uz": [
+    "Konstantinopol turklar tomonidan egallandi",
+    "Tur-Puate jangi bo'ldi",
+    "AQSh mustaqilligi e'lon qilindi",
+    "Amir Temur Dehlini egalladi"
+   ],
+   "ru": [
+    "Константинополь захвачен турками",
+    "Состоялась битва при Пуатье",
+    "Провозглашена независимость США",
+    "Амир Темур взял Дели"
+   ],
+   "en": [
+    "Constantinople was captured by the Ottomans",
+    "The Battle of Tours (Poitiers) took place",
+    "The US Declaration of Independence was adopted",
+    "Amir Temur captured Delhi"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1348-yildan 1430-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1348 года по 1430 год?",
+   "en": "How many years passed from 1348 to 1430?"
+  },
+  "o": {
+   "uz": [
+    "82",
+    "72",
+    "81",
+    "87"
+   ],
+   "ru": [
+    "82",
+    "72",
+    "81",
+    "87"
+   ],
+   "en": [
+    "82",
+    "72",
+    "81",
+    "87"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1685-yildan 1774-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1685 года по 1774 год?",
+   "en": "How many years passed from 1685 to 1774?"
+  },
+  "o": {
+   "uz": [
+    "89",
+    "79",
+    "90",
+    "109"
+   ],
+   "ru": [
+    "89",
+    "79",
+    "90",
+    "109"
+   ],
+   "en": [
+    "89",
+    "79",
+    "90",
+    "109"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Xitoy qaysi daryo(lar) bo'yida vujudga kelgan?",
+   "ru": "У каких рек возникла цивилизация: Древний Китай?",
+   "en": "Beside which river(s) did this civilisation arise: Ancient China?"
+  },
+  "o": {
+   "uz": [
+    "Xuanxe va Yantszi daryolari",
+    "Amudaryoning quyi oqimi",
+    "Dajla va Furot daryolari",
+    "Nil daryosi"
+   ],
+   "ru": [
+    "реки Хуанхэ и Янцзы",
+    "нижнее течение Амударьи",
+    "реки Тигр и Евфрат",
+    "река Нил"
+   ],
+   "en": [
+    "The Yellow River and Yangtze",
+    "The lower course of the Amudarya",
+    "The Tigris and Euphrates",
+    "The Nile"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1337-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1337 г.?",
+   "en": "Which event took place in 1337?"
+  },
+  "o": {
+   "uz": [
+    "Yuz yillik urush boshlandi",
+    "O'zbekiston Respublikasi mustaqilligi e'lon qilindi",
+    "Iskandar Osiyoga yurishini boshladi",
+    "Milliy valyuta — so'm muomalaga kiritildi"
+   ],
+   "ru": [
+    "Началась Столетняя война",
+    "Провозглашена независимость Республики Узбекистан",
+    "Александр начал поход в Азию",
+    "В обращение введена национальная валюта — сум"
+   ],
+   "en": [
+    "The Hundred Years' War began",
+    "The independence of the Republic of Uzbekistan was declared",
+    "Alexander began his campaign in Asia",
+    "The national currency, the som, was introduced"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Ichan qal'a» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Ичан-Кала»?",
+   "en": "In which city or country is «Itchan Kala» located?"
+  },
+  "o": {
+   "uz": [
+    "Xiva",
+    "Buxoro",
+    "Xitoy",
+    "Shahrisabz"
+   ],
+   "ru": [
+    "Хива",
+    "Бухара",
+    "Китай",
+    "Шахрисабз"
+   ],
+   "en": [
+    "Khiva",
+    "Bukhara",
+    "China",
+    "Shahrisabz"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: AQSh mustaqilligi e'lon qilindi?",
+   "ru": "Когда произошло событие: Провозглашена независимость США?",
+   "en": "When did this happen: The US Declaration of Independence was adopted?"
+  },
+  "o": {
+   "uz": [
+    "1776-yil",
+    "1876-yil",
+    "1976-yil",
+    "1751-yil"
+   ],
+   "ru": [
+    "1776 г.",
+    "1876 г.",
+    "1976 г.",
+    "1751 г."
+   ],
+   "en": [
+    "1776",
+    "1876",
+    "1976",
+    "1751"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: O'zbekiston Respublikasi Konstitutsiyasi qabul qilindi?",
+   "ru": "Когда произошло событие: Принята Конституция Республики Узбекистан?",
+   "en": "When did this happen: The Constitution of Uzbekistan was adopted?"
+  },
+  "o": {
+   "uz": [
+    "1992-yil",
+    "1892-yil",
+    "2002-yil",
+    "1967-yil"
+   ],
+   "ru": [
+    "1992 г.",
+    "1892 г.",
+    "2002 г.",
+    "1967 г."
+   ],
+   "en": [
+    "1992",
+    "1892",
+    "2002",
+    "1967"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1486-yildan 1530-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1486 года по 1530 год?",
+   "en": "How many years passed from 1486 to 1530?"
+  },
+  "o": {
+   "uz": [
+    "44",
+    "43",
+    "64",
+    "34"
+   ],
+   "ru": [
+    "44",
+    "43",
+    "64",
+    "34"
+   ],
+   "en": [
+    "44",
+    "43",
+    "64",
+    "34"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "XXI asr qaysi yillarni o'z ichiga oladi?",
+   "ru": "Какие годы входят в XXI век?",
+   "en": "Which years does the 21st century include?"
+  },
+  "o": {
+   "uz": [
+    "2001–2100",
+    "1901–2000",
+    "2000–2099",
+    "1991–2090"
+   ],
+   "ru": [
+    "2001–2100",
+    "1901–2000",
+    "2000–2099",
+    "1991–2090"
+   ],
+   "en": [
+    "2001–2100",
+    "1901–2000",
+    "2000–2099",
+    "1991–2090"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi ta'rif qaysi tushunchaga tegishli: Moddiy yodgorliklar orqali o'tmishni o'rganuvchi fan?",
+   "ru": "Какому понятию соответствует определение: наука, изучающая прошлое по вещественным памятникам?",
+   "en": "Which term matches this definition: The science that studies the past through material remains?"
+  },
+  "o": {
+   "uz": [
+    "Arxeologiya",
+    "Referendum",
+    "Mustaqillik",
+    "Amir"
+   ],
+   "ru": [
+    "Археология",
+    "Референдум",
+    "Независимость",
+    "Эмир"
+   ],
+   "en": [
+    "Archaeology",
+    "Referendum",
+    "Independence",
+    "Emir"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1037-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1037 г.?",
+   "en": "Which event took place in 1037?"
+  },
+  "o": {
+   "uz": [
+    "Abu Ali ibn Sino vafot etdi",
+    "Alisher Navoiy tavallud topdi",
+    "Somoniylar davlati hukmronligi tugadi",
+    "Buyuk Fransuz inqilobi boshlandi"
+   ],
+   "ru": [
+    "Умер Абу Али ибн Сина",
+    "Родился Алишер Навои",
+    "Закончилось правление государства Саманидов",
+    "Началась Великая французская революция"
+   ],
+   "en": [
+    "Abu Ali ibn Sina (Avicenna) died",
+    "Alisher Navoi was born",
+    "The Samanid state came to an end",
+    "The French Revolution began"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Hindiston qaysi daryo(lar) bo'yida vujudga kelgan?",
+   "ru": "У каких рек возникла цивилизация: Древняя Индия?",
+   "en": "Beside which river(s) did this civilisation arise: Ancient India?"
+  },
+  "o": {
+   "uz": [
+    "Hind va Gang daryolari",
+    "Amudaryoning quyi oqimi",
+    "Nil daryosi",
+    "Xuanxe va Yantszi daryolari"
+   ],
+   "ru": [
+    "реки Инд и Ганг",
+    "нижнее течение Амударьи",
+    "река Нил",
+    "реки Хуанхэ и Янцзы"
+   ],
+   "en": [
+    "The Indus and Ganges",
+    "The lower course of the Amudarya",
+    "The Nile",
+    "The Yellow River and Yangtze"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Misrda yozuv qanday ataladi?",
+   "ru": "Как называется письмо в Древнем Египте?",
+   "en": "What was Ancient Egyptian writing called?"
+  },
+  "o": {
+   "uz": [
+    "Ierogliflar",
+    "Kirill yozuvi",
+    "Lotin yozuvi",
+    "Arab yozuvi"
+   ],
+   "ru": [
+    "Иероглифы",
+    "Кириллица",
+    "Латиница",
+    "Арабское письмо"
+   ],
+   "en": [
+    "Hieroglyphs",
+    "Cyrillic",
+    "Latin script",
+    "Arabic script"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi ta'rif qaysi tushunchaga tegishli: Buxoro davlati hukmdorining unvoni?",
+   "ru": "Какому понятию соответствует определение: титул правителя Бухарского государства?",
+   "en": "Which term matches this definition: The title of the ruler of Bukhara?"
+  },
+  "o": {
+   "uz": [
+    "Amir",
+    "Konstitutsiya",
+    "Arxeologiya",
+    "Reformatsiya"
+   ],
+   "ru": [
+    "Эмир",
+    "Конституция",
+    "Археология",
+    "Реформация"
+   ],
+   "en": [
+    "Emir",
+    "Constitution",
+    "Archaeology",
+    "The Reformation"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Gavgamela jangida Iskandar Doro III ni yengdi?",
+   "ru": "Когда произошло событие: Александр победил Дария III при Гавгамелах?",
+   "en": "When did this happen: Alexander defeated Darius III at Gaugamela?"
+  },
+  "o": {
+   "uz": [
+    "m.av. 331-yil",
+    "m.av. 351-yil",
+    "m.av. 531-yil",
+    "m.av. 231-yil"
+   ],
+   "ru": [
+    "331 г. до н. э.",
+    "351 г. до н. э.",
+    "531 г. до н. э.",
+    "231 г. до н. э."
+   ],
+   "en": [
+    "331 BCE",
+    "351 BCE",
+    "531 BCE",
+    "231 BCE"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: AQShning birinchi prezidenti?",
+   "ru": "О ком идёт речь: Первый президент США?",
+   "en": "Who is described here: The first President of the USA?"
+  },
+  "o": {
+   "uz": [
+    "Jorj Vashington",
+    "Shayboniyxon",
+    "Imom al-Buxoriy",
+    "Amir Temur"
+   ],
+   "ru": [
+    "Джордж Вашингтон",
+    "Шайбани-хан",
+    "Имам аль-Бухари",
+    "Амир Темур"
+   ],
+   "en": [
+    "George Washington",
+    "Shaybani Khan",
+    "Imam al-Bukhari",
+    "Amir Temur"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1207-yildan 1296-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1207 года по 1296 год?",
+   "en": "How many years passed from 1207 to 1296?"
+  },
+  "o": {
+   "uz": [
+    "89",
+    "90",
+    "109",
+    "84"
+   ],
+   "ru": [
+    "89",
+    "90",
+    "109",
+    "84"
+   ],
+   "en": [
+    "89",
+    "90",
+    "109",
+    "84"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Amir Temur Dehlini egalladi?",
+   "ru": "Когда произошло событие: Амир Темур взял Дели?",
+   "en": "When did this happen: Amir Temur captured Delhi?"
+  },
+  "o": {
+   "uz": [
+    "1398-yil",
+    "1408-yil",
+    "1248-yil",
+    "1388-yil"
+   ],
+   "ru": [
+    "1398 г.",
+    "1408 г.",
+    "1248 г.",
+    "1388 г."
+   ],
+   "en": [
+    "1398",
+    "1408",
+    "1248",
+    "1388"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Rimliklar qaysi tilda so'zlashgan?",
+   "ru": "На каком языке говорили в Древнем Риме?",
+   "en": "Which language was spoken in Ancient Rome?"
+  },
+  "o": {
+   "uz": [
+    "Lotin",
+    "Arab",
+    "Xitoy",
+    "Fors"
+   ],
+   "ru": [
+    "Латынь",
+    "Арабский",
+    "Китайский",
+    "Персидский"
+   ],
+   "en": [
+    "Latin",
+    "Arabic",
+    "Chinese",
+    "Persian"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1816-yildan 1900-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1816 года по 1900 год?",
+   "en": "How many years passed from 1816 to 1900?"
+  },
+  "o": {
+   "uz": [
+    "84",
+    "79",
+    "89",
+    "85"
+   ],
+   "ru": [
+    "84",
+    "79",
+    "89",
+    "85"
+   ],
+   "en": [
+    "84",
+    "79",
+    "89",
+    "85"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1479-yildan 1514-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1479 года по 1514 год?",
+   "en": "How many years passed from 1479 to 1514?"
+  },
+  "o": {
+   "uz": [
+    "35",
+    "30",
+    "40",
+    "45"
+   ],
+   "ru": [
+    "35",
+    "30",
+    "40",
+    "45"
+   ],
+   "en": [
+    "35",
+    "30",
+    "40",
+    "45"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "m.av. 550-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 550 г. до н. э.?",
+   "en": "Which event took place in 550 BCE?"
+  },
+  "o": {
+   "uz": [
+    "Kir II Ahamoniylar davlatiga asos soldi",
+    "Rossiyada Oktyabr to'ntarishi bo'ldi",
+    "Somoniylar davlati hukmronligi tugadi",
+    "Qo'qon xonligi tugatildi"
+   ],
+   "ru": [
+    "Кир II основал державу Ахеменидов",
+    "В России произошёл Октябрьский переворот",
+    "Закончилось правление государства Саманидов",
+    "Кокандское ханство было упразднено"
+   ],
+   "en": [
+    "Cyrus II founded the Achaemenid Empire",
+    "The October Revolution took place in Russia",
+    "The Samanid state came to an end",
+    "The Kokand Khanate was abolished"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1991-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1991 г.?",
+   "en": "Which event took place in 1991?"
+  },
+  "o": {
+   "uz": [
+    "O'zbekiston Respublikasi mustaqilligi e'lon qilindi",
+    "Birinchi salb yurishi boshlandi",
+    "Qo'qon xonligi tashkil topdi",
+    "Germaniya birlashtirildi"
+   ],
+   "ru": [
+    "Провозглашена независимость Республики Узбекистан",
+    "Начался первый крестовый поход",
+    "Образовано Кокандское ханство",
+    "Объединение Германии"
+   ],
+   "en": [
+    "The independence of the Republic of Uzbekistan was declared",
+    "The First Crusade began",
+    "The Kokand Khanate was founded",
+    "The unification of Germany"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Xitoy manbalarida Farg'ona vodiysi qanday nom bilan atalgan?",
+   "ru": "Как называли Ферганскую долину в китайских источниках?",
+   "en": "What was the Fergana Valley called in Chinese sources?"
+  },
+  "o": {
+   "uz": [
+    "Davan (Dayuan)",
+    "Baqtriya",
+    "Parfiya",
+    "Xorazm"
+   ],
+   "ru": [
+    "Давань (Даюань)",
+    "Бактрия",
+    "Парфия",
+    "Хорезм"
+   ],
+   "en": [
+    "Dayuan",
+    "Bactria",
+    "Parthia",
+    "Khorezm"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Fayoztepa» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Фаязтепа»?",
+   "en": "In which city or country is «Fayaztepa» located?"
+  },
+  "o": {
+   "uz": [
+    "Termiz",
+    "Afina",
+    "Xiva",
+    "Samarqand"
+   ],
+   "ru": [
+    "Термез",
+    "Афины",
+    "Хива",
+    "Самарканд"
+   ],
+   "en": [
+    "Termez",
+    "Athens",
+    "Khiva",
+    "Samarkand"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Ulug'bek rasadxonasi» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Обсерватория Улугбека»?",
+   "en": "In which city or country is «Ulugbek Observatory» located?"
+  },
+  "o": {
+   "uz": [
+    "Samarqand",
+    "Buxoro",
+    "Parij",
+    "Termiz"
+   ],
+   "ru": [
+    "Самарканд",
+    "Бухара",
+    "Париж",
+    "Термез"
+   ],
+   "en": [
+    "Samarkand",
+    "Bukhara",
+    "Paris",
+    "Termez"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Jaloliddin Manguberdi Hind daryosi bo'yida mo'g'ullar bilan jang qildi?",
+   "ru": "Когда произошло событие: Джалал ад-Дин Мангуберды сражался с монголами на реке Инд?",
+   "en": "When did this happen: Jalal al-Din Manguberdi fought the Mongols on the Indus?"
+  },
+  "o": {
+   "uz": [
+    "1221-yil",
+    "1021-yil",
+    "1211-yil",
+    "1231-yil"
+   ],
+   "ru": [
+    "1221 г.",
+    "1021 г.",
+    "1211 г.",
+    "1231 г."
+   ],
+   "en": [
+    "1221",
+    "1021",
+    "1211",
+    "1231"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1500-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1500 г.?",
+   "en": "Which event took place in 1500?"
+  },
+  "o": {
+   "uz": [
+    "Shayboniyxon Samarqandni egalladi",
+    "Mirzo Ulug'bek tavallud topdi",
+    "Alisher Navoiy vafot etdi",
+    "Alisher Navoiy tavallud topdi"
+   ],
+   "ru": [
+    "Шайбани-хан овладел Самаркандом",
+    "Родился Мирзо Улугбек",
+    "Умер Алишер Навои",
+    "Родился Алишер Навои"
+   ],
+   "en": [
+    "Shaybani Khan captured Samarkand",
+    "Mirzo Ulugbek was born",
+    "Alisher Navoi died",
+    "Alisher Navoi was born"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Ko'kaldosh madrasasi» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Медресе Кукельдаш»?",
+   "en": "In which city or country is «Kukeldash Madrasa» located?"
+  },
+  "o": {
+   "uz": [
+    "Toshkent",
+    "Afina",
+    "Samarqand",
+    "Parij"
+   ],
+   "ru": [
+    "Ташкент",
+    "Афины",
+    "Самарканд",
+    "Париж"
+   ],
+   "en": [
+    "Tashkent",
+    "Athens",
+    "Samarkand",
+    "Paris"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ming yillik necha asrga teng?",
+   "ru": "Скольким векам равно тысячелетие?",
+   "en": "How many centuries are in a millennium?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "5",
+    "100",
+    "20"
+   ],
+   "ru": [
+    "10",
+    "5",
+    "100",
+    "20"
+   ],
+   "en": [
+    "10",
+    "5",
+    "100",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Kolizey» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Колизей»?",
+   "en": "In which city or country is «The Colosseum» located?"
+  },
+  "o": {
+   "uz": [
+    "Rim",
+    "Parij",
+    "Samarqand",
+    "Misr"
+   ],
+   "ru": [
+    "Рим",
+    "Париж",
+    "Самарканд",
+    "Египет"
+   ],
+   "en": [
+    "Rome",
+    "Paris",
+    "Samarkand",
+    "Egypt"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1483-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1483 г.?",
+   "en": "Which event took place in 1483?"
+  },
+  "o": {
+   "uz": [
+    "Zahiriddin Muhammad Bobur tavallud topdi",
+    "Buyuk Fransuz inqilobi boshlandi",
+    "Mo'g'ullar Buxoro va Samarqandni egalladi",
+    "Amir Temur vafot etdi"
+   ],
+   "ru": [
+    "Родился Захириддин Мухаммад Бабур",
+    "Началась Великая французская революция",
+    "Монголы захватили Бухару и Самарканд",
+    "Умер Амир Темур"
+   ],
+   "en": [
+    "Zahiriddin Muhammad Babur was born",
+    "The French Revolution began",
+    "The Mongols captured Bukhara and Samarkand",
+    "Amir Temur died"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi ta'rif qaysi tushunchaga tegishli: Davlatning asosiy qonuni?",
+   "ru": "Какому понятию соответствует определение: основной закон государства?",
+   "en": "Which term matches this definition: The fundamental law of a state?"
+  },
+  "o": {
+   "uz": [
+    "Konstitutsiya",
+    "Mustaqillik",
+    "Amir",
+    "Jadidlar"
+   ],
+   "ru": [
+    "Конституция",
+    "Независимость",
+    "Эмир",
+    "Джадиды"
+   ],
+   "en": [
+    "Constitution",
+    "Independence",
+    "Emir",
+    "The Jadids"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1792-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1792 год?",
+   "en": "Which century does the year 1792 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XVIII asr",
+    "XX asr",
+    "XIX asr",
+    "XVII asr"
+   ],
+   "ru": [
+    "XVIII век",
+    "XX век",
+    "XIX век",
+    "XVII век"
+   ],
+   "en": [
+    "18th century",
+    "20th century",
+    "19th century",
+    "17th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Napoleon Fransiya imperatori deb e'lon qilindi?",
+   "ru": "Когда произошло событие: Наполеон провозглашён императором Франции?",
+   "en": "When did this happen: Napoleon was proclaimed Emperor of France?"
+  },
+  "o": {
+   "uz": [
+    "1804-yil",
+    "1904-yil",
+    "1794-yil",
+    "1604-yil"
+   ],
+   "ru": [
+    "1804 г.",
+    "1904 г.",
+    "1794 г.",
+    "1604 г."
+   ],
+   "en": [
+    "1804",
+    "1904",
+    "1794",
+    "1604"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Abu Ali ibn Sino kim?",
+   "ru": "Кто такой(ая) Абу Али ибн Сина?",
+   "en": "Who is Abu Ali ibn Sina?"
+  },
+  "o": {
+   "uz": [
+    "«Tib qonunlari» asari muallifi",
+    "«Tibbiyot otasi» deb ataladigan yunon shifokori",
+    "Algebra fanining asoschisi",
+    "Mo'g'ul imperiyasining asoschisi"
+   ],
+   "ru": [
+    "Автор «Канона врачебной науки»",
+    "Греческий врач, «отец медицины»",
+    "Основатель алгебры",
+    "Основатель Монгольской империи"
+   ],
+   "en": [
+    "The author of «The Canon of Medicine»",
+    "The Greek physician called the «Father of Medicine»",
+    "The founder of algebra",
+    "The founder of the Mongol Empire"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "476-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 476 г.?",
+   "en": "Which event took place in 476?"
+  },
+  "o": {
+   "uz": [
+    "G'arbiy Rim imperiyasi quladi",
+    "Milliy valyuta — so'm muomalaga kiritildi",
+    "Rossiyada Oktyabr to'ntarishi bo'ldi",
+    "Amir Temur taxtga o'tirdi"
+   ],
+   "ru": [
+    "Пала Западная Римская империя",
+    "В обращение введена национальная валюта — сум",
+    "В России произошёл Октябрьский переворот",
+    "Амир Темур взошёл на престол"
+   ],
+   "en": [
+    "The Western Roman Empire fell",
+    "The national currency, the som, was introduced",
+    "The October Revolution took place in Russia",
+    "Amir Temur came to the throne"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Samarqandda Ulug'bek madrasasi qurildi (qurilish boshlandi)?",
+   "ru": "Когда произошло событие: В Самарканде начато строительство медресе Улугбека?",
+   "en": "When did this happen: Construction of Ulugbek Madrasa in Samarkand began?"
+  },
+  "o": {
+   "uz": [
+    "1417-yil",
+    "1367-yil",
+    "1267-yil",
+    "1422-yil"
+   ],
+   "ru": [
+    "1417 г.",
+    "1367 г.",
+    "1267 г.",
+    "1422 г."
+   ],
+   "en": [
+    "1417",
+    "1367",
+    "1267",
+    "1422"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Mirzo Ulug'bek o'ldirildi?",
+   "ru": "Когда произошло событие: Убит Мирзо Улугбек?",
+   "en": "When did this happen: Mirzo Ulugbek was killed?"
+  },
+  "o": {
+   "uz": [
+    "1449-yil",
+    "1299-yil",
+    "1439-yil",
+    "1424-yil"
+   ],
+   "ru": [
+    "1449 г.",
+    "1299 г.",
+    "1439 г.",
+    "1424 г."
+   ],
+   "en": [
+    "1449",
+    "1299",
+    "1439",
+    "1424"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1676-yildan 1713-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1676 года по 1713 год?",
+   "en": "How many years passed from 1676 to 1713?"
+  },
+  "o": {
+   "uz": [
+    "37",
+    "32",
+    "36",
+    "42"
+   ],
+   "ru": [
+    "37",
+    "32",
+    "36",
+    "42"
+   ],
+   "en": [
+    "37",
+    "32",
+    "36",
+    "42"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "m.av. 776-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 776 г. до н. э.?",
+   "en": "Which event took place in 776 BCE?"
+  },
+  "o": {
+   "uz": [
+    "Birinchi Olimpiya o'yinlari o'tkazildi",
+    "AQSh mustaqilligi e'lon qilindi",
+    "Marafon jangi bo'ldi",
+    "Germaniya birlashtirildi"
+   ],
+   "ru": [
+    "Прошли первые Олимпийские игры",
+    "Провозглашена независимость США",
+    "Состоялась Марафонская битва",
+    "Объединение Германии"
+   ],
+   "en": [
+    "The first Olympic Games were held",
+    "The US Declaration of Independence was adopted",
+    "The Battle of Marathon took place",
+    "The unification of Germany"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Boburiylar davlati qaysi mamlakatda tashkil topgan?",
+   "ru": "В какой стране образовалось государство Бабуридов?",
+   "en": "In which country was the Mughal (Baburid) state established?"
+  },
+  "o": {
+   "uz": [
+    "Hindiston",
+    "Eron",
+    "Xitoy",
+    "Turkiya"
+   ],
+   "ru": [
+    "Индия",
+    "Иран",
+    "Китай",
+    "Турция"
+   ],
+   "en": [
+    "India",
+    "Iran",
+    "China",
+    "Turkey"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1405-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1405 г.?",
+   "en": "Which event took place in 1405?"
+  },
+  "o": {
+   "uz": [
+    "Amir Temur vafot etdi",
+    "Tur-Puate jangi bo'ldi",
+    "Shayboniyxon Samarqandni egalladi",
+    "Karl Buyuk imperator deb e'lon qilindi"
+   ],
+   "ru": [
+    "Умер Амир Темур",
+    "Состоялась битва при Пуатье",
+    "Шайбани-хан овладел Самаркандом",
+    "Карл Великий провозглашён императором"
+   ],
+   "en": [
+    "Amir Temur died",
+    "The Battle of Tours (Poitiers) took place",
+    "Shaybani Khan captured Samarkand",
+    "Charlemagne was crowned emperor"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "722-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 722 год?",
+   "en": "Which century does the year 722 belong to?"
+  },
+  "o": {
+   "uz": [
+    "VIII asr",
+    "X asr",
+    "VII asr",
+    "VI asr"
+   ],
+   "ru": [
+    "VIII век",
+    "X век",
+    "VII век",
+    "VI век"
+   ],
+   "en": [
+    "8th century",
+    "10th century",
+    "7th century",
+    "6th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1220-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1220 г.?",
+   "en": "Which event took place in 1220?"
+  },
+  "o": {
+   "uz": [
+    "Mo'g'ullar Buxoro va Samarqandni egalladi",
+    "Samarqandda Ulug'bek madrasasi qurildi (qurilish boshlandi)",
+    "Konstantinopol turklar tomonidan egallandi",
+    "Qo'qon xonligi tugatildi"
+   ],
+   "ru": [
+    "Монголы захватили Бухару и Самарканд",
+    "В Самарканде начато строительство медресе Улугбека",
+    "Константинополь захвачен турками",
+    "Кокандское ханство было упразднено"
+   ],
+   "en": [
+    "The Mongols captured Bukhara and Samarkand",
+    "Construction of Ulugbek Madrasa in Samarkand began",
+    "Constantinople was captured by the Ottomans",
+    "The Kokand Khanate was abolished"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi ta'rif qaysi tushunchaga tegishli: Yevropada cherkovni isloh qilish harakati?",
+   "ru": "Какому понятию соответствует определение: движение за реформу церкви в Европе?",
+   "en": "Which term matches this definition: A movement to reform the church in Europe?"
+  },
+  "o": {
+   "uz": [
+    "Reformatsiya",
+    "Avesto",
+    "Buyuk ipak yo'li",
+    "Jadidlar"
+   ],
+   "ru": [
+    "Реформация",
+    "Авеста",
+    "Великий шёлковый путь",
+    "Джадиды"
+   ],
+   "en": [
+    "The Reformation",
+    "The Avesta",
+    "The Great Silk Road",
+    "The Jadids"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Zahiriddin Muhammad Bobur tavallud topdi?",
+   "ru": "Когда произошло событие: Родился Захириддин Мухаммад Бабур?",
+   "en": "When did this happen: Zahiriddin Muhammad Babur was born?"
+  },
+  "o": {
+   "uz": [
+    "1483-yil",
+    "1463-yil",
+    "1488-yil",
+    "1433-yil"
+   ],
+   "ru": [
+    "1483 г.",
+    "1463 г.",
+    "1488 г.",
+    "1433 г."
+   ],
+   "en": [
+    "1483",
+    "1463",
+    "1488",
+    "1433"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Ark qal'asi» qaysi shaharda yoki mamlakatda joylashgan?",
+   "ru": "В каком городе или стране находится «Крепость Арк»?",
+   "en": "In which city or country is «The Ark Fortress» located?"
+  },
+  "o": {
+   "uz": [
+    "Buxoro",
+    "Parij",
+    "Samarqand",
+    "Shahrisabz"
+   ],
+   "ru": [
+    "Бухара",
+    "Париж",
+    "Самарканд",
+    "Шахрисабз"
+   ],
+   "en": [
+    "Bukhara",
+    "Paris",
+    "Samarkand",
+    "Shahrisabz"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1602-yildan 1679-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1602 года по 1679 год?",
+   "en": "How many years passed from 1602 to 1679?"
+  },
+  "o": {
+   "uz": [
+    "77",
+    "97",
+    "67",
+    "76"
+   ],
+   "ru": [
+    "77",
+    "97",
+    "67",
+    "76"
+   ],
+   "en": [
+    "77",
+    "97",
+    "67",
+    "76"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1867-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1867 г.?",
+   "en": "Which event took place in 1867?"
+  },
+  "o": {
+   "uz": [
+    "Turkiston general-gubernatorligi tuzildi",
+    "Amir Temur Terek daryosi bo'yida Toxtamishni yengdi",
+    "Zahiriddin Muhammad Bobur vafot etdi",
+    "Rossiya qo'shinlari Samarqandni egalladi"
+   ],
+   "ru": [
+    "Образовано Туркестанское генерал-губернаторство",
+    "Амир Темур разгромил Тохтамыша на реке Терек",
+    "Умер Захириддин Мухаммад Бабур",
+    "Российские войска заняли Самарканд"
+   ],
+   "en": [
+    "The Turkestan Governor-Generalship was established",
+    "Amir Temur defeated Tokhtamysh at the Terek river",
+    "Zahiriddin Muhammad Babur died",
+    "Russian troops captured Samarkand"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1517-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1517 г.?",
+   "en": "Which event took place in 1517?"
+  },
+  "o": {
+   "uz": [
+    "Lyuter «95 tezis»ni e'lon qildi (Reformatsiya boshlandi)",
+    "Abu Rayhon Beruniy tavallud topdi",
+    "Zahiriddin Muhammad Bobur vafot etdi",
+    "Hijra (Muhammad payg'ambarning Madinaga ko'chishi), hijriy yil boshi"
+   ],
+   "ru": [
+    "Лютер обнародовал «95 тезисов» (начало Реформации)",
+    "Родился Абу Райхан Бируни",
+    "Умер Захириддин Мухаммад Бабур",
+    "Хиджра — переселение пророка Мухаммада в Медину, начало хиджры"
+   ],
+   "en": [
+    "Luther published his «95 Theses» (start of the Reformation)",
+    "Abu Rayhan al-Biruni was born",
+    "Zahiriddin Muhammad Babur died",
+    "The Hijra, the Prophet Muhammad's move to Medina (start of the Islamic calendar)"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Rimda hukmdor unvoni nima deb atalgan (imperiya davrida)?",
+   "ru": "Как назывался правитель Римской империи?",
+   "en": "What was the ruler of the Roman Empire called?"
+  },
+  "o": {
+   "uz": [
+    "Imperator",
+    "Fir'avn",
+    "Amir",
+    "Xon"
+   ],
+   "ru": [
+    "Император",
+    "Фараон",
+    "Эмир",
+    "Хан"
+   ],
+   "en": [
+    "Emperor",
+    "Pharaoh",
+    "Emir",
+    "Khan"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Davan (Farg'ona) nimasi bilan mashhur edi?",
+   "ru": "Чем славилась древняя Давань (Фергана)?",
+   "en": "What was ancient Dayuan (Fergana) famous for?"
+  },
+  "o": {
+   "uz": [
+    "Zotdor otlari",
+    "Fillar",
+    "Tuyalar",
+    "Baliq ovi"
+   ],
+   "ru": [
+    "Породистыми лошадьми",
+    "Слонами",
+    "Верблюдами",
+    "Рыбной ловлей"
+   ],
+   "en": [
+    "Its fine horses",
+    "Elephants",
+    "Camels",
+    "Fishing"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zardushtiylik qaysi hududda paydo bo'lgan?",
+   "ru": "Где возникло зороастрийство?",
+   "en": "Where did Zoroastrianism arise?"
+  },
+  "o": {
+   "uz": [
+    "Markaziy Osiyo va Eron hududida",
+    "Yevropada",
+    "Amerikada",
+    "Avstraliyada"
+   ],
+   "ru": [
+    "В Центральной Азии и Иране",
+    "В Европе",
+    "В Америке",
+    "В Австралии"
+   ],
+   "en": [
+    "In Central Asia and Iran",
+    "In Europe",
+    "In America",
+    "In Australia"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Hijra (Muhammad payg'ambarning Madinaga ko'chishi), hijriy yil boshi?",
+   "ru": "Когда произошло событие: Хиджра — переселение пророка Мухаммада в Медину, начало хиджры?",
+   "en": "When did this happen: The Hijra, the Prophet Muhammad's move to Medina (start of the Islamic calendar)?"
+  },
+  "o": {
+   "uz": [
+    "622-yil",
+    "612-yil",
+    "572-yil",
+    "597-yil"
+   ],
+   "ru": [
+    "622 г.",
+    "612 г.",
+    "572 г.",
+    "597 г."
+   ],
+   "en": [
+    "622",
+    "612",
+    "572",
+    "597"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qadimgi Baqtriyaning shimoliy qismi hozirgi qaysi viloyatda joylashgan?",
+   "ru": "В какой современной области находилась северная часть Бактрии?",
+   "en": "In which modern region was northern Bactria located?"
+  },
+  "o": {
+   "uz": [
+    "Surxondaryo",
+    "Xorazm",
+    "Navoiy",
+    "Sirdaryo"
+   ],
+   "ru": [
+    "Сурхандарья",
+    "Хорезм",
+    "Навои",
+    "Сырдарья"
+   ],
+   "en": [
+    "Surkhandarya",
+    "Khorezm",
+    "Navoi",
+    "Syrdarya"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1501-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1501 г.?",
+   "en": "Which event took place in 1501?"
+  },
+  "o": {
+   "uz": [
+    "Alisher Navoiy vafot etdi",
+    "Alisher Navoiy tavallud topdi",
+    "Abu Rayhon Beruniy tavallud topdi",
+    "Yuz yillik urush boshlandi"
+   ],
+   "ru": [
+    "Умер Алишер Навои",
+    "Родился Алишер Навои",
+    "Родился Абу Райхан Бируни",
+    "Началась Столетняя война"
+   ],
+   "en": [
+    "Alisher Navoi died",
+    "Alisher Navoi was born",
+    "Abu Rayhan al-Biruni was born",
+    "The Hundred Years' War began"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1275-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1275 год?",
+   "en": "Which century does the year 1275 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XIII asr",
+    "XIV asr",
+    "XII asr",
+    "XI asr"
+   ],
+   "ru": [
+    "XIII век",
+    "XIV век",
+    "XII век",
+    "XI век"
+   ],
+   "en": [
+    "13th century",
+    "14th century",
+    "12th century",
+    "11th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1398-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1398 г.?",
+   "en": "Which event took place in 1398?"
+  },
+  "o": {
+   "uz": [
+    "Amir Temur Dehlini egalladi",
+    "Fermopil jangi bo'ldi",
+    "O'zbekiston Respublikasi Konstitutsiyasi qabul qilindi",
+    "Gavgamela jangida Iskandar Doro III ni yengdi"
+   ],
+   "ru": [
+    "Амир Темур взял Дели",
+    "Состоялась битва при Фермопилах",
+    "Принята Конституция Республики Узбекистан",
+    "Александр победил Дария III при Гавгамелах"
+   ],
+   "en": [
+    "Amir Temur captured Delhi",
+    "The Battle of Thermopylae took place",
+    "The Constitution of Uzbekistan was adopted",
+    "Alexander defeated Darius III at Gaugamela"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1099-yil nechanchi asrga to'g'ri keladi?",
+   "ru": "К какому веку относится 1099 год?",
+   "en": "Which century does the year 1099 belong to?"
+  },
+  "o": {
+   "uz": [
+    "XI asr",
+    "X asr",
+    "IX asr",
+    "XII asr"
+   ],
+   "ru": [
+    "XI век",
+    "X век",
+    "IX век",
+    "XII век"
+   ],
+   "en": [
+    "11th century",
+    "10th century",
+    "9th century",
+    "12th century"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "m.av. 138-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 138 г. до н. э.?",
+   "en": "Which event took place in 138 BCE?"
+  },
+  "o": {
+   "uz": [
+    "Chjan Szyan G'arbga safarga chiqdi (Ipak yo'li ochila boshladi)",
+    "Alisher Navoiy tavallud topdi",
+    "Napoleon Fransiya imperatori deb e'lon qilindi",
+    "Talas jangi bo'ldi"
+   ],
+   "ru": [
+    "Чжан Цянь отправился на Запад (начало Шёлкового пути)",
+    "Родился Алишер Навои",
+    "Наполеон провозглашён императором Франции",
+    "Состоялась Таласская битва"
+   ],
+   "en": [
+    "Zhang Qian set out west (the Silk Road began to open)",
+    "Alisher Navoi was born",
+    "Napoleon was proclaimed Emperor of France",
+    "The Battle of Talas took place"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: Algebra fanining asoschisi?",
+   "ru": "О ком идёт речь: Основатель алгебры?",
+   "en": "Who is described here: The founder of algebra?"
+  },
+  "o": {
+   "uz": [
+    "Muhammad al-Xorazmiy",
+    "Napoleon Bonapart",
+    "Imom al-Buxoriy",
+    "Isaak Nyuton"
+   ],
+   "ru": [
+    "Мухаммад аль-Хорезми",
+    "Наполеон Бонапарт",
+    "Имам аль-Бухари",
+    "Исаак Ньютон"
+   ],
+   "en": [
+    "Muhammad al-Khwarizmi",
+    "Napoleon Bonaparte",
+    "Imam al-Bukhari",
+    "Isaac Newton"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi ta'rif qaysi tushunchaga tegishli: Davlatning o'z ishlarini mustaqil hal qilishi?",
+   "ru": "Какому понятию соответствует определение: право государства самостоятельно решать свои дела?",
+   "en": "Which term matches this definition: A state's right to run its own affairs?"
+  },
+  "o": {
+   "uz": [
+    "Mustaqillik",
+    "Konstitutsiya",
+    "Xon",
+    "Buyuk ipak yo'li"
+   ],
+   "ru": [
+    "Независимость",
+    "Конституция",
+    "Хан",
+    "Великий шёлковый путь"
+   ],
+   "en": [
+    "Independence",
+    "Constitution",
+    "Khan",
+    "The Great Silk Road"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Chingizxon kim?",
+   "ru": "Кто такой(ая) Чингисхан?",
+   "en": "Who is Genghis Khan?"
+  },
+  "o": {
+   "uz": [
+    "Mo'g'ul imperiyasining asoschisi",
+    "Qadimgi Misrning mashhur malikasi",
+    "Butun olam tortishish qonunini kashf etgan olim",
+    "1492-yilda Amerikaga yetib borgan dengizchi"
+   ],
+   "ru": [
+    "Основатель Монгольской империи",
+    "Знаменитая царица Древнего Египта",
+    "Учёный, открывший закон всемирного тяготения",
+    "Мореплаватель, достигший Америки в 1492 году"
+   ],
+   "en": [
+    "The founder of the Mongol Empire",
+    "The famous queen of Ancient Egypt",
+    "The scientist who discovered the law of universal gravitation",
+    "The navigator who reached America in 1492"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Asr necha yildan iborat?",
+   "ru": "Сколько лет в веке?",
+   "en": "How many years are in a century?"
+  },
+  "o": {
+   "uz": [
+    "100",
+    "10",
+    "50",
+    "1000"
+   ],
+   "ru": [
+    "100",
+    "10",
+    "50",
+    "1000"
+   ],
+   "en": [
+    "100",
+    "10",
+    "50",
+    "1000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi ta'rif qaysi tushunchaga tegishli: Xonlik hukmdorining unvoni?",
+   "ru": "Какому понятию соответствует определение: титул правителя ханства?",
+   "en": "Which term matches this definition: The title of a khanate's ruler?"
+  },
+  "o": {
+   "uz": [
+    "Xon",
+    "Jadidlar",
+    "Amir",
+    "Referendum"
+   ],
+   "ru": [
+    "Хан",
+    "Джадиды",
+    "Эмир",
+    "Референдум"
+   ],
+   "en": [
+    "Khan",
+    "The Jadids",
+    "Emir",
+    "Referendum"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Rim shahri asos solindi (an'anaviy sana)?",
+   "ru": "Когда произошло событие: Основание Рима (традиционная дата)?",
+   "en": "When did this happen: Rome was founded (traditional date)?"
+  },
+  "o": {
+   "uz": [
+    "m.av. 753-yil",
+    "m.av. 653-yil",
+    "m.av. 853-yil",
+    "m.av. 773-yil"
+   ],
+   "ru": [
+    "753 г. до н. э.",
+    "653 г. до н. э.",
+    "853 г. до н. э.",
+    "773 г. до н. э."
+   ],
+   "en": [
+    "753 BCE",
+    "653 BCE",
+    "853 BCE",
+    "773 BCE"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1225-yildan 1253-yilgacha necha yil o'tgan?",
+   "ru": "Сколько лет прошло с 1225 года по 1253 год?",
+   "en": "How many years passed from 1225 to 1253?"
+  },
+  "o": {
+   "uz": [
+    "28",
+    "48",
+    "27",
+    "29"
+   ],
+   "ru": [
+    "28",
+    "48",
+    "27",
+    "29"
+   ],
+   "en": [
+    "28",
+    "48",
+    "27",
+    "29"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi shaxs haqida gap ketmoqda: Koinotga uchgan birinchi inson?",
+   "ru": "О ком идёт речь: Первый человек в космосе?",
+   "en": "Who is described here: The first human in space?"
+  },
+  "o": {
+   "uz": [
+    "Yuriy Gagarin",
+    "Tomiris",
+    "Arximed",
+    "Imom al-Buxoriy"
+   ],
+   "ru": [
+    "Юрий Гагарин",
+    "Томирис",
+    "Архимед",
+    "Имам аль-Бухари"
+   ],
+   "en": [
+    "Yuri Gagarin",
+    "Tomyris",
+    "Archimedes",
+    "Imam al-Bukhari"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Anqara jangida Amir Temur Boyazid I ni yengdi?",
+   "ru": "Когда произошло событие: Амир Темур победил Баязида I в битве при Анкаре?",
+   "en": "When did this happen: Amir Temur defeated Bayezid I at the Battle of Ankara?"
+  },
+  "o": {
+   "uz": [
+    "1402-yil",
+    "1502-yil",
+    "1397-yil",
+    "1602-yil"
+   ],
+   "ru": [
+    "1402 г.",
+    "1502 г.",
+    "1397 г.",
+    "1602 г."
+   ],
+   "en": [
+    "1402",
+    "1502",
+    "1397",
+    "1602"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Ismoil Somoniy Movarounnahr hukmdori bo'ldi?",
+   "ru": "Когда произошло событие: Исмаил Саманид стал правителем Мавераннахра?",
+   "en": "When did this happen: Ismail Samani became ruler of Transoxiana?"
+  },
+  "o": {
+   "uz": [
+    "892-yil",
+    "882-yil",
+    "1092-yil",
+    "692-yil"
+   ],
+   "ru": [
+    "892 г.",
+    "882 г.",
+    "1092 г.",
+    "692 г."
+   ],
+   "en": [
+    "892",
+    "882",
+    "1092",
+    "692"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "1868-yil yilda qaysi voqea sodir bo'lgan?",
+   "ru": "Какое событие произошло в 1868 г.?",
+   "en": "Which event took place in 1868?"
+  },
+  "o": {
+   "uz": [
+    "Rossiya qo'shinlari Samarqandni egalladi",
+    "Birinchi salb yurishi boshlandi",
+    "Qo'qon xonligi tashkil topdi",
+    "Rossiyada Oktyabr to'ntarishi bo'ldi"
+   ],
+   "ru": [
+    "Российские войска заняли Самарканд",
+    "Начался первый крестовый поход",
+    "Образовано Кокандское ханство",
+    "В России произошёл Октябрьский переворот"
+   ],
+   "en": [
+    "Russian troops captured Samarkand",
+    "The First Crusade began",
+    "The Kokand Khanate was founded",
+    "The October Revolution took place in Russia"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi voqea qachon sodir bo'lgan: Mirzo Ulug'bek taxtga o'tirdi?",
+   "ru": "Когда произошло событие: Мирзо Улугбек взошёл на престол?",
+   "en": "When did this happen: Mirzo Ulugbek came to the throne?"
+  },
+  "o": {
+   "uz": [
+    "1447-yil",
+    "1442-yil",
+    "1397-yil",
+    "1247-yil"
+   ],
+   "ru": [
+    "1447 г.",
+    "1442 г.",
+    "1397 г.",
+    "1247 г."
+   ],
+   "en": [
+    "1447",
+    "1442",
+    "1397",
+    "1247"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Davlat madhiyasi, bayroq va gerb nima deb ataladi?",
+   "ru": "Как называются государственный гимн, флаг и герб?",
+   "en": "What are the state anthem, flag and coat of arms together called?"
+  },
+  "o": {
+   "uz": [
+    "Davlat ramzlari",
+    "Davlat qonunlari",
+    "Davlat idoralari",
+    "Davlat bayramlari"
+   ],
+   "ru": [
+    "Государственные символы",
+    "Государственные законы",
+    "Государственные органы",
+    "Государственные праздники"
+   ],
+   "en": [
+    "State symbols",
+    "State laws",
+    "State bodies",
+    "State holidays"
+   ]
+  },
+  "a": 0
+ }
+]
