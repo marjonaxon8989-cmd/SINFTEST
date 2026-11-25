@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Jism 16 m/s tezlik bilan 4 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 16 м/с в течение 4 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 16 m/s for 4 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "64",
+    "32",
+    "192",
+    "61"
+   ],
+   "ru": [
+    "64",
+    "32",
+    "192",
+    "61"
+   ],
+   "en": [
+    "64",
+    "32",
+    "192",
+    "61"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 3 soat 30 km/soat, keyin 1 soat 70 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 3 ч со скоростью 30 км/ч, затем 1 ч со скоростью 70 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 3 h at 30 km/h, then 1 h at 70 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "30",
+    "20",
+    "42"
+   ],
+   "ru": [
+    "40",
+    "30",
+    "20",
+    "42"
+   ],
+   "en": [
+    "40",
+    "30",
+    "20",
+    "42"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 49 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 49 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 49 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "490",
+    "735",
+    "368",
+    "612"
+   ],
+   "ru": [
+    "490",
+    "735",
+    "368",
+    "612"
+   ],
+   "en": [
+    "490",
+    "735",
+    "368",
+    "612"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 7800 kg/m³, hajmi 8 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 7800 кг/м³, объём 8 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 7800 kg/m³ and volume 8 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "62400",
+    "124800",
+    "59280",
+    "68640"
+   ],
+   "ru": [
+    "62400",
+    "124800",
+    "59280",
+    "68640"
+   ],
+   "en": [
+    "62400",
+    "124800",
+    "59280",
+    "68640"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "90 km/soat necha m/s ga teng?",
+   "ru": "90 км/ч — это сколько м/с?",
+   "en": "90 km/h equals how many m/s?"
+  },
+  "o": {
+   "uz": [
+    "25",
+    "30",
+    "27",
+    "23"
+   ],
+   "ru": [
+    "25",
+    "30",
+    "27",
+    "23"
+   ],
+   "en": [
+    "25",
+    "30",
+    "27",
+    "23"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 6 m/s tezlik bilan 2 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 6 м/с в течение 2 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 6 m/s for 2 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "6",
+    "14",
+    "2"
+   ],
+   "ru": [
+    "12",
+    "6",
+    "14",
+    "2"
+   ],
+   "en": [
+    "12",
+    "6",
+    "14",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "198 km/soat necha m/s ga teng?",
+   "ru": "198 км/ч — это сколько м/с?",
+   "en": "198 km/h equals how many m/s?"
+  },
+  "o": {
+   "uz": [
+    "55",
+    "44",
+    "27",
+    "49"
+   ],
+   "ru": [
+    "55",
+    "44",
+    "27",
+    "49"
+   ],
+   "en": [
+    "55",
+    "44",
+    "27",
+    "49"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 55 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 55 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 55 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "550",
+    "605",
+    "688",
+    "412"
+   ],
+   "ru": [
+    "550",
+    "605",
+    "688",
+    "412"
+   ],
+   "en": [
+    "550",
+    "605",
+    "688",
+    "412"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuch 560 N, ta'sir yuzasi 20 m². Bosim necha Pa?",
+   "ru": "Сила равна 560 Н, площадь опоры 20 м². Чему равно давление (Па)?",
+   "en": "A force of 560 N acts on an area of 20 m². What is the pressure (Pa)?"
+  },
+  "o": {
+   "uz": [
+    "28",
+    "41",
+    "25",
+    "33"
+   ],
+   "ru": [
+    "28",
+    "41",
+    "25",
+    "33"
+   ],
+   "en": [
+    "28",
+    "41",
+    "25",
+    "33"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "14 m necha santimetr?",
+   "ru": "14 м — сколько сантиметров?",
+   "en": "How many centimetres are in 14 m?"
+  },
+  "o": {
+   "uz": [
+    "1400",
+    "1750",
+    "1540",
+    "700"
+   ],
+   "ru": [
+    "1400",
+    "1750",
+    "1540",
+    "700"
+   ],
+   "en": [
+    "1400",
+    "1750",
+    "1540",
+    "700"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 2 m/s tezlik bilan 16 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 2 м/с в течение 16 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 2 m/s for 16 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "32",
+    "30",
+    "26",
+    "16"
+   ],
+   "ru": [
+    "32",
+    "30",
+    "26",
+    "16"
+   ],
+   "en": [
+    "32",
+    "30",
+    "26",
+    "16"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuch 180 N, ta'sir yuzasi 10 m². Bosim necha Pa?",
+   "ru": "Сила равна 180 Н, площадь опоры 10 м². Чему равно давление (Па)?",
+   "en": "A force of 180 N acts on an area of 10 m². What is the pressure (Pa)?"
+  },
+  "o": {
+   "uz": [
+    "18",
+    "54",
+    "19",
+    "28"
+   ],
+   "ru": [
+    "18",
+    "54",
+    "19",
+    "28"
+   ],
+   "en": [
+    "18",
+    "54",
+    "19",
+    "28"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 2 soat 90 km/soat, keyin 2 soat 70 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 2 ч со скоростью 90 км/ч, затем 2 ч со скоростью 70 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 2 h at 90 km/h, then 2 h at 70 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "80",
+    "96",
+    "100",
+    "240"
+   ],
+   "ru": [
+    "80",
+    "96",
+    "100",
+    "240"
+   ],
+   "en": [
+    "80",
+    "96",
+    "100",
+    "240"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "162 km/soat necha m/s ga teng?",
+   "ru": "162 км/ч — это сколько м/с?",
+   "en": "162 km/h equals how many m/s?"
+  },
+  "o": {
+   "uz": [
+    "45",
+    "135",
+    "36",
+    "54"
+   ],
+   "ru": [
+    "45",
+    "135",
+    "36",
+    "54"
+   ],
+   "en": [
+    "45",
+    "135",
+    "36",
+    "54"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "6 km necha metr?",
+   "ru": "6 км — сколько метров?",
+   "en": "How many metres are in 6 km?"
+  },
+  "o": {
+   "uz": [
+    "6000",
+    "7500",
+    "3000",
+    "7200"
+   ],
+   "ru": [
+    "6000",
+    "7500",
+    "3000",
+    "7200"
+   ],
+   "en": [
+    "6000",
+    "7500",
+    "3000",
+    "7200"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuch 280 N, ta'sir yuzasi 20 m². Bosim necha Pa?",
+   "ru": "Сила равна 280 Н, площадь опоры 20 м². Чему равно давление (Па)?",
+   "en": "A force of 280 N acts on an area of 20 m². What is the pressure (Pa)?"
+  },
+  "o": {
+   "uz": [
+    "14",
+    "9",
+    "7",
+    "42"
+   ],
+   "ru": [
+    "14",
+    "9",
+    "7",
+    "42"
+   ],
+   "en": [
+    "14",
+    "9",
+    "7",
+    "42"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 1 soat 20 km/soat, keyin 2 soat 20 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 1 ч со скоростью 20 км/ч, затем 2 ч со скоростью 20 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 1 h at 20 km/h, then 2 h at 20 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "25",
+    "21",
+    "23"
+   ],
+   "ru": [
+    "20",
+    "25",
+    "21",
+    "23"
+   ],
+   "en": [
+    "20",
+    "25",
+    "21",
+    "23"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 1000 kg/m³, hajmi 6 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 1000 кг/м³, объём 6 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 1000 kg/m³ and volume 6 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "6000",
+    "4500",
+    "7500",
+    "18000"
+   ],
+   "ru": [
+    "6000",
+    "4500",
+    "7500",
+    "18000"
+   ],
+   "en": [
+    "6000",
+    "4500",
+    "7500",
+    "18000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 1000 kg/m³, hajmi 8 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 1000 кг/м³, объём 8 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 1000 kg/m³ and volume 8 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "8000",
+    "8800",
+    "7200",
+    "12000"
+   ],
+   "ru": [
+    "8000",
+    "8800",
+    "7200",
+    "12000"
+   ],
+   "en": [
+    "8000",
+    "8800",
+    "7200",
+    "12000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 8900 kg/m³, hajmi 3 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 8900 кг/м³, объём 3 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 8900 kg/m³ and volume 3 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "26700",
+    "33375",
+    "29370",
+    "20025"
+   ],
+   "ru": [
+    "26700",
+    "33375",
+    "29370",
+    "20025"
+   ],
+   "en": [
+    "26700",
+    "33375",
+    "29370",
+    "20025"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 4 soat 60 km/soat, keyin 3 soat 60 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 4 ч со скоростью 60 км/ч, затем 3 ч со скоростью 60 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 4 h at 60 km/h, then 3 h at 60 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "120",
+    "30",
+    "63"
+   ],
+   "ru": [
+    "60",
+    "120",
+    "30",
+    "63"
+   ],
+   "en": [
+    "60",
+    "120",
+    "30",
+    "63"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 46 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 46 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 46 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "460",
+    "437",
+    "414",
+    "506"
+   ],
+   "ru": [
+    "460",
+    "437",
+    "414",
+    "506"
+   ],
+   "en": [
+    "460",
+    "437",
+    "414",
+    "506"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "180 km/soat necha m/s ga teng?",
+   "ru": "180 км/ч — это сколько м/с?",
+   "en": "180 km/h equals how many m/s?"
+  },
+  "o": {
+   "uz": [
+    "50",
+    "75",
+    "40",
+    "62"
+   ],
+   "ru": [
+    "50",
+    "75",
+    "40",
+    "62"
+   ],
+   "en": [
+    "50",
+    "75",
+    "40",
+    "62"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 1 soat 80 km/soat, keyin 4 soat 30 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 1 ч со скоростью 80 км/ч, затем 4 ч со скоростью 30 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 1 h at 80 km/h, then 4 h at 30 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "42",
+    "44",
+    "38"
+   ],
+   "ru": [
+    "40",
+    "42",
+    "44",
+    "38"
+   ],
+   "en": [
+    "40",
+    "42",
+    "44",
+    "38"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 19 m/s tezlik bilan 3 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 19 м/с в течение 3 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 19 m/s for 3 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "57",
+    "46",
+    "29",
+    "114"
+   ],
+   "ru": [
+    "57",
+    "46",
+    "29",
+    "114"
+   ],
+   "en": [
+    "57",
+    "46",
+    "29",
+    "114"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 63 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 63 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 63 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "630",
+    "504",
+    "1260",
+    "756"
+   ],
+   "ru": [
+    "630",
+    "504",
+    "1260",
+    "756"
+   ],
+   "en": [
+    "630",
+    "504",
+    "1260",
+    "756"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuch 52 N, ta'sir yuzasi 2 m². Bosim necha Pa?",
+   "ru": "Сила равна 52 Н, площадь опоры 2 м². Чему равно давление (Па)?",
+   "en": "A force of 52 N acts on an area of 2 m². What is the pressure (Pa)?"
+  },
+  "o": {
+   "uz": [
+    "26",
+    "13",
+    "25",
+    "31"
+   ],
+   "ru": [
+    "26",
+    "13",
+    "25",
+    "31"
+   ],
+   "en": [
+    "26",
+    "13",
+    "25",
+    "31"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "36 km/soat necha m/s ga teng?",
+   "ru": "36 км/ч — это сколько м/с?",
+   "en": "36 km/h equals how many m/s?"
+  },
+  "o": {
+   "uz": [
+    "10",
+    "9",
+    "17",
+    "5"
+   ],
+   "ru": [
+    "10",
+    "9",
+    "17",
+    "5"
+   ],
+   "en": [
+    "10",
+    "9",
+    "17",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 4 soat 60 km/soat, keyin 4 soat 20 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 4 ч со скоростью 60 км/ч, затем 4 ч со скоростью 20 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 4 h at 60 km/h, then 4 h at 20 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "30",
+    "36",
+    "42"
+   ],
+   "ru": [
+    "40",
+    "30",
+    "36",
+    "42"
+   ],
+   "en": [
+    "40",
+    "30",
+    "36",
+    "42"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 8900 kg/m³, hajmi 5 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 8900 кг/м³, объём 5 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 8900 kg/m³ and volume 5 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "44500",
+    "22250",
+    "89000",
+    "66750"
+   ],
+   "ru": [
+    "44500",
+    "22250",
+    "89000",
+    "66750"
+   ],
+   "en": [
+    "44500",
+    "22250",
+    "89000",
+    "66750"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 5 soat 50 km/soat, keyin 5 soat 70 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 5 ч со скоростью 50 км/ч, затем 5 ч со скоростью 70 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 5 h at 50 km/h, then 5 h at 70 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "180",
+    "57",
+    "30"
+   ],
+   "ru": [
+    "60",
+    "180",
+    "57",
+    "30"
+   ],
+   "en": [
+    "60",
+    "180",
+    "57",
+    "30"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuch 125 N, ta'sir yuzasi 5 m². Bosim necha Pa?",
+   "ru": "Сила равна 125 Н, площадь опоры 5 м². Чему равно давление (Па)?",
+   "en": "A force of 125 N acts on an area of 5 m². What is the pressure (Pa)?"
+  },
+  "o": {
+   "uz": [
+    "25",
+    "20",
+    "38",
+    "26"
+   ],
+   "ru": [
+    "25",
+    "20",
+    "38",
+    "26"
+   ],
+   "en": [
+    "25",
+    "20",
+    "38",
+    "26"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 22 m/s tezlik bilan 8 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 22 м/с в течение 8 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 22 m/s for 8 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "176",
+    "158",
+    "132",
+    "528"
+   ],
+   "ru": [
+    "176",
+    "158",
+    "132",
+    "528"
+   ],
+   "en": [
+    "176",
+    "158",
+    "132",
+    "528"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 800 kg/m³, hajmi 3 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 800 кг/м³, объём 3 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 800 kg/m³ and volume 3 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "2400",
+    "2880",
+    "1920",
+    "2640"
+   ],
+   "ru": [
+    "2400",
+    "2880",
+    "1920",
+    "2640"
+   ],
+   "en": [
+    "2400",
+    "2880",
+    "1920",
+    "2640"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 4 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 4 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 4 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "38",
+    "80",
+    "50"
+   ],
+   "ru": [
+    "40",
+    "38",
+    "80",
+    "50"
+   ],
+   "en": [
+    "40",
+    "38",
+    "80",
+    "50"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuch 575 N, ta'sir yuzasi 25 m². Bosim necha Pa?",
+   "ru": "Сила равна 575 Н, площадь опоры 25 м². Чему равно давление (Па)?",
+   "en": "A force of 575 N acts on an area of 25 m². What is the pressure (Pa)?"
+  },
+  "o": {
+   "uz": [
+    "23",
+    "20",
+    "69",
+    "13"
+   ],
+   "ru": [
+    "23",
+    "20",
+    "69",
+    "13"
+   ],
+   "en": [
+    "23",
+    "20",
+    "69",
+    "13"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuch 500 N, ta'sir yuzasi 25 m². Bosim necha Pa?",
+   "ru": "Сила равна 500 Н, площадь опоры 25 м². Чему равно давление (Па)?",
+   "en": "A force of 500 N acts on an area of 25 m². What is the pressure (Pa)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "10",
+    "19",
+    "22"
+   ],
+   "ru": [
+    "20",
+    "10",
+    "19",
+    "22"
+   ],
+   "en": [
+    "20",
+    "10",
+    "19",
+    "22"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 77 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 77 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 77 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "770",
+    "578",
+    "1155",
+    "1540"
+   ],
+   "ru": [
+    "770",
+    "578",
+    "1155",
+    "1540"
+   ],
+   "en": [
+    "770",
+    "578",
+    "1155",
+    "1540"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 2 soat 80 km/soat, keyin 3 soat 20 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 2 ч со скоростью 80 км/ч, затем 3 ч со скоростью 20 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 2 h at 80 km/h, then 3 h at 20 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "44",
+    "22",
+    "33",
+    "46"
+   ],
+   "ru": [
+    "44",
+    "22",
+    "33",
+    "46"
+   ],
+   "en": [
+    "44",
+    "22",
+    "33",
+    "46"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 5 soat 60 km/soat, keyin 5 soat 50 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 5 ч со скоростью 60 км/ч, затем 5 ч со скоростью 50 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 5 h at 60 km/h, then 5 h at 50 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "55",
+    "58",
+    "41",
+    "49"
+   ],
+   "ru": [
+    "55",
+    "58",
+    "41",
+    "49"
+   ],
+   "en": [
+    "55",
+    "58",
+    "41",
+    "49"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 1000 kg/m³, hajmi 3 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 1000 кг/м³, объём 3 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 1000 kg/m³ and volume 3 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "3000",
+    "6000",
+    "3300",
+    "4500"
+   ],
+   "ru": [
+    "3000",
+    "6000",
+    "3300",
+    "4500"
+   ],
+   "en": [
+    "3000",
+    "6000",
+    "3300",
+    "4500"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 65 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 65 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 65 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "650",
+    "325",
+    "488",
+    "520"
+   ],
+   "ru": [
+    "650",
+    "325",
+    "488",
+    "520"
+   ],
+   "en": [
+    "650",
+    "325",
+    "488",
+    "520"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 8900 kg/m³, hajmi 6 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 8900 кг/м³, объём 6 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 8900 kg/m³ and volume 6 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "53400",
+    "58740",
+    "66750",
+    "26700"
+   ],
+   "ru": [
+    "53400",
+    "58740",
+    "66750",
+    "26700"
+   ],
+   "en": [
+    "53400",
+    "58740",
+    "66750",
+    "26700"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 36 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 36 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 36 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "360",
+    "324",
+    "342",
+    "1080"
+   ],
+   "ru": [
+    "360",
+    "324",
+    "342",
+    "1080"
+   ],
+   "en": [
+    "360",
+    "324",
+    "342",
+    "1080"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 18 m/s tezlik bilan 11 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 18 м/с в течение 11 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 18 m/s for 11 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "198",
+    "148",
+    "297",
+    "248"
+   ],
+   "ru": [
+    "198",
+    "148",
+    "297",
+    "248"
+   ],
+   "en": [
+    "198",
+    "148",
+    "297",
+    "248"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "27 daqiqa necha soniya?",
+   "ru": "27 мин — сколько секунд?",
+   "en": "How many seconds are in 27 min?"
+  },
+  "o": {
+   "uz": [
+    "1620",
+    "2025",
+    "1701",
+    "4860"
+   ],
+   "ru": [
+    "1620",
+    "2025",
+    "1701",
+    "4860"
+   ],
+   "en": [
+    "1620",
+    "2025",
+    "1701",
+    "4860"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 26 m/s tezlik bilan 18 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 26 м/с в течение 18 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 26 m/s for 18 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "468",
+    "351",
+    "491",
+    "234"
+   ],
+   "ru": [
+    "468",
+    "351",
+    "491",
+    "234"
+   ],
+   "en": [
+    "468",
+    "351",
+    "491",
+    "234"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuch 116 N, ta'sir yuzasi 4 m². Bosim necha Pa?",
+   "ru": "Сила равна 116 Н, площадь опоры 4 м². Чему равно давление (Па)?",
+   "en": "A force of 116 N acts on an area of 4 m². What is the pressure (Pa)?"
+  },
+  "o": {
+   "uz": [
+    "29",
+    "36",
+    "43",
+    "28"
+   ],
+   "ru": [
+    "29",
+    "36",
+    "43",
+    "28"
+   ],
+   "en": [
+    "29",
+    "36",
+    "43",
+    "28"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 4 soat 80 km/soat, keyin 4 soat 70 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 4 ч со скоростью 80 км/ч, затем 4 ч со скоростью 70 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 4 h at 80 km/h, then 4 h at 70 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "75",
+    "79",
+    "56",
+    "83"
+   ],
+   "ru": [
+    "75",
+    "79",
+    "56",
+    "83"
+   ],
+   "en": [
+    "75",
+    "79",
+    "56",
+    "83"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 800 kg/m³, hajmi 7 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 800 кг/м³, объём 7 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 800 kg/m³ and volume 7 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "5600",
+    "4200",
+    "5880",
+    "5320"
+   ],
+   "ru": [
+    "5600",
+    "4200",
+    "5880",
+    "5320"
+   ],
+   "en": [
+    "5600",
+    "4200",
+    "5880",
+    "5320"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 19 m/s tezlik bilan 8 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 19 м/с в течение 8 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 19 m/s for 8 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "152",
+    "122",
+    "160",
+    "182"
+   ],
+   "ru": [
+    "152",
+    "122",
+    "160",
+    "182"
+   ],
+   "en": [
+    "152",
+    "122",
+    "160",
+    "182"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 8900 kg/m³, hajmi 2 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 8900 кг/м³, объём 2 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 8900 kg/m³ and volume 2 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "17800",
+    "16910",
+    "13350",
+    "35600"
+   ],
+   "ru": [
+    "17800",
+    "16910",
+    "13350",
+    "35600"
+   ],
+   "en": [
+    "17800",
+    "16910",
+    "13350",
+    "35600"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 1 soat 90 km/soat, keyin 1 soat 80 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 1 ч со скоростью 90 км/ч, затем 1 ч со скоростью 80 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 1 h at 90 km/h, then 1 h at 80 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "85",
+    "102",
+    "255",
+    "68"
+   ],
+   "ru": [
+    "85",
+    "102",
+    "255",
+    "68"
+   ],
+   "en": [
+    "85",
+    "102",
+    "255",
+    "68"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 87 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 87 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 87 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "870",
+    "652",
+    "1740",
+    "914"
+   ],
+   "ru": [
+    "870",
+    "652",
+    "1740",
+    "914"
+   ],
+   "en": [
+    "870",
+    "652",
+    "1740",
+    "914"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "108 km/soat necha m/s ga teng?",
+   "ru": "108 км/ч — это сколько м/с?",
+   "en": "108 km/h equals how many m/s?"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "90",
+    "60",
+    "15"
+   ],
+   "ru": [
+    "30",
+    "90",
+    "60",
+    "15"
+   ],
+   "en": [
+    "30",
+    "90",
+    "60",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "144 km/soat necha m/s ga teng?",
+   "ru": "144 км/ч — это сколько м/с?",
+   "en": "144 km/h equals how many m/s?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "20",
+    "60",
+    "48"
+   ],
+   "ru": [
+    "40",
+    "20",
+    "60",
+    "48"
+   ],
+   "en": [
+    "40",
+    "20",
+    "60",
+    "48"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "13 m necha santimetr?",
+   "ru": "13 м — сколько сантиметров?",
+   "en": "How many centimetres are in 13 m?"
+  },
+  "o": {
+   "uz": [
+    "1300",
+    "3900",
+    "1950",
+    "1235"
+   ],
+   "ru": [
+    "1300",
+    "3900",
+    "1950",
+    "1235"
+   ],
+   "en": [
+    "1300",
+    "3900",
+    "1950",
+    "1235"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "33 m necha santimetr?",
+   "ru": "33 м — сколько сантиметров?",
+   "en": "How many centimetres are in 33 m?"
+  },
+  "o": {
+   "uz": [
+    "3300",
+    "2640",
+    "4950",
+    "1650"
+   ],
+   "ru": [
+    "3300",
+    "2640",
+    "4950",
+    "1650"
+   ],
+   "en": [
+    "3300",
+    "2640",
+    "4950",
+    "1650"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 2700 kg/m³, hajmi 7 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 2700 кг/м³, объём 7 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 2700 kg/m³ and volume 7 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "18900",
+    "22680",
+    "19845",
+    "14175"
+   ],
+   "ru": [
+    "18900",
+    "22680",
+    "19845",
+    "14175"
+   ],
+   "en": [
+    "18900",
+    "22680",
+    "19845",
+    "14175"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 27 m/s tezlik bilan 3 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 27 м/с в течение 3 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 27 m/s for 3 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "81",
+    "162",
+    "89",
+    "243"
+   ],
+   "ru": [
+    "81",
+    "162",
+    "89",
+    "243"
+   ],
+   "en": [
+    "81",
+    "162",
+    "89",
+    "243"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "30 daqiqa necha soniya?",
+   "ru": "30 мин — сколько секунд?",
+   "en": "How many seconds are in 30 min?"
+  },
+  "o": {
+   "uz": [
+    "1800",
+    "1350",
+    "2250",
+    "2700"
+   ],
+   "ru": [
+    "1800",
+    "1350",
+    "2250",
+    "2700"
+   ],
+   "en": [
+    "1800",
+    "1350",
+    "2250",
+    "2700"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "10 tonna necha kilogramm?",
+   "ru": "10 т — сколько килограммов?",
+   "en": "How many kilograms are in 10 tonnes?"
+  },
+  "o": {
+   "uz": [
+    "10000",
+    "20000",
+    "30000",
+    "12500"
+   ],
+   "ru": [
+    "10000",
+    "20000",
+    "30000",
+    "12500"
+   ],
+   "en": [
+    "10000",
+    "20000",
+    "30000",
+    "12500"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 1 soat 80 km/soat, keyin 4 soat 50 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 1 ч со скоростью 80 км/ч, затем 4 ч со скоростью 50 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 1 h at 80 km/h, then 4 h at 50 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "56",
+    "28",
+    "53",
+    "42"
+   ],
+   "ru": [
+    "56",
+    "28",
+    "53",
+    "42"
+   ],
+   "en": [
+    "56",
+    "28",
+    "53",
+    "42"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 66 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 66 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 66 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "660",
+    "495",
+    "792",
+    "330"
+   ],
+   "ru": [
+    "660",
+    "495",
+    "792",
+    "330"
+   ],
+   "en": [
+    "660",
+    "495",
+    "792",
+    "330"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 26 m/s tezlik bilan 7 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 26 м/с в течение 7 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 26 m/s for 7 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "182",
+    "173",
+    "91",
+    "228"
+   ],
+   "ru": [
+    "182",
+    "173",
+    "91",
+    "228"
+   ],
+   "en": [
+    "182",
+    "173",
+    "91",
+    "228"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 18 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 18 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 18 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "180",
+    "90",
+    "135",
+    "225"
+   ],
+   "ru": [
+    "180",
+    "90",
+    "135",
+    "225"
+   ],
+   "en": [
+    "180",
+    "90",
+    "135",
+    "225"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 2 soat 60 km/soat, keyin 3 soat 70 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 2 ч со скоростью 60 км/ч, затем 3 ч со скоростью 70 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 2 h at 60 km/h, then 3 h at 70 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "66",
+    "99",
+    "82",
+    "69"
+   ],
+   "ru": [
+    "66",
+    "99",
+    "82",
+    "69"
+   ],
+   "en": [
+    "66",
+    "99",
+    "82",
+    "69"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 5 soat 60 km/soat, keyin 5 soat 20 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 5 ч со скоростью 60 км/ч, затем 5 ч со скоростью 20 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 5 h at 60 km/h, then 5 h at 20 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "20",
+    "38",
+    "44"
+   ],
+   "ru": [
+    "40",
+    "20",
+    "38",
+    "44"
+   ],
+   "en": [
+    "40",
+    "20",
+    "38",
+    "44"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 daqiqa necha soniya?",
+   "ru": "2 мин — сколько секунд?",
+   "en": "How many seconds are in 2 min?"
+  },
+  "o": {
+   "uz": [
+    "120",
+    "240",
+    "96",
+    "180"
+   ],
+   "ru": [
+    "120",
+    "240",
+    "96",
+    "180"
+   ],
+   "en": [
+    "120",
+    "240",
+    "96",
+    "180"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "126 km/soat necha m/s ga teng?",
+   "ru": "126 км/ч — это сколько м/с?",
+   "en": "126 km/h equals how many m/s?"
+  },
+  "o": {
+   "uz": [
+    "35",
+    "105",
+    "33",
+    "53"
+   ],
+   "ru": [
+    "35",
+    "105",
+    "33",
+    "53"
+   ],
+   "en": [
+    "35",
+    "105",
+    "33",
+    "53"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 2 soat 80 km/soat, keyin 4 soat 50 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 2 ч со скоростью 80 км/ч, затем 4 ч со скоростью 50 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 2 h at 80 km/h, then 4 h at 50 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "45",
+    "180",
+    "75"
+   ],
+   "ru": [
+    "60",
+    "45",
+    "180",
+    "75"
+   ],
+   "en": [
+    "60",
+    "45",
+    "180",
+    "75"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 2 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 2 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 2 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "17",
+    "15",
+    "18"
+   ],
+   "ru": [
+    "20",
+    "17",
+    "15",
+    "18"
+   ],
+   "en": [
+    "20",
+    "17",
+    "15",
+    "18"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "20 km necha metr?",
+   "ru": "20 км — сколько метров?",
+   "en": "How many metres are in 20 km?"
+  },
+  "o": {
+   "uz": [
+    "20000",
+    "60000",
+    "10000",
+    "16000"
+   ],
+   "ru": [
+    "20000",
+    "60000",
+    "10000",
+    "16000"
+   ],
+   "en": [
+    "20000",
+    "60000",
+    "10000",
+    "16000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 2700 kg/m³, hajmi 8 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 2700 кг/м³, объём 8 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 2700 kg/m³ and volume 8 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "21600",
+    "17280",
+    "19440",
+    "32400"
+   ],
+   "ru": [
+    "21600",
+    "17280",
+    "19440",
+    "32400"
+   ],
+   "en": [
+    "21600",
+    "17280",
+    "19440",
+    "32400"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 26 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 26 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 26 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "260",
+    "390",
+    "130",
+    "312"
+   ],
+   "ru": [
+    "260",
+    "390",
+    "130",
+    "312"
+   ],
+   "en": [
+    "260",
+    "390",
+    "130",
+    "312"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 54 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 54 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 54 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "540",
+    "648",
+    "270",
+    "1620"
+   ],
+   "ru": [
+    "540",
+    "648",
+    "270",
+    "1620"
+   ],
+   "en": [
+    "540",
+    "648",
+    "270",
+    "1620"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 14 m/s tezlik bilan 19 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 14 м/с в течение 19 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 14 m/s for 19 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "266",
+    "279",
+    "319",
+    "798"
+   ],
+   "ru": [
+    "266",
+    "279",
+    "319",
+    "798"
+   ],
+   "en": [
+    "266",
+    "279",
+    "319",
+    "798"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 3 soat 40 km/soat, keyin 3 soat 40 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 3 ч со скоростью 40 км/ч, затем 3 ч со скоростью 40 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 3 h at 40 km/h, then 3 h at 40 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "40",
+    "32",
+    "38",
+    "44"
+   ],
+   "ru": [
+    "40",
+    "32",
+    "38",
+    "44"
+   ],
+   "en": [
+    "40",
+    "32",
+    "38",
+    "44"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 15 m/s tezlik bilan 15 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 15 м/с в течение 15 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 15 m/s for 15 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "225",
+    "169",
+    "214",
+    "247"
+   ],
+   "ru": [
+    "225",
+    "169",
+    "214",
+    "247"
+   ],
+   "en": [
+    "225",
+    "169",
+    "214",
+    "247"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 61 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 61 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 61 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "610",
+    "915",
+    "580",
+    "458"
+   ],
+   "ru": [
+    "610",
+    "915",
+    "580",
+    "458"
+   ],
+   "en": [
+    "610",
+    "915",
+    "580",
+    "458"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 1 soat 60 km/soat, keyin 1 soat 80 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 1 ч со скоростью 60 км/ч, затем 1 ч со скоростью 80 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 1 h at 60 km/h, then 1 h at 80 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "70",
+    "105",
+    "35",
+    "140"
+   ],
+   "ru": [
+    "70",
+    "105",
+    "35",
+    "140"
+   ],
+   "en": [
+    "70",
+    "105",
+    "35",
+    "140"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuch 58 N, ta'sir yuzasi 2 m². Bosim necha Pa?",
+   "ru": "Сила равна 58 Н, площадь опоры 2 м². Чему равно давление (Па)?",
+   "en": "A force of 58 N acts on an area of 2 m². What is the pressure (Pa)?"
+  },
+  "o": {
+   "uz": [
+    "29",
+    "58",
+    "36",
+    "26"
+   ],
+   "ru": [
+    "29",
+    "58",
+    "36",
+    "26"
+   ],
+   "en": [
+    "29",
+    "58",
+    "36",
+    "26"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 5 m/s tezlik bilan 4 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 5 м/с в течение 4 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 5 m/s for 4 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "27",
+    "10",
+    "23"
+   ],
+   "ru": [
+    "20",
+    "27",
+    "10",
+    "23"
+   ],
+   "en": [
+    "20",
+    "27",
+    "10",
+    "23"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 26 m/s tezlik bilan 11 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 26 м/с в течение 11 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 26 m/s for 11 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "286",
+    "572",
+    "300",
+    "143"
+   ],
+   "ru": [
+    "286",
+    "572",
+    "300",
+    "143"
+   ],
+   "en": [
+    "286",
+    "572",
+    "300",
+    "143"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "216 km/soat necha m/s ga teng?",
+   "ru": "216 км/ч — это сколько м/с?",
+   "en": "216 km/h equals how many m/s?"
+  },
+  "o": {
+   "uz": [
+    "60",
+    "48",
+    "54",
+    "180"
+   ],
+   "ru": [
+    "60",
+    "48",
+    "54",
+    "180"
+   ],
+   "en": [
+    "60",
+    "48",
+    "54",
+    "180"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuch 20 N, ta'sir yuzasi 10 m². Bosim necha Pa?",
+   "ru": "Сила равна 20 Н, площадь опоры 10 м². Чему равно давление (Па)?",
+   "en": "A force of 20 N acts on an area of 10 m². What is the pressure (Pa)?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "1",
+    "15",
+    "6"
+   ],
+   "ru": [
+    "2",
+    "1",
+    "15",
+    "6"
+   ],
+   "en": [
+    "2",
+    "1",
+    "15",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 5 soat 20 km/soat, keyin 1 soat 20 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 5 ч со скоростью 20 км/ч, затем 1 ч со скоростью 20 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 5 h at 20 km/h, then 1 h at 20 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "20",
+    "15",
+    "21",
+    "33"
+   ],
+   "ru": [
+    "20",
+    "15",
+    "21",
+    "33"
+   ],
+   "en": [
+    "20",
+    "15",
+    "21",
+    "33"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "8 soat necha daqiqa?",
+   "ru": "8 ч — сколько минут?",
+   "en": "How many minutes are in 8 hours?"
+  },
+  "o": {
+   "uz": [
+    "480",
+    "384",
+    "504",
+    "720"
+   ],
+   "ru": [
+    "480",
+    "384",
+    "504",
+    "720"
+   ],
+   "en": [
+    "480",
+    "384",
+    "504",
+    "720"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 5 m/s tezlik bilan 3 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 5 м/с в течение 3 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 5 m/s for 3 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "15",
+    "17",
+    "22",
+    "45"
+   ],
+   "ru": [
+    "15",
+    "17",
+    "22",
+    "45"
+   ],
+   "en": [
+    "15",
+    "17",
+    "22",
+    "45"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 14 m/s tezlik bilan 16 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 14 м/с в течение 16 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 14 m/s for 16 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "224",
+    "179",
+    "112",
+    "448"
+   ],
+   "ru": [
+    "224",
+    "179",
+    "112",
+    "448"
+   ],
+   "en": [
+    "224",
+    "179",
+    "112",
+    "448"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 72 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 72 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 72 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "720",
+    "756",
+    "1080",
+    "2160"
+   ],
+   "ru": [
+    "720",
+    "756",
+    "1080",
+    "2160"
+   ],
+   "en": [
+    "720",
+    "756",
+    "1080",
+    "2160"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 14 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 14 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 14 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "140",
+    "147",
+    "105",
+    "154"
+   ],
+   "ru": [
+    "140",
+    "147",
+    "105",
+    "154"
+   ],
+   "en": [
+    "140",
+    "147",
+    "105",
+    "154"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 12 m/s tezlik bilan 14 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 12 м/с в течение 14 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 12 m/s for 14 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "168",
+    "84",
+    "185",
+    "202"
+   ],
+   "ru": [
+    "168",
+    "84",
+    "185",
+    "202"
+   ],
+   "en": [
+    "168",
+    "84",
+    "185",
+    "202"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 7800 kg/m³, hajmi 6 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 7800 кг/м³, объём 6 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 7800 kg/m³ and volume 6 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "46800",
+    "35100",
+    "42120",
+    "93600"
+   ],
+   "ru": [
+    "46800",
+    "35100",
+    "42120",
+    "93600"
+   ],
+   "en": [
+    "46800",
+    "35100",
+    "42120",
+    "93600"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 11 m/s tezlik bilan 15 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 11 м/с в течение 15 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 11 m/s for 15 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "165",
+    "124",
+    "198",
+    "149"
+   ],
+   "ru": [
+    "165",
+    "124",
+    "198",
+    "149"
+   ],
+   "en": [
+    "165",
+    "124",
+    "198",
+    "149"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Moddaning zichligi 1000 kg/m³, hajmi 4 m³. Uning massasi necha kg?",
+   "ru": "Плотность вещества 1000 кг/м³, объём 4 м³. Чему равна масса (кг)?",
+   "en": "A substance has density 1000 kg/m³ and volume 4 m³. What is its mass (kg)?"
+  },
+  "o": {
+   "uz": [
+    "4000",
+    "2000",
+    "3200",
+    "5000"
+   ],
+   "ru": [
+    "4000",
+    "2000",
+    "3200",
+    "5000"
+   ],
+   "en": [
+    "4000",
+    "2000",
+    "3200",
+    "5000"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 3 m/s tezlik bilan 13 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 3 м/с в течение 13 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 3 m/s for 13 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "39",
+    "47",
+    "117",
+    "37"
+   ],
+   "ru": [
+    "39",
+    "47",
+    "117",
+    "37"
+   ],
+   "en": [
+    "39",
+    "47",
+    "117",
+    "37"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Massasi 3 kg bo'lgan jismning og'irlik kuchi necha N? (g = 10 m/s²)",
+   "ru": "Чему равна сила тяжести тела массой 3 кг (Н)? (g = 10 м/с²)",
+   "en": "What is the weight of a body of mass 3 kg (N)? (g = 10 m/s²)"
+  },
+  "o": {
+   "uz": [
+    "30",
+    "60",
+    "35",
+    "29"
+   ],
+   "ru": [
+    "30",
+    "60",
+    "35",
+    "29"
+   ],
+   "en": [
+    "30",
+    "60",
+    "35",
+    "29"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Avtomobil 2 soat 60 km/soat, keyin 2 soat 90 km/soat tezlik bilan yurdi. O'rtacha tezligi necha km/soat?",
+   "ru": "Автомобиль ехал 2 ч со скоростью 60 км/ч, затем 2 ч со скоростью 90 км/ч. Какова средняя скорость (км/ч)?",
+   "en": "A car drove 2 h at 60 km/h, then 2 h at 90 km/h. What is the average speed (km/h)?"
+  },
+  "o": {
+   "uz": [
+    "75",
+    "79",
+    "83",
+    "60"
+   ],
+   "ru": [
+    "75",
+    "79",
+    "83",
+    "60"
+   ],
+   "en": [
+    "75",
+    "79",
+    "83",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jism 29 m/s tezlik bilan 4 s davomida tekis harakatlandi. U necha metr yo'l bosdi?",
+   "ru": "Тело двигалось равномерно со скоростью 29 м/с в течение 4 с. Сколько метров оно прошло?",
+   "en": "A body moved uniformly at 29 m/s for 4 s. How many metres did it travel?"
+  },
+  "o": {
+   "uz": [
+    "116",
+    "87",
+    "110",
+    "232"
+   ],
+   "ru": [
+    "116",
+    "87",
+    "110",
+    "232"
+   ],
+   "en": [
+    "116",
+    "87",
+    "110",
+    "232"
+   ]
+  },
+  "a": 0
+ }
+]
