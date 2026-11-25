@@ -27,7 +27,7 @@ log = logging.getLogger("bot")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 CHANNEL = os.environ.get("CHANNEL", "@DUELUM")
-ADMIN_USERNAME = os.environ.get("ADMIN_USERNAME", "barhayot_madaminov")
+ADMIN_USERNAME = (os.environ.get("ADMIN_USERNAME") or "barhayot_madaminov").strip().lstrip("@").replace("https://t.me/", "").strip("/")
 DB_PATH = os.environ.get("DB_PATH", "bot.db")
 PORT = int(os.environ.get("PORT", "10000"))
 TEST_SIZE = 20
