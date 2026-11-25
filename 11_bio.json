@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Hujayrada «Mitoxondriya» qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет в клетке «Митохондрия»?",
+   "en": "What does the «Mitochondrion» do in the cell?"
+  },
+  "o": {
+   "uz": [
+    "Hujayra uchun energiya (ATF) hosil qiladi",
+    "O'simlik hujayrasiga shakl beradi va mustahkamlaydi",
+    "Irsiy axborot (DNK) saqlanadi",
+    "Oqsil sintezi o'tadi"
+   ],
+   "ru": [
+    "Образует энергию (АТФ) для клетки",
+    "Придаёт форму и прочность растительной клетке",
+    "Хранит наследственную информацию (ДНК)",
+    "Здесь синтезируются белки"
+   ],
+   "en": [
+    "Produces energy (ATP) for the cell",
+    "Gives shape and strength to a plant cell",
+    "Stores hereditary information (DNA)",
+    "Protein synthesis occurs here"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hujayrada «Yadro» qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет в клетке «Ядро клетки»?",
+   "en": "What does the «Nucleus» do in the cell?"
+  },
+  "o": {
+   "uz": [
+    "Irsiy axborot (DNK) saqlanadi",
+    "O'simlik hujayrasiga shakl beradi va mustahkamlaydi",
+    "Oqsil sintezi o'tadi",
+    "Hujayra uchun energiya (ATF) hosil qiladi"
+   ],
+   "ru": [
+    "Хранит наследственную информацию (ДНК)",
+    "Придаёт форму и прочность растительной клетке",
+    "Здесь синтезируются белки",
+    "Образует энергию (АТФ) для клетки"
+   ],
+   "en": [
+    "Stores hereditary information (DNA)",
+    "Gives shape and strength to a plant cell",
+    "Protein synthesis occurs here",
+    "Produces energy (ATP) for the cell"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ingichka ichak qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Тонкая кишка?",
+   "en": "What is the function of Small intestine?"
+  },
+  "o": {
+   "uz": [
+    "Oziq moddalar qonga so'riladi",
+    "Insulin va hazm shirasini ishlab chiqaradi",
+    "Qonni tomirlar bo'ylab haydaydi",
+    "Tayanch vazifasini bajaradi va ichki a'zolarni himoya qiladi"
+   ],
+   "ru": [
+    "Питательные вещества всасываются в кровь",
+    "Вырабатывает инсулин и пищеварительный сок",
+    "Гонит кровь по сосудам",
+    "Опора тела, защита внутренних органов"
+   ],
+   "en": [
+    "Nutrients are absorbed into the blood",
+    "Produces insulin and digestive juice",
+    "Pumps blood through the vessels",
+    "Support the body and protect inner organs"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: Hujayrani birinchi bo'lib kuzatgan (1665)?",
+   "ru": "Кому принадлежит открытие: Первым увидел клетку (1665)?",
+   "en": "Who is responsible for: First observed cells (1665)?"
+  },
+  "o": {
+   "uz": [
+    "Robert Guk",
+    "Gregor Mendel",
+    "Lui Paster",
+    "Robert Kox"
+   ],
+   "ru": [
+    "Роберт Гук",
+    "Грегор Мендель",
+    "Луи Пастер",
+    "Роберт Кох"
+   ],
+   "en": [
+    "Robert Hooke",
+    "Gregor Mendel",
+    "Louis Pasteur",
+    "Robert Koch"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNK matritsa zanjiri CTCATGG bo'lsa, transkripsiya natijasida hosil bo'ladigan i-RNK qanday bo'ladi?",
+   "ru": "Матричная цепь ДНК: CTCATGG. Какая иРНК образуется при транскрипции?",
+   "en": "The DNA template strand is CTCATGG. What mRNA is produced by transcription?"
+  },
+  "o": {
+   "uz": [
+    "GAGUACC",
+    "GAGUGCC",
+    "GAGUATC",
+    "GAGUACT"
+   ],
+   "ru": [
+    "GAGUACC",
+    "GAGUGCC",
+    "GAGUATC",
+    "GAGUACT"
+   ],
+   "en": [
+    "GAGUACC",
+    "GAGUGCC",
+    "GAGUATC",
+    "GAGUACT"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yurak qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Сердце?",
+   "en": "What is the function of Heart?"
+  },
+  "o": {
+   "uz": [
+    "Qonni tomirlar bo'ylab haydaydi",
+    "Tayanch vazifasini bajaradi va ichki a'zolarni himoya qiladi",
+    "Insulin va hazm shirasini ishlab chiqaradi",
+    "Ovqatni kimyoviy hazm qiladi (oshqozon shirasi)"
+   ],
+   "ru": [
+    "Гонит кровь по сосудам",
+    "Опора тела, защита внутренних органов",
+    "Вырабатывает инсулин и пищеварительный сок",
+    "Переваривает пищу желудочным соком"
+   ],
+   "en": [
+    "Pumps blood through the vessels",
+    "Support the body and protect inner organs",
+    "Produces insulin and digestive juice",
+    "Digests food with gastric juice"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ekologik piramida qoidasiga (10% qoidasi) ko'ra, produsentlarda 5000 kJ energiya bo'lsa, yirtqichlar (ikkinchi tartib konsumentlar)ga taxminan qancha energiya o'tadi?",
+   "ru": "По правилу экологической пирамиды (правило 10%): если у продуцентов 5000 кДж энергии, сколько примерно перейдёт к уровню хищников (консументов 2-го порядка)?",
+   "en": "By the 10% rule of the ecological pyramid, if producers hold 5000 kJ of energy, about how much reaches the predators (secondary consumers)?"
+  },
+  "o": {
+   "uz": [
+    "50 kJ",
+    "500 kJ",
+    "5 kJ",
+    "100 kJ"
+   ],
+   "ru": [
+    "50 kJ",
+    "500 kJ",
+    "5 kJ",
+    "100 kJ"
+   ],
+   "en": [
+    "50 kJ",
+    "500 kJ",
+    "5 kJ",
+    "100 kJ"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Uzunligi 42 ta nukleotid bo'lgan i-RNK nechta aminokislotani kodlaydi (har bir kodon — 3 nukleotid)?",
+   "ru": "Сколько аминокислот кодирует иРНК длиной 42 нуклеотидов (кодон — 3 нуклеотида)?",
+   "en": "How many amino acids does an mRNA of 42 nucleotides code for (one codon = 3 nucleotides)?"
+  },
+  "o": {
+   "uz": [
+    "14",
+    "17",
+    "16",
+    "11"
+   ],
+   "ru": [
+    "14",
+    "17",
+    "16",
+    "11"
+   ],
+   "en": [
+    "14",
+    "17",
+    "16",
+    "11"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani hujayraning qaysi qismi bajaradi: Moddalarni to'plab, o'rab hujayradan chiqaradi?",
+   "ru": "Какая часть клетки выполняет функцию: Накапливает и упаковывает вещества для вывода из клетки?",
+   "en": "Which part of the cell does this: Packages substances for release from the cell?"
+  },
+  "o": {
+   "uz": [
+    "Golji kompleksi",
+    "Yadro",
+    "Mitoxondriya",
+    "Ribosoma"
+   ],
+   "ru": [
+    "Комплекс Гольджи",
+    "Ядро клетки",
+    "Митохондрия",
+    "Рибосома"
+   ],
+   "en": [
+    "Golgi complex",
+    "Nucleus",
+    "Mitochondrion",
+    "Ribosome"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Uzunligi 24 ta nukleotid bo'lgan i-RNK nechta aminokislotani kodlaydi (har bir kodon — 3 nukleotid)?",
+   "ru": "Сколько аминокислот кодирует иРНК длиной 24 нуклеотидов (кодон — 3 нуклеотида)?",
+   "en": "How many amino acids does an mRNA of 24 nucleotides code for (one codon = 3 nucleotides)?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "10",
+    "11",
+    "12"
+   ],
+   "ru": [
+    "8",
+    "10",
+    "11",
+    "12"
+   ],
+   "en": [
+    "8",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hujayrada «Hujayra devori» qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет в клетке «Клеточная стенка»?",
+   "en": "What does the «Cell wall» do in the cell?"
+  },
+  "o": {
+   "uz": [
+    "O'simlik hujayrasiga shakl beradi va mustahkamlaydi",
+    "Moddalarni to'plab, o'rab hujayradan chiqaradi",
+    "Hujayra uchun energiya (ATF) hosil qiladi",
+    "Moddalarning hujayraga kirishi va chiqishini boshqaradi"
+   ],
+   "ru": [
+    "Придаёт форму и прочность растительной клетке",
+    "Накапливает и упаковывает вещества для вывода из клетки",
+    "Образует энергию (АТФ) для клетки",
+    "Регулирует вход и выход веществ"
+   ],
+   "en": [
+    "Gives shape and strength to a plant cell",
+    "Packages substances for release from the cell",
+    "Produces energy (ATP) for the cell",
+    "Controls what enters and leaves the cell"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jigar qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Печень?",
+   "en": "What is the function of Liver?"
+  },
+  "o": {
+   "uz": [
+    "O't ishlab chiqaradi va zararli moddalarni zararsizlantiradi",
+    "Oziq moddalar qonga so'riladi",
+    "Insulin va hazm shirasini ishlab chiqaradi",
+    "Suv so'riladi va najas shakllanadi"
+   ],
+   "ru": [
+    "Вырабатывает желчь и обезвреживает яды",
+    "Питательные вещества всасываются в кровь",
+    "Вырабатывает инсулин и пищеварительный сок",
+    "Всасывается вода и формируется кал"
+   ],
+   "en": [
+    "Produces bile and neutralises toxins",
+    "Nutrients are absorbed into the blood",
+    "Produces insulin and digestive juice",
+    "Water is absorbed and waste forms"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hujayrada «Xloroplast» qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет в клетке «Хлоропласт»?",
+   "en": "What does the «Chloroplast» do in the cell?"
+  },
+  "o": {
+   "uz": [
+    "Fotosintez o'tadigan organoid",
+    "O'simlik hujayrasiga shakl beradi va mustahkamlaydi",
+    "Moddalarni to'plab, o'rab hujayradan chiqaradi",
+    "Hujayra uchun energiya (ATF) hosil qiladi"
+   ],
+   "ru": [
+    "Органоид, в котором идёт фотосинтез",
+    "Придаёт форму и прочность растительной клетке",
+    "Накапливает и упаковывает вещества для вывода из клетки",
+    "Образует энергию (АТФ) для клетки"
+   ],
+   "en": [
+    "The organelle where photosynthesis occurs",
+    "Gives shape and strength to a plant cell",
+    "Packages substances for release from the cell",
+    "Produces energy (ATP) for the cell"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "AA × AA chatishtirilganda, avlodda AA genotipli organizm chiqish ehtimoli necha foiz?",
+   "ru": "При скрещивании AA × AA какова вероятность (в %) появления потомка с генотипом AA?",
+   "en": "When AA × AA are crossed, what is the probability (%) of an offspring with genotype AA?"
+  },
+  "o": {
+   "uz": [
+    "100%",
+    "50%",
+    "25%",
+    "75%"
+   ],
+   "ru": [
+    "100%",
+    "50%",
+    "25%",
+    "75%"
+   ],
+   "en": [
+    "100%",
+    "50%",
+    "25%",
+    "75%"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hujayrada «Lizosoma» qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет в клетке «Лизосома»?",
+   "en": "What does the «Lysosome» do in the cell?"
+  },
+  "o": {
+   "uz": [
+    "Hujayra ichida murakkab moddalarni parchalaydi",
+    "Moddalarning hujayraga kirishi va chiqishini boshqaradi",
+    "Moddalarni to'plab, o'rab hujayradan chiqaradi",
+    "Irsiy axborot (DNK) saqlanadi"
+   ],
+   "ru": [
+    "Расщепляет сложные вещества внутри клетки",
+    "Регулирует вход и выход веществ",
+    "Накапливает и упаковывает вещества для вывода из клетки",
+    "Хранит наследственную информацию (ДНК)"
+   ],
+   "en": [
+    "Breaks down complex substances inside the cell",
+    "Controls what enters and leaves the cell",
+    "Packages substances for release from the cell",
+    "Stores hereditary information (DNA)"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Irsiy belgilarni belgilovchi birlik nima deyiladi?",
+   "ru": "Как называется единица наследственной информации?",
+   "en": "What is the unit of hereditary information called?"
+  },
+  "o": {
+   "uz": [
+    "Gen",
+    "Vitamin",
+    "Gormon",
+    "Ferment"
+   ],
+   "ru": [
+    "Ген",
+    "Витамин",
+    "Гормон",
+    "Фермент"
+   ],
+   "en": [
+    "Gene",
+    "Vitamin",
+    "Hormone",
+    "Enzyme"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Aa × aa chatishtirilganda, avlodda aa genotipli organizm chiqish ehtimoli necha foiz?",
+   "ru": "При скрещивании Aa × aa какова вероятность (в %) появления потомка с генотипом aa?",
+   "en": "When Aa × aa are crossed, what is the probability (%) of an offspring with genotype aa?"
+  },
+  "o": {
+   "uz": [
+    "50%",
+    "75%",
+    "25%",
+    "100%"
+   ],
+   "ru": [
+    "50%",
+    "75%",
+    "25%",
+    "100%"
+   ],
+   "en": [
+    "50%",
+    "75%",
+    "25%",
+    "100%"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Uzunligi 48 ta nukleotid bo'lgan i-RNK nechta aminokislotani kodlaydi (har bir kodon — 3 nukleotid)?",
+   "ru": "Сколько аминокислот кодирует иРНК длиной 48 нуклеотидов (кодон — 3 нуклеотида)?",
+   "en": "How many amino acids does an mRNA of 48 nucleotides code for (one codon = 3 nucleotides)?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "18",
+    "19",
+    "15"
+   ],
+   "ru": [
+    "16",
+    "18",
+    "19",
+    "15"
+   ],
+   "en": [
+    "16",
+    "18",
+    "19",
+    "15"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNKning bir zanjiri CATTCAAT bo'lsa, unga komplementar zanjir qanday bo'ladi?",
+   "ru": "Одна цепь ДНК: CATTCAAT. Какова комплементарная ей цепь?",
+   "en": "One DNA strand is CATTCAAT. What is the complementary strand?"
+  },
+  "o": {
+   "uz": [
+    "GTAAGTTA",
+    "GTAAGTCA",
+    "GTAAGTTG",
+    "GTATGTTA"
+   ],
+   "ru": [
+    "GTAAGTTA",
+    "GTAAGTCA",
+    "GTAAGTTG",
+    "GTATGTTA"
+   ],
+   "en": [
+    "GTAAGTTA",
+    "GTAAGTCA",
+    "GTAAGTTG",
+    "GTATGTTA"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Teri qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Кожа?",
+   "en": "What is the function of Skin?"
+  },
+  "o": {
+   "uz": [
+    "Himoya qiladi va terlash orqali tana haroratini tartibga soladi",
+    "Tayanch vazifasini bajaradi va ichki a'zolarni himoya qiladi",
+    "Oziq moddalar qonga so'riladi",
+    "Qonni tomirlar bo'ylab haydaydi"
+   ],
+   "ru": [
+    "Защищает и регулирует температуру тела через пот",
+    "Опора тела, защита внутренних органов",
+    "Питательные вещества всасываются в кровь",
+    "Гонит кровь по сосудам"
+   ],
+   "en": [
+    "Protects the body and regulates temperature through sweat",
+    "Support the body and protect inner organs",
+    "Nutrients are absorbed into the blood",
+    "Pumps blood through the vessels"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Lui Paster qanday kashfiyot yoki ishi bilan mashhur?",
+   "ru": "Чем известен(на) Луи Пастер?",
+   "en": "What is Louis Pasteur known for?"
+  },
+  "o": {
+   "uz": [
+    "Quturishga qarshi vaksina yaratgan, mikroblar tadqiqotchisi",
+    "«Tib qonunlari» asarini yozgan",
+    "Fagotsitoz hodisasini kashf etgan",
+    "Biosfera haqidagi ta'limotni yaratgan"
+   ],
+   "ru": [
+    "Создал вакцину против бешенства, исследователь микробов",
+    "Написал «Канон врачебной науки»",
+    "Открыл явление фагоцитоза",
+    "Создал учение о биосфере"
+   ],
+   "en": [
+    "Developed the rabies vaccine and studied microbes",
+    "Wrote «The Canon of Medicine»",
+    "Discovered phagocytosis",
+    "Created the doctrine of the biosphere"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: Penitsillinni kashf etgan?",
+   "ru": "Кому принадлежит открытие: Открыл пенициллин?",
+   "en": "Who is responsible for: Discovered penicillin?"
+  },
+  "o": {
+   "uz": [
+    "Aleksandr Fleming",
+    "Robert Kox",
+    "Gregor Mendel",
+    "Vladimir Vernadskiy"
+   ],
+   "ru": [
+    "Александр Флеминг",
+    "Роберт Кох",
+    "Грегор Мендель",
+    "Владимир Вернадский"
+   ],
+   "en": [
+    "Alexander Fleming",
+    "Robert Koch",
+    "Gregor Mendel",
+    "Vladimir Vernadsky"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Odam organizmida qon necha qon aylanish doirasi orqali oqadi?",
+   "ru": "По скольким кругам кровообращения течёт кровь у человека?",
+   "en": "Through how many circuits does blood flow in humans?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "en": [
+    "2",
+    "1",
+    "3",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Insulin va hazm shirasini ishlab chiqaradi?",
+   "ru": "Какому органу соответствует функция: Вырабатывает инсулин и пищеварительный сок?",
+   "en": "Which organ does this: Produces insulin and digestive juice?"
+  },
+  "o": {
+   "uz": [
+    "Me'da osti bezi",
+    "Yurak",
+    "Mushaklar",
+    "Oshqozon"
+   ],
+   "ru": [
+    "Поджелудочная железа",
+    "Сердце",
+    "Мышцы",
+    "Желудок"
+   ],
+   "en": [
+    "Pancreas",
+    "Heart",
+    "Muscles",
+    "Stomach"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: Fagotsitoz hodisasini kashf etgan?",
+   "ru": "Кому принадлежит открытие: Открыл явление фагоцитоза?",
+   "en": "Who is responsible for: Discovered phagocytosis?"
+  },
+  "o": {
+   "uz": [
+    "Ilya Mechnikov",
+    "Ibn Sino",
+    "Aleksandr Fleming",
+    "Robert Guk"
+   ],
+   "ru": [
+    "Илья Мечников",
+    "Ибн Сина",
+    "Александр Флеминг",
+    "Роберт Гук"
+   ],
+   "en": [
+    "Ilya Mechnikov",
+    "Ibn Sina",
+    "Alexander Fleming",
+    "Robert Hooke"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNKning bir zanjiri GTACGGT bo'lsa, unga komplementar zanjir qanday bo'ladi?",
+   "ru": "Одна цепь ДНК: GTACGGT. Какова комплементарная ей цепь?",
+   "en": "One DNA strand is GTACGGT. What is the complementary strand?"
+  },
+  "o": {
+   "uz": [
+    "CATGCCA",
+    "CAAGCCA",
+    "CCTGCCA",
+    "TATGCCA"
+   ],
+   "ru": [
+    "CATGCCA",
+    "CAAGCCA",
+    "CCTGCCA",
+    "TATGCCA"
+   ],
+   "en": [
+    "CATGCCA",
+    "CAAGCCA",
+    "CCTGCCA",
+    "TATGCCA"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: «Ekologiya» atamasini fanga kiritgan (1866)?",
+   "ru": "Кому принадлежит открытие: Ввёл термин «экология» (1866)?",
+   "en": "Who is responsible for: Introduced the term «ecology» (1866)?"
+  },
+  "o": {
+   "uz": [
+    "Ernst Gekkel",
+    "Gregor Mendel",
+    "Robert Kox",
+    "Aleksandr Fleming"
+   ],
+   "ru": [
+    "Эрнст Геккель",
+    "Грегор Мендель",
+    "Роберт Кох",
+    "Александр Флеминг"
+   ],
+   "en": [
+    "Ernst Haeckel",
+    "Gregor Mendel",
+    "Robert Koch",
+    "Alexander Fleming"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Mushaklar qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Мышцы?",
+   "en": "What is the function of Muscles?"
+  },
+  "o": {
+   "uz": [
+    "Harakat qilishni ta'minlaydi",
+    "Oziq moddalar qonga so'riladi",
+    "O't ishlab chiqaradi va zararli moddalarni zararsizlantiradi",
+    "Asab tizimining markazi, tananing faoliyatini boshqaradi"
+   ],
+   "ru": [
+    "Обеспечивают движение",
+    "Питательные вещества всасываются в кровь",
+    "Вырабатывает желчь и обезвреживает яды",
+    "Центр нервной системы, управляет работой тела"
+   ],
+   "en": [
+    "Make movement possible",
+    "Nutrients are absorbed into the blood",
+    "Produces bile and neutralises toxins",
+    "The centre of the nervous system that controls the body"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Uzunligi 57 ta nukleotid bo'lgan i-RNK nechta aminokislotani kodlaydi (har bir kodon — 3 nukleotid)?",
+   "ru": "Сколько аминокислот кодирует иРНК длиной 57 нуклеотидов (кодон — 3 нуклеотида)?",
+   "en": "How many amino acids does an mRNA of 57 nucleotides code for (one codon = 3 nucleotides)?"
+  },
+  "o": {
+   "uz": [
+    "19",
+    "22",
+    "18",
+    "20"
+   ],
+   "ru": [
+    "19",
+    "22",
+    "18",
+    "20"
+   ],
+   "en": [
+    "19",
+    "22",
+    "18",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNK matritsa zanjiri AGGATTACC bo'lsa, transkripsiya natijasida hosil bo'ladigan i-RNK qanday bo'ladi?",
+   "ru": "Матричная цепь ДНК: AGGATTACC. Какая иРНК образуется при транскрипции?",
+   "en": "The DNA template strand is AGGATTACC. What mRNA is produced by transcription?"
+  },
+  "o": {
+   "uz": [
+    "UCCUAAUGG",
+    "UCCUAAUAG",
+    "UCCUATUGG",
+    "UCCUAACGG"
+   ],
+   "ru": [
+    "UCCUAAUGG",
+    "UCCUAAUAG",
+    "UCCUATUGG",
+    "UCCUAACGG"
+   ],
+   "en": [
+    "UCCUAAUGG",
+    "UCCUAAUAG",
+    "UCCUATUGG",
+    "UCCUAACGG"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: O'simlik va hayvonlarni ikki nomli (binar) nomlash tizimini kiritgan?",
+   "ru": "Кому принадлежит открытие: Ввёл бинарную номенклатуру растений и животных?",
+   "en": "Who is responsible for: Introduced binomial naming of plants and animals?"
+  },
+  "o": {
+   "uz": [
+    "Karl Linney",
+    "Uotson va Krik",
+    "Aleksandr Fleming",
+    "Vladimir Vernadskiy"
+   ],
+   "ru": [
+    "Карл Линней",
+    "Уотсон и Крик",
+    "Александр Флеминг",
+    "Владимир Вернадский"
+   ],
+   "en": [
+    "Carl Linnaeus",
+    "Watson and Crick",
+    "Alexander Fleming",
+    "Vladimir Vernadsky"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Suyaklar qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Кости?",
+   "en": "What is the function of Bones?"
+  },
+  "o": {
+   "uz": [
+    "Tayanch vazifasini bajaradi va ichki a'zolarni himoya qiladi",
+    "Oziq moddalar qonga so'riladi",
+    "O't ishlab chiqaradi va zararli moddalarni zararsizlantiradi",
+    "Qonni filtrlab, siydik hosil qiladi"
+   ],
+   "ru": [
+    "Опора тела, защита внутренних органов",
+    "Питательные вещества всасываются в кровь",
+    "Вырабатывает желчь и обезвреживает яды",
+    "Фильтруют кровь, образуют мочу"
+   ],
+   "en": [
+    "Support the body and protect inner organs",
+    "Nutrients are absorbed into the blood",
+    "Produces bile and neutralises toxins",
+    "Filter blood and form urine"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ko'p hujayrali o'simliklarda suv va moddalarni tashuvchi to'qima qaysi?",
+   "ru": "Какая ткань растений проводит воду и вещества?",
+   "en": "Which plant tissue transports water and substances?"
+  },
+  "o": {
+   "uz": [
+    "O'tkazuvchi to'qima",
+    "Qoplovchi to'qima",
+    "Mexanik to'qima",
+    "Zaxira to'qima"
+   ],
+   "ru": [
+    "Проводящая ткань",
+    "Покровная ткань",
+    "Механическая ткань",
+    "Запасающая ткань"
+   ],
+   "en": [
+    "Conducting tissue",
+    "Covering tissue",
+    "Mechanical tissue",
+    "Storage tissue"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Genetikaning asoschisi kim hisoblanadi?",
+   "ru": "Кого считают основоположником генетики?",
+   "en": "Who is considered the founder of genetics?"
+  },
+  "o": {
+   "uz": [
+    "Gregor Mendel",
+    "Charlz Darvin",
+    "Lui Paster",
+    "Ivan Pavlov"
+   ],
+   "ru": [
+    "Грегор Мендель",
+    "Чарльз Дарвин",
+    "Луи Пастер",
+    "Иван Павлов"
+   ],
+   "en": [
+    "Gregor Mendel",
+    "Charles Darwin",
+    "Louis Pasteur",
+    "Ivan Pavlov"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yo'g'on ichak qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Толстая кишка?",
+   "en": "What is the function of Large intestine?"
+  },
+  "o": {
+   "uz": [
+    "Suv so'riladi va najas shakllanadi",
+    "Ovqatni kimyoviy hazm qiladi (oshqozon shirasi)",
+    "Oziq moddalar qonga so'riladi",
+    "Asab tizimining markazi, tananing faoliyatini boshqaradi"
+   ],
+   "ru": [
+    "Всасывается вода и формируется кал",
+    "Переваривает пищу желудочным соком",
+    "Питательные вещества всасываются в кровь",
+    "Центр нервной системы, управляет работой тела"
+   ],
+   "en": [
+    "Water is absorbed and waste forms",
+    "Digests food with gastric juice",
+    "Nutrients are absorbed into the blood",
+    "The centre of the nervous system that controls the body"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Noyob va yo'qolib borayotgan turlar ro'yxati qanday kitob?",
+   "ru": "Как называется книга, где перечислены редкие и исчезающие виды?",
+   "en": "What is the book listing rare and endangered species called?"
+  },
+  "o": {
+   "uz": [
+    "Qizil kitob",
+    "Yashil kitob",
+    "Sariq kitob",
+    "Ko'k kitob"
+   ],
+   "ru": [
+    "Красная книга",
+    "Зелёная книга",
+    "Жёлтая книга",
+    "Синяя книга"
+   ],
+   "en": [
+    "The Red Book",
+    "The Green Book",
+    "The Yellow Book",
+    "The Blue Book"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hujayrada «Golji kompleksi» qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет в клетке «Комплекс Гольджи»?",
+   "en": "What does the «Golgi complex» do in the cell?"
+  },
+  "o": {
+   "uz": [
+    "Moddalarni to'plab, o'rab hujayradan chiqaradi",
+    "Oqsil sintezi o'tadi",
+    "O'simlik hujayrasiga shakl beradi va mustahkamlaydi",
+    "Moddalarning hujayraga kirishi va chiqishini boshqaradi"
+   ],
+   "ru": [
+    "Накапливает и упаковывает вещества для вывода из клетки",
+    "Здесь синтезируются белки",
+    "Придаёт форму и прочность растительной клетке",
+    "Регулирует вход и выход веществ"
+   ],
+   "en": [
+    "Packages substances for release from the cell",
+    "Protein synthesis occurs here",
+    "Gives shape and strength to a plant cell",
+    "Controls what enters and leaves the cell"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNK matritsa zanjiri CTTAC bo'lsa, transkripsiya natijasida hosil bo'ladigan i-RNK qanday bo'ladi?",
+   "ru": "Матричная цепь ДНК: CTTAC. Какая иРНК образуется при транскрипции?",
+   "en": "The DNA template strand is CTTAC. What mRNA is produced by transcription?"
+  },
+  "o": {
+   "uz": [
+    "GAAUG",
+    "GAAUA",
+    "GAAAG",
+    "GCAUG"
+   ],
+   "ru": [
+    "GAAUG",
+    "GAAUA",
+    "GAAAG",
+    "GCAUG"
+   ],
+   "en": [
+    "GAAUG",
+    "GAAUA",
+    "GAAAG",
+    "GCAUG"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Achitqi qaysi guruh organizmiga kiradi?",
+   "ru": "К какой группе организмов относятся дрожжи?",
+   "en": "Which group do yeasts belong to?"
+  },
+  "o": {
+   "uz": [
+    "Zamburug'lar",
+    "Bakteriyalar",
+    "O'simliklar",
+    "Hayvonlar"
+   ],
+   "ru": [
+    "Грибы",
+    "Бактерии",
+    "Растения",
+    "Животные"
+   ],
+   "en": [
+    "Fungi",
+    "Bacteria",
+    "Plants",
+    "Animals"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNKning bir zanjiri TGCAAAAT bo'lsa, unga komplementar zanjir qanday bo'ladi?",
+   "ru": "Одна цепь ДНК: TGCAAAAT. Какова комплементарная ей цепь?",
+   "en": "One DNA strand is TGCAAAAT. What is the complementary strand?"
+  },
+  "o": {
+   "uz": [
+    "ACGTTTTA",
+    "ACGATTTA",
+    "ACATTTTA",
+    "ACGTTTTT"
+   ],
+   "ru": [
+    "ACGTTTTA",
+    "ACGATTTA",
+    "ACATTTTA",
+    "ACGTTTTT"
+   ],
+   "en": [
+    "ACGTTTTA",
+    "ACGATTTA",
+    "ACATTTTA",
+    "ACGTTTTT"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Robert Kox qanday kashfiyot yoki ishi bilan mashhur?",
+   "ru": "Чем известен(на) Роберт Кох?",
+   "en": "What is Robert Koch known for?"
+  },
+  "o": {
+   "uz": [
+    "Sil kasalligi qo'zg'atuvchisini kashf etgan",
+    "Tabiiy tanlanish orqali evolyutsiya nazariyasini yaratgan",
+    "No'xat ustida tajribalar o'tkazib, irsiyat qonunlarini kashf etgan",
+    "Biosfera haqidagi ta'limotni yaratgan"
+   ],
+   "ru": [
+    "Открыл возбудителя туберкулёза",
+    "Создал теорию эволюции путём естественного отбора",
+    "Открыл законы наследственности на опытах с горохом",
+    "Создал учение о биосфере"
+   ],
+   "en": [
+    "Discovered the cause of tuberculosis",
+    "Created the theory of evolution by natural selection",
+    "Discovered the laws of heredity with pea experiments",
+    "Created the doctrine of the biosphere"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ekologik piramida qoidasiga (10% qoidasi) ko'ra, produsentlarda 1000 kJ energiya bo'lsa, yirtqichlar (ikkinchi tartib konsumentlar)ga taxminan qancha energiya o'tadi?",
+   "ru": "По правилу экологической пирамиды (правило 10%): если у продуцентов 1000 кДж энергии, сколько примерно перейдёт к уровню хищников (консументов 2-го порядка)?",
+   "en": "By the 10% rule of the ecological pyramid, if producers hold 1000 kJ of energy, about how much reaches the predators (secondary consumers)?"
+  },
+  "o": {
+   "uz": [
+    "10 kJ",
+    "100 kJ",
+    "1 kJ",
+    "20 kJ"
+   ],
+   "ru": [
+    "10 kJ",
+    "100 kJ",
+    "1 kJ",
+    "20 kJ"
+   ],
+   "en": [
+    "10 kJ",
+    "100 kJ",
+    "1 kJ",
+    "20 kJ"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani hujayraning qaysi qismi bajaradi: Fotosintez o'tadigan organoid?",
+   "ru": "Какая часть клетки выполняет функцию: Органоид, в котором идёт фотосинтез?",
+   "en": "Which part of the cell does this: The organelle where photosynthesis occurs?"
+  },
+  "o": {
+   "uz": [
+    "Xloroplast",
+    "Mitoxondriya",
+    "Hujayra membranasi",
+    "Yadro"
+   ],
+   "ru": [
+    "Хлоропласт",
+    "Митохондрия",
+    "Клеточная мембрана",
+    "Ядро клетки"
+   ],
+   "en": [
+    "Chloroplast",
+    "Mitochondrion",
+    "Cell membrane",
+    "Nucleus"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNK matritsa zanjiri GTATGAA bo'lsa, transkripsiya natijasida hosil bo'ladigan i-RNK qanday bo'ladi?",
+   "ru": "Матричная цепь ДНК: GTATGAA. Какая иРНК образуется при транскрипции?",
+   "en": "The DNA template strand is GTATGAA. What mRNA is produced by transcription?"
+  },
+  "o": {
+   "uz": [
+    "CAUACUU",
+    "CAUTCUU",
+    "CAGACUU",
+    "CAUACGU"
+   ],
+   "ru": [
+    "CAUACUU",
+    "CAUTCUU",
+    "CAGACUU",
+    "CAUACGU"
+   ],
+   "en": [
+    "CAUACUU",
+    "CAUTCUU",
+    "CAGACUU",
+    "CAUACGU"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Aa × Aa chatishtirilganda, avlodda AA genotipli organizm chiqish ehtimoli necha foiz?",
+   "ru": "При скрещивании Aa × Aa какова вероятность (в %) появления потомка с генотипом AA?",
+   "en": "When Aa × Aa are crossed, what is the probability (%) of an offspring with genotype AA?"
+  },
+  "o": {
+   "uz": [
+    "25%",
+    "50%",
+    "100%",
+    "75%"
+   ],
+   "ru": [
+    "25%",
+    "50%",
+    "100%",
+    "75%"
+   ],
+   "en": [
+    "25%",
+    "50%",
+    "100%",
+    "75%"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani hujayraning qaysi qismi bajaradi: Hujayra ichida murakkab moddalarni parchalaydi?",
+   "ru": "Какая часть клетки выполняет функцию: Расщепляет сложные вещества внутри клетки?",
+   "en": "Which part of the cell does this: Breaks down complex substances inside the cell?"
+  },
+  "o": {
+   "uz": [
+    "Lizosoma",
+    "Ribosoma",
+    "Golji kompleksi",
+    "Mitoxondriya"
+   ],
+   "ru": [
+    "Лизосома",
+    "Рибосома",
+    "Комплекс Гольджи",
+    "Митохондрия"
+   ],
+   "en": [
+    "Lysosome",
+    "Ribosome",
+    "Golgi complex",
+    "Mitochondrion"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ekologik piramida qoidasiga (10% qoidasi) ko'ra, produsentlarda 100000 kJ energiya bo'lsa, yirtqichlar (ikkinchi tartib konsumentlar)ga taxminan qancha energiya o'tadi?",
+   "ru": "По правилу экологической пирамиды (правило 10%): если у продуцентов 100000 кДж энергии, сколько примерно перейдёт к уровню хищников (консументов 2-го порядка)?",
+   "en": "By the 10% rule of the ecological pyramid, if producers hold 100000 kJ of energy, about how much reaches the predators (secondary consumers)?"
+  },
+  "o": {
+   "uz": [
+    "1000 kJ",
+    "10000 kJ",
+    "100 kJ",
+    "2000 kJ"
+   ],
+   "ru": [
+    "1000 kJ",
+    "10000 kJ",
+    "100 kJ",
+    "2000 kJ"
+   ],
+   "en": [
+    "1000 kJ",
+    "10000 kJ",
+    "100 kJ",
+    "2000 kJ"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNK matritsa zanjiri TCCTAA bo'lsa, transkripsiya natijasida hosil bo'ladigan i-RNK qanday bo'ladi?",
+   "ru": "Матричная цепь ДНК: TCCTAA. Какая иРНК образуется при транскрипции?",
+   "en": "The DNA template strand is TCCTAA. What mRNA is produced by transcription?"
+  },
+  "o": {
+   "uz": [
+    "AGGAUU",
+    "AGGAUC",
+    "GGGAUU",
+    "AGGAUA"
+   ],
+   "ru": [
+    "AGGAUU",
+    "AGGAUC",
+    "GGGAUU",
+    "AGGAUA"
+   ],
+   "en": [
+    "AGGAUU",
+    "AGGAUC",
+    "GGGAUU",
+    "AGGAUA"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNK matritsa zanjiri AGGATGT bo'lsa, transkripsiya natijasida hosil bo'ladigan i-RNK qanday bo'ladi?",
+   "ru": "Матричная цепь ДНК: AGGATGT. Какая иРНК образуется при транскрипции?",
+   "en": "The DNA template strand is AGGATGT. What mRNA is produced by transcription?"
+  },
+  "o": {
+   "uz": [
+    "UCCUACA",
+    "UCCUACC",
+    "UCCUCCA",
+    "UACUACA"
+   ],
+   "ru": [
+    "UCCUACA",
+    "UCCUACC",
+    "UCCUCCA",
+    "UACUACA"
+   ],
+   "en": [
+    "UCCUACA",
+    "UCCUACC",
+    "UCCUCCA",
+    "UACUACA"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "AA × Aa chatishtirilganda, avlodda Aa genotipli organizm chiqish ehtimoli necha foiz?",
+   "ru": "При скрещивании AA × Aa какова вероятность (в %) появления потомка с генотипом Aa?",
+   "en": "When AA × Aa are crossed, what is the probability (%) of an offspring with genotype Aa?"
+  },
+  "o": {
+   "uz": [
+    "50%",
+    "100%",
+    "25%",
+    "0%"
+   ],
+   "ru": [
+    "50%",
+    "100%",
+    "25%",
+    "0%"
+   ],
+   "en": [
+    "50%",
+    "100%",
+    "25%",
+    "0%"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ekologik piramida qoidasiga (10% qoidasi) ko'ra, produsentlarda 2000 kJ energiya bo'lsa, yirtqichlar (ikkinchi tartib konsumentlar)ga taxminan qancha energiya o'tadi?",
+   "ru": "По правилу экологической пирамиды (правило 10%): если у продуцентов 2000 кДж энергии, сколько примерно перейдёт к уровню хищников (консументов 2-го порядка)?",
+   "en": "By the 10% rule of the ecological pyramid, if producers hold 2000 kJ of energy, about how much reaches the predators (secondary consumers)?"
+  },
+  "o": {
+   "uz": [
+    "20 kJ",
+    "200 kJ",
+    "2 kJ",
+    "40 kJ"
+   ],
+   "ru": [
+    "20 kJ",
+    "200 kJ",
+    "2 kJ",
+    "40 kJ"
+   ],
+   "en": [
+    "20 kJ",
+    "200 kJ",
+    "2 kJ",
+    "40 kJ"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qon guruhlarining asosiy turi nechta (ABO tizimi)?",
+   "ru": "Сколько основных групп крови в системе ABO?",
+   "en": "How many main blood groups are there in the ABO system?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "2",
+    "3",
+    "6"
+   ],
+   "ru": [
+    "4",
+    "2",
+    "3",
+    "6"
+   ],
+   "en": [
+    "4",
+    "2",
+    "3",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi organoid hujayra uchun «energiya stansiyasi» hisoblanadi?",
+   "ru": "Какой органоид называют «энергетической станцией» клетки?",
+   "en": "Which organelle is the cell's «power station»?"
+  },
+  "o": {
+   "uz": [
+    "Mitoxondriya",
+    "Yadro",
+    "Ribosoma",
+    "Vakuola"
+   ],
+   "ru": [
+    "Митохондрия",
+    "Ядро",
+    "Рибосома",
+    "Вакуоль"
+   ],
+   "en": [
+    "Mitochondrion",
+    "Nucleus",
+    "Ribosome",
+    "Vacuole"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNKning bir zanjiri TGCCT bo'lsa, unga komplementar zanjir qanday bo'ladi?",
+   "ru": "Одна цепь ДНК: TGCCT. Какова комплементарная ей цепь?",
+   "en": "One DNA strand is TGCCT. What is the complementary strand?"
+  },
+  "o": {
+   "uz": [
+    "ACGGA",
+    "ACGTA",
+    "ACAGA",
+    "ACGGC"
+   ],
+   "ru": [
+    "ACGGA",
+    "ACGTA",
+    "ACAGA",
+    "ACGGC"
+   ],
+   "en": [
+    "ACGGA",
+    "ACGTA",
+    "ACAGA",
+    "ACGGC"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Himoya qiladi va terlash orqali tana haroratini tartibga soladi?",
+   "ru": "Какому органу соответствует функция: Защищает и регулирует температуру тела через пот?",
+   "en": "Which organ does this: Protects the body and regulates temperature through sweat?"
+  },
+  "o": {
+   "uz": [
+    "Teri",
+    "Oshqozon",
+    "Buyrak",
+    "O'pka"
+   ],
+   "ru": [
+    "Кожа",
+    "Желудок",
+    "Почки",
+    "Лёгкие"
+   ],
+   "en": [
+    "Skin",
+    "Stomach",
+    "Kidneys",
+    "Lungs"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Charlz Darvin qanday kashfiyot yoki ishi bilan mashhur?",
+   "ru": "Чем известен(на) Чарльз Дарвин?",
+   "en": "What is Charles Darwin known for?"
+  },
+  "o": {
+   "uz": [
+    "Tabiiy tanlanish orqali evolyutsiya nazariyasini yaratgan",
+    "O'simlik va hayvonlarni ikki nomli (binar) nomlash tizimini kiritgan",
+    "Fagotsitoz hodisasini kashf etgan",
+    "Hujayrani birinchi bo'lib kuzatgan (1665)"
+   ],
+   "ru": [
+    "Создал теорию эволюции путём естественного отбора",
+    "Ввёл бинарную номенклатуру растений и животных",
+    "Открыл явление фагоцитоза",
+    "Первым увидел клетку (1665)"
+   ],
+   "en": [
+    "Created the theory of evolution by natural selection",
+    "Introduced binomial naming of plants and animals",
+    "Discovered phagocytosis",
+    "First observed cells (1665)"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani hujayraning qaysi qismi bajaradi: Hujayra uchun energiya (ATF) hosil qiladi?",
+   "ru": "Какая часть клетки выполняет функцию: Образует энергию (АТФ) для клетки?",
+   "en": "Which part of the cell does this: Produces energy (ATP) for the cell?"
+  },
+  "o": {
+   "uz": [
+    "Mitoxondriya",
+    "Golji kompleksi",
+    "Hujayra membranasi",
+    "Hujayra devori"
+   ],
+   "ru": [
+    "Митохондрия",
+    "Комплекс Гольджи",
+    "Клеточная мембрана",
+    "Клеточная стенка"
+   ],
+   "en": [
+    "Mitochondrion",
+    "Golgi complex",
+    "Cell membrane",
+    "Cell wall"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNK matritsa zanjiri GTGAGAG bo'lsa, transkripsiya natijasida hosil bo'ladigan i-RNK qanday bo'ladi?",
+   "ru": "Матричная цепь ДНК: GTGAGAG. Какая иРНК образуется при транскрипции?",
+   "en": "The DNA template strand is GTGAGAG. What mRNA is produced by transcription?"
+  },
+  "o": {
+   "uz": [
+    "CACUCUC",
+    "TACUCUC",
+    "AACUCUC",
+    "CACUCUA"
+   ],
+   "ru": [
+    "CACUCUC",
+    "TACUCUC",
+    "AACUCUC",
+    "CACUCUA"
+   ],
+   "en": [
+    "CACUCUC",
+    "TACUCUC",
+    "AACUCUC",
+    "CACUCUA"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Gaz almashinuvi (nafas olish) o'tadi?",
+   "ru": "Какому органу соответствует функция: В них происходит газообмен?",
+   "en": "Which organ does this: Gas exchange takes place here?"
+  },
+  "o": {
+   "uz": [
+    "O'pka",
+    "Ingichka ichak",
+    "Miya",
+    "Me'da osti bezi"
+   ],
+   "ru": [
+    "Лёгкие",
+    "Тонкая кишка",
+    "Мозг",
+    "Поджелудочная железа"
+   ],
+   "en": [
+    "Lungs",
+    "Small intestine",
+    "Brain",
+    "Pancreas"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ilya Mechnikov qanday kashfiyot yoki ishi bilan mashhur?",
+   "ru": "Чем известен(на) Илья Мечников?",
+   "en": "What is Ilya Mechnikov known for?"
+  },
+  "o": {
+   "uz": [
+    "Fagotsitoz hodisasini kashf etgan",
+    "Quturishga qarshi vaksina yaratgan, mikroblar tadqiqotchisi",
+    "DNKning qo'sh spiral tuzilishini aniqlagan (1953)",
+    "Hujayrani birinchi bo'lib kuzatgan (1665)"
+   ],
+   "ru": [
+    "Открыл явление фагоцитоза",
+    "Создал вакцину против бешенства, исследователь микробов",
+    "Определили двойную спираль ДНК (1953)",
+    "Первым увидел клетку (1665)"
+   ],
+   "en": [
+    "Discovered phagocytosis",
+    "Developed the rabies vaccine and studied microbes",
+    "Determined the double-helix structure of DNA (1953)",
+    "First observed cells (1665)"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hujayrada «Ribosoma» qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет в клетке «Рибосома»?",
+   "en": "What does the «Ribosome» do in the cell?"
+  },
+  "o": {
+   "uz": [
+    "Oqsil sintezi o'tadi",
+    "Fotosintez o'tadigan organoid",
+    "Hujayra uchun energiya (ATF) hosil qiladi",
+    "Irsiy axborot (DNK) saqlanadi"
+   ],
+   "ru": [
+    "Здесь синтезируются белки",
+    "Органоид, в котором идёт фотосинтез",
+    "Образует энергию (АТФ) для клетки",
+    "Хранит наследственную информацию (ДНК)"
+   ],
+   "en": [
+    "Protein synthesis occurs here",
+    "The organelle where photosynthesis occurs",
+    "Produces energy (ATP) for the cell",
+    "Stores hereditary information (DNA)"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Uotson va Krik qanday kashfiyot yoki ishi bilan mashhur?",
+   "ru": "Чем известен(на) Уотсон и Крик?",
+   "en": "What is Watson and Crick known for?"
+  },
+  "o": {
+   "uz": [
+    "DNKning qo'sh spiral tuzilishini aniqlagan (1953)",
+    "No'xat ustida tajribalar o'tkazib, irsiyat qonunlarini kashf etgan",
+    "Sil kasalligi qo'zg'atuvchisini kashf etgan",
+    "Penitsillinni kashf etgan"
+   ],
+   "ru": [
+    "Определили двойную спираль ДНК (1953)",
+    "Открыл законы наследственности на опытах с горохом",
+    "Открыл возбудителя туберкулёза",
+    "Открыл пенициллин"
+   ],
+   "en": [
+    "Determined the double-helix structure of DNA (1953)",
+    "Discovered the laws of heredity with pea experiments",
+    "Discovered the cause of tuberculosis",
+    "Discovered penicillin"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNKning bir zanjiri GCCTCTTAC bo'lsa, unga komplementar zanjir qanday bo'ladi?",
+   "ru": "Одна цепь ДНК: GCCTCTTAC. Какова комплементарная ей цепь?",
+   "en": "One DNA strand is GCCTCTTAC. What is the complementary strand?"
+  },
+  "o": {
+   "uz": [
+    "CGGAGAATG",
+    "CGGAGAAAG",
+    "CGGACAATG",
+    "CGGAGAAGG"
+   ],
+   "ru": [
+    "CGGAGAATG",
+    "CGGAGAAAG",
+    "CGGACAATG",
+    "CGGAGAAGG"
+   ],
+   "en": [
+    "CGGAGAATG",
+    "CGGAGAAAG",
+    "CGGACAATG",
+    "CGGAGAAGG"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNKning bir zanjiri GAAACAG bo'lsa, unga komplementar zanjir qanday bo'ladi?",
+   "ru": "Одна цепь ДНК: GAAACAG. Какова комплементарная ей цепь?",
+   "en": "One DNA strand is GAAACAG. What is the complementary strand?"
+  },
+  "o": {
+   "uz": [
+    "CTTTGTC",
+    "CTTTGTG",
+    "CTGTGTC",
+    "CGTTGTC"
+   ],
+   "ru": [
+    "CTTTGTC",
+    "CTTTGTG",
+    "CTGTGTC",
+    "CGTTGTC"
+   ],
+   "en": [
+    "CTTTGTC",
+    "CTTTGTG",
+    "CTGTGTC",
+    "CGTTGTC"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNK matritsa zanjiri ACAACAG bo'lsa, transkripsiya natijasida hosil bo'ladigan i-RNK qanday bo'ladi?",
+   "ru": "Матричная цепь ДНК: ACAACAG. Какая иРНК образуется при транскрипции?",
+   "en": "The DNA template strand is ACAACAG. What mRNA is produced by transcription?"
+  },
+  "o": {
+   "uz": [
+    "UGUUGUC",
+    "UGUUGUT",
+    "UTUUGUC",
+    "UGUUGAC"
+   ],
+   "ru": [
+    "UGUUGUC",
+    "UGUUGUT",
+    "UTUUGUC",
+    "UGUUGAC"
+   ],
+   "en": [
+    "UGUUGUC",
+    "UGUUGUT",
+    "UTUUGUC",
+    "UGUUGAC"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Uzunligi 105 ta nukleotid bo'lgan i-RNK nechta aminokislotani kodlaydi (har bir kodon — 3 nukleotid)?",
+   "ru": "Сколько аминокислот кодирует иРНК длиной 105 нуклеотидов (кодон — 3 нуклеотида)?",
+   "en": "How many amino acids does an mRNA of 105 nucleotides code for (one codon = 3 nucleotides)?"
+  },
+  "o": {
+   "uz": [
+    "35",
+    "105",
+    "37",
+    "38"
+   ],
+   "ru": [
+    "35",
+    "105",
+    "37",
+    "38"
+   ],
+   "en": [
+    "35",
+    "105",
+    "37",
+    "38"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani hujayraning qaysi qismi bajaradi: Irsiy axborot (DNK) saqlanadi?",
+   "ru": "Какая часть клетки выполняет функцию: Хранит наследственную информацию (ДНК)?",
+   "en": "Which part of the cell does this: Stores hereditary information (DNA)?"
+  },
+  "o": {
+   "uz": [
+    "Yadro",
+    "Golji kompleksi",
+    "Ribosoma",
+    "Hujayra membranasi"
+   ],
+   "ru": [
+    "Ядро клетки",
+    "Комплекс Гольджи",
+    "Рибосома",
+    "Клеточная мембрана"
+   ],
+   "en": [
+    "Nucleus",
+    "Golgi complex",
+    "Ribosome",
+    "Cell membrane"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Suv so'riladi va najas shakllanadi?",
+   "ru": "Какому органу соответствует функция: Всасывается вода и формируется кал?",
+   "en": "Which organ does this: Water is absorbed and waste forms?"
+  },
+  "o": {
+   "uz": [
+    "Yo'g'on ichak",
+    "Ingichka ichak",
+    "Suyaklar",
+    "Buyrak"
+   ],
+   "ru": [
+    "Толстая кишка",
+    "Тонкая кишка",
+    "Кости",
+    "Почки"
+   ],
+   "en": [
+    "Large intestine",
+    "Small intestine",
+    "Bones",
+    "Kidneys"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNKning bir zanjiri AAGAGA bo'lsa, unga komplementar zanjir qanday bo'ladi?",
+   "ru": "Одна цепь ДНК: AAGAGA. Какова комплементарная ей цепь?",
+   "en": "One DNA strand is AAGAGA. What is the complementary strand?"
+  },
+  "o": {
+   "uz": [
+    "TTCTCT",
+    "TTCTAT",
+    "TTATCT",
+    "TTCTCA"
+   ],
+   "ru": [
+    "TTCTCT",
+    "TTCTAT",
+    "TTATCT",
+    "TTCTCA"
+   ],
+   "en": [
+    "TTCTCT",
+    "TTCTAT",
+    "TTATCT",
+    "TTCTCA"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Qonni tomirlar bo'ylab haydaydi?",
+   "ru": "Какому органу соответствует функция: Гонит кровь по сосудам?",
+   "en": "Which organ does this: Pumps blood through the vessels?"
+  },
+  "o": {
+   "uz": [
+    "Yurak",
+    "Buyrak",
+    "Jigar",
+    "O'pka"
+   ],
+   "ru": [
+    "Сердце",
+    "Почки",
+    "Печень",
+    "Лёгкие"
+   ],
+   "en": [
+    "Heart",
+    "Kidneys",
+    "Liver",
+    "Lungs"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNKning bir zanjiri CACTGG bo'lsa, unga komplementar zanjir qanday bo'ladi?",
+   "ru": "Одна цепь ДНК: CACTGG. Какова комплементарная ей цепь?",
+   "en": "One DNA strand is CACTGG. What is the complementary strand?"
+  },
+  "o": {
+   "uz": [
+    "GTGACC",
+    "GTCACC",
+    "GAGACC",
+    "GTGCCC"
+   ],
+   "ru": [
+    "GTGACC",
+    "GTCACC",
+    "GAGACC",
+    "GTGCCC"
+   ],
+   "en": [
+    "GTGACC",
+    "GTCACC",
+    "GAGACC",
+    "GTGCCC"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ekologik piramida qoidasiga (10% qoidasi) ko'ra, produsentlarda 50000 kJ energiya bo'lsa, yirtqichlar (ikkinchi tartib konsumentlar)ga taxminan qancha energiya o'tadi?",
+   "ru": "По правилу экологической пирамиды (правило 10%): если у продуцентов 50000 кДж энергии, сколько примерно перейдёт к уровню хищников (консументов 2-го порядка)?",
+   "en": "By the 10% rule of the ecological pyramid, if producers hold 50000 kJ of energy, about how much reaches the predators (secondary consumers)?"
+  },
+  "o": {
+   "uz": [
+    "500 kJ",
+    "5000 kJ",
+    "50 kJ",
+    "1000 kJ"
+   ],
+   "ru": [
+    "500 kJ",
+    "5000 kJ",
+    "50 kJ",
+    "1000 kJ"
+   ],
+   "en": [
+    "500 kJ",
+    "5000 kJ",
+    "50 kJ",
+    "1000 kJ"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNK matritsa zanjiri GTGAAACA bo'lsa, transkripsiya natijasida hosil bo'ladigan i-RNK qanday bo'ladi?",
+   "ru": "Матричная цепь ДНК: GTGAAACA. Какая иРНК образуется при транскрипции?",
+   "en": "The DNA template strand is GTGAAACA. What mRNA is produced by transcription?"
+  },
+  "o": {
+   "uz": [
+    "CACUUUGU",
+    "CAGUUUGU",
+    "CACUUUAU",
+    "TACUUUGU"
+   ],
+   "ru": [
+    "CACUUUGU",
+    "CAGUUUGU",
+    "CACUUUAU",
+    "TACUUUGU"
+   ],
+   "en": [
+    "CACUUUGU",
+    "CAGUUUGU",
+    "CACUUUAU",
+    "TACUUUGU"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNK qanday shaklga ega?",
+   "ru": "Какую форму имеет молекула ДНК?",
+   "en": "What shape does a DNA molecule have?"
+  },
+  "o": {
+   "uz": [
+    "Qo'sh spiral",
+    "Bitta halqa",
+    "Kub",
+    "Yassi disk"
+   ],
+   "ru": [
+    "Двойная спираль",
+    "Одно кольцо",
+    "Куб",
+    "Плоский диск"
+   ],
+   "en": [
+    "A double helix",
+    "A single ring",
+    "A cube",
+    "A flat disc"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani hujayraning qaysi qismi bajaradi: Moddalarning hujayraga kirishi va chiqishini boshqaradi?",
+   "ru": "Какая часть клетки выполняет функцию: Регулирует вход и выход веществ?",
+   "en": "Which part of the cell does this: Controls what enters and leaves the cell?"
+  },
+  "o": {
+   "uz": [
+    "Hujayra membranasi",
+    "Xloroplast",
+    "Golji kompleksi",
+    "Ribosoma"
+   ],
+   "ru": [
+    "Клеточная мембрана",
+    "Хлоропласт",
+    "Комплекс Гольджи",
+    "Рибосома"
+   ],
+   "en": [
+    "Cell membrane",
+    "Chloroplast",
+    "Golgi complex",
+    "Ribosome"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Barglarning yashil rangi qaysi modda tufayli?",
+   "ru": "Благодаря какому веществу листья зелёные?",
+   "en": "Which substance makes leaves green?"
+  },
+  "o": {
+   "uz": [
+    "Xlorofill",
+    "Gemoglobin",
+    "Insulin",
+    "Melanin"
+   ],
+   "ru": [
+    "Хлорофилл",
+    "Гемоглобин",
+    "Инсулин",
+    "Меланин"
+   ],
+   "en": [
+    "Chlorophyll",
+    "Haemoglobin",
+    "Insulin",
+    "Melanin"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNK matritsa zanjiri CCCGCCAC bo'lsa, transkripsiya natijasida hosil bo'ladigan i-RNK qanday bo'ladi?",
+   "ru": "Матричная цепь ДНК: CCCGCCAC. Какая иРНК образуется при транскрипции?",
+   "en": "The DNA template strand is CCCGCCAC. What mRNA is produced by transcription?"
+  },
+  "o": {
+   "uz": [
+    "GGGCGGUG",
+    "GGCCGGUG",
+    "AGGCGGUG",
+    "GGTCGGUG"
+   ],
+   "ru": [
+    "GGGCGGUG",
+    "GGCCGGUG",
+    "AGGCGGUG",
+    "GGTCGGUG"
+   ],
+   "en": [
+    "GGGCGGUG",
+    "GGCCGGUG",
+    "AGGCGGUG",
+    "GGTCGGUG"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: Quturishga qarshi vaksina yaratgan, mikroblar tadqiqotchisi?",
+   "ru": "Кому принадлежит открытие: Создал вакцину против бешенства, исследователь микробов?",
+   "en": "Who is responsible for: Developed the rabies vaccine and studied microbes?"
+  },
+  "o": {
+   "uz": [
+    "Lui Paster",
+    "Ibn Sino",
+    "Karl Linney",
+    "Aleksandr Fleming"
+   ],
+   "ru": [
+    "Луи Пастер",
+    "Ибн Сина",
+    "Карл Линней",
+    "Александр Флеминг"
+   ],
+   "en": [
+    "Louis Pasteur",
+    "Ibn Sina",
+    "Carl Linnaeus",
+    "Alexander Fleming"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Tayanch vazifasini bajaradi va ichki a'zolarni himoya qiladi?",
+   "ru": "Какому органу соответствует функция: Опора тела, защита внутренних органов?",
+   "en": "Which organ does this: Support the body and protect inner organs?"
+  },
+  "o": {
+   "uz": [
+    "Suyaklar",
+    "Yo'g'on ichak",
+    "Ingichka ichak",
+    "Buyrak"
+   ],
+   "ru": [
+    "Кости",
+    "Толстая кишка",
+    "Тонкая кишка",
+    "Почки"
+   ],
+   "en": [
+    "Bones",
+    "Large intestine",
+    "Small intestine",
+    "Kidneys"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Qonni filtrlab, siydik hosil qiladi?",
+   "ru": "Какому органу соответствует функция: Фильтруют кровь, образуют мочу?",
+   "en": "Which organ does this: Filter blood and form urine?"
+  },
+  "o": {
+   "uz": [
+    "Buyrak",
+    "Yo'g'on ichak",
+    "Teri",
+    "Miya"
+   ],
+   "ru": [
+    "Почки",
+    "Толстая кишка",
+    "Кожа",
+    "Мозг"
+   ],
+   "en": [
+    "Kidneys",
+    "Large intestine",
+    "Skin",
+    "Brain"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Uzunligi 9 ta nukleotid bo'lgan i-RNK nechta aminokislotani kodlaydi (har bir kodon — 3 nukleotid)?",
+   "ru": "Сколько аминокислот кодирует иРНК длиной 9 нуклеотидов (кодон — 3 нуклеотида)?",
+   "en": "How many amino acids does an mRNA of 9 nucleotides code for (one codon = 3 nucleotides)?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "4",
+    "9",
+    "2"
+   ],
+   "ru": [
+    "3",
+    "4",
+    "9",
+    "2"
+   ],
+   "en": [
+    "3",
+    "4",
+    "9",
+    "2"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani hujayraning qaysi qismi bajaradi: O'simlik hujayrasiga shakl beradi va mustahkamlaydi?",
+   "ru": "Какая часть клетки выполняет функцию: Придаёт форму и прочность растительной клетке?",
+   "en": "Which part of the cell does this: Gives shape and strength to a plant cell?"
+  },
+  "o": {
+   "uz": [
+    "Hujayra devori",
+    "Mitoxondriya",
+    "Xloroplast",
+    "Lizosoma"
+   ],
+   "ru": [
+    "Клеточная стенка",
+    "Митохондрия",
+    "Хлоропласт",
+    "Лизосома"
+   ],
+   "en": [
+    "Cell wall",
+    "Mitochondrion",
+    "Chloroplast",
+    "Lysosome"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Oziq moddalar qonga so'riladi?",
+   "ru": "Какому органу соответствует функция: Питательные вещества всасываются в кровь?",
+   "en": "Which organ does this: Nutrients are absorbed into the blood?"
+  },
+  "o": {
+   "uz": [
+    "Ingichka ichak",
+    "Jigar",
+    "Oshqozon",
+    "Miya"
+   ],
+   "ru": [
+    "Тонкая кишка",
+    "Печень",
+    "Желудок",
+    "Мозг"
+   ],
+   "en": [
+    "Small intestine",
+    "Liver",
+    "Stomach",
+    "Brain"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hujayrada «Hujayra membranasi» qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет в клетке «Клеточная мембрана»?",
+   "en": "What does the «Cell membrane» do in the cell?"
+  },
+  "o": {
+   "uz": [
+    "Moddalarning hujayraga kirishi va chiqishini boshqaradi",
+    "Irsiy axborot (DNK) saqlanadi",
+    "O'simlik hujayrasiga shakl beradi va mustahkamlaydi",
+    "Oqsil sintezi o'tadi"
+   ],
+   "ru": [
+    "Регулирует вход и выход веществ",
+    "Хранит наследственную информацию (ДНК)",
+    "Придаёт форму и прочность растительной клетке",
+    "Здесь синтезируются белки"
+   ],
+   "en": [
+    "Controls what enters and leaves the cell",
+    "Stores hereditary information (DNA)",
+    "Gives shape and strength to a plant cell",
+    "Protein synthesis occurs here"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ibn Sino qanday kashfiyot yoki ishi bilan mashhur?",
+   "ru": "Чем известен(на) Ибн Сина?",
+   "en": "What is Ibn Sina known for?"
+  },
+  "o": {
+   "uz": [
+    "«Tib qonunlari» asarini yozgan",
+    "O'simlik va hayvonlarni ikki nomli (binar) nomlash tizimini kiritgan",
+    "Hujayrani birinchi bo'lib kuzatgan (1665)",
+    "Biosfera haqidagi ta'limotni yaratgan"
+   ],
+   "ru": [
+    "Написал «Канон врачебной науки»",
+    "Ввёл бинарную номенклатуру растений и животных",
+    "Первым увидел клетку (1665)",
+    "Создал учение о биосфере"
+   ],
+   "en": [
+    "Wrote «The Canon of Medicine»",
+    "Introduced binomial naming of plants and animals",
+    "First observed cells (1665)",
+    "Created the doctrine of the biosphere"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ekologik piramida qoidasiga (10% qoidasi) ko'ra, produsentlarda 1000 kJ energiya bo'lsa, o'txo'r hayvonlarga taxminan qancha energiya o'tadi?",
+   "ru": "По правилу экологической пирамиды (правило 10%): если у продуцентов 1000 кДж энергии, сколько примерно перейдёт к уровню травоядных?",
+   "en": "By the 10% rule of the ecological pyramid, if producers hold 1000 kJ of energy, about how much reaches the herbivores?"
+  },
+  "o": {
+   "uz": [
+    "100 kJ",
+    "1000 kJ",
+    "10 kJ",
+    "200 kJ"
+   ],
+   "ru": [
+    "100 kJ",
+    "1000 kJ",
+    "10 kJ",
+    "200 kJ"
+   ],
+   "en": [
+    "100 kJ",
+    "1000 kJ",
+    "10 kJ",
+    "200 kJ"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ekologik piramida qoidasiga (10% qoidasi) ko'ra, produsentlarda 100000 kJ energiya bo'lsa, o'txo'r hayvonlarga taxminan qancha energiya o'tadi?",
+   "ru": "По правилу экологической пирамиды (правило 10%): если у продуцентов 100000 кДж энергии, сколько примерно перейдёт к уровню травоядных?",
+   "en": "By the 10% rule of the ecological pyramid, if producers hold 100000 kJ of energy, about how much reaches the herbivores?"
+  },
+  "o": {
+   "uz": [
+    "10000 kJ",
+    "100000 kJ",
+    "1000 kJ",
+    "20000 kJ"
+   ],
+   "ru": [
+    "10000 kJ",
+    "100000 kJ",
+    "1000 kJ",
+    "20000 kJ"
+   ],
+   "en": [
+    "10000 kJ",
+    "100000 kJ",
+    "1000 kJ",
+    "20000 kJ"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Robert Guk qanday kashfiyot yoki ishi bilan mashhur?",
+   "ru": "Чем известен(на) Роберт Гук?",
+   "en": "What is Robert Hooke known for?"
+  },
+  "o": {
+   "uz": [
+    "Hujayrani birinchi bo'lib kuzatgan (1665)",
+    "Quturishga qarshi vaksina yaratgan, mikroblar tadqiqotchisi",
+    "Biosfera haqidagi ta'limotni yaratgan",
+    "Tabiiy tanlanish orqali evolyutsiya nazariyasini yaratgan"
+   ],
+   "ru": [
+    "Первым увидел клетку (1665)",
+    "Создал вакцину против бешенства, исследователь микробов",
+    "Создал учение о биосфере",
+    "Создал теорию эволюции путём естественного отбора"
+   ],
+   "en": [
+    "First observed cells (1665)",
+    "Developed the rabies vaccine and studied microbes",
+    "Created the doctrine of the biosphere",
+    "Created the theory of evolution by natural selection"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'pka qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Лёгкие?",
+   "en": "What is the function of Lungs?"
+  },
+  "o": {
+   "uz": [
+    "Gaz almashinuvi (nafas olish) o'tadi",
+    "Suv so'riladi va najas shakllanadi",
+    "O't ishlab chiqaradi va zararli moddalarni zararsizlantiradi",
+    "Tayanch vazifasini bajaradi va ichki a'zolarni himoya qiladi"
+   ],
+   "ru": [
+    "В них происходит газообмен",
+    "Всасывается вода и формируется кал",
+    "Вырабатывает желчь и обезвреживает яды",
+    "Опора тела, защита внутренних органов"
+   ],
+   "en": [
+    "Gas exchange takes place here",
+    "Water is absorbed and waste forms",
+    "Produces bile and neutralises toxins",
+    "Support the body and protect inner organs"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: Shartli reflekslar ta'limotini yaratgan?",
+   "ru": "Кому принадлежит открытие: Создал учение об условных рефлексах?",
+   "en": "Who is responsible for: Created the theory of conditioned reflexes?"
+  },
+  "o": {
+   "uz": [
+    "Ivan Pavlov",
+    "Uotson va Krik",
+    "Charlz Darvin",
+    "Ernst Gekkel"
+   ],
+   "ru": [
+    "Иван Павлов",
+    "Уотсон и Крик",
+    "Чарльз Дарвин",
+    "Эрнст Геккель"
+   ],
+   "en": [
+    "Ivan Pavlov",
+    "Watson and Crick",
+    "Charles Darwin",
+    "Ernst Haeckel"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNKning bir zanjiri ACGTAA bo'lsa, unga komplementar zanjir qanday bo'ladi?",
+   "ru": "Одна цепь ДНК: ACGTAA. Какова комплементарная ей цепь?",
+   "en": "One DNA strand is ACGTAA. What is the complementary strand?"
+  },
+  "o": {
+   "uz": [
+    "TGCATT",
+    "TGCATA",
+    "TACATT",
+    "TGCACT"
+   ],
+   "ru": [
+    "TGCATT",
+    "TGCATA",
+    "TACATT",
+    "TGCACT"
+   ],
+   "en": [
+    "TGCATT",
+    "TGCATA",
+    "TACATT",
+    "TGCACT"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNK molekulasida nechta turdagi nukleotid (azotli asos) bor?",
+   "ru": "Сколько видов азотистых оснований в ДНК?",
+   "en": "How many kinds of nitrogenous bases are in DNA?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "2",
+    "3",
+    "5"
+   ],
+   "ru": [
+    "4",
+    "2",
+    "3",
+    "5"
+   ],
+   "en": [
+    "4",
+    "2",
+    "3",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: DNKning qo'sh spiral tuzilishini aniqlagan (1953)?",
+   "ru": "Кому принадлежит открытие: Определили двойную спираль ДНК (1953)?",
+   "en": "Who is responsible for: Determined the double-helix structure of DNA (1953)?"
+  },
+  "o": {
+   "uz": [
+    "Uotson va Krik",
+    "Lui Paster",
+    "Ivan Pavlov",
+    "Gregor Mendel"
+   ],
+   "ru": [
+    "Уотсон и Крик",
+    "Луи Пастер",
+    "Иван Павлов",
+    "Грегор Мендель"
+   ],
+   "en": [
+    "Watson and Crick",
+    "Louis Pasteur",
+    "Ivan Pavlov",
+    "Gregor Mendel"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Issiqxona effektini kuchaytiruvchi asosiy gaz qaysi?",
+   "ru": "Какой газ главным образом усиливает парниковый эффект?",
+   "en": "Which gas mainly strengthens the greenhouse effect?"
+  },
+  "o": {
+   "uz": [
+    "Karbonat angidrid",
+    "Argon",
+    "Geliy",
+    "Neon"
+   ],
+   "ru": [
+    "Углекислый газ",
+    "Аргон",
+    "Гелий",
+    "Неон"
+   ],
+   "en": [
+    "Carbon dioxide",
+    "Argon",
+    "Helium",
+    "Neon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: Tabiiy tanlanish orqali evolyutsiya nazariyasini yaratgan?",
+   "ru": "Кому принадлежит открытие: Создал теорию эволюции путём естественного отбора?",
+   "en": "Who is responsible for: Created the theory of evolution by natural selection?"
+  },
+  "o": {
+   "uz": [
+    "Charlz Darvin",
+    "Gregor Mendel",
+    "Vladimir Vernadskiy",
+    "Aleksandr Fleming"
+   ],
+   "ru": [
+    "Чарльз Дарвин",
+    "Грегор Мендель",
+    "Владимир Вернадский",
+    "Александр Флеминг"
+   ],
+   "en": [
+    "Charles Darwin",
+    "Gregor Mendel",
+    "Vladimir Vernadsky",
+    "Alexander Fleming"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gemoglobin qaysi hujayralarda bo'ladi?",
+   "ru": "В каких клетках содержится гемоглобин?",
+   "en": "In which cells is haemoglobin found?"
+  },
+  "o": {
+   "uz": [
+    "Eritrotsitlarda",
+    "Leykotsitlarda",
+    "Neyronlarda",
+    "Mushak hujayralarida"
+   ],
+   "ru": [
+    "В эритроцитах",
+    "В лейкоцитах",
+    "В нейронах",
+    "В мышечных клетках"
+   ],
+   "en": [
+    "In red blood cells",
+    "In white blood cells",
+    "In neurons",
+    "In muscle cells"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "DNKning bir zanjiri CTAAGCAT bo'lsa, unga komplementar zanjir qanday bo'ladi?",
+   "ru": "Одна цепь ДНК: CTAAGCAT. Какова комплементарная ей цепь?",
+   "en": "One DNA strand is CTAAGCAT. What is the complementary strand?"
+  },
+  "o": {
+   "uz": [
+    "GATTCGTA",
+    "CATTCGTA",
+    "GATTCTTA",
+    "GACTCGTA"
+   ],
+   "ru": [
+    "GATTCGTA",
+    "CATTCGTA",
+    "GATTCTTA",
+    "GACTCGTA"
+   ],
+   "en": [
+    "GATTCGTA",
+    "CATTCGTA",
+    "GATTCTTA",
+    "GACTCGTA"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ekologik piramida qoidasiga (10% qoidasi) ko'ra, produsentlarda 20000 kJ energiya bo'lsa, o'txo'r hayvonlarga taxminan qancha energiya o'tadi?",
+   "ru": "По правилу экологической пирамиды (правило 10%): если у продуцентов 20000 кДж энергии, сколько примерно перейдёт к уровню травоядных?",
+   "en": "By the 10% rule of the ecological pyramid, if producers hold 20000 kJ of energy, about how much reaches the herbivores?"
+  },
+  "o": {
+   "uz": [
+    "2000 kJ",
+    "20000 kJ",
+    "200 kJ",
+    "4000 kJ"
+   ],
+   "ru": [
+    "2000 kJ",
+    "20000 kJ",
+    "200 kJ",
+    "4000 kJ"
+   ],
+   "en": [
+    "2000 kJ",
+    "20000 kJ",
+    "200 kJ",
+    "4000 kJ"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi organ qondagi shakar miqdorini tartibga soluvchi insulinni ishlab chiqaradi?",
+   "ru": "Какой орган вырабатывает инсулин, регулирующий сахар в крови?",
+   "en": "Which organ produces insulin, which regulates blood sugar?"
+  },
+  "o": {
+   "uz": [
+    "Me'da osti bezi",
+    "Jigar",
+    "Buyrak",
+    "Taloq"
+   ],
+   "ru": [
+    "Поджелудочная железа",
+    "Печень",
+    "Почки",
+    "Селезёнка"
+   ],
+   "en": [
+    "Pancreas",
+    "Liver",
+    "Kidneys",
+    "Spleen"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Odam hujayralarida nechta xromosoma bor (jinsiy bo'lmagan hujayralarda)?",
+   "ru": "Сколько хромосом в соматической клетке человека?",
+   "en": "How many chromosomes are in a human body cell?"
+  },
+  "o": {
+   "uz": [
+    "46",
+    "23",
+    "48",
+    "44"
+   ],
+   "ru": [
+    "46",
+    "23",
+    "48",
+    "44"
+   ],
+   "en": [
+    "46",
+    "23",
+    "48",
+    "44"
+   ]
+  },
+  "a": 0
+ }
+]

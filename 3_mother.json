@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Qaysi so'z gap o'rtasida bosh harf bilan yozilishi kerak?",
+   "ru": "Какое слово в середине предложения нужно писать с заглавной буквы?",
+   "en": "Which word must be written with a capital letter in the middle of a sentence?"
+  },
+  "o": {
+   "uz": [
+    "malika",
+    "daryo",
+    "bola",
+    "uy"
+   ],
+   "ru": [
+    "malika",
+    "daryo",
+    "bola",
+    "uy"
+   ],
+   "en": [
+    "malika",
+    "daryo",
+    "bola",
+    "uy"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z gap o'rtasida bosh harf bilan yozilishi kerak?",
+   "ru": "Какое слово в середине предложения нужно писать с заглавной буквы?",
+   "en": "Which word must be written with a capital letter in the middle of a sentence?"
+  },
+  "o": {
+   "uz": [
+    "samarqand",
+    "qishloq",
+    "bola",
+    "shahar"
+   ],
+   "ru": [
+    "samarqand",
+    "qishloq",
+    "bola",
+    "shahar"
+   ],
+   "en": [
+    "samarqand",
+    "qishloq",
+    "bola",
+    "shahar"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«o'rtoq» so'zida nechta unli tovush (harf) bor?",
+   "ru": "Сколько гласных звуков (букв) в слове «o'rtoq»?",
+   "en": "How many vowels are there in the word «o'rtoq»?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qimmat» so'zining antonimi (qarama-qarshi ma'noli so'zi) qaysi?",
+   "ru": "Какое слово — антоним к слову «qimmat»?",
+   "en": "Which word is the antonym (opposite) of «qimmat»?"
+  },
+  "o": {
+   "uz": [
+    "arzon",
+    "yomon",
+    "uzoq",
+    "sekin"
+   ],
+   "ru": [
+    "arzon",
+    "yomon",
+    "uzoq",
+    "sekin"
+   ],
+   "en": [
+    "arzon",
+    "yomon",
+    "uzoq",
+    "sekin"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Son qanday so'roqlarga javob beradi?",
+   "ru": "На какие вопросы отвечает числительное?",
+   "en": "Which questions does a numeral answer?"
+  },
+  "o": {
+   "uz": [
+    "Necha? nechta? nechanchi?",
+    "Kim? nima?",
+    "Qanday?",
+    "Nima qildi?"
+   ],
+   "ru": [
+    "Сколько? который по счёту?",
+    "Кто? что?",
+    "Какой?",
+    "Что сделал?"
+   ],
+   "en": [
+    "How many? which in order?",
+    "Who? what?",
+    "What kind?",
+    "What did (he) do?"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«odam» so'zining ko'plik shakli qaysi?",
+   "ru": "Какая форма множественного числа у слова «odam»?",
+   "en": "Which is the plural form of the word «odam»?"
+  },
+  "o": {
+   "uz": [
+    "odamlar",
+    "odamler",
+    "odamar",
+    "odamnar"
+   ],
+   "ru": [
+    "odamlar",
+    "odamler",
+    "odamar",
+    "odamnar"
+   ],
+   "en": [
+    "odamlar",
+    "odamler",
+    "odamar",
+    "odamnar"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z to'g'ri yozilgan?",
+   "ru": "Какое слово написано правильно?",
+   "en": "Which word is spelled correctly?"
+  },
+  "o": {
+   "uz": [
+    "chiroyli",
+    "chhiroyli",
+    "churoyli",
+    "chirolyi"
+   ],
+   "ru": [
+    "chiroyli",
+    "chhiroyli",
+    "churoyli",
+    "chirolyi"
+   ],
+   "en": [
+    "chiroyli",
+    "chhiroyli",
+    "churoyli",
+    "chirolyi"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tog'» so'zida nechta unli tovush (harf) bor?",
+   "ru": "Сколько гласных звуков (букв) в слове «tog'»?",
+   "en": "How many vowels are there in the word «tog'»?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "ru": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "en": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri sifat (qanday? qaysi?)?",
+   "ru": "Какое из слов — имя прилагательное (какой? который?)?",
+   "en": "Which of these words is an adjective (answers «what kind?»)?"
+  },
+  "o": {
+   "uz": [
+    "yaxshi",
+    "ko'cha",
+    "kulmoq",
+    "shahar"
+   ],
+   "ru": [
+    "yaxshi",
+    "ko'cha",
+    "kulmoq",
+    "shahar"
+   ],
+   "en": [
+    "yaxshi",
+    "ko'cha",
+    "kulmoq",
+    "shahar"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«uy» so'zida nechta unli tovush (harf) bor?",
+   "ru": "Сколько гласных звуков (букв) в слове «uy»?",
+   "en": "How many vowels are there in the word «uy»?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "ru": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "en": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qalam» so'zining ko'plik shakli qaysi?",
+   "ru": "Какая форма множественного числа у слова «qalam»?",
+   "en": "Which is the plural form of the word «qalam»?"
+  },
+  "o": {
+   "uz": [
+    "qalamlar",
+    "qalamar",
+    "qalamlir",
+    "qalamlor"
+   ],
+   "ru": [
+    "qalamlar",
+    "qalamar",
+    "qalamlir",
+    "qalamlor"
+   ],
+   "en": [
+    "qalamlar",
+    "qalamar",
+    "qalamlir",
+    "qalamlor"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri sifat (qanday? qaysi?)?",
+   "ru": "Какое из слов — имя прилагательное (какой? который?)?",
+   "en": "Which of these words is an adjective (answers «what kind?»)?"
+  },
+  "o": {
+   "uz": [
+    "yengil",
+    "shahar",
+    "yugurmoq",
+    "o'qituvchi"
+   ],
+   "ru": [
+    "yengil",
+    "shahar",
+    "yugurmoq",
+    "o'qituvchi"
+   ],
+   "en": [
+    "yengil",
+    "shahar",
+    "yugurmoq",
+    "o'qituvchi"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z to'g'ri yozilgan?",
+   "ru": "Какое слово написано правильно?",
+   "en": "Which word is spelled correctly?"
+  },
+  "o": {
+   "uz": [
+    "bahor",
+    "bihor",
+    "bahir",
+    "buhor"
+   ],
+   "ru": [
+    "bahor",
+    "bihor",
+    "bahir",
+    "buhor"
+   ],
+   "en": [
+    "bahor",
+    "bihor",
+    "bahir",
+    "buhor"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z gap o'rtasida bosh harf bilan yozilishi kerak?",
+   "ru": "Какое слово в середине предложения нужно писать с заглавной буквы?",
+   "en": "Which word must be written with a capital letter in the middle of a sentence?"
+  },
+  "o": {
+   "uz": [
+    "chorvoq",
+    "bog'",
+    "bola",
+    "tog'"
+   ],
+   "ru": [
+    "chorvoq",
+    "bog'",
+    "bola",
+    "tog'"
+   ],
+   "en": [
+    "chorvoq",
+    "bog'",
+    "bola",
+    "tog'"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri sifat (qanday? qaysi?)?",
+   "ru": "Какое из слов — имя прилагательное (какой? который?)?",
+   "en": "Which of these words is an adjective (answers «what kind?»)?"
+  },
+  "o": {
+   "uz": [
+    "yomon",
+    "yugurmoq",
+    "qishloq",
+    "kulmoq"
+   ],
+   "ru": [
+    "yomon",
+    "yugurmoq",
+    "qishloq",
+    "kulmoq"
+   ],
+   "en": [
+    "yomon",
+    "yugurmoq",
+    "qishloq",
+    "kulmoq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qishloq» so'zining ko'plik shakli qaysi?",
+   "ru": "Какая форма множественного числа у слова «qishloq»?",
+   "en": "Which is the plural form of the word «qishloq»?"
+  },
+  "o": {
+   "uz": [
+    "qishloqlar",
+    "qishloqlor",
+    "qishloqlir",
+    "qishloqar"
+   ],
+   "ru": [
+    "qishloqlar",
+    "qishloqlor",
+    "qishloqlir",
+    "qishloqar"
+   ],
+   "en": [
+    "qishloqlar",
+    "qishloqlor",
+    "qishloqlir",
+    "qishloqar"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«kun» so'zining antonimi (qarama-qarshi ma'noli so'zi) qaysi?",
+   "ru": "Какое слово — антоним к слову «kun»?",
+   "en": "Which word is the antonym (opposite) of «kun»?"
+  },
+  "o": {
+   "uz": [
+    "tun",
+    "arzon",
+    "oriq",
+    "kambag'al"
+   ],
+   "ru": [
+    "tun",
+    "arzon",
+    "oriq",
+    "kambag'al"
+   ],
+   "en": [
+    "tun",
+    "arzon",
+    "oriq",
+    "kambag'al"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«daryo» so'zining ko'plik shakli qaysi?",
+   "ru": "Какая форма множественного числа у слова «daryo»?",
+   "en": "Which is the plural form of the word «daryo»?"
+  },
+  "o": {
+   "uz": [
+    "daryolar",
+    "daryonar",
+    "daryolor",
+    "daryolir"
+   ],
+   "ru": [
+    "daryolar",
+    "daryonar",
+    "daryolor",
+    "daryolir"
+   ],
+   "en": [
+    "daryolar",
+    "daryonar",
+    "daryolor",
+    "daryolir"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri fe'l (nima qilmoq?)?",
+   "ru": "Какое из слов — глагол (что делать?)?",
+   "en": "Which of these words is a verb (answers «what to do?»)?"
+  },
+  "o": {
+   "uz": [
+    "kelmoq",
+    "olma",
+    "achchiq",
+    "daryo"
+   ],
+   "ru": [
+    "kelmoq",
+    "olma",
+    "achchiq",
+    "daryo"
+   ],
+   "en": [
+    "kelmoq",
+    "olma",
+    "achchiq",
+    "daryo"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«kitob» so'zining ko'plik shakli qaysi?",
+   "ru": "Какая форма множественного числа у слова «kitob»?",
+   "en": "Which is the plural form of the word «kitob»?"
+  },
+  "o": {
+   "uz": [
+    "kitoblar",
+    "kitoblir",
+    "kitoblor",
+    "kitobnar"
+   ],
+   "ru": [
+    "kitoblar",
+    "kitoblir",
+    "kitoblor",
+    "kitobnar"
+   ],
+   "en": [
+    "kitoblar",
+    "kitoblir",
+    "kitoblor",
+    "kitobnar"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri fe'l (nima qilmoq?)?",
+   "ru": "Какое из слов — глагол (что делать?)?",
+   "en": "Which of these words is a verb (answers «what to do?»)?"
+  },
+  "o": {
+   "uz": [
+    "chizmoq",
+    "suv",
+    "stol",
+    "oq"
+   ],
+   "ru": [
+    "chizmoq",
+    "suv",
+    "stol",
+    "oq"
+   ],
+   "en": [
+    "chizmoq",
+    "suv",
+    "stol",
+    "oq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri sifat (qanday? qaysi?)?",
+   "ru": "Какое из слов — имя прилагательное (какой? который?)?",
+   "en": "Which of these words is an adjective (answers «what kind?»)?"
+  },
+  "o": {
+   "uz": [
+    "uzun",
+    "mashina",
+    "kitob",
+    "stol"
+   ],
+   "ru": [
+    "uzun",
+    "mashina",
+    "kitob",
+    "stol"
+   ],
+   "en": [
+    "uzun",
+    "mashina",
+    "kitob",
+    "stol"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi harf undosh tovushni bildiradi?",
+   "ru": "Какая буква обозначает согласный звук?",
+   "en": "Which letter stands for a consonant sound?"
+  },
+  "o": {
+   "uz": [
+    "s",
+    "i",
+    "e",
+    "o"
+   ],
+   "ru": [
+    "s",
+    "i",
+    "e",
+    "o"
+   ],
+   "en": [
+    "s",
+    "i",
+    "e",
+    "o"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«bilim» so'zida nechta unli tovush (harf) bor?",
+   "ru": "Сколько гласных звуков (букв) в слове «bilim»?",
+   "en": "How many vowels are there in the word «bilim»?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«yozuv» so'zida nechta bo'g'in bor? (bo'g'in soni unlilar soniga teng)",
+   "ru": "Сколько слогов в слове «yozuv»? (число слогов равно числу гласных)",
+   "en": "How many syllables does the word «yozuv» have? (the number of syllables equals the number of vowels)"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi harf undosh tovushni bildiradi?",
+   "ru": "Какая буква обозначает согласный звук?",
+   "en": "Which letter stands for a consonant sound?"
+  },
+  "o": {
+   "uz": [
+    "x",
+    "e",
+    "i",
+    "o'"
+   ],
+   "ru": [
+    "x",
+    "e",
+    "i",
+    "o'"
+   ],
+   "en": [
+    "x",
+    "e",
+    "i",
+    "o'"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«piyoz» so'zida nechta bo'g'in bor? (bo'g'in soni unlilar soniga teng)",
+   "ru": "Сколько слогов в слове «piyoz»? (число слогов равно числу гласных)",
+   "en": "How many syllables does the word «piyoz» have? (the number of syllables equals the number of vowels)"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ko'cha» so'zida nechta unli tovush (harf) bor?",
+   "ru": "Сколько гласных звуков (букв) в слове «ko'cha»?",
+   "en": "How many vowels are there in the word «ko'cha»?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«baliq» so'zida nechta unli tovush (harf) bor?",
+   "ru": "Сколько гласных звуков (букв) в слове «baliq»?",
+   "en": "How many vowels are there in the word «baliq»?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z to'g'ri yozilgan?",
+   "ru": "Какое слово написано правильно?",
+   "en": "Which word is spelled correctly?"
+  },
+  "o": {
+   "uz": [
+    "xalq",
+    "xaq",
+    "xlq",
+    "xolq"
+   ],
+   "ru": [
+    "xalq",
+    "xaq",
+    "xlq",
+    "xolq"
+   ],
+   "en": [
+    "xalq",
+    "xaq",
+    "xlq",
+    "xolq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qishloq» so'zida nechta harf bor? (sh, ch, o', g' bir harf hisoblanadi)",
+   "ru": "Сколько букв в слове «qishloq»? (sh, ch, o', g' считаются одной буквой)",
+   "en": "How many letters are in the word «qishloq»? (sh, ch, o', g' count as one letter)"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "7",
+    "5",
+    "8"
+   ],
+   "ru": [
+    "6",
+    "7",
+    "5",
+    "8"
+   ],
+   "en": [
+    "6",
+    "7",
+    "5",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'g'in nechta unlidan iborat bo'ladi?",
+   "ru": "Сколько гласных в одном слоге?",
+   "en": "How many vowels does one syllable contain?"
+  },
+  "o": {
+   "uz": [
+    "Bitta",
+    "Ikkita",
+    "Uchta",
+    "Hech nechta"
+   ],
+   "ru": [
+    "Одна",
+    "Две",
+    "Три",
+    "Ни одной"
+   ],
+   "en": [
+    "One",
+    "Two",
+    "Three",
+    "None"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«uy» so'zida nechta bo'g'in bor? (bo'g'in soni unlilar soniga teng)",
+   "ru": "Сколько слогов в слове «uy»? (число слогов равно числу гласных)",
+   "en": "How many syllables does the word «uy» have? (the number of syllables equals the number of vowels)"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "ru": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "en": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri sifat (qanday? qaysi?)?",
+   "ru": "Какое из слов — имя прилагательное (какой? который?)?",
+   "en": "Which of these words is an adjective (answers «what kind?»)?"
+  },
+  "o": {
+   "uz": [
+    "og'ir",
+    "kelmoq",
+    "qishloq",
+    "yugurmoq"
+   ],
+   "ru": [
+    "og'ir",
+    "kelmoq",
+    "qishloq",
+    "yugurmoq"
+   ],
+   "en": [
+    "og'ir",
+    "kelmoq",
+    "qishloq",
+    "yugurmoq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«o'quvchi» so'zida nechta unli tovush (harf) bor?",
+   "ru": "Сколько гласных звуков (букв) в слове «o'quvchi»?",
+   "en": "How many vowels are there in the word «o'quvchi»?"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "ru": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "en": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi harf undosh tovushni bildiradi?",
+   "ru": "Какая буква обозначает согласный звук?",
+   "en": "Which letter stands for a consonant sound?"
+  },
+  "o": {
+   "uz": [
+    "z",
+    "o",
+    "u",
+    "o'"
+   ],
+   "ru": [
+    "z",
+    "o",
+    "u",
+    "o'"
+   ],
+   "en": [
+    "z",
+    "o",
+    "u",
+    "o'"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ot qanday so'roqlarga javob beradi?",
+   "ru": "На какие вопросы отвечает имя существительное?",
+   "en": "Which questions does a noun answer?"
+  },
+  "o": {
+   "uz": [
+    "Kim? nima?",
+    "Qanday? qaysi?",
+    "Nima qildi?",
+    "Necha?"
+   ],
+   "ru": [
+    "Кто? что?",
+    "Какой? который?",
+    "Что сделал?",
+    "Сколько?"
+   ],
+   "en": [
+    "Who? what?",
+    "What kind? which?",
+    "What did (he) do?",
+    "How many?"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sigir» so'zida nechta harf bor? (sh, ch, o', g' bir harf hisoblanadi)",
+   "ru": "Сколько букв в слове «sigir»? (sh, ch, o', g' считаются одной буквой)",
+   "en": "How many letters are in the word «sigir»? (sh, ch, o', g' count as one letter)"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ],
+   "ru": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ],
+   "en": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "So'roq gap oxiriga qanday tinish belgisi qo'yiladi?",
+   "ru": "Какой знак препинания ставится в конце вопросительного предложения?",
+   "en": "Which punctuation mark ends a question?"
+  },
+  "o": {
+   "uz": [
+    "So'roq belgisi",
+    "Nuqta",
+    "Undov belgisi",
+    "Vergul"
+   ],
+   "ru": [
+    "Вопросительный знак",
+    "Точка",
+    "Восклицательный знак",
+    "Запятая"
+   ],
+   "en": [
+    "A question mark",
+    "A full stop",
+    "An exclamation mark",
+    "A comma"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Maqol qanday janr hisoblanadi?",
+   "ru": "К какому жанру относится пословица?",
+   "en": "What genre is a proverb?"
+  },
+  "o": {
+   "uz": [
+    "Xalq og'zaki ijodi",
+    "Roman",
+    "Doston",
+    "Drama"
+   ],
+   "ru": [
+    "Устное народное творчество",
+    "Роман",
+    "Поэма",
+    "Драма"
+   ],
+   "en": [
+    "Folklore",
+    "A novel",
+    "An epic poem",
+    "A drama"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri sifat (qanday? qaysi?)?",
+   "ru": "Какое из слов — имя прилагательное (какой? который?)?",
+   "en": "Which of these words is an adjective (answers «what kind?»)?"
+  },
+  "o": {
+   "uz": [
+    "past",
+    "mashina",
+    "o'ynamoq",
+    "o'qimoq"
+   ],
+   "ru": [
+    "past",
+    "mashina",
+    "o'ynamoq",
+    "o'qimoq"
+   ],
+   "en": [
+    "past",
+    "mashina",
+    "o'ynamoq",
+    "o'qimoq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi harf undosh tovushni bildiradi?",
+   "ru": "Какая буква обозначает согласный звук?",
+   "en": "Which letter stands for a consonant sound?"
+  },
+  "o": {
+   "uz": [
+    "b",
+    "i",
+    "o'",
+    "u"
+   ],
+   "ru": [
+    "b",
+    "i",
+    "o'",
+    "u"
+   ],
+   "en": [
+    "b",
+    "i",
+    "o'",
+    "u"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«non» so'zida nechta unli tovush (harf) bor?",
+   "ru": "Сколько гласных звуков (букв) в слове «non»?",
+   "en": "How many vowels are there in the word «non»?"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "ru": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "en": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tez» so'zining antonimi (qarama-qarshi ma'noli so'zi) qaysi?",
+   "ru": "Какое слово — антоним к слову «tez»?",
+   "en": "Which word is the antonym (opposite) of «tez»?"
+  },
+  "o": {
+   "uz": [
+    "sekin",
+    "achchiq",
+    "qora",
+    "sovuq"
+   ],
+   "ru": [
+    "sekin",
+    "achchiq",
+    "qora",
+    "sovuq"
+   ],
+   "en": [
+    "sekin",
+    "achchiq",
+    "qora",
+    "sovuq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z gap o'rtasida bosh harf bilan yozilishi kerak?",
+   "ru": "Какое слово в середине предложения нужно писать с заглавной буквы?",
+   "en": "Which word must be written with a capital letter in the middle of a sentence?"
+  },
+  "o": {
+   "uz": [
+    "ali",
+    "maktab",
+    "bola",
+    "ko'l"
+   ],
+   "ru": [
+    "ali",
+    "maktab",
+    "bola",
+    "ko'l"
+   ],
+   "en": [
+    "ali",
+    "maktab",
+    "bola",
+    "ko'l"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«mehmon» so'zining ko'plik shakli qaysi?",
+   "ru": "Какая форма множественного числа у слова «mehmon»?",
+   "en": "Which is the plural form of the word «mehmon»?"
+  },
+  "o": {
+   "uz": [
+    "mehmonlar",
+    "mehmonler",
+    "mehmonnar",
+    "mehmonar"
+   ],
+   "ru": [
+    "mehmonlar",
+    "mehmonler",
+    "mehmonnar",
+    "mehmonar"
+   ],
+   "en": [
+    "mehmonlar",
+    "mehmonler",
+    "mehmonnar",
+    "mehmonar"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sigir» so'zida nechta bo'g'in bor? (bo'g'in soni unlilar soniga teng)",
+   "ru": "Сколько слогов в слове «sigir»? (число слогов равно числу гласных)",
+   "en": "How many syllables does the word «sigir» have? (the number of syllables equals the number of vowels)"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«daftar» so'zida nechta harf bor? (sh, ch, o', g' bir harf hisoblanadi)",
+   "ru": "Сколько букв в слове «daftar»? (sh, ch, o', g' считаются одной буквой)",
+   "en": "How many letters are in the word «daftar»? (sh, ch, o', g' count as one letter)"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "7",
+    "5",
+    "8"
+   ],
+   "ru": [
+    "6",
+    "7",
+    "5",
+    "8"
+   ],
+   "en": [
+    "6",
+    "7",
+    "5",
+    "8"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gap nimadan tuziladi?",
+   "ru": "Из чего состоит предложение?",
+   "en": "What is a sentence made of?"
+  },
+  "o": {
+   "uz": [
+    "So'zlardan",
+    "Faqat harflardan",
+    "Faqat bo'g'inlardan",
+    "Raqamlardan"
+   ],
+   "ru": [
+    "Из слов",
+    "Только из букв",
+    "Только из слогов",
+    "Из цифр"
+   ],
+   "en": [
+    "Words",
+    "Only letters",
+    "Only syllables",
+    "Numbers"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Undov gap oxiriga qanday tinish belgisi qo'yiladi?",
+   "ru": "Какой знак препинания ставится в конце восклицательного предложения?",
+   "en": "Which punctuation mark ends an exclamation?"
+  },
+  "o": {
+   "uz": [
+    "Undov belgisi",
+    "Nuqta",
+    "So'roq belgisi",
+    "Ikki nuqta"
+   ],
+   "ru": [
+    "Восклицательный знак",
+    "Точка",
+    "Вопросительный знак",
+    "Двоеточие"
+   ],
+   "en": [
+    "An exclamation mark",
+    "A full stop",
+    "A question mark",
+    "A colon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«gul» so'zida nechta harf bor? (sh, ch, o', g' bir harf hisoblanadi)",
+   "ru": "Сколько букв в слове «gul»? (sh, ch, o', g' считаются одной буквой)",
+   "en": "How many letters are in the word «gul»? (sh, ch, o', g' count as one letter)"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "ru": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "en": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z to'g'ri yozilgan?",
+   "ru": "Какое слово написано правильно?",
+   "en": "Which word is spelled correctly?"
+  },
+  "o": {
+   "uz": [
+    "tarvuz",
+    "tarrvuz",
+    "tarvaz",
+    "trvuz"
+   ],
+   "ru": [
+    "tarvuz",
+    "tarrvuz",
+    "tarvaz",
+    "trvuz"
+   ],
+   "en": [
+    "tarvuz",
+    "tarrvuz",
+    "tarvaz",
+    "trvuz"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi harf unli tovushni bildiradi?",
+   "ru": "Какая буква обозначает гласный звук?",
+   "en": "Which letter stands for a vowel sound?"
+  },
+  "o": {
+   "uz": [
+    "u",
+    "b",
+    "y",
+    "m"
+   ],
+   "ru": [
+    "u",
+    "b",
+    "y",
+    "m"
+   ],
+   "en": [
+    "u",
+    "b",
+    "y",
+    "m"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z gap o'rtasida bosh harf bilan yozilishi kerak?",
+   "ru": "Какое слово в середине предложения нужно писать с заглавной буквы?",
+   "en": "Which word must be written with a capital letter in the middle of a sentence?"
+  },
+  "o": {
+   "uz": [
+    "sirdaryo",
+    "ko'cha",
+    "tog'",
+    "uy"
+   ],
+   "ru": [
+    "sirdaryo",
+    "ko'cha",
+    "tog'",
+    "uy"
+   ],
+   "en": [
+    "sirdaryo",
+    "ko'cha",
+    "tog'",
+    "uy"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z to'g'ri yozilgan?",
+   "ru": "Какое слово написано правильно?",
+   "en": "Which word is spelled correctly?"
+  },
+  "o": {
+   "uz": [
+    "yozuv",
+    "youzv",
+    "youv",
+    "yozov"
+   ],
+   "ru": [
+    "yozuv",
+    "youzv",
+    "youv",
+    "yozov"
+   ],
+   "en": [
+    "yozuv",
+    "youzv",
+    "youv",
+    "yozov"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri ot (kim? nima? so'rog'iga javob beradi)?",
+   "ru": "Какое из слов — имя существительное (отвечает на вопросы кто? что?)?",
+   "en": "Which of these words is a noun (answers «who? what?»)?"
+  },
+  "o": {
+   "uz": [
+    "ko'cha",
+    "og'ir",
+    "chiroyli",
+    "qisqa"
+   ],
+   "ru": [
+    "ko'cha",
+    "og'ir",
+    "chiroyli",
+    "qisqa"
+   ],
+   "en": [
+    "ko'cha",
+    "og'ir",
+    "chiroyli",
+    "qisqa"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi harf undosh tovushni bildiradi?",
+   "ru": "Какая буква обозначает согласный звук?",
+   "en": "Which letter stands for a consonant sound?"
+  },
+  "o": {
+   "uz": [
+    "l",
+    "e",
+    "i",
+    "a"
+   ],
+   "ru": [
+    "l",
+    "e",
+    "i",
+    "a"
+   ],
+   "en": [
+    "l",
+    "e",
+    "i",
+    "a"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ochiq» so'zining antonimi (qarama-qarshi ma'noli so'zi) qaysi?",
+   "ru": "Какое слово — антоним к слову «ochiq»?",
+   "en": "Which word is the antonym (opposite) of «ochiq»?"
+  },
+  "o": {
+   "uz": [
+    "yopiq",
+    "arzon",
+    "iflos",
+    "eski"
+   ],
+   "ru": [
+    "yopiq",
+    "arzon",
+    "iflos",
+    "eski"
+   ],
+   "en": [
+    "yopiq",
+    "arzon",
+    "iflos",
+    "eski"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«daryo» so'zida nechta bo'g'in bor? (bo'g'in soni unlilar soniga teng)",
+   "ru": "Сколько слогов в слове «daryo»? (число слогов равно числу гласных)",
+   "en": "How many syllables does the word «daryo» have? (the number of syllables equals the number of vowels)"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi harf undosh tovushni bildiradi?",
+   "ru": "Какая буква обозначает согласный звук?",
+   "en": "Which letter stands for a consonant sound?"
+  },
+  "o": {
+   "uz": [
+    "d",
+    "u",
+    "o'",
+    "a"
+   ],
+   "ru": [
+    "d",
+    "u",
+    "o'",
+    "a"
+   ],
+   "en": [
+    "d",
+    "u",
+    "o'",
+    "a"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri fe'l (nima qilmoq?)?",
+   "ru": "Какое из слов — глагол (что делать?)?",
+   "en": "Which of these words is a verb (answers «what to do?»)?"
+  },
+  "o": {
+   "uz": [
+    "tinglamoq",
+    "yengil",
+    "ko'cha",
+    "baland"
+   ],
+   "ru": [
+    "tinglamoq",
+    "yengil",
+    "ko'cha",
+    "baland"
+   ],
+   "en": [
+    "tinglamoq",
+    "yengil",
+    "ko'cha",
+    "baland"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri fe'l (nima qilmoq?)?",
+   "ru": "Какое из слов — глагол (что делать?)?",
+   "en": "Which of these words is a verb (answers «what to do?»)?"
+  },
+  "o": {
+   "uz": [
+    "uxlamoq",
+    "tog'",
+    "daraxt",
+    "shirin"
+   ],
+   "ru": [
+    "uxlamoq",
+    "tog'",
+    "daraxt",
+    "shirin"
+   ],
+   "en": [
+    "uxlamoq",
+    "tog'",
+    "daraxt",
+    "shirin"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tovuq» so'zida nechta unli tovush (harf) bor?",
+   "ru": "Сколько гласных звуков (букв) в слове «tovuq»?",
+   "en": "How many vowels are there in the word «tovuq»?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri sifat (qanday? qaysi?)?",
+   "ru": "Какое из слов — имя прилагательное (какой? который?)?",
+   "en": "Which of these words is an adjective (answers «what kind?»)?"
+  },
+  "o": {
+   "uz": [
+    "qisqa",
+    "ishlamoq",
+    "aytmoq",
+    "maktab"
+   ],
+   "ru": [
+    "qisqa",
+    "ishlamoq",
+    "aytmoq",
+    "maktab"
+   ],
+   "en": [
+    "qisqa",
+    "ishlamoq",
+    "aytmoq",
+    "maktab"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi harf unli tovushni bildiradi?",
+   "ru": "Какая буква обозначает гласный звук?",
+   "en": "Which letter stands for a vowel sound?"
+  },
+  "o": {
+   "uz": [
+    "o'",
+    "z",
+    "p",
+    "f"
+   ],
+   "ru": [
+    "o'",
+    "z",
+    "p",
+    "f"
+   ],
+   "en": [
+    "o'",
+    "z",
+    "p",
+    "f"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qush» so'zining ko'plik shakli qaysi?",
+   "ru": "Какая форма множественного числа у слова «qush»?",
+   "en": "Which is the plural form of the word «qush»?"
+  },
+  "o": {
+   "uz": [
+    "qushlar",
+    "qushlir",
+    "qushlor",
+    "qushler"
+   ],
+   "ru": [
+    "qushlar",
+    "qushlir",
+    "qushlor",
+    "qushler"
+   ],
+   "en": [
+    "qushlar",
+    "qushlir",
+    "qushlor",
+    "qushler"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z to'g'ri yozilgan?",
+   "ru": "Какое слово написано правильно?",
+   "en": "Which word is spelled correctly?"
+  },
+  "o": {
+   "uz": [
+    "savol",
+    "saol",
+    "savil",
+    "saval"
+   ],
+   "ru": [
+    "savol",
+    "saol",
+    "savil",
+    "saval"
+   ],
+   "en": [
+    "savol",
+    "saol",
+    "savil",
+    "saval"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z gap o'rtasida bosh harf bilan yozilishi kerak?",
+   "ru": "Какое слово в середине предложения нужно писать с заглавной буквы?",
+   "en": "Which word must be written with a capital letter in the middle of a sentence?"
+  },
+  "o": {
+   "uz": [
+    "qarshi",
+    "bola",
+    "o'qituvchi",
+    "shahar"
+   ],
+   "ru": [
+    "qarshi",
+    "bola",
+    "o'qituvchi",
+    "shahar"
+   ],
+   "en": [
+    "qarshi",
+    "bola",
+    "o'qituvchi",
+    "shahar"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z to'g'ri yozilgan?",
+   "ru": "Какое слово написано правильно?",
+   "en": "Which word is spelled correctly?"
+  },
+  "o": {
+   "uz": [
+    "paxta",
+    "pexta",
+    "paxte",
+    "puxta"
+   ],
+   "ru": [
+    "paxta",
+    "pexta",
+    "paxte",
+    "puxta"
+   ],
+   "en": [
+    "paxta",
+    "pexta",
+    "paxte",
+    "puxta"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z gap o'rtasida bosh harf bilan yozilishi kerak?",
+   "ru": "Какое слово в середине предложения нужно писать с заглавной буквы?",
+   "en": "Which word must be written with a capital letter in the middle of a sentence?"
+  },
+  "o": {
+   "uz": [
+    "buxoro",
+    "bola",
+    "kitob",
+    "daryo"
+   ],
+   "ru": [
+    "buxoro",
+    "bola",
+    "kitob",
+    "daryo"
+   ],
+   "en": [
+    "buxoro",
+    "bola",
+    "kitob",
+    "daryo"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi harf undosh tovushni bildiradi?",
+   "ru": "Какая буква обозначает согласный звук?",
+   "en": "Which letter stands for a consonant sound?"
+  },
+  "o": {
+   "uz": [
+    "y",
+    "o",
+    "a",
+    "o'"
+   ],
+   "ru": [
+    "y",
+    "o",
+    "a",
+    "o'"
+   ],
+   "en": [
+    "y",
+    "o",
+    "a",
+    "o'"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z to'g'ri yozilgan?",
+   "ru": "Какое слово написано правильно?",
+   "en": "Which word is spelled correctly?"
+  },
+  "o": {
+   "uz": [
+    "sinfdosh",
+    "sinfdesh",
+    "sifdosh",
+    "sifndosh"
+   ],
+   "ru": [
+    "sinfdosh",
+    "sinfdesh",
+    "sifdosh",
+    "sifndosh"
+   ],
+   "en": [
+    "sinfdosh",
+    "sinfdesh",
+    "sifdosh",
+    "sifndosh"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z gap o'rtasida bosh harf bilan yozilishi kerak?",
+   "ru": "Какое слово в середине предложения нужно писать с заглавной буквы?",
+   "en": "Which word must be written with a capital letter in the middle of a sentence?"
+  },
+  "o": {
+   "uz": [
+    "nukus",
+    "daryo",
+    "o'qituvchi",
+    "shahar"
+   ],
+   "ru": [
+    "nukus",
+    "daryo",
+    "o'qituvchi",
+    "shahar"
+   ],
+   "en": [
+    "nukus",
+    "daryo",
+    "o'qituvchi",
+    "shahar"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z to'g'ri yozilgan?",
+   "ru": "Какое слово написано правильно?",
+   "en": "Which word is spelled correctly?"
+  },
+  "o": {
+   "uz": [
+    "daftar",
+    "daftarr",
+    "daftir",
+    "dfatar"
+   ],
+   "ru": [
+    "daftar",
+    "daftarr",
+    "daftir",
+    "dfatar"
+   ],
+   "en": [
+    "daftar",
+    "daftarr",
+    "daftir",
+    "dfatar"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«o'quvchi» so'zida nechta bo'g'in bor? (bo'g'in soni unlilar soniga teng)",
+   "ru": "Сколько слогов в слове «o'quvchi»? (число слогов равно числу гласных)",
+   "en": "How many syllables does the word «o'quvchi» have? (the number of syllables equals the number of vowels)"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "ru": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "en": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«bola» so'zida nechta harf bor? (sh, ch, o', g' bir harf hisoblanadi)",
+   "ru": "Сколько букв в слове «bola»? (sh, ch, o', g' считаются одной буквой)",
+   "en": "How many letters are in the word «bola»? (sh, ch, o', g' count as one letter)"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "5",
+    "3",
+    "6"
+   ],
+   "ru": [
+    "4",
+    "5",
+    "3",
+    "6"
+   ],
+   "en": [
+    "4",
+    "5",
+    "3",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri ot (kim? nima? so'rog'iga javob beradi)?",
+   "ru": "Какое из слов — имя существительное (отвечает на вопросы кто? что?)?",
+   "en": "Which of these words is a noun (answers «who? what?»)?"
+  },
+  "o": {
+   "uz": [
+    "maktab",
+    "ishlamoq",
+    "achchiq",
+    "sovuq"
+   ],
+   "ru": [
+    "maktab",
+    "ishlamoq",
+    "achchiq",
+    "sovuq"
+   ],
+   "en": [
+    "maktab",
+    "ishlamoq",
+    "achchiq",
+    "sovuq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z gap o'rtasida bosh harf bilan yozilishi kerak?",
+   "ru": "Какое слово в середине предложения нужно писать с заглавной буквы?",
+   "en": "Which word must be written with a capital letter in the middle of a sentence?"
+  },
+  "o": {
+   "uz": [
+    "andijon",
+    "ko'l",
+    "bola",
+    "daryo"
+   ],
+   "ru": [
+    "andijon",
+    "ko'l",
+    "bola",
+    "daryo"
+   ],
+   "en": [
+    "andijon",
+    "ko'l",
+    "bola",
+    "daryo"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z to'g'ri yozilgan?",
+   "ru": "Какое слово написано правильно?",
+   "en": "Which word is spelled correctly?"
+  },
+  "o": {
+   "uz": [
+    "kutubxona",
+    "kutubxxona",
+    "katubxona",
+    "kuutbxona"
+   ],
+   "ru": [
+    "kutubxona",
+    "kutubxxona",
+    "katubxona",
+    "kuutbxona"
+   ],
+   "en": [
+    "kutubxona",
+    "kutubxxona",
+    "katubxona",
+    "kuutbxona"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«do'st» so'zida nechta bo'g'in bor? (bo'g'in soni unlilar soniga teng)",
+   "ru": "Сколько слогов в слове «do'st»? (число слогов равно числу гласных)",
+   "en": "How many syllables does the word «do'st» have? (the number of syllables equals the number of vowels)"
+  },
+  "o": {
+   "uz": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "ru": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "en": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri fe'l (nima qilmoq?)?",
+   "ru": "Какое из слов — глагол (что делать?)?",
+   "en": "Which of these words is a verb (answers «what to do?»)?"
+  },
+  "o": {
+   "uz": [
+    "yozmoq",
+    "kichik",
+    "past",
+    "sovuq"
+   ],
+   "ru": [
+    "yozmoq",
+    "kichik",
+    "past",
+    "sovuq"
+   ],
+   "en": [
+    "yozmoq",
+    "kichik",
+    "past",
+    "sovuq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi harf undosh tovushni bildiradi?",
+   "ru": "Какая буква обозначает согласный звук?",
+   "en": "Which letter stands for a consonant sound?"
+  },
+  "o": {
+   "uz": [
+    "j",
+    "u",
+    "o",
+    "i"
+   ],
+   "ru": [
+    "j",
+    "u",
+    "o",
+    "i"
+   ],
+   "en": [
+    "j",
+    "u",
+    "o",
+    "i"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«mashina» so'zida nechta bo'g'in bor? (bo'g'in soni unlilar soniga teng)",
+   "ru": "Сколько слогов в слове «mashina»? (число слогов равно числу гласных)",
+   "en": "How many syllables does the word «mashina» have? (the number of syllables equals the number of vowels)"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "ru": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "en": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri ot (kim? nima? so'rog'iga javob beradi)?",
+   "ru": "Какое из слов — имя существительное (отвечает на вопросы кто? что?)?",
+   "en": "Which of these words is a noun (answers «who? what?»)?"
+  },
+  "o": {
+   "uz": [
+    "uy",
+    "oq",
+    "yugurmoq",
+    "uxlamoq"
+   ],
+   "ru": [
+    "uy",
+    "oq",
+    "yugurmoq",
+    "uxlamoq"
+   ],
+   "en": [
+    "uy",
+    "oq",
+    "yugurmoq",
+    "uxlamoq"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«chumoli» so'zida nechta bo'g'in bor? (bo'g'in soni unlilar soniga teng)",
+   "ru": "Сколько слогов в слове «chumoli»? (число слогов равно числу гласных)",
+   "en": "How many syllables does the word «chumoli» have? (the number of syllables equals the number of vowels)"
+  },
+  "o": {
+   "uz": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "ru": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "en": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi so'z gap o'rtasida bosh harf bilan yozilishi kerak?",
+   "ru": "Какое слово в середине предложения нужно писать с заглавной буквы?",
+   "en": "Which word must be written with a capital letter in the middle of a sentence?"
+  },
+  "o": {
+   "uz": [
+    "amudaryo",
+    "uy",
+    "daryo",
+    "o'qituvchi"
+   ],
+   "ru": [
+    "amudaryo",
+    "uy",
+    "daryo",
+    "o'qituvchi"
+   ],
+   "en": [
+    "amudaryo",
+    "uy",
+    "daryo",
+    "o'qituvchi"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«shahar» so'zida nechta harf bor? (sh, ch, o', g' bir harf hisoblanadi)",
+   "ru": "Сколько букв в слове «shahar»? (sh, ch, o', g' считаются одной буквой)",
+   "en": "How many letters are in the word «shahar»? (sh, ch, o', g' count as one letter)"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ],
+   "ru": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ],
+   "en": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«toza» so'zining antonimi (qarama-qarshi ma'noli so'zi) qaysi?",
+   "ru": "Какое слово — антоним к слову «toza»?",
+   "en": "Which word is the antonym (opposite) of «toza»?"
+  },
+  "o": {
+   "uz": [
+    "iflos",
+    "kichik",
+    "oriq",
+    "bo'sh"
+   ],
+   "ru": [
+    "iflos",
+    "kichik",
+    "oriq",
+    "bo'sh"
+   ],
+   "en": [
+    "iflos",
+    "kichik",
+    "oriq",
+    "bo'sh"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«daraxt» so'zida nechta unli tovush (harf) bor?",
+   "ru": "Сколько гласных звуков (букв) в слове «daraxt»?",
+   "en": "How many vowels are there in the word «daraxt»?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tovuq» so'zida nechta bo'g'in bor? (bo'g'in soni unlilar soniga teng)",
+   "ru": "Сколько слогов в слове «tovuq»? (число слогов равно числу гласных)",
+   "en": "How many syllables does the word «tovuq» have? (the number of syllables equals the number of vowels)"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«yozuv» so'zida nechta harf bor? (sh, ch, o', g' bir harf hisoblanadi)",
+   "ru": "Сколько букв в слове «yozuv»? (sh, ch, o', g' считаются одной буквой)",
+   "en": "How many letters are in the word «yozuv»? (sh, ch, o', g' count as one letter)"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ],
+   "ru": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ],
+   "en": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«bahor» so'zida nechta harf bor? (sh, ch, o', g' bir harf hisoblanadi)",
+   "ru": "Сколько букв в слове «bahor»? (sh, ch, o', g' считаются одной буквой)",
+   "en": "How many letters are in the word «bahor»? (sh, ch, o', g' count as one letter)"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ],
+   "ru": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ],
+   "en": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Fikrni to'liq ifodalaydigan nutq birligi nima?",
+   "ru": "Какая единица речи полностью выражает мысль?",
+   "en": "Which speech unit fully expresses a thought?"
+  },
+  "o": {
+   "uz": [
+    "Gap",
+    "So'z",
+    "Bo'g'in",
+    "Harf"
+   ],
+   "ru": [
+    "Предложение",
+    "Слово",
+    "Слог",
+    "Буква"
+   ],
+   "en": [
+    "A sentence",
+    "A word",
+    "A syllable",
+    "A letter"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tarvuz» so'zida nechta bo'g'in bor? (bo'g'in soni unlilar soniga teng)",
+   "ru": "Сколько слогов в слове «tarvuz»? (число слогов равно числу гласных)",
+   "en": "How many syllables does the word «tarvuz» have? (the number of syllables equals the number of vowels)"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«bola» so'zida nechta unli tovush (harf) bor?",
+   "ru": "Сколько гласных звуков (букв) в слове «bola»?",
+   "en": "How many vowels are there in the word «bola»?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi so'zlardan qaysi biri fe'l (nima qilmoq?)?",
+   "ru": "Какое из слов — глагол (что делать?)?",
+   "en": "Which of these words is a verb (answers «what to do?»)?"
+  },
+  "o": {
+   "uz": [
+    "ishlamoq",
+    "past",
+    "daryo",
+    "katta"
+   ],
+   "ru": [
+    "ishlamoq",
+    "past",
+    "daryo",
+    "katta"
+   ],
+   "en": [
+    "ishlamoq",
+    "past",
+    "daryo",
+    "katta"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«daraxt» so'zining ko'plik shakli qaysi?",
+   "ru": "Какая форма множественного числа у слова «daraxt»?",
+   "en": "Which is the plural form of the word «daraxt»?"
+  },
+  "o": {
+   "uz": [
+    "daraxtlar",
+    "daraxtar",
+    "daraxtlor",
+    "daraxtler"
+   ],
+   "ru": [
+    "daraxtlar",
+    "daraxtar",
+    "daraxtlor",
+    "daraxtler"
+   ],
+   "en": [
+    "daraxtlar",
+    "daraxtar",
+    "daraxtlor",
+    "daraxtler"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«baliq» so'zida nechta harf bor? (sh, ch, o', g' bir harf hisoblanadi)",
+   "ru": "Сколько букв в слове «baliq»? (sh, ch, o', g' считаются одной буквой)",
+   "en": "How many letters are in the word «baliq»? (sh, ch, o', g' count as one letter)"
+  },
+  "o": {
+   "uz": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ],
+   "ru": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ],
+   "en": [
+    "5",
+    "6",
+    "4",
+    "7"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ota» so'zida nechta bo'g'in bor? (bo'g'in soni unlilar soniga teng)",
+   "ru": "Сколько слогов в слове «ota»? (число слогов равно числу гласных)",
+   "en": "How many syllables does the word «ota» have? (the number of syllables equals the number of vowels)"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "ru": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "en": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«o'qituvchi» so'zida nechta unli tovush (harf) bor?",
+   "ru": "Сколько гласных звуков (букв) в слове «o'qituvchi»?",
+   "en": "How many vowels are there in the word «o'qituvchi»?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "5",
+    "3",
+    "6"
+   ],
+   "ru": [
+    "4",
+    "5",
+    "3",
+    "6"
+   ],
+   "en": [
+    "4",
+    "5",
+    "3",
+    "6"
+   ]
+  },
+  "a": 0
+ }
+]

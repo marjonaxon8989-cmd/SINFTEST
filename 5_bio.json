@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "«paporotnik» — bu:",
+   "ru": "«папоротник» — это:",
+   "en": "«fern» is a:"
+  },
+  "o": {
+   "uz": [
+    "paporotniksimonlar va ularga yaqinlar",
+    "yopiq urug'lilar",
+    "suv o'tlari",
+    "moxlar"
+   ],
+   "ru": [
+    "папоротникообразные",
+    "покрытосеменные",
+    "водоросли",
+    "мхи"
+   ],
+   "en": [
+    "ferns and allies",
+    "angiosperms",
+    "algae",
+    "mosses"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sut emizuvchi hayvon?",
+   "ru": "Какое из этих животных — млекопитающее?",
+   "en": "Which of these is a mammal?"
+  },
+  "o": {
+   "uz": [
+    "quyon",
+    "echkemar",
+    "salamandra",
+    "treska"
+   ],
+   "ru": [
+    "заяц",
+    "агама",
+    "саламандра",
+    "треска"
+   ],
+   "en": [
+    "hare",
+    "agama lizard",
+    "salamander",
+    "cod"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gul qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Цветок?",
+   "en": "What is the function of Flower?"
+  },
+  "o": {
+   "uz": [
+    "Urug'lanish va meva hosil qilish organi",
+    "Undan yangi o'simlik o'sib chiqadi",
+    "Fotosintez (yorug'likda organik modda hosil qilish) o'tadi",
+    "Tuproqdan suv va mineral tuzlarni so'rib oladi"
+   ],
+   "ru": [
+    "Орган размножения: опыление и образование плода",
+    "Из него вырастает новое растение",
+    "В нём идёт фотосинтез",
+    "Всасывает из почвы воду и минеральные соли"
+   ],
+   "en": [
+    "The reproductive organ of the plant",
+    "A new plant grows from it",
+    "Photosynthesis takes place in it",
+    "Absorbs water and minerals from the soil"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri suv o'ti?",
+   "ru": "Что из этого — водоросль?",
+   "en": "Which of these is an alga?"
+  },
+  "o": {
+   "uz": [
+    "laminariya",
+    "lola",
+    "olma daraxti",
+    "kukushkin zig'iri"
+   ],
+   "ru": [
+    "ламинария",
+    "тюльпан",
+    "яблоня",
+    "кукушкин лён"
+   ],
+   "en": [
+    "kelp",
+    "tulip",
+    "apple tree",
+    "haircap moss"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri qush?",
+   "ru": "Какое из этих животных — птица?",
+   "en": "Which of these is a bird?"
+  },
+  "o": {
+   "uz": [
+    "boyqush",
+    "ilon",
+    "kapalak",
+    "salamandra"
+   ],
+   "ru": [
+    "сова",
+    "змея",
+    "бабочка",
+    "саламандра"
+   ],
+   "en": [
+    "owl",
+    "snake",
+    "butterfly",
+    "salamander"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Fotosintez jarayonida o'simlik qaysi gazni yutadi?",
+   "ru": "Какой газ поглощает растение при фотосинтезе?",
+   "en": "Which gas do plants absorb in photosynthesis?"
+  },
+  "o": {
+   "uz": [
+    "Karbonat angidrid",
+    "Kislorod",
+    "Azot",
+    "Vodorod"
+   ],
+   "ru": [
+    "Углекислый газ",
+    "Кислород",
+    "Азот",
+    "Водород"
+   ],
+   "en": [
+    "Carbon dioxide",
+    "Oxygen",
+    "Nitrogen",
+    "Hydrogen"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Fotosintez uchun asosiy energiya manbai nima?",
+   "ru": "Какой основной источник энергии для фотосинтеза?",
+   "en": "What is the main energy source for photosynthesis?"
+  },
+  "o": {
+   "uz": [
+    "Quyosh nuri",
+    "Shamol",
+    "Yomg'ir",
+    "Tuproq"
+   ],
+   "ru": [
+    "Солнечный свет",
+    "Ветер",
+    "Дождь",
+    "Почва"
+   ],
+   "en": [
+    "Sunlight",
+    "Wind",
+    "Rain",
+    "Soil"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Poya qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Стебель?",
+   "en": "What is the function of Stem?"
+  },
+  "o": {
+   "uz": [
+    "Moddalarni tashiydi va bargni ko'tarib turadi",
+    "Fotosintez (yorug'likda organik modda hosil qilish) o'tadi",
+    "Urug'ni himoya qiladi va tarqatishga yordam beradi",
+    "Urug'lanish va meva hosil qilish organi"
+   ],
+   "ru": [
+    "Проводит вещества и поддерживает листья",
+    "В нём идёт фотосинтез",
+    "Защищает семена и помогает их распространению",
+    "Орган размножения: опыление и образование плода"
+   ],
+   "en": [
+    "Transports substances and supports the leaves",
+    "Photosynthesis takes place in it",
+    "Protects seeds and helps spread them",
+    "The reproductive organ of the plant"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ildiz qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Корень?",
+   "en": "What is the function of Root?"
+  },
+  "o": {
+   "uz": [
+    "Tuproqdan suv va mineral tuzlarni so'rib oladi",
+    "Undan yangi o'simlik o'sib chiqadi",
+    "Urug'lanish va meva hosil qilish organi",
+    "Fotosintez (yorug'likda organik modda hosil qilish) o'tadi"
+   ],
+   "ru": [
+    "Всасывает из почвы воду и минеральные соли",
+    "Из него вырастает новое растение",
+    "Орган размножения: опыление и образование плода",
+    "В нём идёт фотосинтез"
+   ],
+   "en": [
+    "Absorbs water and minerals from the soil",
+    "A new plant grows from it",
+    "The reproductive organ of the plant",
+    "Photosynthesis takes place in it"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri qush?",
+   "ru": "Какое из этих животных — птица?",
+   "en": "Which of these is a bird?"
+  },
+  "o": {
+   "uz": [
+    "burgut",
+    "losos",
+    "bo'ri",
+    "pashsha"
+   ],
+   "ru": [
+    "орёл",
+    "лосось",
+    "волк",
+    "муха"
+   ],
+   "en": [
+    "eagle",
+    "salmon",
+    "wolf",
+    "fly"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sut emizuvchilarning asosiy belgisi nima?",
+   "ru": "Каков главный признак млекопитающих?",
+   "en": "What is the main feature of mammals?"
+  },
+  "o": {
+   "uz": [
+    "Bolalarini sut bilan boqadi",
+    "Tuxum qo'yadi",
+    "Tanasi pat bilan qoplangan",
+    "Jabra bilan nafas oladi"
+   ],
+   "ru": [
+    "Выкармливают детёнышей молоком",
+    "Откладывают яйца",
+    "Тело покрыто перьями",
+    "Дышат жабрами"
+   ],
+   "en": [
+    "They feed their young with milk",
+    "They lay eggs",
+    "Their body is covered with feathers",
+    "They breathe with gills"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani qaysi qism bajaradi: Moddalarni tashiydi va bargni ko'tarib turadi?",
+   "ru": "Какая часть растения выполняет функцию: Проводит вещества и поддерживает листья?",
+   "en": "Which part does this: Transports substances and supports the leaves?"
+  },
+  "o": {
+   "uz": [
+    "Poya",
+    "Meva",
+    "Ildiz",
+    "Gul"
+   ],
+   "ru": [
+    "Стебель",
+    "Плод",
+    "Корень",
+    "Цветок"
+   ],
+   "en": [
+    "Stem",
+    "Fruit",
+    "Root",
+    "Flower"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri amfibiya (ikki yashovchi)?",
+   "ru": "Какое из этих животных — земноводное?",
+   "en": "Which of these is an amphibian?"
+  },
+  "o": {
+   "uz": [
+    "salamandra",
+    "ilon",
+    "bo'ri",
+    "quyon"
+   ],
+   "ru": [
+    "саламандра",
+    "змея",
+    "волк",
+    "заяц"
+   ],
+   "en": [
+    "salamander",
+    "snake",
+    "wolf",
+    "hare"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hujayra nima?",
+   "ru": "Что такое клетка?",
+   "en": "What is a cell?"
+  },
+  "o": {
+   "uz": [
+    "Tirik organizmning tuzilish va hayot faoliyati birligi",
+    "Faqat o'simlik qismi",
+    "Qon tomiri",
+    "Suyak turi"
+   ],
+   "ru": [
+    "Структурная и функциональная единица живого",
+    "Только часть растения",
+    "Кровеносный сосуд",
+    "Вид кости"
+   ],
+   "en": [
+    "The structural and functional unit of living things",
+    "Only a part of a plant",
+    "A blood vessel",
+    "A type of bone"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Fotosintez jarayonida qaysi gaz ajralib chiqadi?",
+   "ru": "Какой газ выделяется при фотосинтезе?",
+   "en": "Which gas is released in photosynthesis?"
+  },
+  "o": {
+   "uz": [
+    "Kislorod",
+    "Karbonat angidrid",
+    "Azot",
+    "Metan"
+   ],
+   "ru": [
+    "Кислород",
+    "Углекислый газ",
+    "Азот",
+    "Метан"
+   ],
+   "en": [
+    "Oxygen",
+    "Carbon dioxide",
+    "Nitrogen",
+    "Methane"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yopiq urug'li o'simlik?",
+   "ru": "Что из этого — покрытосеменное растение?",
+   "en": "Which of these is an angiosperm?"
+  },
+  "o": {
+   "uz": [
+    "olma daraxti",
+    "qarag'ay",
+    "sfagnum",
+    "qirqbo'g'im"
+   ],
+   "ru": [
+    "яблоня",
+    "сосна",
+    "сфагнум",
+    "хвощ"
+   ],
+   "en": [
+    "apple tree",
+    "pine",
+    "sphagnum",
+    "horsetail"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«olma daraxti» — bu:",
+   "ru": "«яблоня» — это:",
+   "en": "«apple tree» is a:"
+  },
+  "o": {
+   "uz": [
+    "yopiq urug'lilar",
+    "paporotniksimonlar va ularga yaqinlar",
+    "moxlar",
+    "suv o'tlari"
+   ],
+   "ru": [
+    "покрытосеменные",
+    "папоротникообразные",
+    "мхи",
+    "водоросли"
+   ],
+   "en": [
+    "angiosperms",
+    "ferns and allies",
+    "mosses",
+    "algae"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sut emizuvchi hayvon?",
+   "ru": "Какое из этих животных — млекопитающее?",
+   "en": "Which of these is a mammal?"
+  },
+  "o": {
+   "uz": [
+    "bo'ri",
+    "chivin",
+    "laylak",
+    "kana"
+   ],
+   "ru": [
+    "волк",
+    "комар",
+    "аист",
+    "клещ"
+   ],
+   "en": [
+    "wolf",
+    "mosquito",
+    "stork",
+    "tick"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«laminariya» — bu:",
+   "ru": "«ламинария» — это:",
+   "en": "«kelp» is a:"
+  },
+  "o": {
+   "uz": [
+    "suv o'tlari",
+    "moxlar",
+    "yopiq urug'lilar",
+    "ochiq urug'lilar"
+   ],
+   "ru": [
+    "водоросли",
+    "мхи",
+    "покрытосеменные",
+    "голосеменные"
+   ],
+   "en": [
+    "algae",
+    "mosses",
+    "angiosperms",
+    "gymnosperms"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri paporotniksimon o'simlik?",
+   "ru": "Что из этого — папоротникообразное растение?",
+   "en": "Which of these is a fern or fern ally?"
+  },
+  "o": {
+   "uz": [
+    "plaun",
+    "ginkgo",
+    "lola",
+    "paxta"
+   ],
+   "ru": [
+    "плаун",
+    "гинкго",
+    "тюльпан",
+    "хлопчатник"
+   ],
+   "en": [
+    "club moss",
+    "ginkgo",
+    "tulip",
+    "cotton"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Urug'ning unib chiqishi uchun nimalar kerak?",
+   "ru": "Что необходимо для прорастания семени?",
+   "en": "What do seeds need to germinate?"
+  },
+  "o": {
+   "uz": [
+    "Suv, issiqlik va havo",
+    "Faqat yorug'lik",
+    "Faqat tuz",
+    "Faqat sovuq"
+   ],
+   "ru": [
+    "Вода, тепло и воздух",
+    "Только свет",
+    "Только соль",
+    "Только холод"
+   ],
+   "en": [
+    "Water, warmth and air",
+    "Light only",
+    "Salt only",
+    "Cold only"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri hasharot?",
+   "ru": "Какое из этих животных — насекомое?",
+   "en": "Which of these is an insect?"
+  },
+  "o": {
+   "uz": [
+    "qo'ng'iz",
+    "boyqush",
+    "toshbaqa",
+    "ot"
+   ],
+   "ru": [
+    "жук",
+    "сова",
+    "черепаха",
+    "лошадь"
+   ],
+   "en": [
+    "beetle",
+    "owl",
+    "turtle",
+    "horse"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yopiq urug'li o'simlik?",
+   "ru": "Что из этого — покрытосеменное растение?",
+   "en": "Which of these is an angiosperm?"
+  },
+  "o": {
+   "uz": [
+    "tok",
+    "paporotnik",
+    "kedr",
+    "plaun"
+   ],
+   "ru": [
+    "виноград",
+    "папоротник",
+    "кедр",
+    "плаун"
+   ],
+   "en": [
+    "grapevine",
+    "fern",
+    "cedar",
+    "club moss"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani qaysi qism bajaradi: Tuproqdan suv va mineral tuzlarni so'rib oladi?",
+   "ru": "Какая часть растения выполняет функцию: Всасывает из почвы воду и минеральные соли?",
+   "en": "Which part does this: Absorbs water and minerals from the soil?"
+  },
+  "o": {
+   "uz": [
+    "Ildiz",
+    "Meva",
+    "Urug'",
+    "Gul"
+   ],
+   "ru": [
+    "Корень",
+    "Плод",
+    "Семя",
+    "Цветок"
+   ],
+   "en": [
+    "Root",
+    "Fruit",
+    "Seed",
+    "Flower"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«karp (zog'ora baliq)» — bu:",
+   "ru": "«карп» — это:",
+   "en": "«carp» is a:"
+  },
+  "o": {
+   "uz": [
+    "baliqlar",
+    "qushlar",
+    "hasharotlar",
+    "sudralib yuruvchilar"
+   ],
+   "ru": [
+    "рыбы",
+    "птицы",
+    "насекомые",
+    "пресмыкающиеся"
+   ],
+   "en": [
+    "fish",
+    "birds",
+    "insects",
+    "reptiles"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tritton» — bu:",
+   "ru": "«тритон» — это:",
+   "en": "«newt» is a:"
+  },
+  "o": {
+   "uz": [
+    "amfibiyalar (ikki yashovchilar)",
+    "sut emizuvchilar",
+    "sudralib yuruvchilar",
+    "hasharotlar"
+   ],
+   "ru": [
+    "земноводные",
+    "млекопитающие",
+    "пресмыкающиеся",
+    "насекомые"
+   ],
+   "en": [
+    "amphibians",
+    "mammals",
+    "reptiles",
+    "insects"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Barg qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Лист?",
+   "en": "What is the function of Leaf?"
+  },
+  "o": {
+   "uz": [
+    "Fotosintez (yorug'likda organik modda hosil qilish) o'tadi",
+    "Urug'lanish va meva hosil qilish organi",
+    "Tuproqdan suv va mineral tuzlarni so'rib oladi",
+    "Urug'ni himoya qiladi va tarqatishga yordam beradi"
+   ],
+   "ru": [
+    "В нём идёт фотосинтез",
+    "Орган размножения: опыление и образование плода",
+    "Всасывает из почвы воду и минеральные соли",
+    "Защищает семена и помогает их распространению"
+   ],
+   "en": [
+    "Photosynthesis takes place in it",
+    "The reproductive organ of the plant",
+    "Absorbs water and minerals from the soil",
+    "Protects seeds and helps spread them"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri moxlarga kiradi?",
+   "ru": "Что из этого относится к мхам?",
+   "en": "Which of these is a moss?"
+  },
+  "o": {
+   "uz": [
+    "sfagnum",
+    "laminariya",
+    "plaun",
+    "atirgul"
+   ],
+   "ru": [
+    "сфагнум",
+    "ламинария",
+    "плаун",
+    "роза"
+   ],
+   "en": [
+    "sphagnum",
+    "kelp",
+    "club moss",
+    "rose"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sher» — bu:",
+   "ru": "«лев» — это:",
+   "en": "«lion» is a:"
+  },
+  "o": {
+   "uz": [
+    "sut emizuvchilar",
+    "amfibiyalar (ikki yashovchilar)",
+    "qushlar",
+    "sudralib yuruvchilar"
+   ],
+   "ru": [
+    "млекопитающие",
+    "земноводные",
+    "птицы",
+    "пресмыкающиеся"
+   ],
+   "en": [
+    "mammals",
+    "amphibians",
+    "birds",
+    "reptiles"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«spirogira» — bu:",
+   "ru": "«спирогира» — это:",
+   "en": "«spirogyra» is a:"
+  },
+  "o": {
+   "uz": [
+    "suv o'tlari",
+    "paporotniksimonlar va ularga yaqinlar",
+    "ochiq urug'lilar",
+    "yopiq urug'lilar"
+   ],
+   "ru": [
+    "водоросли",
+    "папоротникообразные",
+    "голосеменные",
+    "покрытосеменные"
+   ],
+   "en": [
+    "algae",
+    "ferns and allies",
+    "gymnosperms",
+    "angiosperms"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qo'ng'iz» — bu:",
+   "ru": "«жук» — это:",
+   "en": "«beetle» is a:"
+  },
+  "o": {
+   "uz": [
+    "hasharotlar",
+    "o'rgimchaksimonlar",
+    "sut emizuvchilar",
+    "amfibiyalar (ikki yashovchilar)"
+   ],
+   "ru": [
+    "насекомые",
+    "паукообразные",
+    "млекопитающие",
+    "земноводные"
+   ],
+   "en": [
+    "insects",
+    "arachnids",
+    "mammals",
+    "amphibians"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani qaysi qism bajaradi: Undan yangi o'simlik o'sib chiqadi?",
+   "ru": "Какая часть растения выполняет функцию: Из него вырастает новое растение?",
+   "en": "Which part does this: A new plant grows from it?"
+  },
+  "o": {
+   "uz": [
+    "Urug'",
+    "Ildiz",
+    "Meva",
+    "Poya"
+   ],
+   "ru": [
+    "Семя",
+    "Корень",
+    "Плод",
+    "Стебель"
+   ],
+   "en": [
+    "Seed",
+    "Root",
+    "Fruit",
+    "Stem"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Meva qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Плод?",
+   "en": "What is the function of Fruit?"
+  },
+  "o": {
+   "uz": [
+    "Urug'ni himoya qiladi va tarqatishga yordam beradi",
+    "Tuproqdan suv va mineral tuzlarni so'rib oladi",
+    "Fotosintez (yorug'likda organik modda hosil qilish) o'tadi",
+    "Urug'lanish va meva hosil qilish organi"
+   ],
+   "ru": [
+    "Защищает семена и помогает их распространению",
+    "Всасывает из почвы воду и минеральные соли",
+    "В нём идёт фотосинтез",
+    "Орган размножения: опыление и образование плода"
+   ],
+   "en": [
+    "Protects seeds and helps spread them",
+    "Absorbs water and minerals from the soil",
+    "Photosynthesis takes place in it",
+    "The reproductive organ of the plant"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani qaysi qism bajaradi: Fotosintez (yorug'likda organik modda hosil qilish) o'tadi?",
+   "ru": "Какая часть растения выполняет функцию: В нём идёт фотосинтез?",
+   "en": "Which part does this: Photosynthesis takes place in it?"
+  },
+  "o": {
+   "uz": [
+    "Barg",
+    "Meva",
+    "Urug'",
+    "Gul"
+   ],
+   "ru": [
+    "Лист",
+    "Плод",
+    "Семя",
+    "Цветок"
+   ],
+   "en": [
+    "Leaf",
+    "Fruit",
+    "Seed",
+    "Flower"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«bug'doy» — bu:",
+   "ru": "«пшеница» — это:",
+   "en": "«wheat» is a:"
+  },
+  "o": {
+   "uz": [
+    "yopiq urug'lilar",
+    "moxlar",
+    "ochiq urug'lilar",
+    "paporotniksimonlar va ularga yaqinlar"
+   ],
+   "ru": [
+    "покрытосеменные",
+    "мхи",
+    "голосеменные",
+    "папоротникообразные"
+   ],
+   "en": [
+    "angiosperms",
+    "mosses",
+    "gymnosperms",
+    "ferns and allies"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ko'rshapalak» — bu:",
+   "ru": "«летучая мышь» — это:",
+   "en": "«bat» is a:"
+  },
+  "o": {
+   "uz": [
+    "sut emizuvchilar",
+    "sudralib yuruvchilar",
+    "amfibiyalar (ikki yashovchilar)",
+    "o'rgimchaksimonlar"
+   ],
+   "ru": [
+    "млекопитающие",
+    "пресмыкающиеся",
+    "земноводные",
+    "паукообразные"
+   ],
+   "en": [
+    "mammals",
+    "reptiles",
+    "amphibians",
+    "arachnids"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«xlorella» — bu:",
+   "ru": "«хлорелла» — это:",
+   "en": "«chlorella» is a:"
+  },
+  "o": {
+   "uz": [
+    "suv o'tlari",
+    "yopiq urug'lilar",
+    "ochiq urug'lilar",
+    "moxlar"
+   ],
+   "ru": [
+    "водоросли",
+    "покрытосеменные",
+    "голосеменные",
+    "мхи"
+   ],
+   "en": [
+    "algae",
+    "angiosperms",
+    "gymnosperms",
+    "mosses"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani qaysi qism bajaradi: Urug'ni himoya qiladi va tarqatishga yordam beradi?",
+   "ru": "Какая часть растения выполняет функцию: Защищает семена и помогает их распространению?",
+   "en": "Which part does this: Protects seeds and helps spread them?"
+  },
+  "o": {
+   "uz": [
+    "Meva",
+    "Ildiz",
+    "Barg",
+    "Gul"
+   ],
+   "ru": [
+    "Плод",
+    "Корень",
+    "Лист",
+    "Цветок"
+   ],
+   "en": [
+    "Fruit",
+    "Root",
+    "Leaf",
+    "Flower"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«akula» — bu:",
+   "ru": "«акула» — это:",
+   "en": "«shark» is a:"
+  },
+  "o": {
+   "uz": [
+    "baliqlar",
+    "o'rgimchaksimonlar",
+    "sudralib yuruvchilar",
+    "qushlar"
+   ],
+   "ru": [
+    "рыбы",
+    "паукообразные",
+    "пресмыкающиеся",
+    "птицы"
+   ],
+   "en": [
+    "fish",
+    "arachnids",
+    "reptiles",
+    "birds"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Urug' qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Семя?",
+   "en": "What is the function of Seed?"
+  },
+  "o": {
+   "uz": [
+    "Undan yangi o'simlik o'sib chiqadi",
+    "Tuproqdan suv va mineral tuzlarni so'rib oladi",
+    "Urug'lanish va meva hosil qilish organi",
+    "Moddalarni tashiydi va bargni ko'tarib turadi"
+   ],
+   "ru": [
+    "Из него вырастает новое растение",
+    "Всасывает из почвы воду и минеральные соли",
+    "Орган размножения: опыление и образование плода",
+    "Проводит вещества и поддерживает листья"
+   ],
+   "en": [
+    "A new plant grows from it",
+    "Absorbs water and minerals from the soil",
+    "The reproductive organ of the plant",
+    "Transports substances and supports the leaves"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qushlarda qaysi a'zo uchishga moslashgan?",
+   "ru": "Какой орган у птиц приспособлен к полёту?",
+   "en": "Which organ of birds is adapted for flight?"
+  },
+  "o": {
+   "uz": [
+    "Qanot",
+    "Dum",
+    "Tumshuq",
+    "Panja"
+   ],
+   "ru": [
+    "Крыло",
+    "Хвост",
+    "Клюв",
+    "Лапа"
+   ],
+   "en": [
+    "Wing",
+    "Tail",
+    "Beak",
+    "Foot"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani qaysi qism bajaradi: Urug'lanish va meva hosil qilish organi?",
+   "ru": "Какая часть растения выполняет функцию: Орган размножения: опыление и образование плода?",
+   "en": "Which part does this: The reproductive organ of the plant?"
+  },
+  "o": {
+   "uz": [
+    "Gul",
+    "Meva",
+    "Poya",
+    "Urug'"
+   ],
+   "ru": [
+    "Цветок",
+    "Плод",
+    "Стебель",
+    "Семя"
+   ],
+   "en": [
+    "Flower",
+    "Fruit",
+    "Stem",
+    "Seed"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri amfibiya (ikki yashovchi)?",
+   "ru": "Какое из этих животных — земноводное?",
+   "en": "Which of these is an amphibian?"
+  },
+  "o": {
+   "uz": [
+    "baqa",
+    "karp (zog'ora baliq)",
+    "tuyaqush",
+    "chivin"
+   ],
+   "ru": [
+    "лягушка",
+    "карп",
+    "страус",
+    "комар"
+   ],
+   "en": [
+    "frog",
+    "carp",
+    "ostrich",
+    "mosquito"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri suv o'ti?",
+   "ru": "Что из этого — водоросль?",
+   "en": "Which of these is an alga?"
+  },
+  "o": {
+   "uz": [
+    "spirogira",
+    "tok",
+    "kedr",
+    "atirgul"
+   ],
+   "ru": [
+    "спирогира",
+    "виноград",
+    "кедр",
+    "роза"
+   ],
+   "en": [
+    "spirogyra",
+    "grapevine",
+    "cedar",
+    "rose"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri ochiq urug'li o'simlik?",
+   "ru": "Что из этого — голосеменное растение?",
+   "en": "Which of these is a gymnosperm?"
+  },
+  "o": {
+   "uz": [
+    "archa",
+    "tok",
+    "laminariya",
+    "paxta"
+   ],
+   "ru": [
+    "ель",
+    "виноград",
+    "ламинария",
+    "хлопчатник"
+   ],
+   "en": [
+    "spruce",
+    "grapevine",
+    "kelp",
+    "cotton"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tovuq» — bu:",
+   "ru": "«курица» — это:",
+   "en": "«hen» is a:"
+  },
+  "o": {
+   "uz": [
+    "qushlar",
+    "o'rgimchaksimonlar",
+    "sut emizuvchilar",
+    "amfibiyalar (ikki yashovchilar)"
+   ],
+   "ru": [
+    "птицы",
+    "паукообразные",
+    "млекопитающие",
+    "земноводные"
+   ],
+   "en": [
+    "birds",
+    "arachnids",
+    "mammals",
+    "amphibians"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yopiq urug'li o'simlik?",
+   "ru": "Что из этого — покрытосеменное растение?",
+   "en": "Which of these is an angiosperm?"
+  },
+  "o": {
+   "uz": [
+    "atirgul",
+    "kedr",
+    "qirqbo'g'im",
+    "kukushkin zig'iri"
+   ],
+   "ru": [
+    "роза",
+    "кедр",
+    "хвощ",
+    "кукушкин лён"
+   ],
+   "en": [
+    "rose",
+    "cedar",
+    "horsetail",
+    "haircap moss"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yopiq urug'li o'simlik?",
+   "ru": "Что из этого — покрытосеменное растение?",
+   "en": "Which of these is an angiosperm?"
+  },
+  "o": {
+   "uz": [
+    "paxta",
+    "archa",
+    "sfagnum",
+    "spirogira"
+   ],
+   "ru": [
+    "хлопчатник",
+    "ель",
+    "сфагнум",
+    "спирогира"
+   ],
+   "en": [
+    "cotton",
+    "spruce",
+    "sphagnum",
+    "spirogyra"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri o'rgimchaksimon?",
+   "ru": "Какое из этих животных — паукообразное?",
+   "en": "Which of these is an arachnid?"
+  },
+  "o": {
+   "uz": [
+    "o'rgimchak",
+    "ilon",
+    "chivin",
+    "chumoli"
+   ],
+   "ru": [
+    "паук",
+    "змея",
+    "комар",
+    "муравей"
+   ],
+   "en": [
+    "spider",
+    "snake",
+    "mosquito",
+    "ant"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«pashsha» — bu:",
+   "ru": "«муха» — это:",
+   "en": "«fly» is a:"
+  },
+  "o": {
+   "uz": [
+    "hasharotlar",
+    "baliqlar",
+    "qushlar",
+    "amfibiyalar (ikki yashovchilar)"
+   ],
+   "ru": [
+    "насекомые",
+    "рыбы",
+    "птицы",
+    "земноводные"
+   ],
+   "en": [
+    "insects",
+    "fish",
+    "birds",
+    "amphibians"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«kedr» — bu:",
+   "ru": "«кедр» — это:",
+   "en": "«cedar» is a:"
+  },
+  "o": {
+   "uz": [
+    "ochiq urug'lilar",
+    "yopiq urug'lilar",
+    "moxlar",
+    "suv o'tlari"
+   ],
+   "ru": [
+    "голосеменные",
+    "покрытосеменные",
+    "мхи",
+    "водоросли"
+   ],
+   "en": [
+    "gymnosperms",
+    "angiosperms",
+    "mosses",
+    "algae"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yopiq urug'li o'simlik?",
+   "ru": "Что из этого — покрытосеменное растение?",
+   "en": "Which of these is an angiosperm?"
+  },
+  "o": {
+   "uz": [
+    "bug'doy",
+    "kukushkin zig'iri",
+    "archa",
+    "kedr"
+   ],
+   "ru": [
+    "пшеница",
+    "кукушкин лён",
+    "ель",
+    "кедр"
+   ],
+   "en": [
+    "wheat",
+    "haircap moss",
+    "spruce",
+    "cedar"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sudralib yuruvchi?",
+   "ru": "Какое из этих животных — пресмыкающееся?",
+   "en": "Which of these is a reptile?"
+  },
+  "o": {
+   "uz": [
+    "timsoh",
+    "o'rgimchak",
+    "chivin",
+    "ko'rshapalak"
+   ],
+   "ru": [
+    "крокодил",
+    "паук",
+    "комар",
+    "летучая мышь"
+   ],
+   "en": [
+    "crocodile",
+    "spider",
+    "mosquito",
+    "bat"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«losos» — bu:",
+   "ru": "«лосось» — это:",
+   "en": "«salmon» is a:"
+  },
+  "o": {
+   "uz": [
+    "baliqlar",
+    "sut emizuvchilar",
+    "sudralib yuruvchilar",
+    "o'rgimchaksimonlar"
+   ],
+   "ru": [
+    "рыбы",
+    "млекопитающие",
+    "пресмыкающиеся",
+    "паукообразные"
+   ],
+   "en": [
+    "fish",
+    "mammals",
+    "reptiles",
+    "arachnids"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri paporotniksimon o'simlik?",
+   "ru": "Что из этого — папоротникообразное растение?",
+   "en": "Which of these is a fern or fern ally?"
+  },
+  "o": {
+   "uz": [
+    "qirqbo'g'im",
+    "atirgul",
+    "laminariya",
+    "qarag'ay"
+   ],
+   "ru": [
+    "хвощ",
+    "роза",
+    "ламинария",
+    "сосна"
+   ],
+   "en": [
+    "horsetail",
+    "rose",
+    "kelp",
+    "pine"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri suv o'ti?",
+   "ru": "Что из этого — водоросль?",
+   "en": "Which of these is an alga?"
+  },
+  "o": {
+   "uz": [
+    "xlorella",
+    "olma daraxti",
+    "archa",
+    "qarag'ay"
+   ],
+   "ru": [
+    "хлорелла",
+    "яблоня",
+    "ель",
+    "сосна"
+   ],
+   "en": [
+    "chlorella",
+    "apple tree",
+    "spruce",
+    "pine"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ginkgo» — bu:",
+   "ru": "«гинкго» — это:",
+   "en": "«ginkgo» is a:"
+  },
+  "o": {
+   "uz": [
+    "ochiq urug'lilar",
+    "yopiq urug'lilar",
+    "paporotniksimonlar va ularga yaqinlar",
+    "moxlar"
+   ],
+   "ru": [
+    "голосеменные",
+    "покрытосеменные",
+    "папоротникообразные",
+    "мхи"
+   ],
+   "en": [
+    "gymnosperms",
+    "angiosperms",
+    "ferns and allies",
+    "mosses"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri qush?",
+   "ru": "Какое из этих животных — птица?",
+   "en": "Which of these is a bird?"
+  },
+  "o": {
+   "uz": [
+    "chumchuq",
+    "cho'rtan",
+    "sigir",
+    "qurbaqa"
+   ],
+   "ru": [
+    "воробей",
+    "щука",
+    "корова",
+    "жаба"
+   ],
+   "en": [
+    "sparrow",
+    "pike",
+    "cow",
+    "toad"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sudralib yuruvchi?",
+   "ru": "Какое из этих животных — пресмыкающееся?",
+   "en": "Which of these is a reptile?"
+  },
+  "o": {
+   "uz": [
+    "echkemar",
+    "losos",
+    "asalari",
+    "delfin"
+   ],
+   "ru": [
+    "агама",
+    "лосось",
+    "пчела",
+    "дельфин"
+   ],
+   "en": [
+    "agama lizard",
+    "salmon",
+    "honeybee",
+    "dolphin"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sigir» — bu:",
+   "ru": "«корова» — это:",
+   "en": "«cow» is a:"
+  },
+  "o": {
+   "uz": [
+    "sut emizuvchilar",
+    "hasharotlar",
+    "sudralib yuruvchilar",
+    "o'rgimchaksimonlar"
+   ],
+   "ru": [
+    "млекопитающие",
+    "насекомые",
+    "пресмыкающиеся",
+    "паукообразные"
+   ],
+   "en": [
+    "mammals",
+    "insects",
+    "reptiles",
+    "arachnids"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri hasharot?",
+   "ru": "Какое из этих животных — насекомое?",
+   "en": "Which of these is an insect?"
+  },
+  "o": {
+   "uz": [
+    "chumoli",
+    "chumchuq",
+    "baqa",
+    "pingvin"
+   ],
+   "ru": [
+    "муравей",
+    "воробей",
+    "лягушка",
+    "пингвин"
+   ],
+   "en": [
+    "ant",
+    "sparrow",
+    "frog",
+    "penguin"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sudralib yuruvchi?",
+   "ru": "Какое из этих животных — пресмыкающееся?",
+   "en": "Which of these is a reptile?"
+  },
+  "o": {
+   "uz": [
+    "kaltakesak",
+    "losos",
+    "tuyaqush",
+    "sher"
+   ],
+   "ru": [
+    "ящерица",
+    "лосось",
+    "страус",
+    "лев"
+   ],
+   "en": [
+    "lizard",
+    "salmon",
+    "ostrich",
+    "lion"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yopiq urug'li o'simlik?",
+   "ru": "Что из этого — покрытосеменное растение?",
+   "en": "Which of these is an angiosperm?"
+  },
+  "o": {
+   "uz": [
+    "lola",
+    "archa",
+    "spirogira",
+    "xlorella"
+   ],
+   "ru": [
+    "тюльпан",
+    "ель",
+    "спирогира",
+    "хлорелла"
+   ],
+   "en": [
+    "tulip",
+    "spruce",
+    "spirogyra",
+    "chlorella"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qurbaqa» — bu:",
+   "ru": "«жаба» — это:",
+   "en": "«toad» is a:"
+  },
+  "o": {
+   "uz": [
+    "amfibiyalar (ikki yashovchilar)",
+    "qushlar",
+    "baliqlar",
+    "sut emizuvchilar"
+   ],
+   "ru": [
+    "земноводные",
+    "птицы",
+    "рыбы",
+    "млекопитающие"
+   ],
+   "en": [
+    "amphibians",
+    "birds",
+    "fish",
+    "mammals"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri paporotniksimon o'simlik?",
+   "ru": "Что из этого — папоротникообразное растение?",
+   "en": "Which of these is a fern or fern ally?"
+  },
+  "o": {
+   "uz": [
+    "paporotnik",
+    "laminariya",
+    "qarag'ay",
+    "archa"
+   ],
+   "ru": [
+    "папоротник",
+    "ламинария",
+    "сосна",
+    "ель"
+   ],
+   "en": [
+    "fern",
+    "kelp",
+    "pine",
+    "spruce"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«paxta» — bu:",
+   "ru": "«хлопчатник» — это:",
+   "en": "«cotton» is a:"
+  },
+  "o": {
+   "uz": [
+    "yopiq urug'lilar",
+    "paporotniksimonlar va ularga yaqinlar",
+    "ochiq urug'lilar",
+    "moxlar"
+   ],
+   "ru": [
+    "покрытосеменные",
+    "папоротникообразные",
+    "голосеменные",
+    "мхи"
+   ],
+   "en": [
+    "angiosperms",
+    "ferns and allies",
+    "gymnosperms",
+    "mosses"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri amfibiya (ikki yashovchi)?",
+   "ru": "Какое из этих животных — земноводное?",
+   "en": "Which of these is an amphibian?"
+  },
+  "o": {
+   "uz": [
+    "tritton",
+    "akula",
+    "chumoli",
+    "quyon"
+   ],
+   "ru": [
+    "тритон",
+    "акула",
+    "муравей",
+    "заяц"
+   ],
+   "en": [
+    "newt",
+    "shark",
+    "ant",
+    "hare"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri o'rgimchaksimon?",
+   "ru": "Какое из этих животных — паукообразное?",
+   "en": "Which of these is an arachnid?"
+  },
+  "o": {
+   "uz": [
+    "kana",
+    "salamandra",
+    "pingvin",
+    "qurbaqa"
+   ],
+   "ru": [
+    "клещ",
+    "саламандра",
+    "пингвин",
+    "жаба"
+   ],
+   "en": [
+    "tick",
+    "salamander",
+    "penguin",
+    "toad"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tok» — bu:",
+   "ru": "«виноград» — это:",
+   "en": "«grapevine» is a:"
+  },
+  "o": {
+   "uz": [
+    "yopiq urug'lilar",
+    "moxlar",
+    "ochiq urug'lilar",
+    "suv o'tlari"
+   ],
+   "ru": [
+    "покрытосеменные",
+    "мхи",
+    "голосеменные",
+    "водоросли"
+   ],
+   "en": [
+    "angiosperms",
+    "mosses",
+    "gymnosperms",
+    "algae"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«o'rgimchak» — bu:",
+   "ru": "«паук» — это:",
+   "en": "«spider» is a:"
+  },
+  "o": {
+   "uz": [
+    "o'rgimchaksimonlar",
+    "qushlar",
+    "sut emizuvchilar",
+    "baliqlar"
+   ],
+   "ru": [
+    "паукообразные",
+    "птицы",
+    "млекопитающие",
+    "рыбы"
+   ],
+   "en": [
+    "arachnids",
+    "birds",
+    "mammals",
+    "fish"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri qush?",
+   "ru": "Какое из этих животных — птица?",
+   "en": "Which of these is a bird?"
+  },
+  "o": {
+   "uz": [
+    "tuyaqush",
+    "losos",
+    "karp (zog'ora baliq)",
+    "toshbaqa"
+   ],
+   "ru": [
+    "страус",
+    "лосось",
+    "карп",
+    "черепаха"
+   ],
+   "en": [
+    "ostrich",
+    "salmon",
+    "carp",
+    "turtle"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sut emizuvchi hayvon?",
+   "ru": "Какое из этих животных — млекопитающее?",
+   "en": "Which of these is a mammal?"
+  },
+  "o": {
+   "uz": [
+    "delfin",
+    "chivin",
+    "pingvin",
+    "chumchuq"
+   ],
+   "ru": [
+    "дельфин",
+    "комар",
+    "пингвин",
+    "воробей"
+   ],
+   "en": [
+    "dolphin",
+    "mosquito",
+    "penguin",
+    "sparrow"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«kaltakesak» — bu:",
+   "ru": "«ящерица» — это:",
+   "en": "«lizard» is a:"
+  },
+  "o": {
+   "uz": [
+    "sudralib yuruvchilar",
+    "amfibiyalar (ikki yashovchilar)",
+    "o'rgimchaksimonlar",
+    "sut emizuvchilar"
+   ],
+   "ru": [
+    "пресмыкающиеся",
+    "земноводные",
+    "паукообразные",
+    "млекопитающие"
+   ],
+   "en": [
+    "reptiles",
+    "amphibians",
+    "arachnids",
+    "mammals"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«timsoh» — bu:",
+   "ru": "«крокодил» — это:",
+   "en": "«crocodile» is a:"
+  },
+  "o": {
+   "uz": [
+    "sudralib yuruvchilar",
+    "hasharotlar",
+    "sut emizuvchilar",
+    "baliqlar"
+   ],
+   "ru": [
+    "пресмыкающиеся",
+    "насекомые",
+    "млекопитающие",
+    "рыбы"
+   ],
+   "en": [
+    "reptiles",
+    "insects",
+    "mammals",
+    "fish"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«baqa» — bu:",
+   "ru": "«лягушка» — это:",
+   "en": "«frog» is a:"
+  },
+  "o": {
+   "uz": [
+    "amfibiyalar (ikki yashovchilar)",
+    "sut emizuvchilar",
+    "qushlar",
+    "o'rgimchaksimonlar"
+   ],
+   "ru": [
+    "земноводные",
+    "млекопитающие",
+    "птицы",
+    "паукообразные"
+   ],
+   "en": [
+    "amphibians",
+    "mammals",
+    "birds",
+    "arachnids"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri ochiq urug'li o'simlik?",
+   "ru": "Что из этого — голосеменное растение?",
+   "en": "Which of these is a gymnosperm?"
+  },
+  "o": {
+   "uz": [
+    "ginkgo",
+    "qirqbo'g'im",
+    "spirogira",
+    "paxta"
+   ],
+   "ru": [
+    "гинкго",
+    "хвощ",
+    "спирогира",
+    "хлопчатник"
+   ],
+   "en": [
+    "ginkgo",
+    "horsetail",
+    "spirogyra",
+    "cotton"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri qush?",
+   "ru": "Какое из этих животных — птица?",
+   "en": "Which of these is a bird?"
+  },
+  "o": {
+   "uz": [
+    "tovuq",
+    "quyon",
+    "salamandra",
+    "karp (zog'ora baliq)"
+   ],
+   "ru": [
+    "курица",
+    "заяц",
+    "саламандра",
+    "карп"
+   ],
+   "en": [
+    "hen",
+    "hare",
+    "salamander",
+    "carp"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«atirgul» — bu:",
+   "ru": "«роза» — это:",
+   "en": "«rose» is a:"
+  },
+  "o": {
+   "uz": [
+    "yopiq urug'lilar",
+    "ochiq urug'lilar",
+    "paporotniksimonlar va ularga yaqinlar",
+    "suv o'tlari"
+   ],
+   "ru": [
+    "покрытосеменные",
+    "голосеменные",
+    "папоротникообразные",
+    "водоросли"
+   ],
+   "en": [
+    "angiosperms",
+    "gymnosperms",
+    "ferns and allies",
+    "algae"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sut emizuvchi hayvon?",
+   "ru": "Какое из этих животных — млекопитающее?",
+   "en": "Which of these is a mammal?"
+  },
+  "o": {
+   "uz": [
+    "kit",
+    "baqa",
+    "asalari",
+    "laylak"
+   ],
+   "ru": [
+    "кит",
+    "лягушка",
+    "пчела",
+    "аист"
+   ],
+   "en": [
+    "whale",
+    "frog",
+    "honeybee",
+    "stork"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri qush?",
+   "ru": "Какое из этих животных — птица?",
+   "en": "Which of these is a bird?"
+  },
+  "o": {
+   "uz": [
+    "laylak",
+    "qo'ng'iz",
+    "ilon",
+    "echkemar"
+   ],
+   "ru": [
+    "аист",
+    "жук",
+    "змея",
+    "агама"
+   ],
+   "en": [
+    "stork",
+    "beetle",
+    "snake",
+    "agama lizard"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sut emizuvchi hayvon?",
+   "ru": "Какое из этих животных — млекопитающее?",
+   "en": "Which of these is a mammal?"
+  },
+  "o": {
+   "uz": [
+    "ko'rshapalak",
+    "pingvin",
+    "losos",
+    "tuyaqush"
+   ],
+   "ru": [
+    "летучая мышь",
+    "пингвин",
+    "лосось",
+    "страус"
+   ],
+   "en": [
+    "bat",
+    "penguin",
+    "salmon",
+    "ostrich"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«kana» — bu:",
+   "ru": "«клещ» — это:",
+   "en": "«tick» is a:"
+  },
+  "o": {
+   "uz": [
+    "o'rgimchaksimonlar",
+    "qushlar",
+    "sut emizuvchilar",
+    "sudralib yuruvchilar"
+   ],
+   "ru": [
+    "паукообразные",
+    "птицы",
+    "млекопитающие",
+    "пресмыкающиеся"
+   ],
+   "en": [
+    "arachnids",
+    "birds",
+    "mammals",
+    "reptiles"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri ochiq urug'li o'simlik?",
+   "ru": "Что из этого — голосеменное растение?",
+   "en": "Which of these is a gymnosperm?"
+  },
+  "o": {
+   "uz": [
+    "qarag'ay",
+    "laminariya",
+    "atirgul",
+    "lola"
+   ],
+   "ru": [
+    "сосна",
+    "ламинария",
+    "роза",
+    "тюльпан"
+   ],
+   "en": [
+    "pine",
+    "kelp",
+    "rose",
+    "tulip"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«boyqush» — bu:",
+   "ru": "«сова» — это:",
+   "en": "«owl» is a:"
+  },
+  "o": {
+   "uz": [
+    "qushlar",
+    "baliqlar",
+    "amfibiyalar (ikki yashovchilar)",
+    "sudralib yuruvchilar"
+   ],
+   "ru": [
+    "птицы",
+    "рыбы",
+    "земноводные",
+    "пресмыкающиеся"
+   ],
+   "en": [
+    "birds",
+    "fish",
+    "amphibians",
+    "reptiles"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«echkemar» — bu:",
+   "ru": "«агама» — это:",
+   "en": "«agama lizard» is a:"
+  },
+  "o": {
+   "uz": [
+    "sudralib yuruvchilar",
+    "qushlar",
+    "sut emizuvchilar",
+    "o'rgimchaksimonlar"
+   ],
+   "ru": [
+    "пресмыкающиеся",
+    "птицы",
+    "млекопитающие",
+    "паукообразные"
+   ],
+   "en": [
+    "reptiles",
+    "birds",
+    "mammals",
+    "arachnids"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sfagnum» — bu:",
+   "ru": "«сфагнум» — это:",
+   "en": "«sphagnum» is a:"
+  },
+  "o": {
+   "uz": [
+    "moxlar",
+    "ochiq urug'lilar",
+    "yopiq urug'lilar",
+    "paporotniksimonlar va ularga yaqinlar"
+   ],
+   "ru": [
+    "мхи",
+    "голосеменные",
+    "покрытосеменные",
+    "папоротникообразные"
+   ],
+   "en": [
+    "mosses",
+    "gymnosperms",
+    "angiosperms",
+    "ferns and allies"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri o'rgimchaksimon?",
+   "ru": "Какое из этих животных — паукообразное?",
+   "en": "Which of these is an arachnid?"
+  },
+  "o": {
+   "uz": [
+    "chayon",
+    "karp (zog'ora baliq)",
+    "ko'rshapalak",
+    "timsoh"
+   ],
+   "ru": [
+    "скорпион",
+    "карп",
+    "летучая мышь",
+    "крокодил"
+   ],
+   "en": [
+    "scorpion",
+    "carp",
+    "bat",
+    "crocodile"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«plaun» — bu:",
+   "ru": "«плаун» — это:",
+   "en": "«club moss» is a:"
+  },
+  "o": {
+   "uz": [
+    "paporotniksimonlar va ularga yaqinlar",
+    "suv o'tlari",
+    "yopiq urug'lilar",
+    "moxlar"
+   ],
+   "ru": [
+    "папоротникообразные",
+    "водоросли",
+    "покрытосеменные",
+    "мхи"
+   ],
+   "en": [
+    "ferns and allies",
+    "algae",
+    "angiosperms",
+    "mosses"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«asalari» — bu:",
+   "ru": "«пчела» — это:",
+   "en": "«honeybee» is a:"
+  },
+  "o": {
+   "uz": [
+    "hasharotlar",
+    "sut emizuvchilar",
+    "qushlar",
+    "baliqlar"
+   ],
+   "ru": [
+    "насекомые",
+    "млекопитающие",
+    "птицы",
+    "рыбы"
+   ],
+   "en": [
+    "insects",
+    "mammals",
+    "birds",
+    "fish"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sudralib yuruvchi?",
+   "ru": "Какое из этих животных — пресмыкающееся?",
+   "en": "Which of these is a reptile?"
+  },
+  "o": {
+   "uz": [
+    "toshbaqa",
+    "quyon",
+    "chumchuq",
+    "salamandra"
+   ],
+   "ru": [
+    "черепаха",
+    "заяц",
+    "воробей",
+    "саламандра"
+   ],
+   "en": [
+    "turtle",
+    "hare",
+    "sparrow",
+    "salamander"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri baliq?",
+   "ru": "Какое из этих животных — рыба?",
+   "en": "Which of these is a fish?"
+  },
+  "o": {
+   "uz": [
+    "karp (zog'ora baliq)",
+    "tritton",
+    "laylak",
+    "chumoli"
+   ],
+   "ru": [
+    "карп",
+    "тритон",
+    "аист",
+    "муравей"
+   ],
+   "en": [
+    "carp",
+    "newt",
+    "stork",
+    "ant"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«kukushkin zig'iri» — bu:",
+   "ru": "«кукушкин лён» — это:",
+   "en": "«haircap moss» is a:"
+  },
+  "o": {
+   "uz": [
+    "moxlar",
+    "ochiq urug'lilar",
+    "suv o'tlari",
+    "paporotniksimonlar va ularga yaqinlar"
+   ],
+   "ru": [
+    "мхи",
+    "голосеменные",
+    "водоросли",
+    "папоротникообразные"
+   ],
+   "en": [
+    "mosses",
+    "gymnosperms",
+    "algae",
+    "ferns and allies"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«lola» — bu:",
+   "ru": "«тюльпан» — это:",
+   "en": "«tulip» is a:"
+  },
+  "o": {
+   "uz": [
+    "yopiq urug'lilar",
+    "ochiq urug'lilar",
+    "suv o'tlari",
+    "moxlar"
+   ],
+   "ru": [
+    "покрытосеменные",
+    "голосеменные",
+    "водоросли",
+    "мхи"
+   ],
+   "en": [
+    "angiosperms",
+    "gymnosperms",
+    "algae",
+    "mosses"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«kapalak» — bu:",
+   "ru": "«бабочка» — это:",
+   "en": "«butterfly» is a:"
+  },
+  "o": {
+   "uz": [
+    "hasharotlar",
+    "qushlar",
+    "amfibiyalar (ikki yashovchilar)",
+    "sudralib yuruvchilar"
+   ],
+   "ru": [
+    "насекомые",
+    "птицы",
+    "земноводные",
+    "пресмыкающиеся"
+   ],
+   "en": [
+    "insects",
+    "birds",
+    "amphibians",
+    "reptiles"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«chivin» — bu:",
+   "ru": "«комар» — это:",
+   "en": "«mosquito» is a:"
+  },
+  "o": {
+   "uz": [
+    "hasharotlar",
+    "o'rgimchaksimonlar",
+    "sudralib yuruvchilar",
+    "baliqlar"
+   ],
+   "ru": [
+    "насекомые",
+    "паукообразные",
+    "пресмыкающиеся",
+    "рыбы"
+   ],
+   "en": [
+    "insects",
+    "arachnids",
+    "reptiles",
+    "fish"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«salamandra» — bu:",
+   "ru": "«саламандра» — это:",
+   "en": "«salamander» is a:"
+  },
+  "o": {
+   "uz": [
+    "amfibiyalar (ikki yashovchilar)",
+    "sut emizuvchilar",
+    "qushlar",
+    "o'rgimchaksimonlar"
+   ],
+   "ru": [
+    "земноводные",
+    "млекопитающие",
+    "птицы",
+    "паукообразные"
+   ],
+   "en": [
+    "amphibians",
+    "mammals",
+    "birds",
+    "arachnids"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ot» — bu:",
+   "ru": "«лошадь» — это:",
+   "en": "«horse» is a:"
+  },
+  "o": {
+   "uz": [
+    "sut emizuvchilar",
+    "qushlar",
+    "o'rgimchaksimonlar",
+    "sudralib yuruvchilar"
+   ],
+   "ru": [
+    "млекопитающие",
+    "птицы",
+    "паукообразные",
+    "пресмыкающиеся"
+   ],
+   "en": [
+    "mammals",
+    "birds",
+    "arachnids",
+    "reptiles"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sudralib yuruvchi?",
+   "ru": "Какое из этих животных — пресмыкающееся?",
+   "en": "Which of these is a reptile?"
+  },
+  "o": {
+   "uz": [
+    "ilon",
+    "salamandra",
+    "o'rgimchak",
+    "sigir"
+   ],
+   "ru": [
+    "змея",
+    "саламандра",
+    "паук",
+    "корова"
+   ],
+   "en": [
+    "snake",
+    "salamander",
+    "spider",
+    "cow"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«treska» — bu:",
+   "ru": "«треска» — это:",
+   "en": "«cod» is a:"
+  },
+  "o": {
+   "uz": [
+    "baliqlar",
+    "amfibiyalar (ikki yashovchilar)",
+    "o'rgimchaksimonlar",
+    "qushlar"
+   ],
+   "ru": [
+    "рыбы",
+    "земноводные",
+    "паукообразные",
+    "птицы"
+   ],
+   "en": [
+    "fish",
+    "amphibians",
+    "arachnids",
+    "birds"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tuyaqush» — bu:",
+   "ru": "«страус» — это:",
+   "en": "«ostrich» is a:"
+  },
+  "o": {
+   "uz": [
+    "qushlar",
+    "hasharotlar",
+    "amfibiyalar (ikki yashovchilar)",
+    "o'rgimchaksimonlar"
+   ],
+   "ru": [
+    "птицы",
+    "насекомые",
+    "земноводные",
+    "паукообразные"
+   ],
+   "en": [
+    "birds",
+    "insects",
+    "amphibians",
+    "arachnids"
+   ]
+  },
+  "a": 0
+ }
+]

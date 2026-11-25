@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Malayziya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Малайзия?",
+   "en": "What is the capital of Malaysia?"
+  },
+  "o": {
+   "uz": [
+    "Kuala-Lumpur",
+    "Dakka",
+    "Bag'dod",
+    "Islomobod"
+   ],
+   "ru": [
+    "Куала-Лумпур",
+    "Дакка",
+    "Багдад",
+    "Исламабад"
+   ],
+   "en": [
+    "Kuala Lumpur",
+    "Dhaka",
+    "Baghdad",
+    "Islamabad"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Vena qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Вена?",
+   "en": "Vienna is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Avstriya",
+    "Belgiya",
+    "Daniya",
+    "Ispaniya"
+   ],
+   "ru": [
+    "Австрия",
+    "Бельгия",
+    "Дания",
+    "Испания"
+   ],
+   "en": [
+    "Austria",
+    "Belgium",
+    "Denmark",
+    "Spain"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bishkek qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Бишкек?",
+   "en": "Bishkek is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Qirg'iziston",
+    "Saudiya Arabistoni",
+    "Qozog'iston",
+    "Armaniston"
+   ],
+   "ru": [
+    "Киргизия",
+    "Саудовская Аравия",
+    "Казахстан",
+    "Армения"
+   ],
+   "en": [
+    "Kyrgyzstan",
+    "Saudi Arabia",
+    "Kazakhstan",
+    "Armenia"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yer o'z o'qi atrofida necha soatda to'liq aylanadi (taxminan)?",
+   "ru": "За сколько часов Земля делает оборот вокруг оси (примерно)?",
+   "en": "How long does the Earth take to rotate once on its axis (approximately)?"
+  },
+  "o": {
+   "uz": [
+    "24 soat",
+    "12 soat",
+    "365 kun",
+    "30 kun"
+   ],
+   "ru": [
+    "24 часа",
+    "12 часов",
+    "365 дней",
+    "30 дней"
+   ],
+   "en": [
+    "24 hours",
+    "12 hours",
+    "365 days",
+    "30 days"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri daryo?",
+   "ru": "Что из этого — река?",
+   "en": "Which of these is a river?"
+  },
+  "o": {
+   "uz": [
+    "Dunay",
+    "Afrika",
+    "Hind okeani",
+    "Gobi"
+   ],
+   "ru": [
+    "Дунай",
+    "Африка",
+    "Индийский океан",
+    "Гоби"
+   ],
+   "en": [
+    "Danube",
+    "Africa",
+    "Indian Ocean",
+    "Gobi"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Chili davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Чили?",
+   "en": "What is the capital of Chile?"
+  },
+  "o": {
+   "uz": [
+    "Santyago",
+    "Braziliya shahri",
+    "Buenos-Ayres",
+    "Ottava"
+   ],
+   "ru": [
+    "Сантьяго",
+    "Бразилиа",
+    "Буэнос-Айрес",
+    "Оттава"
+   ],
+   "en": [
+    "Santiago",
+    "Brasília",
+    "Buenos Aires",
+    "Ottawa"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Aholisi eng ko'p davlat qaysi (2023-yildan)?",
+   "ru": "Какая страна самая многонаселённая (с 2023 года)?",
+   "en": "Which is the most populous country (since 2023)?"
+  },
+  "o": {
+   "uz": [
+    "Hindiston",
+    "Xitoy",
+    "AQSh",
+    "Indoneziya"
+   ],
+   "ru": [
+    "Индия",
+    "Китай",
+    "США",
+    "Индонезия"
+   ],
+   "en": [
+    "India",
+    "China",
+    "USA",
+    "Indonesia"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'zbekiston davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Узбекистан?",
+   "en": "What is the capital of Uzbekistan?"
+  },
+  "o": {
+   "uz": [
+    "Toshkent",
+    "Kobul",
+    "Anqara",
+    "Boku"
+   ],
+   "ru": [
+    "Ташкент",
+    "Кабул",
+    "Анкара",
+    "Баку"
+   ],
+   "en": [
+    "Tashkent",
+    "Kabul",
+    "Ankara",
+    "Baku"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri daryo?",
+   "ru": "Что из этого — река?",
+   "en": "Which of these is a river?"
+  },
+  "o": {
+   "uz": [
+    "Amazonka",
+    "Issiqko'l",
+    "Janubiy Amerika",
+    "Gobi"
+   ],
+   "ru": [
+    "Амазонка",
+    "Иссык-Куль",
+    "Южная Америка",
+    "Гоби"
+   ],
+   "en": [
+    "Amazon",
+    "Issyk-Kul",
+    "South America",
+    "Gobi"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dushanbe qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Душанбе?",
+   "en": "Dushanbe is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Tojikiston",
+    "Yaponiya",
+    "Qirg'iziston",
+    "Vyetnam"
+   ],
+   "ru": [
+    "Таджикистан",
+    "Япония",
+    "Киргизия",
+    "Вьетнам"
+   ],
+   "en": [
+    "Tajikistan",
+    "Japan",
+    "Kyrgyzstan",
+    "Vietnam"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri tog' (tog' tizmasi)?",
+   "ru": "Что из этого — горы (горная система)?",
+   "en": "Which of these is a mountain (range)?"
+  },
+  "o": {
+   "uz": [
+    "Tyanshan",
+    "Tinch okean",
+    "Shimoliy Amerika",
+    "Viktoriya ko'li"
+   ],
+   "ru": [
+    "Тянь-Шань",
+    "Тихий океан",
+    "Северная Америка",
+    "озеро Виктория"
+   ],
+   "en": [
+    "Tian Shan",
+    "Pacific Ocean",
+    "North America",
+    "Lake Victoria"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yerning eng markaziy qismi nima deyiladi?",
+   "ru": "Как называется центральная часть Земли?",
+   "en": "What is the central part of the Earth called?"
+  },
+  "o": {
+   "uz": [
+    "Yadro",
+    "Yer po'sti",
+    "Mantiya",
+    "Litosfera"
+   ],
+   "ru": [
+    "Ядро",
+    "Земная кора",
+    "Мантия",
+    "Литосфера"
+   ],
+   "en": [
+    "The core",
+    "The crust",
+    "The mantle",
+    "The lithosphere"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qarshi qaysi viloyat (respublika) markazi?",
+   "ru": "Центром какой области (республики) является Карши?",
+   "en": "Karshi is the centre of which region (republic)?"
+  },
+  "o": {
+   "uz": [
+    "Qashqadaryo viloyati",
+    "Surxondaryo viloyati",
+    "Navoiy viloyati",
+    "Toshkent viloyati"
+   ],
+   "ru": [
+    "Кашкадарьинская область",
+    "Сурхандарьинская область",
+    "Навоийская область",
+    "Ташкентская область"
+   ],
+   "en": [
+    "Kashkadarya Region",
+    "Surkhandarya Region",
+    "Navoi Region",
+    "Tashkent Region"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Nyu-Dehli qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Нью-Дели?",
+   "en": "New Delhi is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Hindiston",
+    "Iroq",
+    "Janubiy Koreya",
+    "Saudiya Arabistoni"
+   ],
+   "ru": [
+    "Индия",
+    "Ирак",
+    "Южная Корея",
+    "Саудовская Аравия"
+   ],
+   "en": [
+    "India",
+    "Iraq",
+    "South Korea",
+    "Saudi Arabia"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eng kichik qit'a qaysi?",
+   "ru": "Какой материк самый маленький?",
+   "en": "Which is the smallest continent?"
+  },
+  "o": {
+   "uz": [
+    "Avstraliya",
+    "Antarktida",
+    "Yevropa",
+    "Afrika"
+   ],
+   "ru": [
+    "Австралия",
+    "Антарктида",
+    "Европа",
+    "Африка"
+   ],
+   "en": [
+    "Australia",
+    "Antarctica",
+    "Europe",
+    "Africa"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ispaniya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Испания?",
+   "en": "What is the capital of Spain?"
+  },
+  "o": {
+   "uz": [
+    "Madrid",
+    "Stokgolm",
+    "Zagreb",
+    "Sofiya"
+   ],
+   "ru": [
+    "Мадрид",
+    "Стокгольм",
+    "Загреб",
+    "София"
+   ],
+   "en": [
+    "Madrid",
+    "Stockholm",
+    "Zagreb",
+    "Sofia"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Turkiya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Турция?",
+   "en": "What is the capital of Turkey?"
+  },
+  "o": {
+   "uz": [
+    "Anqara",
+    "Nyu-Dehli",
+    "Ar-Riyod",
+    "Manila"
+   ],
+   "ru": [
+    "Анкара",
+    "Нью-Дели",
+    "Эр-Рияд",
+    "Манила"
+   ],
+   "en": [
+    "Ankara",
+    "New Delhi",
+    "Riyadh",
+    "Manila"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri cho'l?",
+   "ru": "Что из этого — пустыня?",
+   "en": "Which of these is a desert?"
+  },
+  "o": {
+   "uz": [
+    "Qoraqum",
+    "Hind okeani",
+    "Ural tog'lari",
+    "Issiqko'l"
+   ],
+   "ru": [
+    "Каракумы",
+    "Индийский океан",
+    "Уральские горы",
+    "Иссык-Куль"
+   ],
+   "en": [
+    "Karakum",
+    "Indian Ocean",
+    "The Urals",
+    "Issyk-Kul"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi davlat «Quyosh chiqish mamlakati» deb ataladi?",
+   "ru": "Какую страну называют «страной восходящего солнца»?",
+   "en": "Which country is called the «Land of the Rising Sun»?"
+  },
+  "o": {
+   "uz": [
+    "Yaponiya",
+    "Xitoy",
+    "Hindiston",
+    "Koreya"
+   ],
+   "ru": [
+    "Япония",
+    "Китай",
+    "Индия",
+    "Корея"
+   ],
+   "en": [
+    "Japan",
+    "China",
+    "India",
+    "Korea"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Samarqand viloyatining markazi qaysi shahar?",
+   "ru": "Какой город — административный центр региона «Самаркандская область»?",
+   "en": "Which city is the administrative centre of Samarkand Region?"
+  },
+  "o": {
+   "uz": [
+    "Samarqand",
+    "Navoiy",
+    "Andijon",
+    "Jizzax"
+   ],
+   "ru": [
+    "Самарканд",
+    "Навои",
+    "Андижан",
+    "Джизак"
+   ],
+   "en": [
+    "Samarkand",
+    "Navoi",
+    "Andijan",
+    "Jizzakh"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri cho'l?",
+   "ru": "Что из этого — пустыня?",
+   "en": "Which of these is a desert?"
+  },
+  "o": {
+   "uz": [
+    "Atakama",
+    "Osiyo",
+    "Nil",
+    "Janubiy Amerika"
+   ],
+   "ru": [
+    "Атакама",
+    "Евразия (Азия)",
+    "Нил",
+    "Южная Америка"
+   ],
+   "en": [
+    "Atacama",
+    "Asia",
+    "Nile",
+    "South America"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Vulqon nima?",
+   "ru": "Что такое вулкан?",
+   "en": "What is a volcano?"
+  },
+  "o": {
+   "uz": [
+    "Yer qa'ridan magma chiqadigan tog'",
+    "Chuqur ko'l",
+    "Cho'l turi",
+    "Daryo irmog'i"
+   ],
+   "ru": [
+    "Гора, из которой на поверхность выходит магма",
+    "Глубокое озеро",
+    "Тип пустыни",
+    "Приток реки"
+   ],
+   "en": [
+    "A mountain through which magma erupts",
+    "A deep lake",
+    "A type of desert",
+    "A river tributary"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qoraqalpog'iston Respublikasining markazi qaysi shahar?",
+   "ru": "Какой город — административный центр региона «Республика Каракалпакстан»?",
+   "en": "Which city is the administrative centre of Republic of Karakalpakstan?"
+  },
+  "o": {
+   "uz": [
+    "Nukus",
+    "Andijon",
+    "Nurafshon",
+    "Navoiy"
+   ],
+   "ru": [
+    "Нукус",
+    "Андижан",
+    "Нурафшон",
+    "Навои"
+   ],
+   "en": [
+    "Nukus",
+    "Andijan",
+    "Nurafshon",
+    "Navoi"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yer Quyosh atrofida taxminan necha kunda to'liq aylanadi?",
+   "ru": "За сколько дней Земля обходит Солнце (примерно)?",
+   "en": "In about how many days does the Earth orbit the Sun?"
+  },
+  "o": {
+   "uz": [
+    "365 kun",
+    "24 kun",
+    "30 kun",
+    "100 kun"
+   ],
+   "ru": [
+    "365 дней",
+    "24 дня",
+    "30 дней",
+    "100 дней"
+   ],
+   "en": [
+    "365 days",
+    "24 days",
+    "30 days",
+    "100 days"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Amudaryo» — bu:",
+   "ru": "«Амударья» — это:",
+   "en": "«Amudarya» is a:"
+  },
+  "o": {
+   "uz": [
+    "daryo",
+    "okean",
+    "ko'l",
+    "cho'l"
+   ],
+   "ru": [
+    "река",
+    "океан",
+    "озеро",
+    "пустыня"
+   ],
+   "en": [
+    "river",
+    "ocean",
+    "lake",
+    "desert"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Madrid qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Мадрид?",
+   "en": "Madrid is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Ispaniya",
+    "Fransiya",
+    "Xorvatiya",
+    "Norvegiya"
+   ],
+   "ru": [
+    "Испания",
+    "Франция",
+    "Хорватия",
+    "Норвегия"
+   ],
+   "en": [
+    "Spain",
+    "France",
+    "Croatia",
+    "Norway"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eng issiq iqlim zonasi qaysi?",
+   "ru": "Какой климатический пояс самый жаркий?",
+   "en": "Which climate zone is the hottest?"
+  },
+  "o": {
+   "uz": [
+    "Ekvatorial",
+    "Subarktik",
+    "Mo'tadil",
+    "Arktik"
+   ],
+   "ru": [
+    "Экваториальный",
+    "Субарктический",
+    "Умеренный",
+    "Арктический"
+   ],
+   "en": [
+    "Equatorial",
+    "Subarctic",
+    "Temperate",
+    "Arctic"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Janubiy Koreya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Южная Корея?",
+   "en": "What is the capital of South Korea?"
+  },
+  "o": {
+   "uz": [
+    "Seul",
+    "Ulan-Bator",
+    "Bag'dod",
+    "Yerevan"
+   ],
+   "ru": [
+    "Сеул",
+    "Улан-Батор",
+    "Багдад",
+    "Ереван"
+   ],
+   "en": [
+    "Seoul",
+    "Ulaanbaatar",
+    "Baghdad",
+    "Yerevan"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sofiya qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является София?",
+   "en": "Sofia is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Bolgariya",
+    "Chexiya",
+    "Norvegiya",
+    "Polsha"
+   ],
+   "ru": [
+    "Болгария",
+    "Чехия",
+    "Норвегия",
+    "Польша"
+   ],
+   "en": [
+    "Bulgaria",
+    "Czechia",
+    "Norway",
+    "Poland"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qutblarni tutashtiruvchi xayoliy chiziqlar nima deyiladi?",
+   "ru": "Как называются воображаемые линии, соединяющие полюса?",
+   "en": "What are the imaginary lines connecting the poles called?"
+  },
+  "o": {
+   "uz": [
+    "Meridianlar",
+    "Parallellar",
+    "Ekvator",
+    "Tropiklar"
+   ],
+   "ru": [
+    "Меридианы",
+    "Параллели",
+    "Экватор",
+    "Тропики"
+   ],
+   "en": [
+    "Meridians",
+    "Parallels",
+    "The equator",
+    "The tropics"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Meksika davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Мексика?",
+   "en": "What is the capital of Mexico?"
+  },
+  "o": {
+   "uz": [
+    "Mexiko",
+    "Ottava",
+    "Braziliya shahri",
+    "Bogota"
+   ],
+   "ru": [
+    "Мехико",
+    "Оттава",
+    "Бразилиа",
+    "Богота"
+   ],
+   "en": [
+    "Mexico City",
+    "Ottawa",
+    "Brasília",
+    "Bogotá"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Serbiya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Сербия?",
+   "en": "What is the capital of Serbia?"
+  },
+  "o": {
+   "uz": [
+    "Belgrad",
+    "Varshava",
+    "Parij",
+    "Amsterdam"
+   ],
+   "ru": [
+    "Белград",
+    "Варшава",
+    "Париж",
+    "Амстердам"
+   ],
+   "en": [
+    "Belgrade",
+    "Warsaw",
+    "Paris",
+    "Amsterdam"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Saudiya Arabistoni davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Саудовская Аравия?",
+   "en": "What is the capital of Saudi Arabia?"
+  },
+  "o": {
+   "uz": [
+    "Ar-Riyod",
+    "Islomobod",
+    "Ashxobod",
+    "Manila"
+   ],
+   "ru": [
+    "Эр-Рияд",
+    "Исламабад",
+    "Ашхабад",
+    "Манила"
+   ],
+   "en": [
+    "Riyadh",
+    "Islamabad",
+    "Ashgabat",
+    "Manila"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bangkok qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Бангкок?",
+   "en": "Bangkok is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Tailand",
+    "Filippin",
+    "Mo'g'uliston",
+    "Hindiston"
+   ],
+   "ru": [
+    "Таиланд",
+    "Филиппины",
+    "Монголия",
+    "Индия"
+   ],
+   "en": [
+    "Thailand",
+    "Philippines",
+    "Mongolia",
+    "India"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Islomobod qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Исламабад?",
+   "en": "Islamabad is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Pokiston",
+    "Qirg'iziston",
+    "Mo'g'uliston",
+    "Xitoy"
+   ],
+   "ru": [
+    "Пакистан",
+    "Киргизия",
+    "Монголия",
+    "Китай"
+   ],
+   "en": [
+    "Pakistan",
+    "Kyrgyzstan",
+    "Mongolia",
+    "China"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Dunyodagi eng baland tog' cho'qqisi qaysi?",
+   "ru": "Какая вершина — самая высокая в мире?",
+   "en": "Which is the highest mountain peak in the world?"
+  },
+  "o": {
+   "uz": [
+    "Everest (Chomolungma)",
+    "Elbrus",
+    "Monblan",
+    "Kilimanjaro"
+   ],
+   "ru": [
+    "Эверест (Джомолунгма)",
+    "Эльбрус",
+    "Монблан",
+    "Килиманджаро"
+   ],
+   "en": [
+    "Everest (Chomolungma)",
+    "Elbrus",
+    "Mont Blanc",
+    "Kilimanjaro"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri cho'l?",
+   "ru": "Что из этого — пустыня?",
+   "en": "Which of these is a desert?"
+  },
+  "o": {
+   "uz": [
+    "Gobi",
+    "Antarktida",
+    "Himolay",
+    "Janubiy Amerika"
+   ],
+   "ru": [
+    "Гоби",
+    "Антарктида",
+    "Гималаи",
+    "Южная Америка"
+   ],
+   "en": [
+    "Gobi",
+    "Antarctica",
+    "Himalayas",
+    "South America"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Nil daryosi qaysi qit'ada joylashgan?",
+   "ru": "На каком материке находится река Нил?",
+   "en": "On which continent is the Nile?"
+  },
+  "o": {
+   "uz": [
+    "Afrika",
+    "Janubiy Amerika",
+    "Osiyo",
+    "Avstraliya"
+   ],
+   "ru": [
+    "Африка",
+    "Южная Америка",
+    "Азия",
+    "Австралия"
+   ],
+   "en": [
+    "Africa",
+    "South America",
+    "Asia",
+    "Australia"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jizzax viloyatining markazi qaysi shahar?",
+   "ru": "Какой город — административный центр региона «Джизакская область»?",
+   "en": "Which city is the administrative centre of Jizzakh Region?"
+  },
+  "o": {
+   "uz": [
+    "Jizzax",
+    "Urganch",
+    "Andijon",
+    "Samarqand"
+   ],
+   "ru": [
+    "Джизак",
+    "Ургенч",
+    "Андижан",
+    "Самарканд"
+   ],
+   "en": [
+    "Jizzakh",
+    "Urgench",
+    "Andijan",
+    "Samarkand"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Guliston qaysi viloyat (respublika) markazi?",
+   "ru": "Центром какой области (республики) является Гулистан?",
+   "en": "Gulistan is the centre of which region (republic)?"
+  },
+  "o": {
+   "uz": [
+    "Sirdaryo viloyati",
+    "Jizzax viloyati",
+    "Buxoro viloyati",
+    "Samarqand viloyati"
+   ],
+   "ru": [
+    "Сырдарьинская область",
+    "Джизакская область",
+    "Бухарская область",
+    "Самаркандская область"
+   ],
+   "en": [
+    "Syrdarya Region",
+    "Jizzakh Region",
+    "Bukhara Region",
+    "Samarkand Region"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Havoning asosiy tarkibiy qismi qaysi gaz?",
+   "ru": "Какой газ преобладает в воздухе?",
+   "en": "Which gas is the main component of air?"
+  },
+  "o": {
+   "uz": [
+    "Azot",
+    "Kislorod",
+    "Karbonat angidrid",
+    "Vodorod"
+   ],
+   "ru": [
+    "Азот",
+    "Кислород",
+    "Углекислый газ",
+    "Водород"
+   ],
+   "en": [
+    "Nitrogen",
+    "Oxygen",
+    "Carbon dioxide",
+    "Hydrogen"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Addis-Abeba qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Аддис-Абеба?",
+   "en": "Addis Ababa is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Efiopiya",
+    "Marokash",
+    "Nigeriya",
+    "Misr"
+   ],
+   "ru": [
+    "Эфиопия",
+    "Марокко",
+    "Нигерия",
+    "Египет"
+   ],
+   "en": [
+    "Ethiopia",
+    "Morocco",
+    "Nigeria",
+    "Egypt"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Buyuk Britaniya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Великобритания?",
+   "en": "What is the capital of United Kingdom?"
+  },
+  "o": {
+   "uz": [
+    "London",
+    "Oslo",
+    "Rim",
+    "Lissabon"
+   ],
+   "ru": [
+    "Лондон",
+    "Осло",
+    "Рим",
+    "Лиссабон"
+   ],
+   "en": [
+    "London",
+    "Oslo",
+    "Rome",
+    "Lisbon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi dengiz O'zbekiston hududida qurib bormoqda?",
+   "ru": "Какое море высыхает на территории Узбекистана и Казахстана?",
+   "en": "Which sea is drying up in the Uzbekistan–Kazakhstan region?"
+  },
+  "o": {
+   "uz": [
+    "Orol dengizi",
+    "Qora dengiz",
+    "Kaspiy dengizi",
+    "O'rta dengiz"
+   ],
+   "ru": [
+    "Аральское море",
+    "Чёрное море",
+    "Каспийское море",
+    "Средиземное море"
+   ],
+   "en": [
+    "The Aral Sea",
+    "The Black Sea",
+    "The Caspian Sea",
+    "The Mediterranean"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Xorazm viloyatining markazi qaysi shahar?",
+   "ru": "Какой город — административный центр региона «Хорезмская область»?",
+   "en": "Which city is the administrative centre of Khorezm Region?"
+  },
+  "o": {
+   "uz": [
+    "Urganch",
+    "Termiz",
+    "Navoiy",
+    "Namangan"
+   ],
+   "ru": [
+    "Ургенч",
+    "Термез",
+    "Навои",
+    "Наманган"
+   ],
+   "en": [
+    "Urgench",
+    "Termez",
+    "Navoi",
+    "Namangan"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Irlandiya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Ирландия?",
+   "en": "What is the capital of Ireland?"
+  },
+  "o": {
+   "uz": [
+    "Dublin",
+    "Praga",
+    "Buxarest",
+    "Bryussel"
+   ],
+   "ru": [
+    "Дублин",
+    "Прага",
+    "Бухарест",
+    "Брюссель"
+   ],
+   "en": [
+    "Dublin",
+    "Prague",
+    "Bucharest",
+    "Brussels"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Qoraqum» — bu:",
+   "ru": "«Каракумы» — это:",
+   "en": "«Karakum» is a:"
+  },
+  "o": {
+   "uz": [
+    "cho'l",
+    "daryo",
+    "qit'a",
+    "tog'"
+   ],
+   "ru": [
+    "пустыня",
+    "река",
+    "материк",
+    "гора"
+   ],
+   "en": [
+    "desert",
+    "river",
+    "continent",
+    "mountain"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Abuja qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Абуджа?",
+   "en": "Abuja is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Nigeriya",
+    "Keniya",
+    "Liviya",
+    "Efiopiya"
+   ],
+   "ru": [
+    "Нигерия",
+    "Кения",
+    "Ливия",
+    "Эфиопия"
+   ],
+   "en": [
+    "Nigeria",
+    "Kenya",
+    "Libya",
+    "Ethiopia"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Xorvatiya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Хорватия?",
+   "en": "What is the capital of Croatia?"
+  },
+  "o": {
+   "uz": [
+    "Zagreb",
+    "Dublin",
+    "Oslo",
+    "Amsterdam"
+   ],
+   "ru": [
+    "Загреб",
+    "Дублин",
+    "Осло",
+    "Амстердам"
+   ],
+   "en": [
+    "Zagreb",
+    "Dublin",
+    "Oslo",
+    "Amsterdam"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Nukus qaysi viloyat (respublika) markazi?",
+   "ru": "Центром какой области (республики) является Нукус?",
+   "en": "Nukus is the centre of which region (republic)?"
+  },
+  "o": {
+   "uz": [
+    "Qoraqalpog'iston Respublikasi",
+    "Namangan viloyati",
+    "Surxondaryo viloyati",
+    "Xorazm viloyati"
+   ],
+   "ru": [
+    "Республика Каракалпакстан",
+    "Наманганская область",
+    "Сурхандарьинская область",
+    "Хорезмская область"
+   ],
+   "en": [
+    "Republic of Karakalpakstan",
+    "Namangan Region",
+    "Surkhandarya Region",
+    "Khorezm Region"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Efiopiya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Эфиопия?",
+   "en": "What is the capital of Ethiopia?"
+  },
+  "o": {
+   "uz": [
+    "Addis-Abeba",
+    "Nayrobi",
+    "Tripoli",
+    "Rabot"
+   ],
+   "ru": [
+    "Аддис-Абеба",
+    "Найроби",
+    "Триполи",
+    "Рабат"
+   ],
+   "en": [
+    "Addis Ababa",
+    "Nairobi",
+    "Tripoli",
+    "Rabat"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hindiston davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Индия?",
+   "en": "What is the capital of India?"
+  },
+  "o": {
+   "uz": [
+    "Nyu-Dehli",
+    "Kuala-Lumpur",
+    "Xanoy",
+    "Boku"
+   ],
+   "ru": [
+    "Нью-Дели",
+    "Куала-Лумпур",
+    "Ханой",
+    "Баку"
+   ],
+   "en": [
+    "New Delhi",
+    "Kuala Lumpur",
+    "Hanoi",
+    "Baku"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Andijon qaysi viloyat (respublika) markazi?",
+   "ru": "Центром какой области (республики) является Андижан?",
+   "en": "Andijan is the centre of which region (republic)?"
+  },
+  "o": {
+   "uz": [
+    "Andijon viloyati",
+    "Namangan viloyati",
+    "Surxondaryo viloyati",
+    "Toshkent viloyati"
+   ],
+   "ru": [
+    "Андижанская область",
+    "Наманганская область",
+    "Сурхандарьинская область",
+    "Ташкентская область"
+   ],
+   "en": [
+    "Andijan Region",
+    "Namangan Region",
+    "Surkhandarya Region",
+    "Tashkent Region"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eng katta qit'a qaysi?",
+   "ru": "Какой материк самый большой?",
+   "en": "Which is the largest continent?"
+  },
+  "o": {
+   "uz": [
+    "Osiyo (Yevrosiyo)",
+    "Afrika",
+    "Shimoliy Amerika",
+    "Avstraliya"
+   ],
+   "ru": [
+    "Евразия",
+    "Африка",
+    "Северная Америка",
+    "Австралия"
+   ],
+   "en": [
+    "Eurasia",
+    "Africa",
+    "North America",
+    "Australia"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Armaniston davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Армения?",
+   "en": "What is the capital of Armenia?"
+  },
+  "o": {
+   "uz": [
+    "Yerevan",
+    "Bangkok",
+    "Ar-Riyod",
+    "Kuala-Lumpur"
+   ],
+   "ru": [
+    "Ереван",
+    "Бангкок",
+    "Эр-Рияд",
+    "Куала-Лумпур"
+   ],
+   "en": [
+    "Yerevan",
+    "Bangkok",
+    "Riyadh",
+    "Kuala Lumpur"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "And tog'lari qaysi qit'ada joylashgan?",
+   "ru": "На каком материке находятся Анды?",
+   "en": "On which continent are the Andes?"
+  },
+  "o": {
+   "uz": [
+    "Janubiy Amerika",
+    "Afrika",
+    "Osiyo",
+    "Yevropa"
+   ],
+   "ru": [
+    "Южная Америка",
+    "Африка",
+    "Азия",
+    "Европа"
+   ],
+   "en": [
+    "South America",
+    "Africa",
+    "Asia",
+    "Europe"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'zbekistonning eng katta viloyati (maydon bo'yicha) qaysi?",
+   "ru": "Какая область Узбекистана самая большая по площади?",
+   "en": "Which region of Uzbekistan is the largest by area?"
+  },
+  "o": {
+   "uz": [
+    "Navoiy viloyati",
+    "Samarqand viloyati",
+    "Andijon viloyati",
+    "Sirdaryo viloyati"
+   ],
+   "ru": [
+    "Навоийская область",
+    "Самаркандская область",
+    "Андижанская область",
+    "Сырдарьинская область"
+   ],
+   "en": [
+    "Navoi Region",
+    "Samarkand Region",
+    "Andijan Region",
+    "Syrdarya Region"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qashqadaryo viloyatining markazi qaysi shahar?",
+   "ru": "Какой город — административный центр региона «Кашкадарьинская область»?",
+   "en": "Which city is the administrative centre of Kashkadarya Region?"
+  },
+  "o": {
+   "uz": [
+    "Qarshi",
+    "Namangan",
+    "Nurafshon",
+    "Samarqand"
+   ],
+   "ru": [
+    "Карши",
+    "Наманган",
+    "Нурафшон",
+    "Самарканд"
+   ],
+   "en": [
+    "Karshi",
+    "Namangan",
+    "Nurafshon",
+    "Samarkand"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eron davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Иран?",
+   "en": "What is the capital of Iran?"
+  },
+  "o": {
+   "uz": [
+    "Tehron",
+    "Pekin",
+    "Seul",
+    "Dushanbe"
+   ],
+   "ru": [
+    "Тегеран",
+    "Пекин",
+    "Сеул",
+    "Душанбе"
+   ],
+   "en": [
+    "Tehran",
+    "Beijing",
+    "Seoul",
+    "Dushanbe"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ukraina davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Украина?",
+   "en": "What is the capital of Ukraine?"
+  },
+  "o": {
+   "uz": [
+    "Kiyev",
+    "Zagreb",
+    "Dublin",
+    "Oslo"
+   ],
+   "ru": [
+    "Киев",
+    "Загреб",
+    "Дублин",
+    "Осло"
+   ],
+   "en": [
+    "Kyiv",
+    "Zagreb",
+    "Dublin",
+    "Oslo"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ashxobod qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Ашхабад?",
+   "en": "Ashgabat is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Turkmaniston",
+    "Armaniston",
+    "Afg'oniston",
+    "Malayziya"
+   ],
+   "ru": [
+    "Туркмения",
+    "Армения",
+    "Афганистан",
+    "Малайзия"
+   ],
+   "en": [
+    "Turkmenistan",
+    "Armenia",
+    "Afghanistan",
+    "Malaysia"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'zbekistonning eng past nuqtasi qaysi cho'kma?",
+   "ru": "Какая впадина — самая низкая точка Узбекистана?",
+   "en": "Which depression is Uzbekistan's lowest point?"
+  },
+  "o": {
+   "uz": [
+    "Mingbuloq cho'kmasi",
+    "Qizilqum",
+    "Ustyurt",
+    "Farg'ona vodiysi"
+   ],
+   "ru": [
+    "Мингбулакская впадина",
+    "Кызылкум",
+    "Устюрт",
+    "Ферганская долина"
+   ],
+   "en": [
+    "The Mingbulak depression",
+    "The Kyzylkum",
+    "Ustyurt",
+    "The Fergana Valley"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Pokiston davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Пакистан?",
+   "en": "What is the capital of Pakistan?"
+  },
+  "o": {
+   "uz": [
+    "Islomobod",
+    "Pekin",
+    "Ostona",
+    "Boku"
+   ],
+   "ru": [
+    "Исламабад",
+    "Пекин",
+    "Астана",
+    "Баку"
+   ],
+   "en": [
+    "Islamabad",
+    "Beijing",
+    "Astana",
+    "Baku"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Rabot qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Рабат?",
+   "en": "Rabat is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Marokash",
+    "Misr",
+    "Keniya",
+    "Liviya"
+   ],
+   "ru": [
+    "Марокко",
+    "Египет",
+    "Кения",
+    "Ливия"
+   ],
+   "en": [
+    "Morocco",
+    "Egypt",
+    "Kenya",
+    "Libya"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Orol dengizining qurishiga asosiy sabab nima?",
+   "ru": "Главная причина высыхания Аральского моря?",
+   "en": "What is the main reason for the Aral Sea shrinking?"
+  },
+  "o": {
+   "uz": [
+    "Amudaryo va Sirdaryo suvining sug'orishga ko'p olinishi",
+    "Yer silkinishi",
+    "Vulqon otilishi",
+    "Yog'ingarchilik ko'pligi"
+   ],
+   "ru": [
+    "Чрезмерный забор воды Амударьи и Сырдарьи на орошение",
+    "Землетрясения",
+    "Извержения вулканов",
+    "Обилие осадков"
+   ],
+   "en": [
+    "Excess water withdrawal from the Amudarya and Syrdarya for irrigation",
+    "Earthquakes",
+    "Volcanic eruptions",
+    "Heavy rainfall"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ekvator Yerni qanday qismlarga ajratadi?",
+   "ru": "На какие части экватор делит Землю?",
+   "en": "Into which parts does the equator divide the Earth?"
+  },
+  "o": {
+   "uz": [
+    "Shimoliy va janubiy yarim sharga",
+    "Sharqiy va g'arbiy yarim sharga",
+    "Qit'alarga",
+    "Okeanlarga"
+   ],
+   "ru": [
+    "На Северное и Южное полушария",
+    "На Восточное и Западное полушария",
+    "На материки",
+    "На океаны"
+   ],
+   "en": [
+    "Northern and Southern Hemispheres",
+    "Eastern and Western Hemispheres",
+    "Continents",
+    "Oceans"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Namangan viloyatining markazi qaysi shahar?",
+   "ru": "Какой город — административный центр региона «Наманганская область»?",
+   "en": "Which city is the administrative centre of Namangan Region?"
+  },
+  "o": {
+   "uz": [
+    "Namangan",
+    "Nurafshon",
+    "Qarshi",
+    "Nukus"
+   ],
+   "ru": [
+    "Наманган",
+    "Нурафшон",
+    "Карши",
+    "Нукус"
+   ],
+   "en": [
+    "Namangan",
+    "Nurafshon",
+    "Karshi",
+    "Nukus"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Finlyandiya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Финляндия?",
+   "en": "What is the capital of Finland?"
+  },
+  "o": {
+   "uz": [
+    "Xelsinki",
+    "Zagreb",
+    "Amsterdam",
+    "Dublin"
+   ],
+   "ru": [
+    "Хельсинки",
+    "Загреб",
+    "Амстердам",
+    "Дублин"
+   ],
+   "en": [
+    "Helsinki",
+    "Zagreb",
+    "Amsterdam",
+    "Dublin"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri daryo?",
+   "ru": "Что из этого — река?",
+   "en": "Which of these is a river?"
+  },
+  "o": {
+   "uz": [
+    "Amudaryo",
+    "Baykal",
+    "And tog'lari",
+    "Qizilqum"
+   ],
+   "ru": [
+    "Амударья",
+    "Байкал",
+    "Анды",
+    "Кызылкум"
+   ],
+   "en": [
+    "Amudarya",
+    "Baikal",
+    "The Andes",
+    "Kyzylkum"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Qizilqum» — bu:",
+   "ru": "«Кызылкум» — это:",
+   "en": "«Kyzylkum» is a:"
+  },
+  "o": {
+   "uz": [
+    "cho'l",
+    "qit'a",
+    "daryo",
+    "ko'l"
+   ],
+   "ru": [
+    "пустыня",
+    "материк",
+    "река",
+    "озеро"
+   ],
+   "en": [
+    "desert",
+    "continent",
+    "river",
+    "lake"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Urganch qaysi viloyat (respublika) markazi?",
+   "ru": "Центром какой области (республики) является Ургенч?",
+   "en": "Urgench is the centre of which region (republic)?"
+  },
+  "o": {
+   "uz": [
+    "Xorazm viloyati",
+    "Buxoro viloyati",
+    "Farg'ona viloyati",
+    "Andijon viloyati"
+   ],
+   "ru": [
+    "Хорезмская область",
+    "Бухарская область",
+    "Ферганская область",
+    "Андижанская область"
+   ],
+   "en": [
+    "Khorezm Region",
+    "Bukhara Region",
+    "Fergana Region",
+    "Andijan Region"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Germaniya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Германия?",
+   "en": "What is the capital of Germany?"
+  },
+  "o": {
+   "uz": [
+    "Berlin",
+    "Minsk",
+    "Stokgolm",
+    "Budapesht"
+   ],
+   "ru": [
+    "Берлин",
+    "Минск",
+    "Стокгольм",
+    "Будапешт"
+   ],
+   "en": [
+    "Berlin",
+    "Minsk",
+    "Stockholm",
+    "Budapest"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tehron qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Тегеран?",
+   "en": "Tehran is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Eron",
+    "Turkiya",
+    "Yaponiya",
+    "Xitoy"
+   ],
+   "ru": [
+    "Иран",
+    "Турция",
+    "Япония",
+    "Китай"
+   ],
+   "en": [
+    "Iran",
+    "Turkey",
+    "Japan",
+    "China"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Sahroi Kabir» — bu:",
+   "ru": "«Сахара» — это:",
+   "en": "«Sahara» is a:"
+  },
+  "o": {
+   "uz": [
+    "cho'l",
+    "daryo",
+    "tog'",
+    "ko'l"
+   ],
+   "ru": [
+    "пустыня",
+    "река",
+    "гора",
+    "озеро"
+   ],
+   "en": [
+    "desert",
+    "river",
+    "mountain",
+    "lake"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zilzila (yer silkinishi) qayerda ko'proq sodir bo'ladi?",
+   "ru": "Где чаще происходят землетрясения?",
+   "en": "Where do earthquakes happen most often?"
+  },
+  "o": {
+   "uz": [
+    "Litosfera plitalari chegaralarida",
+    "Cho'llarda",
+    "Qutblarda",
+    "Ko'llarda"
+   ],
+   "ru": [
+    "На границах литосферных плит",
+    "В пустынях",
+    "На полюсах",
+    "На озёрах"
+   ],
+   "en": [
+    "At the boundaries of lithospheric plates",
+    "In deserts",
+    "At the poles",
+    "On lakes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tirik organizmlar tarqalgan qobiq nima deyiladi?",
+   "ru": "Как называется оболочка Земли, населённая живыми организмами?",
+   "en": "What is the shell of the Earth inhabited by living organisms called?"
+  },
+  "o": {
+   "uz": [
+    "Biosfera",
+    "Litosfera",
+    "Atmosfera",
+    "Gidrosfera"
+   ],
+   "ru": [
+    "Биосфера",
+    "Литосфера",
+    "Атмосфера",
+    "Гидросфера"
+   ],
+   "en": [
+    "The biosphere",
+    "The lithosphere",
+    "The atmosphere",
+    "The hydrosphere"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Chexiya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Чехия?",
+   "en": "What is the capital of Czechia?"
+  },
+  "o": {
+   "uz": [
+    "Praga",
+    "Kopengagen",
+    "Rim",
+    "Belgrad"
+   ],
+   "ru": [
+    "Прага",
+    "Копенгаген",
+    "Рим",
+    "Белград"
+   ],
+   "en": [
+    "Prague",
+    "Copenhagen",
+    "Rome",
+    "Belgrade"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ob-havo shakllanadigan atmosfera qatlami qaysi?",
+   "ru": "В каком слое атмосферы формируется погода?",
+   "en": "In which atmospheric layer does weather form?"
+  },
+  "o": {
+   "uz": [
+    "Troposfera",
+    "Stratosfera",
+    "Mezosfera",
+    "Termosfera"
+   ],
+   "ru": [
+    "Тропосфера",
+    "Стратосфера",
+    "Мезосфера",
+    "Термосфера"
+   ],
+   "en": [
+    "The troposphere",
+    "The stratosphere",
+    "The mesosphere",
+    "The thermosphere"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Volga» — bu:",
+   "ru": "«Волга» — это:",
+   "en": "«Volga» is a:"
+  },
+  "o": {
+   "uz": [
+    "daryo",
+    "qit'a",
+    "cho'l",
+    "tog'"
+   ],
+   "ru": [
+    "река",
+    "материк",
+    "пустыня",
+    "гора"
+   ],
+   "en": [
+    "river",
+    "continent",
+    "desert",
+    "mountain"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Budapesht qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Будапешт?",
+   "en": "Budapest is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Vengriya",
+    "Xorvatiya",
+    "Serbiya",
+    "Buyuk Britaniya"
+   ],
+   "ru": [
+    "Венгрия",
+    "Хорватия",
+    "Сербия",
+    "Великобритания"
+   ],
+   "en": [
+    "Hungary",
+    "Croatia",
+    "Serbia",
+    "United Kingdom"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Surxondaryo viloyatining markazi qaysi shahar?",
+   "ru": "Какой город — административный центр региона «Сурхандарьинская область»?",
+   "en": "Which city is the administrative centre of Surkhandarya Region?"
+  },
+  "o": {
+   "uz": [
+    "Termiz",
+    "Farg'ona",
+    "Qarshi",
+    "Guliston"
+   ],
+   "ru": [
+    "Термез",
+    "Фергана",
+    "Карши",
+    "Гулистан"
+   ],
+   "en": [
+    "Termez",
+    "Fergana",
+    "Karshi",
+    "Gulistan"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Navoiy qaysi viloyat (respublika) markazi?",
+   "ru": "Центром какой области (республики) является Навои?",
+   "en": "Navoi is the centre of which region (republic)?"
+  },
+  "o": {
+   "uz": [
+    "Navoiy viloyati",
+    "Samarqand viloyati",
+    "Buxoro viloyati",
+    "Andijon viloyati"
+   ],
+   "ru": [
+    "Навоийская область",
+    "Самаркандская область",
+    "Бухарская область",
+    "Андижанская область"
+   ],
+   "en": [
+    "Navoi Region",
+    "Samarkand Region",
+    "Bukhara Region",
+    "Andijan Region"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Pekin qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Пекин?",
+   "en": "Beijing is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Xitoy",
+    "Yaponiya",
+    "Tailand",
+    "Qozog'iston"
+   ],
+   "ru": [
+    "Китай",
+    "Япония",
+    "Таиланд",
+    "Казахстан"
+   ],
+   "en": [
+    "China",
+    "Japan",
+    "Thailand",
+    "Kazakhstan"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eng sovuq qit'a qaysi?",
+   "ru": "Какой материк самый холодный?",
+   "en": "Which is the coldest continent?"
+  },
+  "o": {
+   "uz": [
+    "Antarktida",
+    "Shimoliy Amerika",
+    "Yevrosiyo",
+    "Afrika"
+   ],
+   "ru": [
+    "Антарктида",
+    "Северная Америка",
+    "Евразия",
+    "Африка"
+   ],
+   "en": [
+    "Antarctica",
+    "North America",
+    "Eurasia",
+    "Africa"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri cho'l?",
+   "ru": "Что из этого — пустыня?",
+   "en": "Which of these is a desert?"
+  },
+  "o": {
+   "uz": [
+    "Kalaxari",
+    "Atlantika okeani",
+    "Viktoriya ko'li",
+    "Baykal"
+   ],
+   "ru": [
+    "Калахари",
+    "Атлантический океан",
+    "озеро Виктория",
+    "Байкал"
+   ],
+   "en": [
+    "Kalahari",
+    "Atlantic Ocean",
+    "Lake Victoria",
+    "Baikal"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Rim qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Рим?",
+   "en": "Rome is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Italiya",
+    "Buyuk Britaniya",
+    "Finlyandiya",
+    "Belgiya"
+   ],
+   "ru": [
+    "Италия",
+    "Великобритания",
+    "Финляндия",
+    "Бельгия"
+   ],
+   "en": [
+    "Italy",
+    "United Kingdom",
+    "Finland",
+    "Belgium"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Argentina davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Аргентина?",
+   "en": "What is the capital of Argentina?"
+  },
+  "o": {
+   "uz": [
+    "Buenos-Ayres",
+    "Santyago",
+    "Ottava",
+    "Mexiko"
+   ],
+   "ru": [
+    "Буэнос-Айрес",
+    "Сантьяго",
+    "Оттава",
+    "Мехико"
+   ],
+   "en": [
+    "Buenos Aires",
+    "Santiago",
+    "Ottawa",
+    "Mexico City"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Antarktida» — bu:",
+   "ru": "«Антарктида» — это:",
+   "en": "«Antarctica» is a:"
+  },
+  "o": {
+   "uz": [
+    "qit'a",
+    "tog'",
+    "daryo",
+    "okean"
+   ],
+   "ru": [
+    "материк",
+    "гора",
+    "река",
+    "океан"
+   ],
+   "en": [
+    "continent",
+    "mountain",
+    "river",
+    "ocean"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Ural tog'lari» — bu:",
+   "ru": "«Уральские горы» — это:",
+   "en": "«The Urals» is a:"
+  },
+  "o": {
+   "uz": [
+    "tog'",
+    "daryo",
+    "ko'l",
+    "qit'a"
+   ],
+   "ru": [
+    "гора",
+    "река",
+    "озеро",
+    "материк"
+   ],
+   "en": [
+    "mountain",
+    "river",
+    "lake",
+    "continent"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bolgariya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Болгария?",
+   "en": "What is the capital of Bulgaria?"
+  },
+  "o": {
+   "uz": [
+    "Sofiya",
+    "Bern",
+    "Varshava",
+    "Budapesht"
+   ],
+   "ru": [
+    "София",
+    "Берн",
+    "Варшава",
+    "Будапешт"
+   ],
+   "en": [
+    "Sofia",
+    "Bern",
+    "Warsaw",
+    "Budapest"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Turkmaniston davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Туркмения?",
+   "en": "What is the capital of Turkmenistan?"
+  },
+  "o": {
+   "uz": [
+    "Ashxobod",
+    "Ostona",
+    "Boku",
+    "Dushanbe"
+   ],
+   "ru": [
+    "Ашхабад",
+    "Астана",
+    "Баку",
+    "Душанбе"
+   ],
+   "en": [
+    "Ashgabat",
+    "Astana",
+    "Baku",
+    "Dushanbe"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Buxoro qaysi viloyat (respublika) markazi?",
+   "ru": "Центром какой области (республики) является Бухара?",
+   "en": "Bukhara is the centre of which region (republic)?"
+  },
+  "o": {
+   "uz": [
+    "Buxoro viloyati",
+    "Navoiy viloyati",
+    "Farg'ona viloyati",
+    "Andijon viloyati"
+   ],
+   "ru": [
+    "Бухарская область",
+    "Навоийская область",
+    "Ферганская область",
+    "Андижанская область"
+   ],
+   "en": [
+    "Bukhara Region",
+    "Navoi Region",
+    "Fergana Region",
+    "Andijan Region"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Braziliya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Бразилия?",
+   "en": "What is the capital of Brazil?"
+  },
+  "o": {
+   "uz": [
+    "Braziliya shahri",
+    "Lima",
+    "Mexiko",
+    "Bogota"
+   ],
+   "ru": [
+    "Бразилиа",
+    "Лима",
+    "Мехико",
+    "Богота"
+   ],
+   "en": [
+    "Brasília",
+    "Lima",
+    "Mexico City",
+    "Bogotá"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Portugaliya davlatining poytaxti qaysi shahar?",
+   "ru": "Какой город — столица государства Португалия?",
+   "en": "What is the capital of Portugal?"
+  },
+  "o": {
+   "uz": [
+    "Lissabon",
+    "Stokgolm",
+    "Parij",
+    "Rim"
+   ],
+   "ru": [
+    "Лиссабон",
+    "Стокгольм",
+    "Париж",
+    "Рим"
+   ],
+   "en": [
+    "Lisbon",
+    "Stockholm",
+    "Paris",
+    "Rome"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Vellington qaysi davlatning poytaxti?",
+   "ru": "Столицей какого государства является Веллингтон?",
+   "en": "Wellington is the capital of which country?"
+  },
+  "o": {
+   "uz": [
+    "Yangi Zelandiya",
+    "Italiya",
+    "Rossiya",
+    "Meksika"
+   ],
+   "ru": [
+    "Новая Зеландия",
+    "Италия",
+    "Россия",
+    "Мексика"
+   ],
+   "en": [
+    "New Zealand",
+    "Italy",
+    "Russia",
+    "Mexico"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Atakama» — bu:",
+   "ru": "«Атакама» — это:",
+   "en": "«Atacama» is a:"
+  },
+  "o": {
+   "uz": [
+    "cho'l",
+    "daryo",
+    "ko'l",
+    "tog'"
+   ],
+   "ru": [
+    "пустыня",
+    "река",
+    "озеро",
+    "гора"
+   ],
+   "en": [
+    "desert",
+    "river",
+    "lake",
+    "mountain"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Himolay» — bu:",
+   "ru": "«Гималаи» — это:",
+   "en": "«Himalayas» is a:"
+  },
+  "o": {
+   "uz": [
+    "tog'",
+    "cho'l",
+    "daryo",
+    "okean"
+   ],
+   "ru": [
+    "гора",
+    "пустыня",
+    "река",
+    "океан"
+   ],
+   "en": [
+    "mountain",
+    "desert",
+    "river",
+    "ocean"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Farg'ona vodiysi qaysi uch viloyat hududida joylashgan?",
+   "ru": "В пределах каких трёх областей расположена Ферганская долина?",
+   "en": "Which three regions does the Fergana Valley cover in Uzbekistan?"
+  },
+  "o": {
+   "uz": [
+    "Andijon, Namangan, Farg'ona",
+    "Buxoro, Navoiy, Xorazm",
+    "Jizzax, Sirdaryo, Toshkent",
+    "Qashqadaryo, Surxondaryo, Samarqand"
+   ],
+   "ru": [
+    "Андижанская, Наманганская, Ферганская",
+    "Бухарская, Навоийская, Хорезмская",
+    "Джизакская, Сырдарьинская, Ташкентская",
+    "Кашкадарьинская, Сурхандарьинская, Самаркандская"
+   ],
+   "en": [
+    "Andijan, Namangan, Fergana",
+    "Bukhara, Navoi, Khorezm",
+    "Jizzakh, Syrdarya, Tashkent",
+    "Kashkadarya, Surkhandarya, Samarkand"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Eng kichik va eng sovuq okean qaysi?",
+   "ru": "Какой океан самый маленький и холодный?",
+   "en": "Which is the smallest and coldest ocean?"
+  },
+  "o": {
+   "uz": [
+    "Shimoliy Muz okeani",
+    "Hind okeani",
+    "Tinch okean",
+    "Atlantika okeani"
+   ],
+   "ru": [
+    "Северный Ледовитый океан",
+    "Индийский океан",
+    "Тихий океан",
+    "Атлантический океан"
+   ],
+   "en": [
+    "The Arctic Ocean",
+    "The Indian Ocean",
+    "The Pacific Ocean",
+    "The Atlantic Ocean"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yerning eng ustki qattiq qobig'i nima deyiladi?",
+   "ru": "Как называется верхняя твёрдая оболочка Земли?",
+   "en": "What is the Earth's upper solid shell called?"
+  },
+  "o": {
+   "uz": [
+    "Yer po'sti",
+    "Mantiya",
+    "Yadro",
+    "Atmosfera"
+   ],
+   "ru": [
+    "Земная кора",
+    "Мантия",
+    "Ядро",
+    "Атмосфера"
+   ],
+   "en": [
+    "The crust",
+    "The mantle",
+    "The core",
+    "The atmosphere"
+   ]
+  },
+  "a": 0
+ }
+]

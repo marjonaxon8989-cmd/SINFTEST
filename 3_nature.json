@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Yilning birinchi oyi qaysi?",
+   "ru": "Какой месяц в году первый?",
+   "en": "Which is the first month of the year?"
+  },
+  "o": {
+   "uz": [
+    "Yanvar",
+    "Fevral",
+    "Mart",
+    "Dekabr"
+   ],
+   "ru": [
+    "Январь",
+    "Февраль",
+    "Март",
+    "Декабрь"
+   ],
+   "en": [
+    "January",
+    "February",
+    "March",
+    "December"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ta'm bilish organi qaysi?",
+   "ru": "Какой орган отвечает за вкус?",
+   "en": "Which organ is used for tasting?"
+  },
+  "o": {
+   "uz": [
+    "Til",
+    "Burun",
+    "Ko'z",
+    "Quloq"
+   ],
+   "ru": [
+    "Язык",
+    "Нос",
+    "Глаз",
+    "Ухо"
+   ],
+   "en": [
+    "Tongue",
+    "Nose",
+    "Eye",
+    "Ear"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yozdan keyin qaysi fasl keladi?",
+   "ru": "Какое время года идёт после лета?",
+   "en": "Which season comes after summer?"
+  },
+  "o": {
+   "uz": [
+    "Kuz",
+    "Qish",
+    "Bahor",
+    "Yoz"
+   ],
+   "ru": [
+    "Осень",
+    "Зима",
+    "Весна",
+    "Лето"
+   ],
+   "en": [
+    "Autumn",
+    "Winter",
+    "Spring",
+    "Summer"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«to'ti» — bu:",
+   "ru": "«попугай» — это:",
+   "en": "«parrot» is a:"
+  },
+  "o": {
+   "uz": [
+    "qush",
+    "daraxt",
+    "yovvoyi hayvon",
+    "meva"
+   ],
+   "ru": [
+    "птица",
+    "дерево",
+    "дикое животное",
+    "фрукт"
+   ],
+   "en": [
+    "bird",
+    "tree",
+    "wild animal",
+    "fruit"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'zbekiston Mustaqillik kuni qaysi sanada nishonlanadi?",
+   "ru": "В какой день отмечают День независимости Узбекистана?",
+   "en": "On which date is Independence Day of Uzbekistan celebrated?"
+  },
+  "o": {
+   "uz": [
+    "1-sentabr",
+    "21-mart",
+    "8-dekabr",
+    "9-may"
+   ],
+   "ru": [
+    "1 сентября",
+    "21 марта",
+    "8 декабря",
+    "9 мая"
+   ],
+   "en": [
+    "1 September",
+    "21 March",
+    "8 December",
+    "9 May"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi hayvon kuchli bo'lib, «hayvonlar shohi» deb ataladi?",
+   "ru": "Какого сильного зверя называют «царём зверей»?",
+   "en": "Which strong animal is called the «king of animals»?"
+  },
+  "o": {
+   "uz": [
+    "Sher",
+    "Quyon",
+    "Tulki",
+    "Echki"
+   ],
+   "ru": [
+    "Лев",
+    "Заяц",
+    "Лиса",
+    "Коза"
+   ],
+   "en": [
+    "Lion",
+    "Hare",
+    "Fox",
+    "Goat"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yovvoyi hayvon?",
+   "ru": "Какое из этих животных — дикое?",
+   "en": "Which of these is a wild animal?"
+  },
+  "o": {
+   "uz": [
+    "jirafa",
+    "chigirtka",
+    "sigir",
+    "chinnigul"
+   ],
+   "ru": [
+    "жираф",
+    "кузнечик",
+    "корова",
+    "астра"
+   ],
+   "en": [
+    "giraffe",
+    "grasshopper",
+    "cow",
+    "aster"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Daraxtlar havoga qaysi gazni chiqaradi?",
+   "ru": "Какой газ деревья выделяют в воздух?",
+   "en": "Which gas do trees release into the air?"
+  },
+  "o": {
+   "uz": [
+    "Kislorod",
+    "Tutun",
+    "Chang",
+    "Oltingugurt"
+   ],
+   "ru": [
+    "Кислород",
+    "Дым",
+    "Пыль",
+    "Сера"
+   ],
+   "en": [
+    "Oxygen",
+    "Smoke",
+    "Dust",
+    "Sulphur"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi biri O'zbekistondagi daryo?",
+   "ru": "Какая из этих рек находится в Узбекистане?",
+   "en": "Which of these rivers is in Uzbekistan?"
+  },
+  "o": {
+   "uz": [
+    "Amudaryo",
+    "Volga",
+    "Nil",
+    "Amazonka"
+   ],
+   "ru": [
+    "Амударья",
+    "Волга",
+    "Нил",
+    "Амазонка"
+   ],
+   "en": [
+    "Amudarya",
+    "Volga",
+    "Nile",
+    "Amazon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri qush?",
+   "ru": "Что из этого — птица?",
+   "en": "Which of these is a bird?"
+  },
+  "o": {
+   "uz": [
+    "chumchuq",
+    "sher",
+    "chinor",
+    "chigirtka"
+   ],
+   "ru": [
+    "воробей",
+    "лев",
+    "платан",
+    "кузнечик"
+   ],
+   "en": [
+    "sparrow",
+    "lion",
+    "plane tree",
+    "grasshopper"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«o'rik» — bu:",
+   "ru": "«абрикос» — это:",
+   "en": "«apricot» is a:"
+  },
+  "o": {
+   "uz": [
+    "meva",
+    "hasharot",
+    "qush",
+    "jonsiz tabiat"
+   ],
+   "ru": [
+    "фрукт",
+    "насекомое",
+    "птица",
+    "неживая природа"
+   ],
+   "en": [
+    "fruit",
+    "insect",
+    "bird",
+    "non-living nature"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«shoqol» — bu:",
+   "ru": "«шакал» — это:",
+   "en": "«jackal» is a:"
+  },
+  "o": {
+   "uz": [
+    "yovvoyi hayvon",
+    "meva",
+    "sabzavot",
+    "gul"
+   ],
+   "ru": [
+    "дикое животное",
+    "фрукт",
+    "овощ",
+    "цветок"
+   ],
+   "en": [
+    "wild animal",
+    "fruit",
+    "vegetable",
+    "flower"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi oy eng qisqa?",
+   "ru": "Какой месяц самый короткий?",
+   "en": "Which month is the shortest?"
+  },
+  "o": {
+   "uz": [
+    "Fevral",
+    "Aprel",
+    "Iyun",
+    "Sentabr"
+   ],
+   "ru": [
+    "Февраль",
+    "Апрель",
+    "Июнь",
+    "Сентябрь"
+   ],
+   "en": [
+    "February",
+    "April",
+    "June",
+    "September"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "7 ta otning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 7 лошадей?",
+   "en": "How many legs do 7 horses have in total?"
+  },
+  "o": {
+   "uz": [
+    "28",
+    "24",
+    "11",
+    "56"
+   ],
+   "ru": [
+    "28",
+    "24",
+    "11",
+    "56"
+   ],
+   "en": [
+    "28",
+    "24",
+    "11",
+    "56"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yilda necha oy bor?",
+   "ru": "Сколько месяцев в году?",
+   "en": "How many months are there in a year?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "10",
+    "11",
+    "13"
+   ],
+   "ru": [
+    "12",
+    "10",
+    "11",
+    "13"
+   ],
+   "en": [
+    "12",
+    "10",
+    "11",
+    "13"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sabzavot?",
+   "ru": "Что из этого — овощ?",
+   "en": "Which of these is a vegetable?"
+  },
+  "o": {
+   "uz": [
+    "lavlagi",
+    "chumoli",
+    "archa",
+    "atirgul"
+   ],
+   "ru": [
+    "свёкла",
+    "муравей",
+    "ель",
+    "роза"
+   ],
+   "en": [
+    "beetroot",
+    "ant",
+    "fir tree",
+    "rose"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sabzi» — bu:",
+   "ru": "«морковь» — это:",
+   "en": "«carrot» is a:"
+  },
+  "o": {
+   "uz": [
+    "sabzavot",
+    "gul",
+    "uy hayvoni",
+    "hasharot"
+   ],
+   "ru": [
+    "овощ",
+    "цветок",
+    "домашнее животное",
+    "насекомое"
+   ],
+   "en": [
+    "vegetable",
+    "flower",
+    "domestic animal",
+    "insect"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "9 ta otning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 9 лошадей?",
+   "en": "How many legs do 9 horses have in total?"
+  },
+  "o": {
+   "uz": [
+    "36",
+    "40",
+    "32",
+    "13"
+   ],
+   "ru": [
+    "36",
+    "40",
+    "32",
+    "13"
+   ],
+   "en": [
+    "36",
+    "40",
+    "32",
+    "13"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri hasharot?",
+   "ru": "Что из этого — насекомое?",
+   "en": "Which of these is an insect?"
+  },
+  "o": {
+   "uz": [
+    "chumoli",
+    "o'rik",
+    "behi",
+    "tuproq"
+   ],
+   "ru": [
+    "муравей",
+    "абрикос",
+    "айва",
+    "почва"
+   ],
+   "en": [
+    "ant",
+    "apricot",
+    "quince",
+    "soil"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sabzavot?",
+   "ru": "Что из этого — овощ?",
+   "en": "Which of these is a vegetable?"
+  },
+  "o": {
+   "uz": [
+    "karam",
+    "bo'ri",
+    "nargis",
+    "burgut"
+   ],
+   "ru": [
+    "капуста",
+    "волк",
+    "нарцисс",
+    "орёл"
+   ],
+   "en": [
+    "cabbage",
+    "wolf",
+    "daffodil",
+    "eagle"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sabzavot?",
+   "ru": "Что из этого — овощ?",
+   "en": "Which of these is a vegetable?"
+  },
+  "o": {
+   "uz": [
+    "piyoz",
+    "fil",
+    "eman",
+    "bo'ri"
+   ],
+   "ru": [
+    "лук",
+    "слон",
+    "дуб",
+    "волк"
+   ],
+   "en": [
+    "onion",
+    "elephant",
+    "oak",
+    "wolf"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi biri yirtqich qush?",
+   "ru": "Какая из этих птиц хищная?",
+   "en": "Which of these is a bird of prey?"
+  },
+  "o": {
+   "uz": [
+    "Burgut",
+    "Tovuq",
+    "O'rdak",
+    "Kaptar"
+   ],
+   "ru": [
+    "Орёл",
+    "Курица",
+    "Утка",
+    "Голубь"
+   ],
+   "en": [
+    "Eagle",
+    "Hen",
+    "Duck",
+    "Pigeon"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sigir» — bu:",
+   "ru": "«корова» — это:",
+   "en": "«cow» is a:"
+  },
+  "o": {
+   "uz": [
+    "uy hayvoni",
+    "jonsiz tabiat",
+    "daraxt",
+    "yovvoyi hayvon"
+   ],
+   "ru": [
+    "домашнее животное",
+    "неживая природа",
+    "дерево",
+    "дикое животное"
+   ],
+   "en": [
+    "domestic animal",
+    "non-living nature",
+    "tree",
+    "wild animal"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«Cho'l kemasi» deb qaysi hayvon aytiladi?",
+   "ru": "Какое животное называют «кораблём пустыни»?",
+   "en": "Which animal is called the «ship of the desert»?"
+  },
+  "o": {
+   "uz": [
+    "Tuya",
+    "Ot",
+    "Eshak",
+    "Fil"
+   ],
+   "ru": [
+    "Верблюд",
+    "Лошадь",
+    "Осёл",
+    "Слон"
+   ],
+   "en": [
+    "Camel",
+    "Horse",
+    "Donkey",
+    "Elephant"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 ta sigirning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 2 коров?",
+   "en": "How many legs do 2 cows have in total?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "4",
+    "6",
+    "12"
+   ],
+   "ru": [
+    "8",
+    "4",
+    "6",
+    "12"
+   ],
+   "en": [
+    "8",
+    "4",
+    "6",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 ta o'rdakning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 3 уток?",
+   "en": "How many legs do 3 ducks have in total?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "2",
+    "10",
+    "12"
+   ],
+   "ru": [
+    "6",
+    "2",
+    "10",
+    "12"
+   ],
+   "en": [
+    "6",
+    "2",
+    "10",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Seshanbadan keyin qaysi kun keladi?",
+   "ru": "Какой день идёт после вторника?",
+   "en": "Which day comes after Tuesday?"
+  },
+  "o": {
+   "uz": [
+    "Chorshanba",
+    "Dushanba",
+    "Payshanba",
+    "Juma"
+   ],
+   "ru": [
+    "Среда",
+    "Понедельник",
+    "Четверг",
+    "Пятница"
+   ],
+   "en": [
+    "Wednesday",
+    "Monday",
+    "Thursday",
+    "Friday"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri qush?",
+   "ru": "Что из этого — птица?",
+   "en": "Which of these is a bird?"
+  },
+  "o": {
+   "uz": [
+    "qaldirg'och",
+    "o'rik",
+    "qarag'ay",
+    "sabzi"
+   ],
+   "ru": [
+    "ласточка",
+    "абрикос",
+    "сосна",
+    "морковь"
+   ],
+   "en": [
+    "swallow",
+    "apricot",
+    "pine",
+    "carrot"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri jonsiz tabiatga kiradi?",
+   "ru": "Что из этого относится к неживой природе?",
+   "en": "Which of these belongs to non-living nature?"
+  },
+  "o": {
+   "uz": [
+    "tosh",
+    "anjir",
+    "archa",
+    "ot"
+   ],
+   "ru": [
+    "камень",
+    "инжир",
+    "ель",
+    "лошадь"
+   ],
+   "en": [
+    "stone",
+    "fig",
+    "fir tree",
+    "horse"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tananing fikrlash va boshqarish organi qaysi?",
+   "ru": "Какой орган отвечает за мышление и управление телом?",
+   "en": "Which organ controls the body and does the thinking?"
+  },
+  "o": {
+   "uz": [
+    "Miya",
+    "Yurak",
+    "O'pka",
+    "Oshqozon"
+   ],
+   "ru": [
+    "Мозг",
+    "Сердце",
+    "Лёгкие",
+    "Желудок"
+   ],
+   "en": [
+    "Brain",
+    "Heart",
+    "Lungs",
+    "Stomach"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yilda nechta fasl bor?",
+   "ru": "В году сколько времён года?",
+   "en": "How many seasons are there in a year?"
+  },
+  "o": {
+   "uz": [
+    "4",
+    "3",
+    "5",
+    "6"
+   ],
+   "ru": [
+    "4",
+    "3",
+    "5",
+    "6"
+   ],
+   "en": [
+    "4",
+    "3",
+    "5",
+    "6"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri daraxt?",
+   "ru": "Что из этого — дерево?",
+   "en": "Which of these is a tree?"
+  },
+  "o": {
+   "uz": [
+    "qayrag'och",
+    "chinnigul",
+    "quyosh nuri",
+    "jirafa"
+   ],
+   "ru": [
+    "вяз",
+    "астра",
+    "солнечный свет",
+    "жираф"
+   ],
+   "en": [
+    "elm",
+    "aster",
+    "sunlight",
+    "giraffe"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 ta tovuqning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 4 кур?",
+   "en": "How many legs do 4 hens have in total?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "6",
+    "12",
+    "4"
+   ],
+   "ru": [
+    "8",
+    "6",
+    "12",
+    "4"
+   ],
+   "en": [
+    "8",
+    "6",
+    "12",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yovvoyi hayvon?",
+   "ru": "Какое из этих животных — дикое?",
+   "en": "Which of these is a wild animal?"
+  },
+  "o": {
+   "uz": [
+    "fil",
+    "anjir",
+    "eman",
+    "turp"
+   ],
+   "ru": [
+    "слон",
+    "инжир",
+    "дуб",
+    "редис"
+   ],
+   "en": [
+    "elephant",
+    "fig",
+    "oak",
+    "radish"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«lavlagi» — bu:",
+   "ru": "«свёкла» — это:",
+   "en": "«beetroot» is a:"
+  },
+  "o": {
+   "uz": [
+    "sabzavot",
+    "qush",
+    "hasharot",
+    "uy hayvoni"
+   ],
+   "ru": [
+    "овощ",
+    "птица",
+    "насекомое",
+    "домашнее животное"
+   ],
+   "en": [
+    "vegetable",
+    "bird",
+    "insect",
+    "domestic animal"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 ta qo'yning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 2 овец?",
+   "en": "How many legs do 2 sheep have in total?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "10",
+    "6",
+    "12"
+   ],
+   "ru": [
+    "8",
+    "10",
+    "6",
+    "12"
+   ],
+   "en": [
+    "8",
+    "10",
+    "6",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri hasharot?",
+   "ru": "Что из этого — насекомое?",
+   "en": "Which of these is an insect?"
+  },
+  "o": {
+   "uz": [
+    "kapalak",
+    "terak",
+    "bulbul",
+    "havo"
+   ],
+   "ru": [
+    "бабочка",
+    "тополь",
+    "соловей",
+    "воздух"
+   ],
+   "en": [
+    "butterfly",
+    "poplar",
+    "nightingale",
+    "air"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri gul?",
+   "ru": "Что из этого — цветок?",
+   "en": "Which of these is a flower?"
+  },
+  "o": {
+   "uz": [
+    "binafsha",
+    "ari",
+    "shaftoli",
+    "chigirtka"
+   ],
+   "ru": [
+    "фиалка",
+    "пчела",
+    "персик",
+    "кузнечик"
+   ],
+   "en": [
+    "violet",
+    "bee",
+    "peach",
+    "grasshopper"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'simliklar yashashi uchun nima kerak?",
+   "ru": "Что нужно растениям для жизни?",
+   "en": "What do plants need to live?"
+  },
+  "o": {
+   "uz": [
+    "Suv, yorug'lik va havo",
+    "Faqat tosh",
+    "Faqat qum",
+    "Faqat muz"
+   ],
+   "ru": [
+    "Вода, свет и воздух",
+    "Только камни",
+    "Только песок",
+    "Только лёд"
+   ],
+   "en": [
+    "Water, light and air",
+    "Only stones",
+    "Only sand",
+    "Only ice"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri qush?",
+   "ru": "Что из этого — птица?",
+   "en": "Which of these is a bird?"
+  },
+  "o": {
+   "uz": [
+    "qarg'a",
+    "ninachi",
+    "qo'y",
+    "tuproq"
+   ],
+   "ru": [
+    "ворона",
+    "стрекоза",
+    "овца",
+    "почва"
+   ],
+   "en": [
+    "crow",
+    "dragonfly",
+    "sheep",
+    "soil"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qon haydaydigan organ qaysi?",
+   "ru": "Какой орган гоняет кровь по телу?",
+   "en": "Which organ pumps blood around the body?"
+  },
+  "o": {
+   "uz": [
+    "Yurak",
+    "O'pka",
+    "Oshqozon",
+    "Miya"
+   ],
+   "ru": [
+    "Сердце",
+    "Лёгкие",
+    "Желудок",
+    "Мозг"
+   ],
+   "en": [
+    "Heart",
+    "Lungs",
+    "Stomach",
+    "Brain"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Havoning harakatiga nima deyiladi?",
+   "ru": "Как называется движение воздуха?",
+   "en": "What do we call moving air?"
+  },
+  "o": {
+   "uz": [
+    "Shamol",
+    "Yomg'ir",
+    "Qor",
+    "Tuman"
+   ],
+   "ru": [
+    "Ветер",
+    "Дождь",
+    "Снег",
+    "Туман"
+   ],
+   "en": [
+    "Wind",
+    "Rain",
+    "Snow",
+    "Fog"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yovvoyi hayvon?",
+   "ru": "Какое из этих животных — дикое?",
+   "en": "Which of these is a wild animal?"
+  },
+  "o": {
+   "uz": [
+    "ayiq",
+    "lola",
+    "chinor",
+    "gilos"
+   ],
+   "ru": [
+    "медведь",
+    "тюльпан",
+    "платан",
+    "черешня"
+   ],
+   "en": [
+    "bear",
+    "tulip",
+    "plane tree",
+    "cherry"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yomg'ir qayerdan yog'adi?",
+   "ru": "Откуда идёт дождь?",
+   "en": "Where does rain fall from?"
+  },
+  "o": {
+   "uz": [
+    "Bulutlardan",
+    "Tog'lardan",
+    "Daryolardan",
+    "Yerdan"
+   ],
+   "ru": [
+    "Из облаков",
+    "Из гор",
+    "Из рек",
+    "Из земли"
+   ],
+   "en": [
+    "From clouds",
+    "From mountains",
+    "From rivers",
+    "From the ground"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«moychechak» — bu:",
+   "ru": "«ромашка» — это:",
+   "en": "«daisy» is a:"
+  },
+  "o": {
+   "uz": [
+    "gul",
+    "yovvoyi hayvon",
+    "hasharot",
+    "daraxt"
+   ],
+   "ru": [
+    "цветок",
+    "дикое животное",
+    "насекомое",
+    "дерево"
+   ],
+   "en": [
+    "flower",
+    "wild animal",
+    "insect",
+    "tree"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 ta o'rgimchakning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 2 пауков?",
+   "en": "How many legs do 2 spiders have in total?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "12",
+    "24",
+    "20"
+   ],
+   "ru": [
+    "16",
+    "12",
+    "24",
+    "20"
+   ],
+   "en": [
+    "16",
+    "12",
+    "24",
+    "20"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi oylar qish oylari hisoblanadi?",
+   "ru": "Какие месяцы относятся к зимним?",
+   "en": "Which months are the winter months?"
+  },
+  "o": {
+   "uz": [
+    "Dekabr, yanvar, fevral",
+    "Mart, aprel, may",
+    "Iyun, iyul, avgust",
+    "Sentabr, oktabr, noyabr"
+   ],
+   "ru": [
+    "Декабрь, январь, февраль",
+    "Март, апрель, май",
+    "Июнь, июль, август",
+    "Сентябрь, октябрь, ноябрь"
+   ],
+   "en": [
+    "December, January, February",
+    "March, April, May",
+    "June, July, August",
+    "September, October, November"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri meva?",
+   "ru": "Что из этого — фрукт?",
+   "en": "Which of these is a fruit?"
+  },
+  "o": {
+   "uz": [
+    "uzum",
+    "chumchuq",
+    "boychechak",
+    "chinnigul"
+   ],
+   "ru": [
+    "виноград",
+    "воробей",
+    "подснежник",
+    "астра"
+   ],
+   "en": [
+    "grapes",
+    "sparrow",
+    "snowdrop",
+    "aster"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yer nimaning atrofida aylanadi?",
+   "ru": "Вокруг чего вращается Земля?",
+   "en": "What does the Earth go around?"
+  },
+  "o": {
+   "uz": [
+    "Quyosh",
+    "Oy",
+    "Mars",
+    "Yupiter"
+   ],
+   "ru": [
+    "Солнце",
+    "Луна",
+    "Марс",
+    "Юпитер"
+   ],
+   "en": [
+    "The Sun",
+    "The Moon",
+    "Mars",
+    "Jupiter"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Non nimadan tayyorlanadi?",
+   "ru": "Из чего готовят хлеб?",
+   "en": "What is bread made from?"
+  },
+  "o": {
+   "uz": [
+    "Undan",
+    "Tuzdan",
+    "Qanddan",
+    "Sutdan"
+   ],
+   "ru": [
+    "Из муки",
+    "Из соли",
+    "Из сахара",
+    "Из молока"
+   ],
+   "en": [
+    "Flour",
+    "Salt",
+    "Sugar",
+    "Milk"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sabzavot?",
+   "ru": "Что из этого — овощ?",
+   "en": "Which of these is a vegetable?"
+  },
+  "o": {
+   "uz": [
+    "sarimsoq",
+    "ari",
+    "qarag'ay",
+    "echki"
+   ],
+   "ru": [
+    "чеснок",
+    "пчела",
+    "сосна",
+    "коза"
+   ],
+   "en": [
+    "garlic",
+    "bee",
+    "pine",
+    "goat"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«burgut» — bu:",
+   "ru": "«орёл» — это:",
+   "en": "«eagle» is a:"
+  },
+  "o": {
+   "uz": [
+    "qush",
+    "uy hayvoni",
+    "hasharot",
+    "gul"
+   ],
+   "ru": [
+    "птица",
+    "домашнее животное",
+    "насекомое",
+    "цветок"
+   ],
+   "en": [
+    "bird",
+    "domestic animal",
+    "insect",
+    "flower"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ipak qurtidan nima olinadi?",
+   "ru": "Что получают от шелкопряда?",
+   "en": "What do we get from the silkworm?"
+  },
+  "o": {
+   "uz": [
+    "Ipak",
+    "Jun",
+    "Paxta",
+    "Asal"
+   ],
+   "ru": [
+    "Шёлк",
+    "Шерсть",
+    "Хлопок",
+    "Мёд"
+   ],
+   "en": [
+    "Silk",
+    "Wool",
+    "Cotton",
+    "Honey"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yovvoyi hayvon?",
+   "ru": "Какое из этих животных — дикое?",
+   "en": "Which of these is a wild animal?"
+  },
+  "o": {
+   "uz": [
+    "tulki",
+    "sabzi",
+    "nargis",
+    "bulbul"
+   ],
+   "ru": [
+    "лиса",
+    "морковь",
+    "нарцисс",
+    "соловей"
+   ],
+   "en": [
+    "fox",
+    "carrot",
+    "daffodil",
+    "nightingale"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«archa» — bu:",
+   "ru": "«ель» — это:",
+   "en": "«fir tree» is a:"
+  },
+  "o": {
+   "uz": [
+    "daraxt",
+    "uy hayvoni",
+    "sabzavot",
+    "meva"
+   ],
+   "ru": [
+    "дерево",
+    "домашнее животное",
+    "овощ",
+    "фрукт"
+   ],
+   "en": [
+    "tree",
+    "domestic animal",
+    "vegetable",
+    "fruit"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri meva?",
+   "ru": "Что из этого — фрукт?",
+   "en": "Which of these is a fruit?"
+  },
+  "o": {
+   "uz": [
+    "shaftoli",
+    "shamol",
+    "burgut",
+    "nargis"
+   ],
+   "ru": [
+    "персик",
+    "ветер",
+    "орёл",
+    "нарцисс"
+   ],
+   "en": [
+    "peach",
+    "wind",
+    "eagle",
+    "daffodil"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri qush?",
+   "ru": "Что из этого — птица?",
+   "en": "Which of these is a bird?"
+  },
+  "o": {
+   "uz": [
+    "bulbul",
+    "it",
+    "olma",
+    "turp"
+   ],
+   "ru": [
+    "соловей",
+    "собака",
+    "яблоко",
+    "редис"
+   ],
+   "en": [
+    "nightingale",
+    "dog",
+    "apple",
+    "radish"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yovvoyi hayvon?",
+   "ru": "Какое из этих животных — дикое?",
+   "en": "Which of these is a wild animal?"
+  },
+  "o": {
+   "uz": [
+    "bo'ri",
+    "pashsha",
+    "anjir",
+    "chumoli"
+   ],
+   "ru": [
+    "волк",
+    "муха",
+    "инжир",
+    "муравей"
+   ],
+   "en": [
+    "wolf",
+    "fly",
+    "fig",
+    "ant"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hasharotning nechta oyog'i bor?",
+   "ru": "Сколько ног у насекомого?",
+   "en": "How many legs does an insect have?"
+  },
+  "o": {
+   "uz": [
+    "6",
+    "4",
+    "8",
+    "10"
+   ],
+   "ru": [
+    "6",
+    "4",
+    "8",
+    "10"
+   ],
+   "en": [
+    "6",
+    "4",
+    "8",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qo'y» — bu:",
+   "ru": "«овца» — это:",
+   "en": "«sheep» is a:"
+  },
+  "o": {
+   "uz": [
+    "uy hayvoni",
+    "jonsiz tabiat",
+    "meva",
+    "qush"
+   ],
+   "ru": [
+    "домашнее животное",
+    "неживая природа",
+    "фрукт",
+    "птица"
+   ],
+   "en": [
+    "domestic animal",
+    "non-living nature",
+    "fruit",
+    "bird"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyosh nima?",
+   "ru": "Что такое Солнце?",
+   "en": "What is the Sun?"
+  },
+  "o": {
+   "uz": [
+    "Yulduz",
+    "Sayyora",
+    "Yerning yo'ldoshi",
+    "Bulut"
+   ],
+   "ru": [
+    "Звезда",
+    "Планета",
+    "Спутник Земли",
+    "Облако"
+   ],
+   "en": [
+    "A star",
+    "A planet",
+    "A moon of Earth",
+    "A cloud"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qo'ydan qanday mahsulot olinadi?",
+   "ru": "Какой продукт получают от овцы?",
+   "en": "Which product do we get from sheep?"
+  },
+  "o": {
+   "uz": [
+    "Jun",
+    "Tuxum",
+    "Asal",
+    "Ipak"
+   ],
+   "ru": [
+    "Шерсть",
+    "Яйца",
+    "Мёд",
+    "Шёлк"
+   ],
+   "en": [
+    "Wool",
+    "Eggs",
+    "Honey",
+    "Silk"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«piyoz» — bu:",
+   "ru": "«лук» — это:",
+   "en": "«onion» is a:"
+  },
+  "o": {
+   "uz": [
+    "sabzavot",
+    "meva",
+    "qush",
+    "yovvoyi hayvon"
+   ],
+   "ru": [
+    "овощ",
+    "фрукт",
+    "птица",
+    "дикое животное"
+   ],
+   "en": [
+    "vegetable",
+    "fruit",
+    "bird",
+    "wild animal"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bo'ri nima bilan oziqlanadi?",
+   "ru": "Чем питается волк?",
+   "en": "What does a wolf eat?"
+  },
+  "o": {
+   "uz": [
+    "Go'sht",
+    "Pichan",
+    "Meva",
+    "Gul"
+   ],
+   "ru": [
+    "Мясо",
+    "Сено",
+    "Фрукты",
+    "Цветы"
+   ],
+   "en": [
+    "Meat",
+    "Hay",
+    "Fruit",
+    "Flowers"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«tulki» — bu:",
+   "ru": "«лиса» — это:",
+   "en": "«fox» is a:"
+  },
+  "o": {
+   "uz": [
+    "yovvoyi hayvon",
+    "uy hayvoni",
+    "hasharot",
+    "jonsiz tabiat"
+   ],
+   "ru": [
+    "дикое животное",
+    "домашнее животное",
+    "насекомое",
+    "неживая природа"
+   ],
+   "en": [
+    "wild animal",
+    "domestic animal",
+    "insect",
+    "non-living nature"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri meva?",
+   "ru": "Что из этого — фрукт?",
+   "en": "Which of these is a fruit?"
+  },
+  "o": {
+   "uz": [
+    "olxo'ri",
+    "suv",
+    "yo'lbars",
+    "bulbul"
+   ],
+   "ru": [
+    "слива",
+    "вода",
+    "тигр",
+    "соловей"
+   ],
+   "en": [
+    "plum",
+    "water",
+    "tiger",
+    "nightingale"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Navro'z bayrami qaysi sanada nishonlanadi?",
+   "ru": "В какой день отмечают Навруз?",
+   "en": "On which date is Navruz celebrated?"
+  },
+  "o": {
+   "uz": [
+    "21-mart",
+    "1-sentabr",
+    "8-dekabr",
+    "9-may"
+   ],
+   "ru": [
+    "21 марта",
+    "1 сентября",
+    "8 декабря",
+    "9 мая"
+   ],
+   "en": [
+    "21 March",
+    "1 September",
+    "8 December",
+    "9 May"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Nafas olish organi qaysi?",
+   "ru": "Какой орган служит для дыхания?",
+   "en": "Which organ is used for breathing?"
+  },
+  "o": {
+   "uz": [
+    "O'pka",
+    "Yurak",
+    "Oshqozon",
+    "Jigar"
+   ],
+   "ru": [
+    "Лёгкие",
+    "Сердце",
+    "Желудок",
+    "Печень"
+   ],
+   "en": [
+    "Lungs",
+    "Heart",
+    "Stomach",
+    "Liver"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "9 ta tovuqning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 9 кур?",
+   "en": "How many legs do 9 hens have in total?"
+  },
+  "o": {
+   "uz": [
+    "18",
+    "16",
+    "20",
+    "36"
+   ],
+   "ru": [
+    "18",
+    "16",
+    "20",
+    "36"
+   ],
+   "en": [
+    "18",
+    "16",
+    "20",
+    "36"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ayiq» — bu:",
+   "ru": "«медведь» — это:",
+   "en": "«bear» is a:"
+  },
+  "o": {
+   "uz": [
+    "yovvoyi hayvon",
+    "qush",
+    "jonsiz tabiat",
+    "daraxt"
+   ],
+   "ru": [
+    "дикое животное",
+    "птица",
+    "неживая природа",
+    "дерево"
+   ],
+   "en": [
+    "wild animal",
+    "bird",
+    "non-living nature",
+    "tree"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "7 ta mushukning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 7 кошек?",
+   "en": "How many legs do 7 cats have in total?"
+  },
+  "o": {
+   "uz": [
+    "28",
+    "24",
+    "32",
+    "56"
+   ],
+   "ru": [
+    "28",
+    "24",
+    "32",
+    "56"
+   ],
+   "en": [
+    "28",
+    "24",
+    "32",
+    "56"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri uy hayvoni?",
+   "ru": "Какое из этих животных — домашнее?",
+   "en": "Which of these is a domestic animal?"
+  },
+  "o": {
+   "uz": [
+    "ot",
+    "piyoz",
+    "chivin",
+    "binafsha"
+   ],
+   "ru": [
+    "лошадь",
+    "лук",
+    "комар",
+    "фиалка"
+   ],
+   "en": [
+    "horse",
+    "onion",
+    "mosquito",
+    "violet"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri gul?",
+   "ru": "Что из этого — цветок?",
+   "en": "Which of these is a flower?"
+  },
+  "o": {
+   "uz": [
+    "boychechak",
+    "qo'y",
+    "ninachi",
+    "havo"
+   ],
+   "ru": [
+    "подснежник",
+    "овца",
+    "стрекоза",
+    "воздух"
+   ],
+   "en": [
+    "snowdrop",
+    "sheep",
+    "dragonfly",
+    "air"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 ta sigirning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 3 коров?",
+   "en": "How many legs do 3 cows have in total?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "7",
+    "16",
+    "10"
+   ],
+   "ru": [
+    "12",
+    "7",
+    "16",
+    "10"
+   ],
+   "en": [
+    "12",
+    "7",
+    "16",
+    "10"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'zbekiston poytaxti qaysi shahar?",
+   "ru": "Какой город — столица Узбекистана?",
+   "en": "Which city is the capital of Uzbekistan?"
+  },
+  "o": {
+   "uz": [
+    "Toshkent",
+    "Samarqand",
+    "Buxoro",
+    "Xiva"
+   ],
+   "ru": [
+    "Ташкент",
+    "Самарканд",
+    "Бухара",
+    "Хива"
+   ],
+   "en": [
+    "Tashkent",
+    "Samarkand",
+    "Bukhara",
+    "Khiva"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«uzum» — bu:",
+   "ru": "«виноград» — это:",
+   "en": "«grapes» is a:"
+  },
+  "o": {
+   "uz": [
+    "meva",
+    "yovvoyi hayvon",
+    "hasharot",
+    "uy hayvoni"
+   ],
+   "ru": [
+    "фрукт",
+    "дикое животное",
+    "насекомое",
+    "домашнее животное"
+   ],
+   "en": [
+    "fruit",
+    "wild animal",
+    "insect",
+    "domestic animal"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Kuzdan keyin qaysi fasl keladi?",
+   "ru": "Какое время года идёт после осени?",
+   "en": "Which season comes after autumn?"
+  },
+  "o": {
+   "uz": [
+    "Qish",
+    "Bahor",
+    "Yoz",
+    "Kuz"
+   ],
+   "ru": [
+    "Зима",
+    "Весна",
+    "Лето",
+    "Осень"
+   ],
+   "en": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Autumn"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "9 ta kapalakning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 9 бабочек?",
+   "en": "How many legs do 9 butterflies have in total?"
+  },
+  "o": {
+   "uz": [
+    "54",
+    "15",
+    "48",
+    "60"
+   ],
+   "ru": [
+    "54",
+    "15",
+    "48",
+    "60"
+   ],
+   "en": [
+    "54",
+    "15",
+    "48",
+    "60"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ko'rish organi qaysi?",
+   "ru": "Какой орган отвечает за зрение?",
+   "en": "Which organ is used for seeing?"
+  },
+  "o": {
+   "uz": [
+    "Ko'z",
+    "Quloq",
+    "Burun",
+    "Til"
+   ],
+   "ru": [
+    "Глаз",
+    "Ухо",
+    "Нос",
+    "Язык"
+   ],
+   "en": [
+    "Eye",
+    "Ear",
+    "Nose",
+    "Tongue"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 ta mushukning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 3 кошек?",
+   "en": "How many legs do 3 cats have in total?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "8",
+    "14",
+    "16"
+   ],
+   "ru": [
+    "12",
+    "8",
+    "14",
+    "16"
+   ],
+   "en": [
+    "12",
+    "8",
+    "14",
+    "16"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri uy hayvoni?",
+   "ru": "Какое из этих животных — домашнее?",
+   "en": "Which of these is a domestic animal?"
+  },
+  "o": {
+   "uz": [
+    "sigir",
+    "turp",
+    "chinnigul",
+    "lavlagi"
+   ],
+   "ru": [
+    "корова",
+    "редис",
+    "астра",
+    "свёкла"
+   ],
+   "en": [
+    "cow",
+    "radish",
+    "aster",
+    "beetroot"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "8 ta otning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 8 лошадей?",
+   "en": "How many legs do 8 horses have in total?"
+  },
+  "o": {
+   "uz": [
+    "32",
+    "34",
+    "28",
+    "12"
+   ],
+   "ru": [
+    "32",
+    "34",
+    "28",
+    "12"
+   ],
+   "en": [
+    "32",
+    "34",
+    "28",
+    "12"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qor yog'adigan fasl qaysi?",
+   "ru": "В какое время года идёт снег?",
+   "en": "In which season does it snow?"
+  },
+  "o": {
+   "uz": [
+    "Qish",
+    "Yoz",
+    "Kuz",
+    "Bahor"
+   ],
+   "ru": [
+    "Зима",
+    "Лето",
+    "Осень",
+    "Весна"
+   ],
+   "en": [
+    "Winter",
+    "Summer",
+    "Autumn",
+    "Spring"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Tishlarni kuniga necha marta yuvish kerak?",
+   "ru": "Сколько раз в день нужно чистить зубы?",
+   "en": "How many times a day should we brush our teeth?"
+  },
+  "o": {
+   "uz": [
+    "2",
+    "1",
+    "5",
+    "0"
+   ],
+   "ru": [
+    "2",
+    "1",
+    "5",
+    "0"
+   ],
+   "en": [
+    "2",
+    "1",
+    "5",
+    "0"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "7 ta qo'yning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 7 овец?",
+   "en": "How many legs do 7 sheep have in total?"
+  },
+  "o": {
+   "uz": [
+    "28",
+    "32",
+    "11",
+    "24"
+   ],
+   "ru": [
+    "28",
+    "32",
+    "11",
+    "24"
+   ],
+   "en": [
+    "28",
+    "32",
+    "11",
+    "24"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jumadan keyin qaysi kun keladi?",
+   "ru": "Какой день идёт после пятницы?",
+   "en": "Which day comes after Friday?"
+  },
+  "o": {
+   "uz": [
+    "Shanba",
+    "Payshanba",
+    "Dushanba",
+    "Chorshanba"
+   ],
+   "ru": [
+    "Суббота",
+    "Четверг",
+    "Понедельник",
+    "Среда"
+   ],
+   "en": [
+    "Saturday",
+    "Thursday",
+    "Monday",
+    "Wednesday"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "3 ta echkining jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 3 коз?",
+   "en": "How many legs do 3 goats have in total?"
+  },
+  "o": {
+   "uz": [
+    "12",
+    "14",
+    "24",
+    "16"
+   ],
+   "ru": [
+    "12",
+    "14",
+    "24",
+    "16"
+   ],
+   "en": [
+    "12",
+    "14",
+    "24",
+    "16"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«qarag'ay» — bu:",
+   "ru": "«сосна» — это:",
+   "en": "«pine» is a:"
+  },
+  "o": {
+   "uz": [
+    "daraxt",
+    "qush",
+    "meva",
+    "sabzavot"
+   ],
+   "ru": [
+    "дерево",
+    "птица",
+    "фрукт",
+    "овощ"
+   ],
+   "en": [
+    "tree",
+    "bird",
+    "fruit",
+    "vegetable"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyosh qaysi tomonda botadi?",
+   "ru": "С какой стороны заходит Солнце?",
+   "en": "In which direction does the Sun set?"
+  },
+  "o": {
+   "uz": [
+    "G'arb",
+    "Sharq",
+    "Shimol",
+    "Janub"
+   ],
+   "ru": [
+    "Запад",
+    "Восток",
+    "Север",
+    "Юг"
+   ],
+   "en": [
+    "West",
+    "East",
+    "North",
+    "South"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yovvoyi hayvon?",
+   "ru": "Какое из этих животных — дикое?",
+   "en": "Which of these is a wild animal?"
+  },
+  "o": {
+   "uz": [
+    "sher",
+    "eman",
+    "suv",
+    "moychechak"
+   ],
+   "ru": [
+    "лев",
+    "дуб",
+    "вода",
+    "ромашка"
+   ],
+   "en": [
+    "lion",
+    "oak",
+    "water",
+    "daisy"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qushlarning tanasi nima bilan qoplangan?",
+   "ru": "Чем покрыто тело птиц?",
+   "en": "What is a bird's body covered with?"
+  },
+  "o": {
+   "uz": [
+    "Pat",
+    "Jun",
+    "Tangacha",
+    "Teri"
+   ],
+   "ru": [
+    "Перья",
+    "Шерсть",
+    "Чешуя",
+    "Кожа"
+   ],
+   "en": [
+    "Feathers",
+    "Fur",
+    "Scales",
+    "Bare skin"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Baqaning bolasi qanday ataladi?",
+   "ru": "Как называется детёныш лягушки?",
+   "en": "What is a baby frog called?"
+  },
+  "o": {
+   "uz": [
+    "Itbaliq",
+    "Qurt",
+    "Chaqaloq",
+    "Tuxum"
+   ],
+   "ru": [
+    "Головастик",
+    "Червь",
+    "Малыш",
+    "Яйцо"
+   ],
+   "en": [
+    "Tadpole",
+    "Worm",
+    "Cub",
+    "Egg"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 ta itning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 4 собак?",
+   "en": "How many legs do 4 dogs have in total?"
+  },
+  "o": {
+   "uz": [
+    "16",
+    "32",
+    "12",
+    "14"
+   ],
+   "ru": [
+    "16",
+    "32",
+    "12",
+    "14"
+   ],
+   "en": [
+    "16",
+    "32",
+    "12",
+    "14"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "4 ta o'rdakning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 4 уток?",
+   "en": "How many legs do 4 ducks have in total?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "10",
+    "6",
+    "4"
+   ],
+   "ru": [
+    "8",
+    "10",
+    "6",
+    "4"
+   ],
+   "en": [
+    "8",
+    "10",
+    "6",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri uy hayvoni?",
+   "ru": "Какое из этих животных — домашнее?",
+   "en": "Which of these is a domestic animal?"
+  },
+  "o": {
+   "uz": [
+    "mushuk",
+    "ninachi",
+    "moychechak",
+    "olma"
+   ],
+   "ru": [
+    "кошка",
+    "стрекоза",
+    "ромашка",
+    "яблоко"
+   ],
+   "en": [
+    "cat",
+    "dragonfly",
+    "daisy",
+    "apple"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "2 ta mushukning jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 2 кошек?",
+   "en": "How many legs do 2 cats have in total?"
+  },
+  "o": {
+   "uz": [
+    "8",
+    "16",
+    "10",
+    "4"
+   ],
+   "ru": [
+    "8",
+    "16",
+    "10",
+    "4"
+   ],
+   "en": [
+    "8",
+    "16",
+    "10",
+    "4"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri uy hayvoni?",
+   "ru": "Какое из этих животных — домашнее?",
+   "en": "Which of these is a domestic animal?"
+  },
+  "o": {
+   "uz": [
+    "qo'y",
+    "maymun",
+    "tuproq",
+    "ari"
+   ],
+   "ru": [
+    "овца",
+    "обезьяна",
+    "почва",
+    "пчела"
+   ],
+   "en": [
+    "sheep",
+    "monkey",
+    "soil",
+    "bee"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«mushuk» — bu:",
+   "ru": "«кошка» — это:",
+   "en": "«cat» is a:"
+  },
+  "o": {
+   "uz": [
+    "uy hayvoni",
+    "gul",
+    "qush",
+    "meva"
+   ],
+   "ru": [
+    "домашнее животное",
+    "цветок",
+    "птица",
+    "фрукт"
+   ],
+   "en": [
+    "domestic animal",
+    "flower",
+    "bird",
+    "fruit"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "7 ta chumolining jami nechta oyog'i bor?",
+   "ru": "Сколько всего ног у 7 муравьёв?",
+   "en": "How many legs do 7 ants have in total?"
+  },
+  "o": {
+   "uz": [
+    "42",
+    "38",
+    "46",
+    "84"
+   ],
+   "ru": [
+    "42",
+    "38",
+    "46",
+    "84"
+   ],
+   "en": [
+    "42",
+    "38",
+    "46",
+    "84"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«chigirtka» — bu:",
+   "ru": "«кузнечик» — это:",
+   "en": "«grasshopper» is a:"
+  },
+  "o": {
+   "uz": [
+    "hasharot",
+    "meva",
+    "yovvoyi hayvon",
+    "jonsiz tabiat"
+   ],
+   "ru": [
+    "насекомое",
+    "фрукт",
+    "дикое животное",
+    "неживая природа"
+   ],
+   "en": [
+    "insect",
+    "fruit",
+    "wild animal",
+    "non-living nature"
+   ]
+  },
+  "a": 0
+ }
+]

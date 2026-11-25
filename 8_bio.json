@@ -1,0 +1,2802 @@
+[
+ {
+  "q": {
+   "uz": "Amfibiyalar (ikki yashovchilar) hayotining qaysi bosqichida suvda yashaydi?",
+   "ru": "На какой стадии жизни земноводные живут в воде?",
+   "en": "At which stage do amphibians live in water?"
+  },
+  "o": {
+   "uz": [
+    "Lichinka (itbaliq) davrida",
+    "Faqat tuxum ichida",
+    "Voyaga yetganda faqat quruqlikda",
+    "Hech qachon"
+   ],
+   "ru": [
+    "На стадии личинки (головастика)",
+    "Только внутри яйца",
+    "Во взрослом состоянии только на суше",
+    "Никогда"
+   ],
+   "en": [
+    "As larvae (tadpoles)",
+    "Only inside the egg",
+    "As adults only on land",
+    "Never"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Meva qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Плод?",
+   "en": "What is the function of Fruit?"
+  },
+  "o": {
+   "uz": [
+    "Urug'ni himoya qiladi va tarqatishga yordam beradi",
+    "Fotosintez (yorug'likda organik modda hosil qilish) o'tadi",
+    "Tuproqdan suv va mineral tuzlarni so'rib oladi",
+    "Moddalarni tashiydi va bargni ko'tarib turadi"
+   ],
+   "ru": [
+    "Защищает семена и помогает их распространению",
+    "В нём идёт фотосинтез",
+    "Всасывает из почвы воду и минеральные соли",
+    "Проводит вещества и поддерживает листья"
+   ],
+   "en": [
+    "Protects seeds and helps spread them",
+    "Photosynthesis takes place in it",
+    "Absorbs water and minerals from the soil",
+    "Transports substances and supports the leaves"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani hujayraning qaysi qismi bajaradi: Hujayra uchun energiya (ATF) hosil qiladi?",
+   "ru": "Какая часть клетки выполняет функцию: Образует энергию (АТФ) для клетки?",
+   "en": "Which part of the cell does this: Produces energy (ATP) for the cell?"
+  },
+  "o": {
+   "uz": [
+    "Mitoxondriya",
+    "Hujayra devori",
+    "Yadro",
+    "Ribosoma"
+   ],
+   "ru": [
+    "Митохондрия",
+    "Клеточная стенка",
+    "Ядро клетки",
+    "Рибосома"
+   ],
+   "en": [
+    "Mitochondrion",
+    "Cell wall",
+    "Nucleus",
+    "Ribosome"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ildiz qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Корень?",
+   "en": "What is the function of Root?"
+  },
+  "o": {
+   "uz": [
+    "Tuproqdan suv va mineral tuzlarni so'rib oladi",
+    "Moddalarni tashiydi va bargni ko'tarib turadi",
+    "Undan yangi o'simlik o'sib chiqadi",
+    "Urug'lanish va meva hosil qilish organi"
+   ],
+   "ru": [
+    "Всасывает из почвы воду и минеральные соли",
+    "Проводит вещества и поддерживает листья",
+    "Из него вырастает новое растение",
+    "Орган размножения: опыление и образование плода"
+   ],
+   "en": [
+    "Absorbs water and minerals from the soil",
+    "Transports substances and supports the leaves",
+    "A new plant grows from it",
+    "The reproductive organ of the plant"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Aleksandr Fleming qanday kashfiyot yoki ishi bilan mashhur?",
+   "ru": "Чем известен(на) Александр Флеминг?",
+   "en": "What is Alexander Fleming known for?"
+  },
+  "o": {
+   "uz": [
+    "Penitsillinni kashf etgan",
+    "«Tib qonunlari» asarini yozgan",
+    "Shartli reflekslar ta'limotini yaratgan",
+    "Quturishga qarshi vaksina yaratgan, mikroblar tadqiqotchisi"
+   ],
+   "ru": [
+    "Открыл пенициллин",
+    "Написал «Канон врачебной науки»",
+    "Создал учение об условных рефлексах",
+    "Создал вакцину против бешенства, исследователь микробов"
+   ],
+   "en": [
+    "Discovered penicillin",
+    "Wrote «The Canon of Medicine»",
+    "Created the theory of conditioned reflexes",
+    "Developed the rabies vaccine and studied microbes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yopiq urug'li o'simlik?",
+   "ru": "Что из этого — покрытосеменное растение?",
+   "en": "Which of these is an angiosperm?"
+  },
+  "o": {
+   "uz": [
+    "olma daraxti",
+    "archa",
+    "plaun",
+    "kukushkin zig'iri"
+   ],
+   "ru": [
+    "яблоня",
+    "ель",
+    "плаун",
+    "кукушкин лён"
+   ],
+   "en": [
+    "apple tree",
+    "spruce",
+    "club moss",
+    "haircap moss"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«kit» — bu:",
+   "ru": "«кит» — это:",
+   "en": "«whale» is a:"
+  },
+  "o": {
+   "uz": [
+    "sut emizuvchilar",
+    "qushlar",
+    "hasharotlar",
+    "amfibiyalar (ikki yashovchilar)"
+   ],
+   "ru": [
+    "млекопитающие",
+    "птицы",
+    "насекомые",
+    "земноводные"
+   ],
+   "en": [
+    "mammals",
+    "birds",
+    "insects",
+    "amphibians"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani qaysi qism bajaradi: Urug'lanish va meva hosil qilish organi?",
+   "ru": "Какая часть растения выполняет функцию: Орган размножения: опыление и образование плода?",
+   "en": "Which part does this: The reproductive organ of the plant?"
+  },
+  "o": {
+   "uz": [
+    "Gul",
+    "Meva",
+    "Poya",
+    "Barg"
+   ],
+   "ru": [
+    "Цветок",
+    "Плод",
+    "Стебель",
+    "Лист"
+   ],
+   "en": [
+    "Flower",
+    "Fruit",
+    "Stem",
+    "Leaf"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ibn Sino qanday kashfiyot yoki ishi bilan mashhur?",
+   "ru": "Чем известен(на) Ибн Сина?",
+   "en": "What is Ibn Sina known for?"
+  },
+  "o": {
+   "uz": [
+    "«Tib qonunlari» asarini yozgan",
+    "O'simlik va hayvonlarni ikki nomli (binar) nomlash tizimini kiritgan",
+    "Tabiiy tanlanish orqali evolyutsiya nazariyasini yaratgan",
+    "Quturishga qarshi vaksina yaratgan, mikroblar tadqiqotchisi"
+   ],
+   "ru": [
+    "Написал «Канон врачебной науки»",
+    "Ввёл бинарную номенклатуру растений и животных",
+    "Создал теорию эволюции путём естественного отбора",
+    "Создал вакцину против бешенства, исследователь микробов"
+   ],
+   "en": [
+    "Wrote «The Canon of Medicine»",
+    "Introduced binomial naming of plants and animals",
+    "Created the theory of evolution by natural selection",
+    "Developed the rabies vaccine and studied microbes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: O't ishlab chiqaradi va zararli moddalarni zararsizlantiradi?",
+   "ru": "Какому органу соответствует функция: Вырабатывает желчь и обезвреживает яды?",
+   "en": "Which organ does this: Produces bile and neutralises toxins?"
+  },
+  "o": {
+   "uz": [
+    "Jigar",
+    "Teri",
+    "Me'da osti bezi",
+    "Yurak"
+   ],
+   "ru": [
+    "Печень",
+    "Кожа",
+    "Поджелудочная железа",
+    "Сердце"
+   ],
+   "en": [
+    "Liver",
+    "Skin",
+    "Pancreas",
+    "Heart"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri baliq?",
+   "ru": "Какое из этих животных — рыба?",
+   "en": "Which of these is a fish?"
+  },
+  "o": {
+   "uz": [
+    "cho'rtan",
+    "chivin",
+    "kaltakesak",
+    "tuyaqush"
+   ],
+   "ru": [
+    "щука",
+    "комар",
+    "ящерица",
+    "страус"
+   ],
+   "en": [
+    "pike",
+    "mosquito",
+    "lizard",
+    "ostrich"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Urug' qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Семя?",
+   "en": "What is the function of Seed?"
+  },
+  "o": {
+   "uz": [
+    "Undan yangi o'simlik o'sib chiqadi",
+    "Fotosintez (yorug'likda organik modda hosil qilish) o'tadi",
+    "Tuproqdan suv va mineral tuzlarni so'rib oladi",
+    "Moddalarni tashiydi va bargni ko'tarib turadi"
+   ],
+   "ru": [
+    "Из него вырастает новое растение",
+    "В нём идёт фотосинтез",
+    "Всасывает из почвы воду и минеральные соли",
+    "Проводит вещества и поддерживает листья"
+   ],
+   "en": [
+    "A new plant grows from it",
+    "Photosynthesis takes place in it",
+    "Absorbs water and minerals from the soil",
+    "Transports substances and supports the leaves"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "A vitamini organizm uchun nima uchun kerak?",
+   "ru": "Для чего нужен Витамин A?",
+   "en": "What is Vitamin A needed for?"
+  },
+  "o": {
+   "uz": [
+    "Ko'rish uchun muhim",
+    "Suyaklarning mustahkamligi uchun kerak (raxitdan saqlaydi)",
+    "Singa kasalligidan saqlaydi",
+    "Qon ivishi uchun zarur"
+   ],
+   "ru": [
+    "Важен для зрения",
+    "Нужен для прочности костей (предотвращает рахит)",
+    "Предохраняет от цинги",
+    "Необходим для свёртывания крови"
+   ],
+   "en": [
+    "Important for vision",
+    "Needed for strong bones (prevents rickets)",
+    "Prevents scurvy",
+    "Needed for blood clotting"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hujayrada «Hujayra devori» qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет в клетке «Клеточная стенка»?",
+   "en": "What does the «Cell wall» do in the cell?"
+  },
+  "o": {
+   "uz": [
+    "O'simlik hujayrasiga shakl beradi va mustahkamlaydi",
+    "Oqsil sintezi o'tadi",
+    "Fotosintez o'tadigan organoid",
+    "Moddalarning hujayraga kirishi va chiqishini boshqaradi"
+   ],
+   "ru": [
+    "Придаёт форму и прочность растительной клетке",
+    "Здесь синтезируются белки",
+    "Органоид, в котором идёт фотосинтез",
+    "Регулирует вход и выход веществ"
+   ],
+   "en": [
+    "Gives shape and strength to a plant cell",
+    "Protein synthesis occurs here",
+    "The organelle where photosynthesis occurs",
+    "Controls what enters and leaves the cell"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Qaysi organoid hujayra uchun «energiya stansiyasi» hisoblanadi?",
+   "ru": "Какой органоид называют «энергетической станцией» клетки?",
+   "en": "Which organelle is the cell's «power station»?"
+  },
+  "o": {
+   "uz": [
+    "Mitoxondriya",
+    "Yadro",
+    "Ribosoma",
+    "Vakuola"
+   ],
+   "ru": [
+    "Митохондрия",
+    "Ядро",
+    "Рибосома",
+    "Вакуоль"
+   ],
+   "en": [
+    "Mitochondrion",
+    "Nucleus",
+    "Ribosome",
+    "Vacuole"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Bakteriyalar hujayrasida qaysi tuzilma bo'lmaydi?",
+   "ru": "Какой структуры нет у бактериальной клетки?",
+   "en": "Which structure do bacterial cells lack?"
+  },
+  "o": {
+   "uz": [
+    "Shakllangan yadro",
+    "Hujayra devori",
+    "Sitoplazma",
+    "Ribosoma"
+   ],
+   "ru": [
+    "Оформленное ядро",
+    "Клеточная стенка",
+    "Цитоплазма",
+    "Рибосома"
+   ],
+   "en": [
+    "A true nucleus",
+    "A cell wall",
+    "Cytoplasm",
+    "Ribosomes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani qaysi qism bajaradi: Urug'ni himoya qiladi va tarqatishga yordam beradi?",
+   "ru": "Какая часть растения выполняет функцию: Защищает семена и помогает их распространению?",
+   "en": "Which part does this: Protects seeds and helps spread them?"
+  },
+  "o": {
+   "uz": [
+    "Meva",
+    "Barg",
+    "Ildiz",
+    "Urug'"
+   ],
+   "ru": [
+    "Плод",
+    "Лист",
+    "Корень",
+    "Семя"
+   ],
+   "en": [
+    "Fruit",
+    "Leaf",
+    "Root",
+    "Seed"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Himoya qiladi va terlash orqali tana haroratini tartibga soladi?",
+   "ru": "Какому органу соответствует функция: Защищает и регулирует температуру тела через пот?",
+   "en": "Which organ does this: Protects the body and regulates temperature through sweat?"
+  },
+  "o": {
+   "uz": [
+    "Teri",
+    "Jigar",
+    "Ingichka ichak",
+    "Yurak"
+   ],
+   "ru": [
+    "Кожа",
+    "Печень",
+    "Тонкая кишка",
+    "Сердце"
+   ],
+   "en": [
+    "Skin",
+    "Liver",
+    "Small intestine",
+    "Heart"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri moxlarga kiradi?",
+   "ru": "Что из этого относится к мхам?",
+   "en": "Which of these is a moss?"
+  },
+  "o": {
+   "uz": [
+    "kukushkin zig'iri",
+    "qarag'ay",
+    "laminariya",
+    "archa"
+   ],
+   "ru": [
+    "кукушкин лён",
+    "сосна",
+    "ламинария",
+    "ель"
+   ],
+   "en": [
+    "haircap moss",
+    "pine",
+    "kelp",
+    "spruce"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Harakat qilishni ta'minlaydi?",
+   "ru": "Какому органу соответствует функция: Обеспечивают движение?",
+   "en": "Which organ does this: Make movement possible?"
+  },
+  "o": {
+   "uz": [
+    "Mushaklar",
+    "Oshqozon",
+    "Buyrak",
+    "O'pka"
+   ],
+   "ru": [
+    "Мышцы",
+    "Желудок",
+    "Почки",
+    "Лёгкие"
+   ],
+   "en": [
+    "Muscles",
+    "Stomach",
+    "Kidneys",
+    "Lungs"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Gul qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Цветок?",
+   "en": "What is the function of Flower?"
+  },
+  "o": {
+   "uz": [
+    "Urug'lanish va meva hosil qilish organi",
+    "Moddalarni tashiydi va bargni ko'tarib turadi",
+    "Undan yangi o'simlik o'sib chiqadi",
+    "Tuproqdan suv va mineral tuzlarni so'rib oladi"
+   ],
+   "ru": [
+    "Орган размножения: опыление и образование плода",
+    "Проводит вещества и поддерживает листья",
+    "Из него вырастает новое растение",
+    "Всасывает из почвы воду и минеральные соли"
+   ],
+   "en": [
+    "The reproductive organ of the plant",
+    "Transports substances and supports the leaves",
+    "A new plant grows from it",
+    "Absorbs water and minerals from the soil"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Barg qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Лист?",
+   "en": "What is the function of Leaf?"
+  },
+  "o": {
+   "uz": [
+    "Fotosintez (yorug'likda organik modda hosil qilish) o'tadi",
+    "Tuproqdan suv va mineral tuzlarni so'rib oladi",
+    "Urug'lanish va meva hosil qilish organi",
+    "Undan yangi o'simlik o'sib chiqadi"
+   ],
+   "ru": [
+    "В нём идёт фотосинтез",
+    "Всасывает из почвы воду и минеральные соли",
+    "Орган размножения: опыление и образование плода",
+    "Из него вырастает новое растение"
+   ],
+   "en": [
+    "Photosynthesis takes place in it",
+    "Absorbs water and minerals from the soil",
+    "The reproductive organ of the plant",
+    "A new plant grows from it"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hujayra nima?",
+   "ru": "Что такое клетка?",
+   "en": "What is a cell?"
+  },
+  "o": {
+   "uz": [
+    "Tirik organizmning tuzilish va hayot faoliyati birligi",
+    "Faqat o'simlik qismi",
+    "Qon tomiri",
+    "Suyak turi"
+   ],
+   "ru": [
+    "Структурная и функциональная единица живого",
+    "Только часть растения",
+    "Кровеносный сосуд",
+    "Вид кости"
+   ],
+   "en": [
+    "The structural and functional unit of living things",
+    "Only a part of a plant",
+    "A blood vessel",
+    "A type of bone"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani hujayraning qaysi qismi bajaradi: Moddalarning hujayraga kirishi va chiqishini boshqaradi?",
+   "ru": "Какая часть клетки выполняет функцию: Регулирует вход и выход веществ?",
+   "en": "Which part of the cell does this: Controls what enters and leaves the cell?"
+  },
+  "o": {
+   "uz": [
+    "Hujayra membranasi",
+    "Hujayra devori",
+    "Mitoxondriya",
+    "Yadro"
+   ],
+   "ru": [
+    "Клеточная мембрана",
+    "Клеточная стенка",
+    "Митохондрия",
+    "Ядро клетки"
+   ],
+   "en": [
+    "Cell membrane",
+    "Cell wall",
+    "Mitochondrion",
+    "Nucleus"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri ochiq urug'li o'simlik?",
+   "ru": "Что из этого — голосеменное растение?",
+   "en": "Which of these is a gymnosperm?"
+  },
+  "o": {
+   "uz": [
+    "qarag'ay",
+    "paxta",
+    "xlorella",
+    "lola"
+   ],
+   "ru": [
+    "сосна",
+    "хлопчатник",
+    "хлорелла",
+    "тюльпан"
+   ],
+   "en": [
+    "pine",
+    "cotton",
+    "chlorella",
+    "tulip"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Organik moddalarni parchalovchi organizmlar nima deyiladi?",
+   "ru": "Как называют организмы, разлагающие органические вещества?",
+   "en": "What are organisms that decompose organic matter called?"
+  },
+  "o": {
+   "uz": [
+    "Redutsentlar",
+    "Produsentlar",
+    "Konsumentlar",
+    "Avtotroflar"
+   ],
+   "ru": [
+    "Редуценты",
+    "Продуценты",
+    "Консументы",
+    "Автотрофы"
+   ],
+   "en": [
+    "Decomposers",
+    "Producers",
+    "Consumers",
+    "Autotrophs"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yopiq urug'li o'simlik?",
+   "ru": "Что из этого — покрытосеменное растение?",
+   "en": "Which of these is an angiosperm?"
+  },
+  "o": {
+   "uz": [
+    "lola",
+    "sfagnum",
+    "kedr",
+    "kukushkin zig'iri"
+   ],
+   "ru": [
+    "тюльпан",
+    "сфагнум",
+    "кедр",
+    "кукушкин лён"
+   ],
+   "en": [
+    "tulip",
+    "sphagnum",
+    "cedar",
+    "haircap moss"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Me'da osti bezi qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Поджелудочная железа?",
+   "en": "What is the function of Pancreas?"
+  },
+  "o": {
+   "uz": [
+    "Insulin va hazm shirasini ishlab chiqaradi",
+    "Gaz almashinuvi (nafas olish) o'tadi",
+    "Harakat qilishni ta'minlaydi",
+    "O't ishlab chiqaradi va zararli moddalarni zararsizlantiradi"
+   ],
+   "ru": [
+    "Вырабатывает инсулин и пищеварительный сок",
+    "В них происходит газообмен",
+    "Обеспечивают движение",
+    "Вырабатывает желчь и обезвреживает яды"
+   ],
+   "en": [
+    "Produces insulin and digestive juice",
+    "Gas exchange takes place here",
+    "Make movement possible",
+    "Produces bile and neutralises toxins"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yo'g'on ichak qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Толстая кишка?",
+   "en": "What is the function of Large intestine?"
+  },
+  "o": {
+   "uz": [
+    "Suv so'riladi va najas shakllanadi",
+    "Tayanch vazifasini bajaradi va ichki a'zolarni himoya qiladi",
+    "Asab tizimining markazi, tananing faoliyatini boshqaradi",
+    "Harakat qilishni ta'minlaydi"
+   ],
+   "ru": [
+    "Всасывается вода и формируется кал",
+    "Опора тела, защита внутренних органов",
+    "Центр нервной системы, управляет работой тела",
+    "Обеспечивают движение"
+   ],
+   "en": [
+    "Water is absorbed and waste forms",
+    "Support the body and protect inner organs",
+    "The centre of the nervous system that controls the body",
+    "Make movement possible"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri o'rgimchaksimon?",
+   "ru": "Какое из этих животных — паукообразное?",
+   "en": "Which of these is an arachnid?"
+  },
+  "o": {
+   "uz": [
+    "chayon",
+    "laylak",
+    "pingvin",
+    "echkemar"
+   ],
+   "ru": [
+    "скорпион",
+    "аист",
+    "пингвин",
+    "агама"
+   ],
+   "en": [
+    "scorpion",
+    "stork",
+    "penguin",
+    "agama lizard"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Suyaklar qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Кости?",
+   "en": "What is the function of Bones?"
+  },
+  "o": {
+   "uz": [
+    "Tayanch vazifasini bajaradi va ichki a'zolarni himoya qiladi",
+    "Suv so'riladi va najas shakllanadi",
+    "Himoya qiladi va terlash orqali tana haroratini tartibga soladi",
+    "Oziq moddalar qonga so'riladi"
+   ],
+   "ru": [
+    "Опора тела, защита внутренних органов",
+    "Всасывается вода и формируется кал",
+    "Защищает и регулирует температуру тела через пот",
+    "Питательные вещества всасываются в кровь"
+   ],
+   "en": [
+    "Support the body and protect inner organs",
+    "Water is absorbed and waste forms",
+    "Protects the body and regulates temperature through sweat",
+    "Nutrients are absorbed into the blood"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri suv o'ti?",
+   "ru": "Что из этого — водоросль?",
+   "en": "Which of these is an alga?"
+  },
+  "o": {
+   "uz": [
+    "xlorella",
+    "plaun",
+    "qarag'ay",
+    "atirgul"
+   ],
+   "ru": [
+    "хлорелла",
+    "плаун",
+    "сосна",
+    "роза"
+   ],
+   "en": [
+    "chlorella",
+    "club moss",
+    "pine",
+    "rose"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«atirgul» — bu:",
+   "ru": "«роза» — это:",
+   "en": "«rose» is a:"
+  },
+  "o": {
+   "uz": [
+    "yopiq urug'lilar",
+    "paporotniksimonlar va ularga yaqinlar",
+    "suv o'tlari",
+    "ochiq urug'lilar"
+   ],
+   "ru": [
+    "покрытосеменные",
+    "папоротникообразные",
+    "водоросли",
+    "голосеменные"
+   ],
+   "en": [
+    "angiosperms",
+    "ferns and allies",
+    "algae",
+    "gymnosperms"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: «Tib qonunlari» asarini yozgan?",
+   "ru": "Кому принадлежит открытие: Написал «Канон врачебной науки»?",
+   "en": "Who is responsible for: Wrote «The Canon of Medicine»?"
+  },
+  "o": {
+   "uz": [
+    "Ibn Sino",
+    "Robert Guk",
+    "Karl Linney",
+    "Charlz Darvin"
+   ],
+   "ru": [
+    "Ибн Сина",
+    "Роберт Гук",
+    "Карл Линней",
+    "Чарльз Дарвин"
+   ],
+   "en": [
+    "Ibn Sina",
+    "Robert Hooke",
+    "Carl Linnaeus",
+    "Charles Darwin"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sudralib yuruvchi?",
+   "ru": "Какое из этих животных — пресмыкающееся?",
+   "en": "Which of these is a reptile?"
+  },
+  "o": {
+   "uz": [
+    "ilon",
+    "delfin",
+    "kapalak",
+    "chivin"
+   ],
+   "ru": [
+    "змея",
+    "дельфин",
+    "бабочка",
+    "комар"
+   ],
+   "en": [
+    "snake",
+    "dolphin",
+    "butterfly",
+    "mosquito"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Achitqi qaysi guruh organizmiga kiradi?",
+   "ru": "К какой группе организмов относятся дрожжи?",
+   "en": "Which group do yeasts belong to?"
+  },
+  "o": {
+   "uz": [
+    "Zamburug'lar",
+    "Bakteriyalar",
+    "O'simliklar",
+    "Hayvonlar"
+   ],
+   "ru": [
+    "Грибы",
+    "Бактерии",
+    "Растения",
+    "Животные"
+   ],
+   "en": [
+    "Fungi",
+    "Bacteria",
+    "Plants",
+    "Animals"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hujayrada «Mitoxondriya» qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет в клетке «Митохондрия»?",
+   "en": "What does the «Mitochondrion» do in the cell?"
+  },
+  "o": {
+   "uz": [
+    "Hujayra uchun energiya (ATF) hosil qiladi",
+    "Oqsil sintezi o'tadi",
+    "Irsiy axborot (DNK) saqlanadi",
+    "Moddalarning hujayraga kirishi va chiqishini boshqaradi"
+   ],
+   "ru": [
+    "Образует энергию (АТФ) для клетки",
+    "Здесь синтезируются белки",
+    "Хранит наследственную информацию (ДНК)",
+    "Регулирует вход и выход веществ"
+   ],
+   "en": [
+    "Produces energy (ATP) for the cell",
+    "Protein synthesis occurs here",
+    "Stores hereditary information (DNA)",
+    "Controls what enters and leaves the cell"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Noyob va yo'qolib borayotgan turlar ro'yxati qanday kitob?",
+   "ru": "Как называется книга, где перечислены редкие и исчезающие виды?",
+   "en": "What is the book listing rare and endangered species called?"
+  },
+  "o": {
+   "uz": [
+    "Qizil kitob",
+    "Yashil kitob",
+    "Sariq kitob",
+    "Ko'k kitob"
+   ],
+   "ru": [
+    "Красная книга",
+    "Зелёная книга",
+    "Жёлтая книга",
+    "Синяя книга"
+   ],
+   "en": [
+    "The Red Book",
+    "The Green Book",
+    "The Yellow Book",
+    "The Blue Book"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani qaysi qism bajaradi: Tuproqdan suv va mineral tuzlarni so'rib oladi?",
+   "ru": "Какая часть растения выполняет функцию: Всасывает из почвы воду и минеральные соли?",
+   "en": "Which part does this: Absorbs water and minerals from the soil?"
+  },
+  "o": {
+   "uz": [
+    "Ildiz",
+    "Meva",
+    "Barg",
+    "Urug'"
+   ],
+   "ru": [
+    "Корень",
+    "Плод",
+    "Лист",
+    "Семя"
+   ],
+   "en": [
+    "Root",
+    "Fruit",
+    "Leaf",
+    "Seed"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«delfin» — bu:",
+   "ru": "«дельфин» — это:",
+   "en": "«dolphin» is a:"
+  },
+  "o": {
+   "uz": [
+    "sut emizuvchilar",
+    "sudralib yuruvchilar",
+    "qushlar",
+    "hasharotlar"
+   ],
+   "ru": [
+    "млекопитающие",
+    "пресмыкающиеся",
+    "птицы",
+    "насекомые"
+   ],
+   "en": [
+    "mammals",
+    "reptiles",
+    "birds",
+    "insects"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hujayrada «Xloroplast» qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет в клетке «Хлоропласт»?",
+   "en": "What does the «Chloroplast» do in the cell?"
+  },
+  "o": {
+   "uz": [
+    "Fotosintez o'tadigan organoid",
+    "Hujayra uchun energiya (ATF) hosil qiladi",
+    "O'simlik hujayrasiga shakl beradi va mustahkamlaydi",
+    "Oqsil sintezi o'tadi"
+   ],
+   "ru": [
+    "Органоид, в котором идёт фотосинтез",
+    "Образует энергию (АТФ) для клетки",
+    "Придаёт форму и прочность растительной клетке",
+    "Здесь синтезируются белки"
+   ],
+   "en": [
+    "The organelle where photosynthesis occurs",
+    "Produces energy (ATP) for the cell",
+    "Gives shape and strength to a plant cell",
+    "Protein synthesis occurs here"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Poya qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Стебель?",
+   "en": "What is the function of Stem?"
+  },
+  "o": {
+   "uz": [
+    "Moddalarni tashiydi va bargni ko'tarib turadi",
+    "Tuproqdan suv va mineral tuzlarni so'rib oladi",
+    "Urug'lanish va meva hosil qilish organi",
+    "Undan yangi o'simlik o'sib chiqadi"
+   ],
+   "ru": [
+    "Проводит вещества и поддерживает листья",
+    "Всасывает из почвы воду и минеральные соли",
+    "Орган размножения: опыление и образование плода",
+    "Из него вырастает новое растение"
+   ],
+   "en": [
+    "Transports substances and supports the leaves",
+    "Absorbs water and minerals from the soil",
+    "The reproductive organ of the plant",
+    "A new plant grows from it"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Barglarning yashil rangi qaysi modda tufayli?",
+   "ru": "Благодаря какому веществу листья зелёные?",
+   "en": "Which substance makes leaves green?"
+  },
+  "o": {
+   "uz": [
+    "Xlorofill",
+    "Gemoglobin",
+    "Insulin",
+    "Melanin"
+   ],
+   "ru": [
+    "Хлорофилл",
+    "Гемоглобин",
+    "Инсулин",
+    "Меланин"
+   ],
+   "en": [
+    "Chlorophyll",
+    "Haemoglobin",
+    "Insulin",
+    "Melanin"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "K vitamini organizm uchun nima uchun kerak?",
+   "ru": "Для чего нужен Витамин K?",
+   "en": "What is Vitamin K needed for?"
+  },
+  "o": {
+   "uz": [
+    "Qon ivishi uchun zarur",
+    "Ko'rish uchun muhim",
+    "Singa kasalligidan saqlaydi",
+    "Suyaklarning mustahkamligi uchun kerak (raxitdan saqlaydi)"
+   ],
+   "ru": [
+    "Необходим для свёртывания крови",
+    "Важен для зрения",
+    "Предохраняет от цинги",
+    "Нужен для прочности костей (предотвращает рахит)"
+   ],
+   "en": [
+    "Needed for blood clotting",
+    "Important for vision",
+    "Prevents scurvy",
+    "Needed for strong bones (prevents rickets)"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«echkemar» — bu:",
+   "ru": "«агама» — это:",
+   "en": "«agama lizard» is a:"
+  },
+  "o": {
+   "uz": [
+    "sudralib yuruvchilar",
+    "qushlar",
+    "hasharotlar",
+    "o'rgimchaksimonlar"
+   ],
+   "ru": [
+    "пресмыкающиеся",
+    "птицы",
+    "насекомые",
+    "паукообразные"
+   ],
+   "en": [
+    "reptiles",
+    "birds",
+    "insects",
+    "arachnids"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: Penitsillinni kashf etgan?",
+   "ru": "Кому принадлежит открытие: Открыл пенициллин?",
+   "en": "Who is responsible for: Discovered penicillin?"
+  },
+  "o": {
+   "uz": [
+    "Aleksandr Fleming",
+    "Charlz Darvin",
+    "Ibn Sino",
+    "Ivan Pavlov"
+   ],
+   "ru": [
+    "Александр Флеминг",
+    "Чарльз Дарвин",
+    "Ибн Сина",
+    "Иван Павлов"
+   ],
+   "en": [
+    "Alexander Fleming",
+    "Charles Darwin",
+    "Ibn Sina",
+    "Ivan Pavlov"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sut emizuvchi hayvon?",
+   "ru": "Какое из этих животных — млекопитающее?",
+   "en": "Which of these is a mammal?"
+  },
+  "o": {
+   "uz": [
+    "kit",
+    "kana",
+    "chumoli",
+    "asalari"
+   ],
+   "ru": [
+    "кит",
+    "клещ",
+    "муравей",
+    "пчела"
+   ],
+   "en": [
+    "whale",
+    "tick",
+    "ant",
+    "honeybee"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri hasharot?",
+   "ru": "Какое из этих животных — насекомое?",
+   "en": "Which of these is an insect?"
+  },
+  "o": {
+   "uz": [
+    "qo'ng'iz",
+    "sher",
+    "laylak",
+    "bo'ri"
+   ],
+   "ru": [
+    "жук",
+    "лев",
+    "аист",
+    "волк"
+   ],
+   "en": [
+    "beetle",
+    "lion",
+    "stork",
+    "wolf"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: Shartli reflekslar ta'limotini yaratgan?",
+   "ru": "Кому принадлежит открытие: Создал учение об условных рефлексах?",
+   "en": "Who is responsible for: Created the theory of conditioned reflexes?"
+  },
+  "o": {
+   "uz": [
+    "Ivan Pavlov",
+    "Ibn Sino",
+    "Lui Paster",
+    "Charlz Darvin"
+   ],
+   "ru": [
+    "Иван Павлов",
+    "Ибн Сина",
+    "Луи Пастер",
+    "Чарльз Дарвин"
+   ],
+   "en": [
+    "Ivan Pavlov",
+    "Ibn Sina",
+    "Louis Pasteur",
+    "Charles Darwin"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: Quturishga qarshi vaksina yaratgan, mikroblar tadqiqotchisi?",
+   "ru": "Кому принадлежит открытие: Создал вакцину против бешенства, исследователь микробов?",
+   "en": "Who is responsible for: Developed the rabies vaccine and studied microbes?"
+  },
+  "o": {
+   "uz": [
+    "Lui Paster",
+    "Aleksandr Fleming",
+    "Ivan Pavlov",
+    "Robert Guk"
+   ],
+   "ru": [
+    "Луи Пастер",
+    "Александр Флеминг",
+    "Иван Павлов",
+    "Роберт Гук"
+   ],
+   "en": [
+    "Louis Pasteur",
+    "Alexander Fleming",
+    "Ivan Pavlov",
+    "Robert Hooke"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Lui Paster qanday kashfiyot yoki ishi bilan mashhur?",
+   "ru": "Чем известен(на) Луи Пастер?",
+   "en": "What is Louis Pasteur known for?"
+  },
+  "o": {
+   "uz": [
+    "Quturishga qarshi vaksina yaratgan, mikroblar tadqiqotchisi",
+    "Tabiiy tanlanish orqali evolyutsiya nazariyasini yaratgan",
+    "«Tib qonunlari» asarini yozgan",
+    "O'simlik va hayvonlarni ikki nomli (binar) nomlash tizimini kiritgan"
+   ],
+   "ru": [
+    "Создал вакцину против бешенства, исследователь микробов",
+    "Создал теорию эволюции путём естественного отбора",
+    "Написал «Канон врачебной науки»",
+    "Ввёл бинарную номенклатуру растений и животных"
+   ],
+   "en": [
+    "Developed the rabies vaccine and studied microbes",
+    "Created the theory of evolution by natural selection",
+    "Wrote «The Canon of Medicine»",
+    "Introduced binomial naming of plants and animals"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani hujayraning qaysi qismi bajaradi: Fotosintez o'tadigan organoid?",
+   "ru": "Какая часть клетки выполняет функцию: Органоид, в котором идёт фотосинтез?",
+   "en": "Which part of the cell does this: The organelle where photosynthesis occurs?"
+  },
+  "o": {
+   "uz": [
+    "Xloroplast",
+    "Ribosoma",
+    "Hujayra devori",
+    "Yadro"
+   ],
+   "ru": [
+    "Хлоропласт",
+    "Рибосома",
+    "Клеточная стенка",
+    "Ядро клетки"
+   ],
+   "en": [
+    "Chloroplast",
+    "Ribosome",
+    "Cell wall",
+    "Nucleus"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«losos» — bu:",
+   "ru": "«лосось» — это:",
+   "en": "«salmon» is a:"
+  },
+  "o": {
+   "uz": [
+    "baliqlar",
+    "sut emizuvchilar",
+    "amfibiyalar (ikki yashovchilar)",
+    "o'rgimchaksimonlar"
+   ],
+   "ru": [
+    "рыбы",
+    "млекопитающие",
+    "земноводные",
+    "паукообразные"
+   ],
+   "en": [
+    "fish",
+    "mammals",
+    "amphibians",
+    "arachnids"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "O'simlik hujayrasida bo'lib, hayvon hujayrasida bo'lmaydigan organoid qaysi?",
+   "ru": "Какой органоид есть в растительной клетке, но нет в животной?",
+   "en": "Which organelle is found in plant cells but not in animal cells?"
+  },
+  "o": {
+   "uz": [
+    "Xloroplast",
+    "Yadro",
+    "Mitoxondriya",
+    "Ribosoma"
+   ],
+   "ru": [
+    "Хлоропласт",
+    "Ядро",
+    "Митохондрия",
+    "Рибосома"
+   ],
+   "en": [
+    "Chloroplast",
+    "Nucleus",
+    "Mitochondrion",
+    "Ribosome"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ekologik tizimda organik modda hosil qiluvchilar qaysilar?",
+   "ru": "Кто создаёт органическое вещество в экосистеме?",
+   "en": "Which organisms produce organic matter in an ecosystem?"
+  },
+  "o": {
+   "uz": [
+    "Produsentlar (o'simliklar)",
+    "Konsumentlar",
+    "Redutsentlar",
+    "Parazitlar"
+   ],
+   "ru": [
+    "Продуценты (растения)",
+    "Консументы",
+    "Редуценты",
+    "Паразиты"
+   ],
+   "en": [
+    "Producers (plants)",
+    "Consumers",
+    "Decomposers",
+    "Parasites"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "D vitamini organizm uchun nima uchun kerak?",
+   "ru": "Для чего нужен Витамин D?",
+   "en": "What is Vitamin D needed for?"
+  },
+  "o": {
+   "uz": [
+    "Suyaklarning mustahkamligi uchun kerak (raxitdan saqlaydi)",
+    "Singa kasalligidan saqlaydi",
+    "Qon ivishi uchun zarur",
+    "Ko'rish uchun muhim"
+   ],
+   "ru": [
+    "Нужен для прочности костей (предотвращает рахит)",
+    "Предохраняет от цинги",
+    "Необходим для свёртывания крови",
+    "Важен для зрения"
+   ],
+   "en": [
+    "Needed for strong bones (prevents rickets)",
+    "Prevents scurvy",
+    "Needed for blood clotting",
+    "Important for vision"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«kapalak» — bu:",
+   "ru": "«бабочка» — это:",
+   "en": "«butterfly» is a:"
+  },
+  "o": {
+   "uz": [
+    "hasharotlar",
+    "qushlar",
+    "amfibiyalar (ikki yashovchilar)",
+    "baliqlar"
+   ],
+   "ru": [
+    "насекомые",
+    "птицы",
+    "земноводные",
+    "рыбы"
+   ],
+   "en": [
+    "insects",
+    "birds",
+    "amphibians",
+    "fish"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani hujayraning qaysi qismi bajaradi: Irsiy axborot (DNK) saqlanadi?",
+   "ru": "Какая часть клетки выполняет функцию: Хранит наследственную информацию (ДНК)?",
+   "en": "Which part of the cell does this: Stores hereditary information (DNA)?"
+  },
+  "o": {
+   "uz": [
+    "Yadro",
+    "Mitoxondriya",
+    "Hujayra membranasi",
+    "Ribosoma"
+   ],
+   "ru": [
+    "Ядро клетки",
+    "Митохондрия",
+    "Клеточная мембрана",
+    "Рибосома"
+   ],
+   "en": [
+    "Nucleus",
+    "Mitochondrion",
+    "Cell membrane",
+    "Ribosome"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yopiq urug'li o'simlik?",
+   "ru": "Что из этого — покрытосеменное растение?",
+   "en": "Which of these is an angiosperm?"
+  },
+  "o": {
+   "uz": [
+    "atirgul",
+    "plaun",
+    "kedr",
+    "ginkgo"
+   ],
+   "ru": [
+    "роза",
+    "плаун",
+    "кедр",
+    "гинкго"
+   ],
+   "en": [
+    "rose",
+    "club moss",
+    "cedar",
+    "ginkgo"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ginkgo» — bu:",
+   "ru": "«гинкго» — это:",
+   "en": "«ginkgo» is a:"
+  },
+  "o": {
+   "uz": [
+    "ochiq urug'lilar",
+    "paporotniksimonlar va ularga yaqinlar",
+    "moxlar",
+    "yopiq urug'lilar"
+   ],
+   "ru": [
+    "голосеменные",
+    "папоротникообразные",
+    "мхи",
+    "покрытосеменные"
+   ],
+   "en": [
+    "gymnosperms",
+    "ferns and allies",
+    "mosses",
+    "angiosperms"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri hasharot?",
+   "ru": "Какое из этих животных — насекомое?",
+   "en": "Which of these is an insect?"
+  },
+  "o": {
+   "uz": [
+    "chivin",
+    "salamandra",
+    "burgut",
+    "tuyaqush"
+   ],
+   "ru": [
+    "комар",
+    "саламандра",
+    "орёл",
+    "страус"
+   ],
+   "en": [
+    "mosquito",
+    "salamander",
+    "eagle",
+    "ostrich"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri ochiq urug'li o'simlik?",
+   "ru": "Что из этого — голосеменное растение?",
+   "en": "Which of these is a gymnosperm?"
+  },
+  "o": {
+   "uz": [
+    "archa",
+    "spirogira",
+    "paxta",
+    "bug'doy"
+   ],
+   "ru": [
+    "ель",
+    "спирогира",
+    "хлопчатник",
+    "пшеница"
+   ],
+   "en": [
+    "spruce",
+    "spirogyra",
+    "cotton",
+    "wheat"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Oshqozon qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Желудок?",
+   "en": "What is the function of Stomach?"
+  },
+  "o": {
+   "uz": [
+    "Ovqatni kimyoviy hazm qiladi (oshqozon shirasi)",
+    "Qonni filtrlab, siydik hosil qiladi",
+    "Gaz almashinuvi (nafas olish) o'tadi",
+    "Harakat qilishni ta'minlaydi"
+   ],
+   "ru": [
+    "Переваривает пищу желудочным соком",
+    "Фильтруют кровь, образуют мочу",
+    "В них происходит газообмен",
+    "Обеспечивают движение"
+   ],
+   "en": [
+    "Digests food with gastric juice",
+    "Filter blood and form urine",
+    "Gas exchange takes place here",
+    "Make movement possible"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: Tabiiy tanlanish orqali evolyutsiya nazariyasini yaratgan?",
+   "ru": "Кому принадлежит открытие: Создал теорию эволюции путём естественного отбора?",
+   "en": "Who is responsible for: Created the theory of evolution by natural selection?"
+  },
+  "o": {
+   "uz": [
+    "Charlz Darvin",
+    "Aleksandr Fleming",
+    "Robert Guk",
+    "Ivan Pavlov"
+   ],
+   "ru": [
+    "Чарльз Дарвин",
+    "Александр Флеминг",
+    "Роберт Гук",
+    "Иван Павлов"
+   ],
+   "en": [
+    "Charles Darwin",
+    "Alexander Fleming",
+    "Robert Hooke",
+    "Ivan Pavlov"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Qonni filtrlab, siydik hosil qiladi?",
+   "ru": "Какому органу соответствует функция: Фильтруют кровь, образуют мочу?",
+   "en": "Which organ does this: Filter blood and form urine?"
+  },
+  "o": {
+   "uz": [
+    "Buyrak",
+    "Jigar",
+    "Ingichka ichak",
+    "Yo'g'on ichak"
+   ],
+   "ru": [
+    "Почки",
+    "Печень",
+    "Тонкая кишка",
+    "Толстая кишка"
+   ],
+   "en": [
+    "Kidneys",
+    "Liver",
+    "Small intestine",
+    "Large intestine"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri yopiq urug'li o'simlik?",
+   "ru": "Что из этого — покрытосеменное растение?",
+   "en": "Which of these is an angiosperm?"
+  },
+  "o": {
+   "uz": [
+    "paxta",
+    "ginkgo",
+    "kukushkin zig'iri",
+    "archa"
+   ],
+   "ru": [
+    "хлопчатник",
+    "гинкго",
+    "кукушкин лён",
+    "ель"
+   ],
+   "en": [
+    "cotton",
+    "ginkgo",
+    "haircap moss",
+    "spruce"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«ot» — bu:",
+   "ru": "«лошадь» — это:",
+   "en": "«horse» is a:"
+  },
+  "o": {
+   "uz": [
+    "sut emizuvchilar",
+    "qushlar",
+    "baliqlar",
+    "sudralib yuruvchilar"
+   ],
+   "ru": [
+    "млекопитающие",
+    "птицы",
+    "рыбы",
+    "пресмыкающиеся"
+   ],
+   "en": [
+    "mammals",
+    "birds",
+    "fish",
+    "reptiles"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Charlz Darvin qanday kashfiyot yoki ishi bilan mashhur?",
+   "ru": "Чем известен(на) Чарльз Дарвин?",
+   "en": "What is Charles Darwin known for?"
+  },
+  "o": {
+   "uz": [
+    "Tabiiy tanlanish orqali evolyutsiya nazariyasini yaratgan",
+    "Quturishga qarshi vaksina yaratgan, mikroblar tadqiqotchisi",
+    "«Tib qonunlari» asarini yozgan",
+    "Hujayrani birinchi bo'lib kuzatgan (1665)"
+   ],
+   "ru": [
+    "Создал теорию эволюции путём естественного отбора",
+    "Создал вакцину против бешенства, исследователь микробов",
+    "Написал «Канон врачебной науки»",
+    "Первым увидел клетку (1665)"
+   ],
+   "en": [
+    "Created the theory of evolution by natural selection",
+    "Developed the rabies vaccine and studied microbes",
+    "Wrote «The Canon of Medicine»",
+    "First observed cells (1665)"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: O'simlik va hayvonlarni ikki nomli (binar) nomlash tizimini kiritgan?",
+   "ru": "Кому принадлежит открытие: Ввёл бинарную номенклатуру растений и животных?",
+   "en": "Who is responsible for: Introduced binomial naming of plants and animals?"
+  },
+  "o": {
+   "uz": [
+    "Karl Linney",
+    "Charlz Darvin",
+    "Ibn Sino",
+    "Ivan Pavlov"
+   ],
+   "ru": [
+    "Карл Линней",
+    "Чарльз Дарвин",
+    "Ибн Сина",
+    "Иван Павлов"
+   ],
+   "en": [
+    "Carl Linnaeus",
+    "Charles Darwin",
+    "Ibn Sina",
+    "Ivan Pavlov"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani hujayraning qaysi qismi bajaradi: Oqsil sintezi o'tadi?",
+   "ru": "Какая часть клетки выполняет функцию: Здесь синтезируются белки?",
+   "en": "Which part of the cell does this: Protein synthesis occurs here?"
+  },
+  "o": {
+   "uz": [
+    "Ribosoma",
+    "Hujayra devori",
+    "Hujayra membranasi",
+    "Mitoxondriya"
+   ],
+   "ru": [
+    "Рибосома",
+    "Клеточная стенка",
+    "Клеточная мембрана",
+    "Митохондрия"
+   ],
+   "en": [
+    "Ribosome",
+    "Cell wall",
+    "Cell membrane",
+    "Mitochondrion"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Ingichka ichak qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Тонкая кишка?",
+   "en": "What is the function of Small intestine?"
+  },
+  "o": {
+   "uz": [
+    "Oziq moddalar qonga so'riladi",
+    "Qonni filtrlab, siydik hosil qiladi",
+    "Asab tizimining markazi, tananing faoliyatini boshqaradi",
+    "Suv so'riladi va najas shakllanadi"
+   ],
+   "ru": [
+    "Питательные вещества всасываются в кровь",
+    "Фильтруют кровь, образуют мочу",
+    "Центр нервной системы, управляет работой тела",
+    "Всасывается вода и формируется кал"
+   ],
+   "en": [
+    "Nutrients are absorbed into the blood",
+    "Filter blood and form urine",
+    "The centre of the nervous system that controls the body",
+    "Water is absorbed and waste forms"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Fotosintez jarayonida o'simlik qaysi gazni yutadi?",
+   "ru": "Какой газ поглощает растение при фотосинтезе?",
+   "en": "Which gas do plants absorb in photosynthesis?"
+  },
+  "o": {
+   "uz": [
+    "Karbonat angidrid",
+    "Kislorod",
+    "Azot",
+    "Vodorod"
+   ],
+   "ru": [
+    "Углекислый газ",
+    "Кислород",
+    "Азот",
+    "Водород"
+   ],
+   "en": [
+    "Carbon dioxide",
+    "Oxygen",
+    "Nitrogen",
+    "Hydrogen"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«laylak» — bu:",
+   "ru": "«аист» — это:",
+   "en": "«stork» is a:"
+  },
+  "o": {
+   "uz": [
+    "qushlar",
+    "sudralib yuruvchilar",
+    "baliqlar",
+    "hasharotlar"
+   ],
+   "ru": [
+    "птицы",
+    "пресмыкающиеся",
+    "рыбы",
+    "насекомые"
+   ],
+   "en": [
+    "birds",
+    "reptiles",
+    "fish",
+    "insects"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani qaysi qism bajaradi: Moddalarni tashiydi va bargni ko'tarib turadi?",
+   "ru": "Какая часть растения выполняет функцию: Проводит вещества и поддерживает листья?",
+   "en": "Which part does this: Transports substances and supports the leaves?"
+  },
+  "o": {
+   "uz": [
+    "Poya",
+    "Barg",
+    "Urug'",
+    "Meva"
+   ],
+   "ru": [
+    "Стебель",
+    "Лист",
+    "Семя",
+    "Плод"
+   ],
+   "en": [
+    "Stem",
+    "Leaf",
+    "Seed",
+    "Fruit"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Hujayrada «Ribosoma» qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет в клетке «Рибосома»?",
+   "en": "What does the «Ribosome» do in the cell?"
+  },
+  "o": {
+   "uz": [
+    "Oqsil sintezi o'tadi",
+    "Moddalarning hujayraga kirishi va chiqishini boshqaradi",
+    "O'simlik hujayrasiga shakl beradi va mustahkamlaydi",
+    "Fotosintez o'tadigan organoid"
+   ],
+   "ru": [
+    "Здесь синтезируются белки",
+    "Регулирует вход и выход веществ",
+    "Придаёт форму и прочность растительной клетке",
+    "Органоид, в котором идёт фотосинтез"
+   ],
+   "en": [
+    "Protein synthesis occurs here",
+    "Controls what enters and leaves the cell",
+    "Gives shape and strength to a plant cell",
+    "The organelle where photosynthesis occurs"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi kashfiyot kimga tegishli: Hujayrani birinchi bo'lib kuzatgan (1665)?",
+   "ru": "Кому принадлежит открытие: Первым увидел клетку (1665)?",
+   "en": "Who is responsible for: First observed cells (1665)?"
+  },
+  "o": {
+   "uz": [
+    "Robert Guk",
+    "Karl Linney",
+    "Aleksandr Fleming",
+    "Ibn Sino"
+   ],
+   "ru": [
+    "Роберт Гук",
+    "Карл Линней",
+    "Александр Флеминг",
+    "Ибн Сина"
+   ],
+   "en": [
+    "Robert Hooke",
+    "Carl Linnaeus",
+    "Alexander Fleming",
+    "Ibn Sina"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«boyqush» — bu:",
+   "ru": "«сова» — это:",
+   "en": "«owl» is a:"
+  },
+  "o": {
+   "uz": [
+    "qushlar",
+    "sudralib yuruvchilar",
+    "hasharotlar",
+    "sut emizuvchilar"
+   ],
+   "ru": [
+    "птицы",
+    "пресмыкающиеся",
+    "насекомые",
+    "млекопитающие"
+   ],
+   "en": [
+    "birds",
+    "reptiles",
+    "insects",
+    "mammals"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifani qaysi qism bajaradi: Undan yangi o'simlik o'sib chiqadi?",
+   "ru": "Какая часть растения выполняет функцию: Из него вырастает новое растение?",
+   "en": "Which part does this: A new plant grows from it?"
+  },
+  "o": {
+   "uz": [
+    "Urug'",
+    "Meva",
+    "Poya",
+    "Barg"
+   ],
+   "ru": [
+    "Семя",
+    "Плод",
+    "Стебель",
+    "Лист"
+   ],
+   "en": [
+    "Seed",
+    "Fruit",
+    "Stem",
+    "Leaf"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Asab tizimining markazi, tananing faoliyatini boshqaradi?",
+   "ru": "Какому органу соответствует функция: Центр нервной системы, управляет работой тела?",
+   "en": "Which organ does this: The centre of the nervous system that controls the body?"
+  },
+  "o": {
+   "uz": [
+    "Miya",
+    "Oshqozon",
+    "Teri",
+    "Suyaklar"
+   ],
+   "ru": [
+    "Мозг",
+    "Желудок",
+    "Кожа",
+    "Кости"
+   ],
+   "en": [
+    "Brain",
+    "Stomach",
+    "Skin",
+    "Bones"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Penitsillin qaysi organizmdan olinadi?",
+   "ru": "Из какого организма получают пенициллин?",
+   "en": "From which organism is penicillin obtained?"
+  },
+  "o": {
+   "uz": [
+    "Zamburug' (Penicillium)",
+    "Bakteriya",
+    "Suv o'ti",
+    "Virus"
+   ],
+   "ru": [
+    "Гриб (пеницилл)",
+    "Бактерия",
+    "Водоросль",
+    "Вирус"
+   ],
+   "en": [
+    "A fungus (Penicillium)",
+    "A bacterium",
+    "An alga",
+    "A virus"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri o'rgimchaksimon?",
+   "ru": "Какое из этих животных — паукообразное?",
+   "en": "Which of these is an arachnid?"
+  },
+  "o": {
+   "uz": [
+    "kana",
+    "kaltakesak",
+    "tuyaqush",
+    "treska"
+   ],
+   "ru": [
+    "клещ",
+    "ящерица",
+    "страус",
+    "треска"
+   ],
+   "en": [
+    "tick",
+    "lizard",
+    "ostrich",
+    "cod"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Robert Guk qanday kashfiyot yoki ishi bilan mashhur?",
+   "ru": "Чем известен(на) Роберт Гук?",
+   "en": "What is Robert Hooke known for?"
+  },
+  "o": {
+   "uz": [
+    "Hujayrani birinchi bo'lib kuzatgan (1665)",
+    "Quturishga qarshi vaksina yaratgan, mikroblar tadqiqotchisi",
+    "«Tib qonunlari» asarini yozgan",
+    "Shartli reflekslar ta'limotini yaratgan"
+   ],
+   "ru": [
+    "Первым увидел клетку (1665)",
+    "Создал вакцину против бешенства, исследователь микробов",
+    "Написал «Канон врачебной науки»",
+    "Создал учение об условных рефлексах"
+   ],
+   "en": [
+    "First observed cells (1665)",
+    "Developed the rabies vaccine and studied microbes",
+    "Wrote «The Canon of Medicine»",
+    "Created the theory of conditioned reflexes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«kukushkin zig'iri» — bu:",
+   "ru": "«кукушкин лён» — это:",
+   "en": "«haircap moss» is a:"
+  },
+  "o": {
+   "uz": [
+    "moxlar",
+    "yopiq urug'lilar",
+    "ochiq urug'lilar",
+    "paporotniksimonlar va ularga yaqinlar"
+   ],
+   "ru": [
+    "мхи",
+    "покрытосеменные",
+    "голосеменные",
+    "папоротникообразные"
+   ],
+   "en": [
+    "mosses",
+    "angiosperms",
+    "gymnosperms",
+    "ferns and allies"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Insulin va hazm shirasini ishlab chiqaradi?",
+   "ru": "Какому органу соответствует функция: Вырабатывает инсулин и пищеварительный сок?",
+   "en": "Which organ does this: Produces insulin and digestive juice?"
+  },
+  "o": {
+   "uz": [
+    "Me'da osti bezi",
+    "Teri",
+    "Yo'g'on ichak",
+    "Yurak"
+   ],
+   "ru": [
+    "Поджелудочная железа",
+    "Кожа",
+    "Толстая кишка",
+    "Сердце"
+   ],
+   "en": [
+    "Pancreas",
+    "Skin",
+    "Large intestine",
+    "Heart"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Odamning voyaga yetgan skeletida nechta suyak bor (taxminan)?",
+   "ru": "Сколько костей в скелете взрослого человека (примерно)?",
+   "en": "About how many bones are in an adult human skeleton?"
+  },
+  "o": {
+   "uz": [
+    "206",
+    "106",
+    "306",
+    "156"
+   ],
+   "ru": [
+    "206",
+    "106",
+    "306",
+    "156"
+   ],
+   "en": [
+    "206",
+    "106",
+    "306",
+    "156"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagi vazifa qaysi a'zoga tegishli: Suv so'riladi va najas shakllanadi?",
+   "ru": "Какому органу соответствует функция: Всасывается вода и формируется кал?",
+   "en": "Which organ does this: Water is absorbed and waste forms?"
+  },
+  "o": {
+   "uz": [
+    "Yo'g'on ichak",
+    "Yurak",
+    "Ingichka ichak",
+    "Buyrak"
+   ],
+   "ru": [
+    "Толстая кишка",
+    "Сердце",
+    "Тонкая кишка",
+    "Почки"
+   ],
+   "en": [
+    "Large intestine",
+    "Heart",
+    "Small intestine",
+    "Kidneys"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Sut emizuvchilarning asosiy belgisi nima?",
+   "ru": "Каков главный признак млекопитающих?",
+   "en": "What is the main feature of mammals?"
+  },
+  "o": {
+   "uz": [
+    "Bolalarini sut bilan boqadi",
+    "Tuxum qo'yadi",
+    "Tanasi pat bilan qoplangan",
+    "Jabra bilan nafas oladi"
+   ],
+   "ru": [
+    "Выкармливают детёнышей молоком",
+    "Откладывают яйца",
+    "Тело покрыто перьями",
+    "Дышат жабрами"
+   ],
+   "en": [
+    "They feed their young with milk",
+    "They lay eggs",
+    "Their body is covered with feathers",
+    "They breathe with gills"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«salamandra» — bu:",
+   "ru": "«саламандра» — это:",
+   "en": "«salamander» is a:"
+  },
+  "o": {
+   "uz": [
+    "amfibiyalar (ikki yashovchilar)",
+    "o'rgimchaksimonlar",
+    "qushlar",
+    "hasharotlar"
+   ],
+   "ru": [
+    "земноводные",
+    "паукообразные",
+    "птицы",
+    "насекомые"
+   ],
+   "en": [
+    "amphibians",
+    "arachnids",
+    "birds",
+    "insects"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Yurak qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Сердце?",
+   "en": "What is the function of Heart?"
+  },
+  "o": {
+   "uz": [
+    "Qonni tomirlar bo'ylab haydaydi",
+    "Suv so'riladi va najas shakllanadi",
+    "Insulin va hazm shirasini ishlab chiqaradi",
+    "Gaz almashinuvi (nafas olish) o'tadi"
+   ],
+   "ru": [
+    "Гонит кровь по сосудам",
+    "Всасывается вода и формируется кал",
+    "Вырабатывает инсулин и пищеварительный сок",
+    "В них происходит газообмен"
+   ],
+   "en": [
+    "Pumps blood through the vessels",
+    "Water is absorbed and waste forms",
+    "Produces insulin and digestive juice",
+    "Gas exchange takes place here"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri qush?",
+   "ru": "Какое из этих животных — птица?",
+   "en": "Which of these is a bird?"
+  },
+  "o": {
+   "uz": [
+    "burgut",
+    "chivin",
+    "cho'rtan",
+    "timsoh"
+   ],
+   "ru": [
+    "орёл",
+    "комар",
+    "щука",
+    "крокодил"
+   ],
+   "en": [
+    "eagle",
+    "mosquito",
+    "pike",
+    "crocodile"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri sut emizuvchi hayvon?",
+   "ru": "Какое из этих животных — млекопитающее?",
+   "en": "Which of these is a mammal?"
+  },
+  "o": {
+   "uz": [
+    "bo'ri",
+    "toshbaqa",
+    "qurbaqa",
+    "tritton"
+   ],
+   "ru": [
+    "волк",
+    "черепаха",
+    "жаба",
+    "тритон"
+   ],
+   "en": [
+    "wolf",
+    "turtle",
+    "toad",
+    "newt"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Jigar qanday vazifa bajaradi?",
+   "ru": "Какую функцию выполняет: Печень?",
+   "en": "What is the function of Liver?"
+  },
+  "o": {
+   "uz": [
+    "O't ishlab chiqaradi va zararli moddalarni zararsizlantiradi",
+    "Insulin va hazm shirasini ishlab chiqaradi",
+    "Asab tizimining markazi, tananing faoliyatini boshqaradi",
+    "Ovqatni kimyoviy hazm qiladi (oshqozon shirasi)"
+   ],
+   "ru": [
+    "Вырабатывает желчь и обезвреживает яды",
+    "Вырабатывает инсулин и пищеварительный сок",
+    "Центр нервной системы, управляет работой тела",
+    "Переваривает пищу желудочным соком"
+   ],
+   "en": [
+    "Produces bile and neutralises toxins",
+    "Produces insulin and digestive juice",
+    "The centre of the nervous system that controls the body",
+    "Digests food with gastric juice"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Karl Linney qanday kashfiyot yoki ishi bilan mashhur?",
+   "ru": "Чем известен(на) Карл Линней?",
+   "en": "What is Carl Linnaeus known for?"
+  },
+  "o": {
+   "uz": [
+    "O'simlik va hayvonlarni ikki nomli (binar) nomlash tizimini kiritgan",
+    "Tabiiy tanlanish orqali evolyutsiya nazariyasini yaratgan",
+    "Shartli reflekslar ta'limotini yaratgan",
+    "Quturishga qarshi vaksina yaratgan, mikroblar tadqiqotchisi"
+   ],
+   "ru": [
+    "Ввёл бинарную номенклатуру растений и животных",
+    "Создал теорию эволюции путём естественного отбора",
+    "Создал учение об условных рефлексах",
+    "Создал вакцину против бешенства, исследователь микробов"
+   ],
+   "en": [
+    "Introduced binomial naming of plants and animals",
+    "Created the theory of evolution by natural selection",
+    "Created the theory of conditioned reflexes",
+    "Developed the rabies vaccine and studied microbes"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Zamburug'lar oziqlanish usuliga ko'ra qanday organizmlar?",
+   "ru": "К каким по способу питания организмам относятся грибы?",
+   "en": "By nutrition, what kind of organisms are fungi?"
+  },
+  "o": {
+   "uz": [
+    "Geterotrof",
+    "Avtotrof",
+    "Fotosintezlovchi",
+    "Xemosintezlovchi"
+   ],
+   "ru": [
+    "Гетеротрофы",
+    "Автотрофы",
+    "Фотосинтезирующие",
+    "Хемосинтезирующие"
+   ],
+   "en": [
+    "Heterotrophs",
+    "Autotrophs",
+    "Photosynthesising",
+    "Chemosynthesising"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«sigir» — bu:",
+   "ru": "«корова» — это:",
+   "en": "«cow» is a:"
+  },
+  "o": {
+   "uz": [
+    "sut emizuvchilar",
+    "baliqlar",
+    "qushlar",
+    "amfibiyalar (ikki yashovchilar)"
+   ],
+   "ru": [
+    "млекопитающие",
+    "рыбы",
+    "птицы",
+    "земноводные"
+   ],
+   "en": [
+    "mammals",
+    "fish",
+    "birds",
+    "amphibians"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "C vitamini organizm uchun nima uchun kerak?",
+   "ru": "Для чего нужен Витамин C?",
+   "en": "What is Vitamin C needed for?"
+  },
+  "o": {
+   "uz": [
+    "Singa kasalligidan saqlaydi",
+    "Qon ivishi uchun zarur",
+    "Suyaklarning mustahkamligi uchun kerak (raxitdan saqlaydi)",
+    "Ko'rish uchun muhim"
+   ],
+   "ru": [
+    "Предохраняет от цинги",
+    "Необходим для свёртывания крови",
+    "Нужен для прочности костей (предотвращает рахит)",
+    "Важен для зрения"
+   ],
+   "en": [
+    "Prevents scurvy",
+    "Needed for blood clotting",
+    "Needed for strong bones (prevents rickets)",
+    "Important for vision"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«toshbaqa» — bu:",
+   "ru": "«черепаха» — это:",
+   "en": "«turtle» is a:"
+  },
+  "o": {
+   "uz": [
+    "sudralib yuruvchilar",
+    "hasharotlar",
+    "amfibiyalar (ikki yashovchilar)",
+    "o'rgimchaksimonlar"
+   ],
+   "ru": [
+    "пресмыкающиеся",
+    "насекомые",
+    "земноводные",
+    "паукообразные"
+   ],
+   "en": [
+    "reptiles",
+    "insects",
+    "amphibians",
+    "arachnids"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "Quyidagilardan qaysi biri baliq?",
+   "ru": "Какое из этих животных — рыба?",
+   "en": "Which of these is a fish?"
+  },
+  "o": {
+   "uz": [
+    "losos",
+    "toshbaqa",
+    "burgut",
+    "laylak"
+   ],
+   "ru": [
+    "лосось",
+    "черепаха",
+    "орёл",
+    "аист"
+   ],
+   "en": [
+    "salmon",
+    "turtle",
+    "eagle",
+    "stork"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«laminariya» — bu:",
+   "ru": "«ламинария» — это:",
+   "en": "«kelp» is a:"
+  },
+  "o": {
+   "uz": [
+    "suv o'tlari",
+    "ochiq urug'lilar",
+    "paporotniksimonlar va ularga yaqinlar",
+    "yopiq urug'lilar"
+   ],
+   "ru": [
+    "водоросли",
+    "голосеменные",
+    "папоротникообразные",
+    "покрытосеменные"
+   ],
+   "en": [
+    "algae",
+    "gymnosperms",
+    "ferns and allies",
+    "angiosperms"
+   ]
+  },
+  "a": 0
+ },
+ {
+  "q": {
+   "uz": "«o'rgimchak» — bu:",
+   "ru": "«паук» — это:",
+   "en": "«spider» is a:"
+  },
+  "o": {
+   "uz": [
+    "o'rgimchaksimonlar",
+    "hasharotlar",
+    "qushlar",
+    "amfibiyalar (ikki yashovchilar)"
+   ],
+   "ru": [
+    "паукообразные",
+    "насекомые",
+    "птицы",
+    "земноводные"
+   ],
+   "en": [
+    "arachnids",
+    "insects",
+    "birds",
+    "amphibians"
+   ]
+  },
+  "a": 0
+ }
+]
