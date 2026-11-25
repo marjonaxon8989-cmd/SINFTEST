@@ -106,7 +106,9 @@ QB: dict[tuple[int, str], list[dict]] = {}
 
 
 def load_questions() -> None:
-    for f in (BASE / "questions").glob("*.json"):
+    # questions/ ichidagi hamma papkalarni o'qiydi; chuqurroq joylashgan fayl ustun turadi
+    files = sorted((BASE / "questions").rglob("*.json"), key=lambda p: len(p.parts))
+    for f in files:
         if f.name.startswith("_"):
             continue
         try:
